@@ -2,7 +2,8 @@
 
 **Status:** P0 build. **Owner:** engineering. **Last updated:** 2026-08-26.
 
-The engine turns a *content spec* (one row of `engine/content-calendar.md`) into a
+The engine turns a *content spec* (a YAML file under `engine/posts/`, usually one
+row of whatever calendar you keep) into a
 human-review package: a LinkedIn post, a branded creative, and a complete audit trail
 proving the draft was independently criticised and revised before a human saw it.
 

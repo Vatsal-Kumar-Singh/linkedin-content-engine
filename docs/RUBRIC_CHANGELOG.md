@@ -33,7 +33,7 @@ no-hard-numbers check.
 
 ## 1.0.0 — 2026-08-26
 
-Initial machine-readable encoding of `engine/judge-rubric.md` as authored by Vatsal.
+Initial machine-readable encoding of the judge rubric (now `engine/prompts/judge.md`).
 
 **Encoded as-is:** gates A1–A6 · binary checks B1–B11 · scored criteria C1–C4 · the
 C3 auto-zero list · the C4 tick-mark-list anti-pattern · the C1 anchors.

@@ -71,7 +71,11 @@ benchmarks:
 
 # What the card footer prints. Was hard-coded in the renderer on the original
 # project, which meant a second company could not use it without editing Python.
-wordmark: "Meridian"          # rendered with the middle letter accented
+wordmark: "Meridian"
+# 0-based index of the character to set in the accent colour, or omit for none.
+# Pick a letter with enough weight to survive on a dark ground — a thin "i"
+# in accent blue on navy reads as a gap in the word.
+wordmark_accent: 0
 brandline: "Your pipelines tell you when they break"
 meta_label: "pipeline monitoring"
 

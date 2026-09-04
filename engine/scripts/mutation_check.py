@@ -77,6 +77,12 @@ MUTATIONS = [
 
 
 def main():
+    if "-h" in sys.argv or "--help" in sys.argv:
+        print(__doc__.strip())
+        print()
+        print("usage: python scripts/mutation_check.py")
+        print("       exits 1 if any mutation survives, so CI can gate on it")
+        return 0
     print("%-58s %s" % ("MUTATION", "RESULT"))
     print("-" * 78)
     survived, skipped = [], []

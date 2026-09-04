@@ -24,6 +24,16 @@ draft = Draft(hook="x", body="x",
     visual_concept="x")
 
 import sys as _s
+if "-h" in _s.argv or "--help" in _s.argv:
+    print("usage: python scripts/build_motion_demos.py [modes] [grounds]")
+    print("  modes:   sweep,draw,drift,both      (default: sweep,draw)")
+    print("  grounds: light,dark                 (default: light,dark)")
+    print()
+    print("drift and both rotate the whole gradient, so every pixel changes every")
+    print("frame and GIF cannot compress it — expect ~27 MB each. Install ffmpeg and")
+    print("the MP4 path takes over automatically.")
+    _s.exit(0)
+
 MODES = _s.argv[1].split(",") if len(_s.argv) > 1 else ["sweep", "draw"]
 GROUNDS = _s.argv[2].split(",") if len(_s.argv) > 2 else ["light", "dark"]
 

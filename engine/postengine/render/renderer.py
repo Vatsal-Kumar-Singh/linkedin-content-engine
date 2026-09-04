@@ -329,16 +329,23 @@ def _eyebrow_for(cfg: Config, draft, spec) -> str:
 
 
 def _wordmark_html(cfg) -> str:
-    """The wordmark, with one letter in the accent colour.
+    """The wordmark, optionally with one character in the accent colour.
 
-    It used to be hard-coded in three templates as literal markup, which meant a
-    different company could not use the design without editing HTML. Now it is a
-    slot: set `wordmark` in registry.yaml and every template follows.
+    `wordmark_accent` is a 0-based index into `wordmark`, or absent for no accent.
+    An earlier version picked the middle letter automatically; that put a thin
+    "i" in accent blue on a navy ground, where it read as a gap in the word.
+    Which character carries a brand's accent is a brand decision.
     """
     name = str(cfg.registry.get("wordmark") or "")
-    if len(name) < 3:
+    idx = cfg.registry.get("wordmark_accent")
+    if not name or idx is None:
         return name
-    i = len(name) // 2 - 1 if len(name) > 3 else 1
+    try:
+        i = int(idx)
+    except (TypeError, ValueError):
+        return name
+    if not 0 <= i < len(name):
+        return name
     return "%s<span>%s</span>%s" % (name[:i], name[i], name[i + 1:])
 
 
