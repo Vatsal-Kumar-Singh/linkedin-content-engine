@@ -1,0 +1,40 @@
+<!-- TEMPLATE 04 — EDITORIAL COVER. One massive headline as the object.
+     Asymmetric: type occupies the left two-thirds, cropped geometry the right.
+     Works as a carousel cover. -->
+<style>
+  .frame{padding:{{margin}}px;}
+{{> bandstyle}}
+  .tag{
+    display:inline-flex;align-self:flex-start;align-items:center;gap:13px;
+    font-family:var(--body);font-weight:500;font-size:25px;letter-spacing:.19em;
+    text-transform:uppercase;color:var(--muted);
+    border:1px solid var(--structure);border-radius:999px;padding:12px 26px;flex:none;
+  }
+  .tag i{width:8px;height:8px;border-radius:50%;background:var(--accent);}
+  .headline{
+    margin-top:auto;font-size:{{headline_size}}px;max-width:{{headline_measure}}ch;
+    line-height:.99;flex:none;
+  }
+  .sub{
+    margin-top:34px;font-family:var(--display);font-weight:300;font-size:40px;line-height:1.3;
+    color:var(--muted);max-width:26ch;flex:none;
+  }
+  .rule{margin-top:46px;width:150px;height:3px;background:var(--accent);flex:none;}
+  .counter{
+    position:absolute;right:{{margin}}px;top:{{margin}}px;
+    font-family:var(--body);font-weight:500;font-size:26px;letter-spacing:.14em;color:var(--muted);opacity:.7;
+  }
+</style>
+<div class="stage">
+  {{> wash}}
+  <div class="frame">
+    <div class="tag"><i></i>{{eyebrow}}</div>
+    <div class="counter">{{counter}}</div>
+    <h1 class="headline" data-fit data-max="{{headline_size}}" data-min="66">{{{headline_html}}}</h1>
+    {{#sub}}<p class="sub" data-fit data-max="40" data-min="30">{{{sub_html}}}</p>{{/sub}}
+    <div class="rule"></div>
+    <div class="spacer"></div>
+    {{> band}}
+    <div class="corner corner--tr"></div><div class="corner corner--bl"></div>
+  </div>
+</div>

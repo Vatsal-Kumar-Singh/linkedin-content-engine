@@ -1,0 +1,53 @@
+<!-- TEMPLATE 03 — SYSTEM / JOURNEY. The path is the dominant graphic; the
+     steps hang off it. Design → Build → Govern → Operate as one line. -->
+<style>
+  .frame{padding:{{margin}}px;}
+{{> bandstyle}}
+  .headline{margin-top:32px;font-size:{{headline_size}}px;max-width:15ch;flex:none;}
+  .sub{margin-top:20px;font-family:var(--body);font-weight:300;font-size:31px;
+       line-height:1.42;color:var(--muted);max-width:34ch;flex:none;}
+  .track{position:relative;flex:1 1 auto;min-height:0;margin:36px 0 34px;padding-left:118px;
+         display:flex;flex-direction:column;justify-content:space-between;}
+  .track::before{
+    content:"";position:absolute;left:26px;top:14px;bottom:10px;width:2px;
+    background:linear-gradient(to bottom, var(--accent) 0%, var(--accent) 62%, var(--structure) 100%);
+    opacity:.85;
+  }
+  .step{position:relative;padding:0;}
+  .step .node{
+    position:absolute;left:-104px;top:2px;width:56px;height:56px;border-radius:50%;
+    border:2px solid var(--accent);background:var(--ground);
+    display:flex;align-items:center;justify-content:center;
+    font-family:var(--body);font-weight:500;font-size:24px;color:var(--accent);letter-spacing:.04em;
+  }
+  .step:last-child .node{border-color:var(--structure);color:var(--muted);}
+  .step .t{
+    font-family:var(--display);font-weight:600;font-size:{{step_size}}px;line-height:1.06;
+    letter-spacing:-.02em;color:var(--fg);
+  }
+  .step .b{
+    margin-top:10px;font-family:var(--body);font-weight:300;font-size:28px;line-height:1.36;
+    color:var(--muted);max-width:30ch;
+  }
+</style>
+<div class="stage">
+  {{> wash}}
+  <div class="frame">
+    <div class="topbar">
+      <div class="eyebrow">{{eyebrow}}</div>
+    </div>
+    <h2 class="headline" data-fit data-max="{{headline_size}}" data-min="52">{{{headline_html}}}</h2>
+    {{#sub}}<p class="sub" data-fit data-max="31" data-min="26">{{{sub_html}}}</p>{{/sub}}
+    <div class="track" data-overflow-guard>
+      {{#steps}}
+      <div class="step">
+        <div class="node">{{n}}</div>
+        <div class="t" data-fit data-max="{{step_size}}" data-min="34">{{title}}</div>
+        {{#body}}<div class="b" data-fit data-max="29" data-min="25">{{body}}</div>{{/body}}
+      </div>
+      {{/steps}}
+    </div>
+    {{> band}}
+    <div class="corner corner--tr"></div><div class="corner corner--bl"></div>
+  </div>
+</div>

@@ -1,0 +1,61 @@
+<!-- TEMPLATE 07 — WASH STATEMENT. The light direction: the ground carries the
+     colour, the sentence carries the argument, and nothing else competes.
+
+     Deliberately no dark footer band. On a pale wash a navy slab reads as a
+     patch stuck over the artwork; a hairline rule and the wordmark do the same
+     job of identifying the poster without cutting the composition in half. -->
+<style>
+  .frame{padding:{{margin}}px;display:flex;flex-direction:column;}
+  .statement{
+    margin-top:auto;font-family:var(--display);font-weight:600;
+    font-size:{{statement_size}}px;line-height:1.05;letter-spacing:-.035em;
+    color:var(--fg);max-width:{{statement_measure}}ch;flex:none;
+  }
+  .statement em{font-style:normal;color:var(--accent);}
+  .sub{
+    margin-top:40px;margin-bottom:auto;
+    font-family:var(--body);font-weight:300;font-size:33px;line-height:1.45;
+    color:var(--muted);max-width:31ch;flex:none;
+  }
+  .sign{
+    flex:none;display:flex;align-items:center;gap:20px;
+    padding-top:26px;border-top:1px solid rgba(11,31,51,.16);
+    position:relative;
+  }
+  /* The curves are placed randomly, so sooner or later one runs straight
+     through the wordmark. A soft scrim under the signature keeps it legible
+     whatever the geometry does, without drawing a visible panel over the
+     artwork the way an opaque band would. */
+  .sign::before{
+    content:"";position:absolute;left:-{{margin}}px;right:-{{margin}}px;
+    top:-18px;bottom:-{{margin}}px;pointer-events:none;
+    /* Built from the ground colour, not from white. A white scrim was right on
+       the pale wash and became a glaring band across the navy one, swallowing
+       the wordmark it exists to protect. */
+    background:linear-gradient(to bottom,
+      color-mix(in srgb, var(--bg) 0%, transparent) 0%,
+      color-mix(in srgb, var(--bg) 72%, transparent) 38%,
+      color-mix(in srgb, var(--bg) 90%, transparent) 100%);
+  }
+  .sign > *{position:relative;}
+  .sign .mark{
+    font-family:var(--display);font-weight:600;font-size:34px;
+    letter-spacing:-.02em;color:var(--fg);
+  }
+  .sign .mark span{color:var(--accent);}
+  .sign .line{
+    font-family:var(--body);font-weight:500;font-size:22px;letter-spacing:.16em;
+    text-transform:uppercase;color:var(--muted);opacity:.85;
+  }
+</style>
+<div class="stage">
+  {{> wash}}
+  <div class="frame">
+    <h1 class="statement" data-fit data-max="{{statement_size}}" data-min="72">{{{statement_html}}}</h1>
+    {{#sub}}<p class="sub" data-fit data-max="33" data-min="27">{{{sub_html}}}</p>{{/sub}}
+    <div class="sign">
+      <div class="mark">{{{wordmark_html}}}</div>
+      <div class="line">{{brandline}}</div>
+    </div>
+  </div>
+</div>

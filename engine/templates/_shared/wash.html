@@ -1,0 +1,80 @@
+<!-- ===================================================================
+     WASH — the universal ground. A pale two-pole gradient with one of five
+     open-shape motifs: pencil, contour, braid, spiral, moire.
+
+     The wash is tinted; the ink never is. Measured off the reference: the
+     strokes darken their ground by ~50 on average, which a pale line cannot
+     do. Tinting the stroke was the first attempt and it read as a smudge.
+
+     Motion (dark variants only) rides `pathLength="1000"`. Declaring a
+     nominal length lets one set of dash numbers drive every motif — the real
+     arc length of a spiral and of a straight moire line differ by an order of
+     magnitude, and without it each shape would need its own tuning.
+     =================================================================== -->
+{{#bg_wash}}
+<svg class="bg bg--wash {{#animate}}wash--anim wash--{{wash_motion}}{{/animate}}"
+     viewBox="0 0 {{width}} {{height}}" preserveAspectRatio="none" aria-hidden="true">
+  <defs>
+    <linearGradient id="washg" gradientUnits="userSpaceOnUse"
+        x1="{{wash_x1}}" y1="{{wash_y1}}" x2="{{wash_x2}}" y2="{{wash_y2}}">
+      <stop offset="0"    stop-color="{{wash_a}}"/>
+      <stop offset="0.44" stop-color="{{wash_core}}"/>
+      <stop offset="0.58" stop-color="{{wash_core}}"/>
+      <stop offset="1"    stop-color="{{wash_b}}"/>
+    </linearGradient>
+    <!-- The type column is left-aligned. Curves crossing it stayed legible in
+         isolation and stopped being so the moment real copy went on top, so the
+         shape fades across that side instead of being cut by it. -->
+    <linearGradient id="washfade" gradientUnits="userSpaceOnUse"
+        x1="0" y1="0" x2="{{width}}" y2="0">
+      <stop offset="0"    stop-color="#fff" stop-opacity="0.22"/>
+      <stop offset="0.42" stop-color="#fff" stop-opacity="0.32"/>
+      <stop offset="0.72" stop-color="#fff" stop-opacity="1"/>
+      <stop offset="1"    stop-color="#fff" stop-opacity="1"/>
+    </linearGradient>
+    <mask id="washmask" maskUnits="userSpaceOnUse"
+          x="0" y="0" width="{{width}}" height="{{height}}">
+      <rect width="{{width}}" height="{{height}}" fill="url(#washfade)"/>
+    </mask>
+    <linearGradient id="washink" gradientUnits="userSpaceOnUse"
+        x1="{{wash_x1}}" y1="{{wash_y1}}" x2="{{wash_x2}}" y2="{{wash_y2}}">
+      <stop offset="0"   stop-color="{{wash_ink_a}}"/>
+      <stop offset="0.5" stop-color="{{wash_ink_mid}}"/>
+      <stop offset="1"   stop-color="{{wash_ink_b}}"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Oversized and centred so a rotation never exposes a corner. SVG gradient
+       coordinates are not reliably CSS-animatable, so the drift rotates the
+       painted rect instead of the gradient's own vector. -->
+  <g class="wash-ground">
+    <rect x="{{wash_over_x}}" y="{{wash_over_y}}"
+          width="{{wash_over_w}}" height="{{wash_over_w}}" fill="url(#washg)"/>
+  </g>
+
+  <g mask="url(#washmask)">
+    <!-- Base strokes. Each carries its own weight and opacity so the bundle
+         reads as depth rather than as a set of identical wires. -->
+    <g class="wash-ink" fill="none" stroke="url(#washink)"
+       opacity="{{wash_opacity}}" stroke-linecap="round">
+      {{#wash_paths}}<path pathLength="1000" d="{{d}}"
+            stroke-width="{{sw}}" opacity="{{so}}"/>{{/wash_paths}}
+    </g>
+
+    {{#animate}}
+    <!-- The highlight is its own layer over the base, not a recolouring of it.
+         That is what lets one mechanism serve both grounds: on navy the layer
+         is lighter than the strokes, on the pale wash it is darker. A single
+         brightening sweep would have been invisible on light. -->
+    <g class="wash-hi" fill="none" stroke="{{wash_hi}}"
+       stroke-width="{{wash_hi_w}}" stroke-linecap="round">
+      {{#wash_paths}}<path pathLength="1000" d="{{d}}"/>{{/wash_paths}}
+    </g>
+    {{/animate}}
+
+    <!-- The point of rest. Every figure was travel and no arrival without it. -->
+    <circle class="wash-dot" cx="{{wash_dot_x}}" cy="{{wash_dot_y}}"
+            r="{{wash_dot_r}}" fill="{{wash_ink_mid}}" opacity="0.9"/>
+  </g>
+</svg>
+{{/bg_wash}}

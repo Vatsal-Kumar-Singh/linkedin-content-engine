@@ -1,0 +1,22 @@
+# Secrets — credentials are read from the environment only.
+.env
+.env.local
+
+# Virtualenvs and caches
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+node_modules/
+
+# Regenerable output. Runs and animation frames are reproducible from the specs,
+# templates and config that ARE tracked, and they grow without bound.
+engine/runs/
+engine/outputs/
+temp/
+
+# OS noise
+Thumbs.db
+.DS_Store
+desktop.ini

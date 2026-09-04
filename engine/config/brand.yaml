@@ -1,0 +1,110 @@
+# Brand tokens — SWAP THESE FOR YOURS.
+#
+# Everything the renderer draws reads from this file. Change a value here and
+# every template restyles; nothing is hard-coded in a template. The palette
+# below belongs to the fictional example product and exists so a fresh clone
+# renders something.
+#
+# The renderer needs, at minimum: two colours that can act as gradient poles, a
+# dark ground, a light ground, and a silver/structure family for hairlines.
+# Before choosing poles, run `python scripts/check_palette.py` — it measures
+# whether your colours can actually reach the pale band the wash needs.
+
+palette:
+  brand_blue:    "#2563EB"   # primary        — swap for yours
+  deep_navy:     "#0B1F33"   # Brand foundation / dark ground
+  cloud_white:   "#F7F9FC"   # Brand background / light ground
+  secure_gray:   "#DDE3EA"   # dividers, scaffolding
+  graphite:      "#4B5563"   # body + secondary text
+  ai_cyan:       "#34D5FF"   # accent — cap 10%
+  signal_green:  "#1BC47D"   # accent — cap 10%
+  pure_white:    "#FFFFFF"   # sanctioned ground, not a palette colour
+
+  # --- Silver family -------------------------------------------------------
+  # Secondary accent for structure: fine lines, connectors, diagram strokes,
+  # corner marks, secondary type. Creates controlled tension against navy and
+  # blue without ever becoming the dominant colour.
+  # Contrast on #0B1F33: silver_light 12.9:1 · silver 8.0:1 · silver_mid 4.9:1
+  # · silver_dark 2.4:1 (structure only, never type).
+  silver_light:  "#E6E8EB"
+  silver:        "#B8BEC6"
+  silver_mid:    "#8F98A3"
+  silver_dark:   "#626C78"
+
+  # Navy family for layered depth — one plane is what made the old cards flat.
+  navy_deep:     "#071624"   # below the ground
+  navy_raised:   "#12293F"   # panels sitting above the ground
+  navy_edge:     "#1C3A55"   # hairline separators on dark
+
+# Which palette entries a template may use as a full-bleed ground.
+grounds:
+  dark:  { bg: deep_navy,   fg: cloud_white, muted: silver,      accent: brand_blue, structure: silver_dark, raised: navy_raised }
+  blue:  { bg: brand_blue,  fg: pure_white,  muted: cloud_white, accent: cloud_white, structure: cloud_white, raised: brand_blue }
+  light: { bg: cloud_white, fg: deep_navy,   muted: graphite,    accent: brand_blue, structure: silver,      raised: pure_white }
+
+# --- Background systems ----------------------------------------------------
+# The ground is never a flat fill. Every template composes at least one of
+# these, at the opacities below. They are deliberately near-threshold: the
+# viewer should feel structure, not see a pattern.
+backgrounds:
+  grid:        { size: 48,  opacity: 0.055, colour: silver_mid }
+  dot_grid:    { size: 34,  radius: 1.4, opacity: 0.085, colour: silver_mid }
+  glow:        { opacity: 0.30, colour: brand_blue, spread: 62 }
+  linework:    { opacity: 0.20, colour: silver_dark, weight: 1 }
+  flow:        { opacity: 0.30, colour: brand_blue, weight: 2 }
+  network:     { opacity: 0.22, colour: silver_mid, node: 3.5 }
+  geometry:    { opacity: 0.30, colour: silver_dark, weight: 1.5 }
+
+# --- Type scale ------------------------------------------------------------
+# Strong scale contrast is the point. The ratio between eyebrow and focal is
+# roughly 1:17 — the old system was closer to 1:9 and read as flat.
+type_scale:
+  eyebrow:    { size: 26,  weight: 500, tracking: 0.22, family: body }
+  micro:      { size: 22,  weight: 500, tracking: 0.14, family: body }
+  focal:      { size: 480, weight: 600, tracking: -0.05, family: display }
+  focal_word: { size: 224, weight: 600, tracking: -0.035, family: display }
+  headline:   { size: 108, weight: 600, tracking: -0.032, family: display }
+  deck:       { size: 66,  weight: 300, tracking: -0.012, family: display }
+  body:       { size: 34,  weight: 300, tracking: 0,     family: body }
+  label:      { size: 24,  weight: 500, tracking: 0.16,  family: body }
+
+typography:
+  display:  { family: "Poppins", weights: [300, 400, 600], file_pattern: "Poppins-{w}.woff2" }
+  body:     { family: "Inter",   weights: [300, 400, 500], file_pattern: "Inter-{w}.woff2" }
+  fallback_stack: ["Segoe UI", "Helvetica Neue", "Arial", "sans-serif"]  # Brand Book p12 — starts at Segoe UI
+  font_dir: "assets/fonts"
+
+# Rendered output geometry. LinkedIn native sizes.
+formats:
+  CARD:
+    width: 1200
+    height: 1200
+    note: "square single image — best mobile feed occupancy"
+  DOC:
+    width: 1080
+    height: 1350
+    note: "4:5 portrait carousel page; exported as PNG per slide + one multi-page PDF"
+
+# Legibility floors. Rubric B9: body >= 24pt in the authoring tool.
+# At 1200px artboard width rendered for a ~430px mobile viewport the scale factor is ~2.8x,
+# so the floor is expressed in artboard px and validated after layout, not assumed.
+legibility:
+  min_body_px: 30
+  min_caption_px: 24
+  min_headline_px: 48
+  mobile_reference_width: 430
+
+# The engine renders a qualifier chip whenever a figure needs one (gate A2 requires the
+# qualifier to be ON THE CREATIVE, not only in the caption).
+# Qualifiers are written INTO the creative copy, never bolted on as a chip.
+# Gate A2 still requires the qualifier to appear on the creative — it is now
+# satisfied by `creative_supporting_copy`, which is the copy that renders.
+# A bordered disclaimer box reads as nervous boilerplate and drew the eye to the
+# least interesting words on the card.
+qualifier_chip:
+  enabled: false
+
+# Optional, never automatic. Rendered as a hairline footer micro-label only
+# when the generator populates `source_label`.
+source_label:
+  enabled: true

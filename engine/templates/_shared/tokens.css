@@ -1,0 +1,50 @@
+/* Brand tokens. Every value is injected from config/brand.yaml at render time —
+   nothing is hard-coded in a template. When the the product sub-brand rules land,
+   editing brand.yaml restyles every creative. */
+
+@font-face { font-family:"BrandDisplay"; src:url("{{font_display_300}}") format("woff2"); font-weight:300; font-style:normal; font-display:block; }
+@font-face { font-family:"BrandDisplay"; src:url("{{font_display_400}}") format("woff2"); font-weight:400; font-style:normal; font-display:block; }
+@font-face { font-family:"BrandDisplay"; src:url("{{font_display_600}}") format("woff2"); font-weight:600; font-style:normal; font-display:block; }
+@font-face { font-family:"BrandBody"; src:url("{{font_body_300}}") format("woff2"); font-weight:300; font-style:normal; font-display:block; }
+@font-face { font-family:"BrandBody"; src:url("{{font_body_400}}") format("woff2"); font-weight:400; font-style:normal; font-display:block; }
+@font-face { font-family:"BrandBody"; src:url("{{font_body_500}}") format("woff2"); font-weight:500; font-style:normal; font-display:block; }
+
+:root{
+  --brand-blue:{{brand_blue}};
+  --deep-navy:{{deep_navy}};
+  --cloud-white:{{cloud_white}};
+  --secure-gray:{{secure_gray}};
+  --graphite:{{graphite}};
+  --ai-cyan:{{ai_cyan}};
+  --signal-green:{{signal_green}};
+  --pure-white:{{pure_white}};
+
+  --silver-light:{{silver_light}};
+  --silver:{{silver}};
+  --silver-mid:{{silver_mid}};
+  --silver-dark:{{silver_dark}};
+
+  --navy-deep:{{navy_deep}};
+  --navy-raised:{{navy_raised}};
+  --navy-edge:{{navy_edge}};
+
+  /* Resolved per ground */
+  --ground:{{ground_bg}};
+  --fg:{{ground_fg}};
+  --muted:{{ground_muted}};
+  --accent:{{ground_accent}};
+  --structure:{{ground_structure}};
+  --raised:{{ground_raised}};
+  --edge:{{navy_edge}};
+  --accent-rgb:{{accent_rgb}};
+
+  --display:"BrandDisplay",{{fallback_stack}};
+  --body:"BrandBody",{{fallback_stack}};
+
+  --w:{{width}}px;
+  --h:{{height}}px;
+  --margin:{{margin}}px;
+
+  --min-body:{{min_body_px}}px;
+  --min-caption:{{min_caption_px}}px;
+}

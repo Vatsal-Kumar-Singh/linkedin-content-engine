@@ -1,0 +1,26 @@
+# Example spec. Copy this shape for your own posts.
+id: example_01
+round: 0
+pain_point: A1
+family: A
+persona: vp-platform
+funnel_stage: TOFU
+content_type: statement
+angle: cost-of-inaction
+template: CARD
+arc: "statement"
+
+# TOFU/MOFU/BOFU is a buying-intent judgement, not a topic. The engine will not
+# treat a model's tier guess as settled — a human confirms it before drafting.
+tier_human_confirmed: false
+
+working_title: >-
+  A pipeline broke on Sunday and nobody knew until Tuesday
+value_shown: >-
+  Every pipeline is watched, and you hear about a break before your CEO does.
+objective: >-
+  Make someone who owns a data platform recognise the delay between a break and the discovery of it. No pitch.
+
+metric_label: no-hard-numbers
+constraints: []
+performance_tracking: false

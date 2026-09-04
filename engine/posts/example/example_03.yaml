@@ -1,0 +1,26 @@
+# Example spec. Copy this shape for your own posts.
+id: example_03
+round: 0
+pain_point: C1
+family: C
+persona: vp-platform
+funnel_stage: MOFU
+content_type: comparison
+angle: cost-of-inaction
+template: CARD
+arc: "statement"
+
+# TOFU/MOFU/BOFU is a buying-intent judgement, not a topic. The engine will not
+# treat a model's tier guess as settled — a human confirms it before drafting.
+tier_human_confirmed: false
+
+working_title: >-
+  Where a number came from, and how long it takes to find out
+value_shown: >-
+  Every number traces back to the pipeline that produced it and when it last ran clean.
+objective: >-
+  Show the cost of not being able to answer 'where did this come from'.
+
+metric_label: no-hard-numbers
+constraints: []
+performance_tracking: false

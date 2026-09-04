@@ -1,0 +1,37 @@
+<!-- TEMPLATE 06 — CONTRARIAN STATEMENT. Minimal but not bland: the background
+     system carries the richness, the sentence carries the argument. -->
+<style>
+  .frame{padding:{{margin}}px;}
+{{> bandstyle}}
+  .statement{
+    margin-top:auto;font-family:var(--display);font-weight:600;
+    font-size:{{statement_size}}px;line-height:1.06;letter-spacing:-.035em;
+    color:var(--fg);max-width:{{statement_measure}}ch;flex:none;
+  }
+  .statement em{font-style:normal;color:var(--accent);}
+  /* The shared .spacer is flex:1 1 auto, so it swallows every pixel of free
+     space and the statement's margin-top:auto gets none — the block jams
+     against the topbar and short copy leaves the lower half of the card empty.
+     Neutralising it here lets the two auto margins split the slack, so the
+     statement sits optically centred however short the line is. A long
+     statement leaves no slack and is unaffected. */
+  .spacer{flex:0 0 0;}
+  .sub{
+    margin-top:44px;margin-bottom:auto;
+    font-family:var(--body);font-weight:300;font-size:33px;line-height:1.44;
+    color:var(--muted);max-width:30ch;flex:none;
+  }
+</style>
+<div class="stage">
+  {{> wash}}
+  <div class="frame">
+    <!-- No topbar. The headline already names the subject word (gate C0.1), so a
+         category label above it repeats itself, and a sequence index means
+         nothing to a reader. The footer is the only identity this card needs. -->
+    <h1 class="statement" data-fit data-max="{{statement_size}}" data-min="72">{{{statement_html}}}</h1>
+    {{#sub}}<p class="sub" data-fit data-max="33" data-min="27">{{{sub_html}}}</p>{{/sub}}
+    <div class="spacer"></div>
+    {{> band}}
+    <div class="corner corner--tr"></div><div class="corner corner--bl"></div>
+  </div>
+</div>

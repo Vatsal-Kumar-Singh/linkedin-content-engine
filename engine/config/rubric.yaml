@@ -1,0 +1,27 @@
+# Rubric version pointer. Stamped into every run report so a score can always be
+# traced to the criteria that produced it. Calibration is meaningless if the
+# rubric changes silently (HANDOFF.md open question 7).
+
+rubric_version: "1.1.0"
+# Canon, not a copy. This path resolved to engine/engine/judge-rubric.md — a
+# duplicate — so the provenance hash certified a file that could drift from
+# the rubric actually in force. The whole point of the stamp is that a score
+# can be traced to the criteria that produced it.
+rubric_source: "prompts/judge.md"
+rubric_sha256: null              # filled by the loader at run time
+changelog: "RUBRIC_CHANGELOG.md"
+
+gates: [A1, A2, A3, A4, A5, A6]
+gates_extended: [N1, L1]         # engine additions: naming canon, internal-leak
+
+binary_checks:
+  all_templates: [B1, B2, B3, B4, B5, B9, B10, B11, B12]
+  doc_only: [B6, B7, B8]
+
+scored_criteria:
+  - { id: C1, name: "Hook",          max: 3 }
+  - { id: C2, name: "Intent tier",   max: 3, advisory: true,
+      note: "Judge is unreliable here — advisory only, a human confirms. A 3 is a suggestion, never a clearance." }
+  - { id: C3, name: "Brand voice",   max: 3, auto_zero_phrases: true }
+  - { id: C4, name: "Reads as human",max: 3 }
+scored_total: 12

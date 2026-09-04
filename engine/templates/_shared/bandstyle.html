@@ -1,0 +1,27 @@
+  .band{
+    flex:none;position:relative;
+    margin:0 -{{margin}}px -{{margin}}px;
+    padding:30px {{margin}}px 28px;
+    background:var(--raised);
+    border-top:1px solid var(--edge);
+  }
+  .band::before{content:"";position:absolute;top:-1px;left:{{margin}}px;width:118px;height:2px;background:var(--accent);}
+  .strip{display:flex;align-items:flex-end;gap:{{strip_gap}}px;padding-bottom:24px;}
+  .strip .cell{display:flex;flex-direction:column;gap:9px;}
+  .strip .cell + .cell{border-left:1px solid var(--edge);padding-left:{{strip_gap}}px;}
+  .strip .cell .k{font-family:var(--body);font-weight:500;font-size:25px;letter-spacing:.16em;
+                  text-transform:uppercase;color:var(--muted);opacity:.68;}
+  .strip .cell .v{font-family:var(--display);font-weight:400;font-size:33px;color:var(--fg);letter-spacing:-.005em;}
+  .strip .cell .v em{font-style:normal;color:var(--accent);}
+  .footer{padding-top:24px;border-top:1px solid var(--edge);}
+{{#animate}}
+  /* Animated variants post as video, and LinkedIn paints its own player chrome
+     — scrub bar, duration chip, sound toggle — over the bottom of the frame.
+     That band is where the brandmark lives, so on motion variants the whole
+     band is lifted clear of it. Static PNGs keep the tighter original spacing;
+     losing 64px of card to chrome that isn't there would be a real cost. */
+  .band{padding-bottom:92px;}
+{{/animate}}
+  .topbar{display:flex;align-items:center;gap:22px;flex:none;}
+  .topbar s{text-decoration:none;flex:1;height:1px;background:var(--structure);opacity:.38;}
+  .topbar .label{flex:none;opacity:.66;}

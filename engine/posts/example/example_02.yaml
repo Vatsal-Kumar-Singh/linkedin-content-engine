@@ -1,0 +1,26 @@
+# Example spec. Copy this shape for your own posts.
+id: example_02
+round: 0
+pain_point: B1
+family: B
+persona: vp-platform
+funnel_stage: TOFU
+content_type: statement
+angle: cost-of-inaction
+template: CARD
+arc: "statement"
+
+# TOFU/MOFU/BOFU is a buying-intent judgement, not a topic. The engine will not
+# treat a model's tier guess as settled — a human confirms it before drafting.
+tier_human_confirmed: false
+
+working_title: >-
+  Your analysts start every morning checking last night's jobs
+value_shown: >-
+  The check runs itself. Your analysts start on the work you hired them for.
+objective: >-
+  Name the morning ritual back to the person who does it. No pitch.
+
+metric_label: no-hard-numbers
+constraints: []
+performance_tracking: false

@@ -1,0 +1,171 @@
+<!-- ===================================================================
+     BACKGROUND SYSTEM — reusable procedural layers.
+     Composed per template. Every one is near-threshold on purpose: the
+     viewer should feel engineered structure, not see a pattern.
+     Layer order is fixed:  ground → texture → geometry → glow → content
+     =================================================================== -->
+
+{{#bg_grid}}
+<svg class="bg bg--grid" viewBox="0 0 {{width}} {{height}}" preserveAspectRatio="none" aria-hidden="true">
+  <defs>
+    <pattern id="grid" width="{{grid_size}}" height="{{grid_size}}" patternUnits="userSpaceOnUse">
+      <path d="M {{grid_size}} 0 L 0 0 0 {{grid_size}}" fill="none"
+            stroke="var(--structure)" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#grid)" opacity="{{grid_opacity}}"/>
+</svg>
+{{/bg_grid}}
+
+{{#bg_dots}}
+<svg class="bg bg--dots" viewBox="0 0 {{width}} {{height}}" preserveAspectRatio="none" aria-hidden="true">
+  <defs>
+    <pattern id="dots" width="{{dot_size}}" height="{{dot_size}}" patternUnits="userSpaceOnUse">
+      <circle cx="1.6" cy="1.6" r="{{dot_radius}}" fill="var(--structure)"/>
+    </pattern>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#dots)" opacity="{{dot_opacity}}"/>
+</svg>
+{{/bg_dots}}
+
+{{#bg_glow}}
+<!-- Restrained directional illumination. Never a visible neon gradient. -->
+<div class="bg bg--glow" style="--glow-x:{{glow_x}}%; --glow-y:{{glow_y}}%;"></div>
+{{/bg_glow}}
+
+{{#bg_geometry}}
+<!-- Large cropped geometry. Bleeds past the frame so the composition reads as
+     a fragment of something bigger — this is what kills the "floating in the
+     middle of an empty rectangle" problem. -->
+<svg class="bg bg--geometry" viewBox="0 0 {{width}} {{height}}" aria-hidden="true">
+  <g fill="none" stroke="var(--structure)" stroke-width="1.5" opacity="{{geometry_opacity}}">
+    <circle cx="{{geo_cx}}" cy="{{geo_cy}}" r="{{geo_r}}"/>
+    <circle cx="{{geo_cx}}" cy="{{geo_cy}}" r="{{geo_r2}}"/>
+    <circle cx="{{geo_cx}}" cy="{{geo_cy}}" r="{{geo_r3}}" stroke-dasharray="3 9"/>
+  </g>
+  <g fill="none" stroke="var(--accent)" stroke-width="2.5" opacity="0.5">
+    <path d="{{geo_arc}}"/>
+  </g>
+  {{^animate}}<circle cx="{{geo_dot_x}}" cy="{{geo_dot_y}}" r="7" fill="var(--accent)"/>{{/animate}}
+  {{#animate}}
+  <!-- A silver comet sweeping the visible run of each tracing. Same period,
+       phase offset by half a cycle, so the two never peak together and the card
+       is never fully still; the inner ring runs dimmer and thinner so the pair
+       reads as depth rather than as two equal effects.
+
+       The static accent dot above is suppressed on animated variants — it is
+       the same dot, moved onto the head of the sweep rather than parked at a
+       fixed point on the arc.
+
+       Only emitted for animated variants: a moving element would otherwise make
+       every static PNG render a different image. -->
+  <defs>
+    <!-- Slim. At stdDeviation 9 over a 13px stroke the glow was wide enough to
+         smear around the letterforms it passed behind, which read as a smudge
+         rather than as light. -->
+    <filter id="pulse-glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5"/>
+    </filter>
+    <!-- The comet dims through the band where the type sits, rather than being
+         hard-cut by the glyphs. It never goes fully dark: a highlight that
+         disappears looks broken, a faint one looks like it is behind glass. -->
+    <linearGradient id="pulse-mask-grad" x1="0" y1="0" x2="0" y2="{{height}}"
+                    gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="{{pulse_mask_y0}}" stop-color="#fff"/>
+      <stop offset="{{pulse_mask_y1}}" stop-color="#fff" stop-opacity="{{pulse_mask_dim}}"/>
+      <stop offset="{{pulse_mask_y2}}" stop-color="#fff" stop-opacity="{{pulse_mask_dim}}"/>
+      <stop offset="{{pulse_mask_y3}}" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <mask id="pulse-mask" maskUnits="userSpaceOnUse"
+          x="0" y="0" width="{{width}}" height="{{height}}">
+      <rect width="{{width}}" height="{{height}}" fill="url(#pulse-mask-grad)"/>
+    </mask>
+  </defs>
+  <g fill="none" stroke-linecap="round" mask="url(#pulse-mask)">
+    <!-- OUTER RING -->
+    <circle class="pulse pulse--outer pulse--halo" cx="{{geo_cx}}" cy="{{geo_cy}}" r="{{geo_r}}"
+            stroke="var(--silver)" stroke-width="9" filter="url(#pulse-glow)"
+            stroke-dasharray="{{pulse_len}} {{pulse_gap}}"
+            transform="rotate({{pulse_rot}} {{geo_cx}} {{geo_cy}})"
+            style="--pulse-from:{{pulse_from}}px;--pulse-to:{{pulse_to}}px;
+                   --pulse-peak:{{pulse_peak}};--pulse-secs:{{pulse_secs}}s"/>
+    <circle class="pulse pulse--outer" cx="{{geo_cx}}" cy="{{geo_cy}}" r="{{geo_r}}"
+            stroke="var(--silver-light)" stroke-width="3.5"
+            stroke-dasharray="{{pulse_len}} {{pulse_gap}}"
+            transform="rotate({{pulse_rot}} {{geo_cx}} {{geo_cy}})"
+            style="--pulse-from:{{pulse_from}}px;--pulse-to:{{pulse_to}}px;
+                   --pulse-peak:{{pulse_peak}};--pulse-secs:{{pulse_secs}}s"/>
+    <!-- The head. A dash of effectively zero length with a round cap renders as
+         a dot of diameter stroke-width, riding the same path as the streak. -->
+    <circle class="pulse pulse--outer pulse--head" cx="{{geo_cx}}" cy="{{geo_cy}}" r="{{geo_r}}"
+            stroke="var(--silver-light)" stroke-width="{{pulse_head_r}}"
+            stroke-dasharray="0.01 {{head_gap}}"
+            transform="rotate({{pulse_rot}} {{geo_cx}} {{geo_cy}})"
+            style="--pulse-from:{{head_from}}px;--pulse-to:{{head_to}}px;
+                   --pulse-peak:1;--pulse-secs:{{pulse_secs}}s"/>
+
+    <!-- INNER RING -->
+    <circle class="pulse pulse--inner pulse--halo" cx="{{geo_cx}}" cy="{{geo_cy}}" r="{{geo_r2}}"
+            stroke="var(--silver)" stroke-width="7" filter="url(#pulse-glow)"
+            stroke-dasharray="{{pulse_len2}} {{pulse_gap2}}"
+            transform="rotate({{pulse_rot2}} {{geo_cx}} {{geo_cy}})"
+            style="--pulse-from:{{pulse_from2}}px;--pulse-to:{{pulse_to2}}px;
+                   --pulse-peak:{{pulse_peak2}};--pulse-secs:{{pulse_secs}}s"/>
+    <circle class="pulse pulse--inner" cx="{{geo_cx}}" cy="{{geo_cy}}" r="{{geo_r2}}"
+            stroke="var(--silver)" stroke-width="2.5"
+            stroke-dasharray="{{pulse_len2}} {{pulse_gap2}}"
+            transform="rotate({{pulse_rot2}} {{geo_cx}} {{geo_cy}})"
+            style="--pulse-from:{{pulse_from2}}px;--pulse-to:{{pulse_to2}}px;
+                   --pulse-peak:{{pulse_peak2}};--pulse-secs:{{pulse_secs}}s"/>
+    <circle class="pulse pulse--inner pulse--head" cx="{{geo_cx}}" cy="{{geo_cy}}" r="{{geo_r2}}"
+            stroke="var(--silver-light)" stroke-width="{{pulse_head_r2}}"
+            stroke-dasharray="0.01 {{head_gap2}}"
+            transform="rotate({{pulse_rot2}} {{geo_cx}} {{geo_cy}})"
+            style="--pulse-from:{{head_from2}}px;--pulse-to:{{head_to2}}px;
+                   --pulse-peak:{{pulse_peak2}};--pulse-secs:{{pulse_secs}}s"/>
+  </g>
+  {{/animate}}
+</svg>
+{{/bg_geometry}}
+
+{{#bg_linework}}
+<!-- Architectural / schematic linework: corner marks, coordinates, tick rails.
+     Makes the creative feel engineered rather than decorated. -->
+<svg class="bg bg--linework" viewBox="0 0 {{width}} {{height}}" aria-hidden="true">
+  <g stroke="var(--structure)" stroke-width="1" fill="none" opacity="{{linework_opacity}}">
+    <path d="M{{m}} {{m_t}} L{{m}} {{m}} L{{m_x}} {{m}}"/>
+    <path d="M{{m_r}} {{m}} L{{m_rr}} {{m}} L{{m_rr}} {{m_t}}"/>
+    <path d="M{{m}} {{m_b}} L{{m}} {{m_bb}} L{{m_x}} {{m_bb}}"/>
+    <path d="M{{m_r}} {{m_bb}} L{{m_rr}} {{m_bb}} L{{m_rr}} {{m_b}}"/>
+  </g>
+  <g stroke="var(--structure)" stroke-width="1" opacity="{{tick_opacity}}">
+    {{#ticks}}<path d="{{.}}"/>{{/ticks}}
+  </g>
+</svg>
+{{/bg_linework}}
+
+{{#bg_flow}}
+<!-- Thin curved paths: transformation, workflow, orchestration, before→after. -->
+<svg class="bg bg--flow" viewBox="0 0 {{width}} {{height}}" aria-hidden="true">
+  <g fill="none" stroke-linecap="round">
+    <path d="{{flow_path}}" stroke="var(--accent)" stroke-width="2.5" opacity="{{flow_opacity}}"/>
+    <path d="{{flow_path_2}}" stroke="var(--structure)" stroke-width="1.25"
+          stroke-dasharray="2 10" opacity="0.5"/>
+  </g>
+</svg>
+{{/bg_flow}}
+
+{{#bg_network}}
+<!-- Nodes and connectors: systems, orchestration, interconnected estate.
+     Used sparingly and never as a crypto-style constellation. -->
+<svg class="bg bg--network" viewBox="0 0 {{width}} {{height}}" aria-hidden="true">
+  <g stroke="var(--structure)" stroke-width="1" fill="none" opacity="{{network_opacity}}">
+    {{#net_edges}}<path d="{{.}}"/>{{/net_edges}}
+  </g>
+  <g fill="var(--structure)" opacity="{{network_node_opacity}}">
+    {{#net_nodes}}<circle cx="{{cx}}" cy="{{cy}}" r="{{r}}"/>{{/net_nodes}}
+  </g>
+</svg>
+{{/bg_network}}

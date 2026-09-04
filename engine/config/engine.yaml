@@ -1,0 +1,121 @@
+# Engine operating configuration. Thresholds live HERE, never in application logic.
+
+engine_version: "0.1.0"
+
+# ---------------------------------------------------------------------------
+# MODE
+# ---------------------------------------------------------------------------
+# calibration → scores are recorded, thresholds are NOT binding, every post
+#               exits to HUMAN_REVIEW regardless of score.
+# enforced    → pass_rules below become binding.
+#
+# HANDOFF.md open question 2 is explicit: "≥80% binary and ≥9/12 scored are
+# guesses with no data behind them." The engine therefore refuses to auto-pass
+# until the first 10 posts have been hand-scored and the thresholds re-derived
+# from the real distribution. Do not flip this to `enforced` before then.
+mode: calibration
+
+calibration:
+  posts_required_before_enforcing: 10
+  hand_scores_path: "calibration/hand-scores.json"
+
+# Binding only in enforced mode. Present in calibration mode so the report can
+# show what WOULD have happened.
+pass_rules:
+  minimum_binary_pass_rate: 0.80      # rubric §"Threshold" — uncalibrated
+  minimum_quality_score: 9            # out of 12 — uncalibrated
+  block_on_zero_brand_voice: true     # HANDOFF open question 3 — a 3+3+3+0 must not pass
+  block_on_any_gate_failure: true     # rubric §A — not negotiable, true in both modes
+  maximum_iterations: 4
+
+# ---------------------------------------------------------------------------
+# PROVIDERS
+# ---------------------------------------------------------------------------
+# Generator and judge MUST be different model families (rubric §Judge design:
+# self-preference bias is the exact AI tell C4 exists to catch).
+providers:
+  # Runs on a Claude Code subscription via the `claude` CLI — no API keys.
+  # Generator and judge are DIFFERENT MODELS to keep some separation; they are
+  # still the same family, so the run stamps judge_independence: PARTIAL.
+  # To restore full independence, point `judge` at a non-Anthropic provider.
+  generator:
+    provider: claude_cli
+    model: "opus"
+    family: anthropic
+    temperature: 0.85
+    max_tokens: 4000
+  judge:
+    provider: claude_cli
+    model: "sonnet"
+    family: anthropic
+    temperature: 0.2
+    max_tokens: 4000
+  design_critic:
+    provider: claude_cli         # vision via temp file + Read
+    model: "opus"
+    family: anthropic
+    temperature: 0.3
+    max_tokens: 2500
+
+  # Refuse to run generator and judge on the same family. Override only with a
+  # deliberate decision — the run report is stamped judge_independence: DEGRADED.
+  # Required for the Claude-only setup above. With different models this yields
+  # PARTIAL, not DEGRADED — see providers/registry.assert_independent.
+  allow_same_family: true
+
+  # Used when no API credentials are present. Deterministic fixtures so the whole
+  # pipeline is testable offline. Every artifact produced this way is stamped
+  # mode: mock so it can never be mistaken for a real model run.
+  mock_when_no_credentials: true
+
+retry:
+  attempts: 3
+  backoff_seconds: [2, 6, 15]
+  retry_on: ["timeout", "rate_limit", "server_error", "malformed_json"]
+
+# ---------------------------------------------------------------------------
+# CREATIVE
+# ---------------------------------------------------------------------------
+creative:
+  enabled: true
+  renderer: auto                 # auto | playwright | chrome | none
+  max_design_iterations: 3
+  design_critic_enabled: true
+  fail_on_overflow: true
+  # Motion loop for single cards. Off by default: it costs ~84 extra
+  # screenshots and only makes sense for a post that stands alone. A post that
+  # needs a carousel to make sense stays a set of stills. Turn on per run with
+  # `--animate`, or here once Round 1 proves the format lifts dwell time.
+  animate: false
+  autofit:
+    enabled: true
+    max_steps: 6
+    step_ratio: 0.94             # shrink 6% per step, bounded by brand.legibility floors
+
+# ---------------------------------------------------------------------------
+# TEMPLATE ROUTER
+# ---------------------------------------------------------------------------
+# Maps (template, arc) → concrete template directory. Round 1 is CARD only.
+template_router:
+  default:
+    CARD: "card/big_stat"
+    DOC:  "document/editorial"
+    TEXT: null                   # no creative
+  by_arc:
+    "CARD:single stat":        "card/big_stat"
+    "CARD:stat arc":           "card/big_stat"
+    "CARD:before -> after":    "card/comparison"
+    "CARD:old way -> new way": "card/comparison"
+    "CARD:problem spiral":     "card/journey"
+    "CARD:explainer":          "card/framework"
+    "CARD:editorial":          "card/editorial"
+    "CARD:statement":          "card/contrarian"
+    "DOC:explainer":          "document/editorial"
+    "DOC:stat arc":           "document/editorial"
+    "DOC:before -> after":    "document/editorial"
+    "DOC:old way -> new way": "document/editorial"
+    "DOC:problem spiral":     "document/editorial"
+
+paths:
+  runs: "runs"
+  posts: "posts"

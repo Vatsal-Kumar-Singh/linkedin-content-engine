@@ -1,0 +1,91 @@
+/* Base composition. Austere but not empty: structure comes from layered
+   backgrounds, scale contrast and cropped geometry — never from gradients,
+   glassmorphism, drop shadows or decorative illustration. */
+
+*{margin:0;padding:0;box-sizing:border-box;}
+html,body{width:var(--w);height:var(--h);}
+body{
+  background:var(--ground);
+  color:var(--fg);
+  font-family:var(--body);
+  font-weight:400;
+  -webkit-font-smoothing:antialiased;
+  text-rendering:geometricPrecision;
+  overflow:hidden;
+  position:relative;
+}
+
+.stage{position:relative;width:var(--w);height:var(--h);overflow:hidden;}
+
+.frame{
+  position:relative;
+  width:var(--w);height:var(--h);
+  padding:var(--margin);
+  display:flex;flex-direction:column;
+  overflow:hidden;
+}
+
+/* ---- type scale ---------------------------------------------------------
+   Strong scale contrast is the design. Eyebrow to focal is roughly 1:17. */
+
+.eyebrow{
+  font-family:var(--body);font-weight:500;
+  font-size:{{ts_eyebrow}}px;letter-spacing:{{ts_eyebrow_tracking}}em;
+  text-transform:uppercase;color:var(--muted);
+  display:flex;align-items:center;gap:18px;flex:none;
+}
+.eyebrow b{font-weight:500;color:var(--accent);}
+.eyebrow s{text-decoration:none;flex:1;height:1px;background:var(--structure);opacity:.4;}
+
+.focal{
+  font-family:var(--display);font-weight:600;
+  font-size:{{ts_focal}}px;line-height:.8;letter-spacing:{{ts_focal_tracking}}em;
+  color:var(--fg);white-space:nowrap;
+}
+.focal .sym{
+  font-size:.30em;font-weight:400;letter-spacing:-.01em;
+  color:var(--accent);margin-left:.04em;vertical-align:baseline;
+}
+
+.headline{
+  font-family:var(--display);font-weight:600;
+  font-size:{{ts_headline}}px;line-height:1.02;letter-spacing:{{ts_headline_tracking}}em;
+  color:var(--fg);
+}
+.headline em{font-style:normal;color:var(--accent);}
+.headline u{text-decoration:none;color:var(--silver);}
+
+.deck{
+  font-family:var(--display);font-weight:300;
+  font-size:{{ts_deck}}px;line-height:1.18;letter-spacing:-.012em;
+  color:var(--fg);
+}
+.deck em{font-style:normal;font-weight:600;color:var(--accent);}
+.deck b{font-weight:400;color:var(--silver-light);}
+
+.body{
+  font-family:var(--body);font-weight:300;
+  font-size:{{ts_body}}px;line-height:1.45;color:var(--muted);
+}
+
+.label{
+  font-family:var(--body);font-weight:500;
+  font-size:{{ts_label}}px;letter-spacing:{{ts_label_tracking}}em;
+  text-transform:uppercase;color:var(--muted);
+}
+
+/* `*word*` in copy becomes an accent word. Set once, globally, so a template
+   can never fall through to the browser's italic default. */
+em{font-style:normal;color:var(--accent);}
+b{font-weight:500;color:var(--silver-light);}
+
+.spacer{flex:1 1 auto;min-height:0;}
+
+/* ---- footer -------------------------------------------------------------
+   Brand presence, deliberately not a focal point, and not a full-width bar. */
+.footer{
+  display:flex;align-items:flex-end;justify-content:space-between;gap:40px;
+  flex:none;position:relative;
+}
+.footer__left{display:flex;align-items:center;gap:20px;}
+.footer__right{display:flex;flex-direction:column;align-items:flex-end;gap:10px;}

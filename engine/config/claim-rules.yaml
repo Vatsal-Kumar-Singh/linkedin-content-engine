@@ -1,0 +1,514 @@
+# ============================================================================
+# DETERMINISTIC CLAIM & POLICY RULES
+# ============================================================================
+# Compiled to regex/predicates and run BEFORE any model token is spent.
+# Code evaluates objective constraints; the LLM judge evaluates taste.
+#
+# This file answers HANDOFF.md open question 4 — "the gates ask the judge to
+# remember too much" — by extracting the mechanical half of the rubric.
+#
+# Every rule cites the document that authorises it. Priority order is:
+#   decisions-log > claim-evidence-register > canon > collateral-rules >
+#   HANDOFF > engine/* > reference/*
+#
+# severity:
+#   blocking  → publication is blocked outright (rubric §A gate)
+#   fail      → counts against the binary pass rate (rubric §B / mechanical §C)
+#   warn      → advisory; surfaced to the human, never blocks
+# ============================================================================
+
+version: "1.1.0"
+
+# Fields scanned. "creative" = anything that renders into the image, where gate
+# A2 requires qualifiers to live. "caption" = what LinkedIn shows as post text.
+field_groups:
+  caption:  [hook, body, cta]
+  creative: [creative_headline, creative_supporting_copy, creative_qualifier, creative_strip, source_label, comparison_rows, steps, left_label, right_label, prop_label_a, prop_label_b, frag_note, counter, focal, focal_unit, eyebrow, slides, alt_text]
+  # `first_comment` PUBLISHES — it is where links go, so it is excluded from the
+  # caption group (A5.1) but must be scanned by everything else.
+  # `hook_alternatives` are offered to the human reviewer, who may promote one,
+  # so they are held to the same standard as the hook itself.
+  # What a person actually reads in the two seconds before they scroll on.
+  # Deliberately excludes `eyebrow`: the small category label in the corner does
+  # not tell anyone what the post is about.
+  frontline: [hook, focal, creative_headline]
+  # The biggest words on the card. Ogilvy's attention order is illustration ->
+  # headline -> copy, and on our templates the focal IS the illustration.
+  headline_only: [focal, creative_headline]
+  all:      [hook, body, cta, creative_headline, creative_supporting_copy, creative_qualifier, creative_strip, source_label, comparison_rows, steps, left_label, right_label, prop_label_a, prop_label_b, frag_note, counter, focal, focal_unit, eyebrow, slides, alt_text, visual_concept, first_comment, hook_alternatives]
+
+qualifier_tokens:
+  - "target"
+  - "targets"
+  - "contractual"
+  - "SLA"
+  - "estimated"
+  - "estimate"
+  - "typical"
+  - "typically"
+  - "modelled"
+  - "modeled"
+  - "illustrative"
+  - "industry estimate"
+  - "aim"
+
+# ---------------------------------------------------------------------------
+# GATE A1 — withdrawn claims (decisions-log ruling 3, 2026-08-20)
+# ---------------------------------------------------------------------------
+gates:
+  # ---------------------------------------------------------------------------
+  # YOUR CLAIM GATES GO HERE.
+  #
+  # This is where the six gates for the original project lived. They were
+  # entirely client-specific — withdrawn claims, a named executive's unsourced
+  # quote, a figure the source deck contradicted two slides later — so they are
+  # not shipped. The SHAPE is what transfers.
+  #
+  # Write one gate per claim you cannot afford to publish wrong. The pattern
+  # that worked: keep an evidence register rating every externally-usable claim,
+  # then encode the unsafe ones here so no draft can reach a human with one in
+  # it. On the original project 33 of 62 claims turned out to carry no citation;
+  # finding that out from a spreadsheet is much cheaper than from a prospect.
+  #
+  # Delete this block once you have written your own.
+  # ---------------------------------------------------------------------------
+  - id: A1
+    title: "Example — a claim that must never appear unqualified"
+    authority: "your-evidence-register.md"
+    checks:
+      - id: A1.1
+        type: forbidden_pattern
+        scope: all
+        pattern: '(?i)\b(industry[- ]leading|best[- ]in[- ]class|guaranteed ROI)\b'
+        severity: fail
+        message: "Unfalsifiable superlative. Nobody can check it, so it reads as filler and weakens everything near it."
+        fix: "State the specific thing you can evidence, or cut the sentence."
+
+  - id: A4
+    title: "Metric-labelling choice recorded"
+    rubric_ref: "judge-rubric.md §A4"
+    authority: "decided per post 2026-08-22 · linkedin-content-engine.md §7.3"
+    severity: blocking
+    checks:
+      - id: A4.1
+        type: required_enum
+        field: metric_label
+        allowed: ["n/a", "illustrative", "modelled-from-target-SLA", "no-hard-numbers"]
+        message: "No metric-labelling choice recorded. The convention is decide-per-post, so the gate is that someone actively chose."
+        fix: "Set metric_label to one of: n/a · illustrative · modelled-from-target-SLA · no-hard-numbers."
+      - id: A4.2
+        type: label_consistency
+        # If the record claims no hard numbers, there must be none in the creative.
+        when_label: ["no-hard-numbers", "n/a"]
+        forbid_numbers_in: creative
+        # NOTE: the word-boundary must apply only to the word units. `\b` after
+        # `%` or `×` can never match before a space, which silently let "40%" past.
+        number_pattern: '(?<![\w#])\d{1,3}(?:[.,]\d+)?\s?(?:%|[x×]|(?:K|M|B|hours?|hrs?|days?|months?|weeks?|minutes?)\b)'
+        message: "Record says the post carries no hard numbers, but the creative contains one. An unlabelled invented number reads as a customer result by default."
+        fix: "Either remove the number from the creative or change metric_label to illustrative / modelled-from-target-SLA."
+
+# ---------------------------------------------------------------------------
+# GATE A5 — no algorithmic self-harm
+# ---------------------------------------------------------------------------
+  - id: A5
+    title: "No algorithmic self-harm"
+    rubric_ref: "judge-rubric.md §A5"
+    authority: "engine/linkedin-research-2026.md §2"
+    severity: blocking
+    checks:
+      - id: A5.1
+        type: forbidden_pattern
+        scope: caption
+        pattern: '(?i)(https?://|\bwww\.[a-z0-9-]+\.[a-z]{2,})'
+        message: "External link in the post body — roughly 60% reach cost."
+        fix: "Move the link to the first comment. Reference it in the body as 'link in the first comment'."
+      - id: A5.2
+        type: forbidden_pattern
+        scope: all
+        pattern: '(?i)(comment\s+(yes|below|"[^"]{1,20}"|\x27[^\x27]{1,20}\x27)|tag\s+(someone|a\s+friend|a\s+colleague|your)|like\s+if\s+you|repost\s+if|share\s+if\s+you|drop\s+a\s+(comment|👍|🙌|emoji)|who\s+agrees\?|double\s+tap)'
+        message: "Engagement bait. Detected and suppressed by the 2026 algorithm."
+        fix: "Ask a real question that a practitioner would actually answer, or ask nothing."
+
+# ---------------------------------------------------------------------------
+# GATE A6 — no unverifiable third-party or unevidenced claim
+# ---------------------------------------------------------------------------
+  - id: A6
+    title: "No unverifiable third-party claim"
+    rubric_ref: "judge-rubric.md §A6"
+    authority: "constraints/claim-evidence-register.md · decisions-log confirmations 2, 4, 5"
+    severity: blocking
+    checks:
+      - id: A6.1
+        type: forbidden_pattern
+        scope: all
+        pattern: "(?i)(President of Global Services)"
+        message: "The the subject 'President of Global Services' quote is unsourced (confirmation 2, paused)."
+        fix: "Remove it. The substance can be written as the company commentary citing the subject's public Forward Deployed Engineering positioning."
+      - id: A6.2
+        type: forbidden_pattern
+        scope: all
+        pattern: '(?i)(\$\s?600\s?[–\-—to]{1,4}\s?700\s?M|\$\s?200\s?[–\-—to]{1,4}\s?300\s?B|\$\s?3\.23\s?B|\$\s?300\s?[–\-—to]{1,4}\s?675\s?M)'
+        message: "Market-size claim. The canonical $600–700M figure is uncited (ruling 7, blocked)."
+        fix: "Drop the market-size framing. It is not for public content."
+      - id: A6.3
+        type: forbidden_pattern
+        scope: all
+        pattern: '(?i)(\$\s?75\s?[–\-—to]{1,4}\s?85\s?M|50\+\s+enterprise relationships|partner rollup)'
+        message: "The $75–85M rollup figure is not cleared for external use (confirmation 4, blocked on Robin)."
+        fix: "Remove it."
+      - id: A6.4
+        type: forbidden_pattern
+        scope: all
+        pattern: '(?i)(SOC\s?2|ISO\s?27001|FedRAMP|HIPAA[\s-]compliant|IL5)'
+        message: "Certification claim. SOC 2 scope is not cleared (confirmation 5, blocked on Robin) and competitor certification claims are undated and unverified."
+        fix: "Remove the certification claim. Governance can be described structurally — audit trail, human-in-the-loop, identity split — without a certification assertion."
+      - id: A6.5
+        type: forbidden_pattern
+        scope: all
+        pattern: "(?i)(Cargill|Hilton|Zillow|Morgan\\s?&\\s?Morgan|federal agencies have considered|1,?200\\+?\\s+enterprise customers|2,?300\\s+teams|100k\\+?\\s+community)"
+        message: "Names a third party's customers or repeats a competitor's self-reported scale figure. Legal and relationship exposure, and it strengthens their position, not ours."
+        fix: "Remove it."
+      - id: A6.6
+        type: forbidden_pattern
+        scope: all
+        pattern: '(?i)(25\+?\s?years? of AI[\s-]first|10\+?\s?(yrs?|years?)\s+the subject delivery|200\+\s+clients|400\+\s+experts)'
+        message: "Corporate scale claim that the canon marks CONTRADICTED or UNVERIFIED (canon §1.2, §1.3)."
+        fix: "The defensible split is '25+ years of enterprise delivery, AI-native since 2023'. Drop client and headcount counts — they carry no as-of date or definition."
+      - id: A6.7
+        type: requires_qualifier
+        per_group: false
+        window: 200
+        qualifier_override: ["Elements.cloud", "elements.cloud", "2022 State of the subject DevOps", "industry survey"]
+        figures:
+          - { name: "46% team growth", pattern: '(?i)\b46\s?%' }
+        message: "The 46% figure is vendor-published (Elements.cloud, 2022) and its own source says 46% of respondents, not 46% YoY growth."
+        fix: "Attribute it explicitly — '46% of respondents in Elements.cloud's 2022 survey reported growing team size' — or omit the number."
+      - id: A6.8
+        type: requires_qualifier
+        per_group: false
+        window: 200
+        qualifier_override: ["industry estimate", "industry-estimate", "commonly cited", "widely reported", "estimated"]
+        figures:
+          - { name: "40%+ shelfware", pattern: '(?i)\b40\s?%\+|\b40\s?%\s+of\s+(the subject\s+)?licen[cs]es' }
+        message: "The 40%+ shelfware figure is unsourced (content-calendar F1 warning)."
+        fix: "Label it as an industry estimate, or reframe the post without the number."
+      - id: A6.9
+        type: forbidden_pattern
+        scope: all
+        pattern: '(?i)(zero tech debt|no tech debt|100% (agentic )?audit)'
+        message: "Absolute that cannot be substantiated."
+        fix: "Use 'an AI-governed pipeline enforces best practice on every commit and release', which is what it actually means."
+
+# ---------------------------------------------------------------------------
+# GATE N — naming canon (ruling 2)
+# ---------------------------------------------------------------------------
+  - id: N1
+    title: "Naming canon"
+    authority: "your brand book"
+    checks:
+      # Your brand's own naming rules go here. The original project had six: a
+      # misspelling gate (the transcription of meeting notes kept inventing a
+      # variant), a gate forbidding a sub-brand being described as the parent's
+      # owner, and four more. All of them were cheap to write and each had
+      # already appeared in a draft at least once.
+      #
+      # The pattern that generalises: whatever your brand book says MUST NOT be
+      # written, encode here. A rule nobody can break by accident does not need a
+      # gate; a rule a tired person breaks at 6pm does.
+      - id: N1.1
+        type: forbidden_pattern
+        scope: all
+        pattern: '(Meridien|Meridiam|MERIDIAN Inc)'
+        severity: fail
+        message: "Product name misspelled."
+        fix: "Write Meridian."
+
+  - id: L1
+    title: "No internal material in outward copy"
+    rubric_ref: "HANDOFF.md 'A note on the two layers'"
+    authority: "HANDOFF.md · decisions-log confirmation 1"
+    severity: blocking
+    checks:
+      - id: L1.1
+        type: forbidden_pattern
+        scope: all
+        pattern: '(?i)(decisions[\s-]log|claim[\s-]evidence[\s-]register|research[\s-]delta|open[\s-]issues\.md|judge[\s-]rubric|pain[\s-]points\.md|content[\s-]calendar\.md|content[\s-]backlog|linkedin[\s-]niche[\s-]scan|collateral[\s-]rules|brand[\s-]rules\.md)'
+        message: "Names an internal knowledge-base file."
+        fix: "Remove the reference. Nothing from the internal layer goes into a post."
+      - id: L1.2
+        type: forbidden_pattern
+        scope: all
+        pattern: '(?i)(\bruling\s?\d|leadership ruled|internal[\s-]estimate|unsubstantiated|aspirational[\s-]roadmap|verifier ruling|adversarially reviewed|evidence[\s-]status|Customer Zero dashboard|blocked on Robin|withdrawn 2026)'
+        message: "Leaks internal governance language into outward copy."
+        fix: "Delete it. These artifacts exist to prevent unsafe claims, not to be quoted."
+      - id: L1.3
+        type: forbidden_pattern
+        scope: all
+        case_sensitive: true
+        pattern: '\b(CONTRADICTED|UNVERIFIED|SPECULATIVE|STATED|INFERRED)\b'
+        message: "Leaks a canon confidence marker into outward copy."
+        fix: "Remove it."
+
+  # -------------------------------------------------------------------------
+  # GATE S1 — spec integrity. ENGINE ADDITION, not in judge-rubric.md.
+  # These are knowable from the content spec before a token is spent, and a
+  # post that can never ship should never be drafted. Recorded in
+  # RUBRIC_CHANGELOG.md as an addition rather than folded into B1, because B1
+  # is a binary check in the rubric and must stay one.
+  # -------------------------------------------------------------------------
+  - id: S1
+    title: "Spec integrity"
+    rubric_ref: "engine addition — see RUBRIC_CHANGELOG.md 1.1.0"
+    authority: "engine/pain-points.md · engine/content-calendar.md 'Blocked or constrained'"
+    severity: blocking
+    checks:
+      - id: S1.1
+        type: registry_membership
+        field: pain_point
+        registry: pain_points
+        excluded: ["F4"]
+        message: "The content spec names a pain point that is not in the register, or one that is excluded from LinkedIn."
+        fix: "Set pain_point to a registered ID (A1–G3). F4 is AE-facing only and must not be published to LinkedIn."
+      - id: S1.2
+        type: blocked_topic
+        blocked:
+          E3: "Blocked until engineering supplies one paragraph on data location, retention and controls. It is real substance and should not go out vague."
+        message: "The content spec names a pain point that is currently blocked."
+        fix: "Choose a different pain point, or unblock it by getting the missing input."
+
+# ---------------------------------------------------------------------------
+# §B — binary checks the machine can decide (the rest go to the judge)
+# ---------------------------------------------------------------------------
+binary:
+  - id: B1
+    title: "Maps to exactly one registered pain point"
+    rubric_ref: "judge-rubric.md §B1"
+    severity: fail
+    checks:
+      - id: B1.1
+        type: registry_membership
+        field: pain_point
+        registry: pain_points
+        excluded: ["F4"]
+        message: "pain_point is not a registered ID (A1–G3), or is F4 which is excluded from LinkedIn."
+        fix: "Set pain_point to one registered ID from the register. F4 is AE-facing only."
+  - id: B4
+    title: "Length fits the format"
+    rubric_ref: "judge-rubric.md §B4"
+    severity: fail
+    checks:
+      - id: B4.1
+        type: length_range
+        applies_to_template: TEXT
+        field: caption_text
+        unit: chars
+        min: 1301
+        max: 2500
+        message: "Text post is outside the 1,301–2,500 character band."
+        fix: "Cut or extend the body to land inside the band. Length is capped here and earns nothing beyond it."
+      - id: B4.2
+        type: length_range
+        applies_to_template: DOC
+        field: caption_text
+        unit: words
+        min: 100
+        max: 200
+        message: "Document post copy is outside the 100–200 word band."
+        fix: "Trim the caption to 100–200 words. The argument lives in the slides."
+      - id: B4.3
+        type: length_range
+        applies_to_template: CARD
+        field: caption_text
+        unit: chars
+        min: 400
+        max: 1300
+        source: engine-default   # NOT from the rubric — the rubric does not band CARD.
+        message: "Card caption is outside the engine's 400–1,300 character working band."
+        fix: "Adjust the caption length. This band is an engine default, not a rubric rule — change it in config/claim-rules.yaml if the team disagrees."
+
+  - id: B6
+    title: "Slide count in range (DOC)"
+    rubric_ref: "judge-rubric.md §B6"
+    severity: fail
+    checks:
+      - id: B6.1
+        type: slide_count
+        applies_to_template: DOC
+        min: 6
+        max: 10
+        message: "Slide count outside 6–10. Under 5 reads unfinished; over 12 loses most readers."
+        fix: "Merge or split slides to land in 6–10."
+
+  - id: B8
+    title: "Per-slide limits (DOC)"
+    rubric_ref: "judge-rubric.md §B8"
+    severity: fail
+    checks:
+      - id: B8.1
+        type: slide_limits
+        applies_to_template: DOC
+        max_sentences: 2
+        max_blocks: 2
+        headline_min_words: 3
+        headline_max_words: 8
+        message: "A slide breaks the per-slide limits: max 2 sentences, max 2 text blocks, headline 3–8 words."
+        fix: "Cut the offending slide back to a headline plus at most one supporting line."
+
+  - id: B12
+    title: "CTA — one clear next step, or deliberately none"
+    rubric_ref: "HANDOFF.md open question 5 (proposed criterion, implemented as binary)"
+    severity: fail
+    status: proposed
+    checks:
+      - id: B12.1
+        type: cta_present
+        allow_none_value: "none-by-design"
+        message: "No CTA decision recorded. The reader should have exactly one next step, or the post should deliberately have none."
+        fix: "Write one CTA, or set cta to 'none-by-design'."
+
+# ---------------------------------------------------------------------------
+# §C — the mechanically decidable parts of the scored criteria.
+# These do not score the post. They hand the judge a fact so it does not have
+# to count characters, and they surface auto-zero triggers deterministically.
+# ---------------------------------------------------------------------------
+scored_mechanical:
+  - id: C0
+    title: "Plain English, and say the subject"
+    rubric_ref: "judge-rubric.md §C0"
+    checks:
+      - id: C0.1
+        type: required_pattern
+        scope: frontline
+        in_any: true
+        # THE SUBJECT WORD. Replace with the noun your reader must see to know
+        # the post is for them. It is not a style preference: on LinkedIn the
+        # algorithm classifies a post from its copy, so this word is also how
+        # the post gets distributed. Keep it to one or two alternatives.
+        pattern: '(?i)\b(meridian|data pipeline|pipelines?)\b'
+        severity: fail
+        message: "The word the subject appears nowhere a reader will look. A scroller has two seconds to work out whether this is about them, and the category label in the corner does not count."
+        fix: "Put the subject in the hook, or in the focal/headline. Not only in the eyebrow."
+      - id: C0.2
+        type: forbidden_pattern
+        scope: all
+        pattern: '(?i)\b(commercial model|operating model|institutional knowledge|consultant rotation|statement of work|change order|outcome-based SLA|governed pipeline|human-in-the-loop|time to value|platform utilisation|platform utilization|ticket deflection|capacity and operations|continuity and accountability|cost gap|estate)\b'
+        severity: fail
+        message: "Consultant language. This reads as an internal strategy document, not something written for a person on a phone."
+        fix: "Say it the way you would out loud. 'the commercial model' -> 'what you pay'. 'institutional knowledge' -> 'what your team learned'. 'time to value' -> 'how long before it does anything'. The full table is in prompts/generator.md."
+
+      - id: C0.3
+        type: required_pattern
+        scope: headline_only
+        in_any: true
+        # A heuristic, not a proof. "Does this mean anything alone?" is a
+        # judgement the judge makes at C0; this catches the common mechanical
+        # case — a headline made only of abstractions, with nothing the reader
+        # owns in it.
+        #
+        # THE SUBJECT WORD IS DELIBERATELY ABSENT from this list.
+        # C0.1 already requires every headline to name the subject, so including
+        # it here made the gate satisfiable by the thing another gate already
+        # mandates — C0.3 could never fire, and "the subject: no ceiling" walked
+        # through it onto a rendered card. The concrete noun has to be something
+        # other than the brand name.
+        # REWRITE THIS LIST FOR YOUR DOMAIN. These are the concrete nouns a
+        # reader in your market owns or recognises. The subject word from C0.1
+        # is deliberately NOT here: C0.1 already requires it in every headline,
+        # so including it would make this gate satisfiable by the thing another
+        # gate already mandates — which is exactly how it sat inert for weeks on
+        # the original project while a blind headline shipped.
+        pattern: '(?i)\b(dashboard|dashboards|job|jobs|alert|alerts|number|numbers|report|reports|run|runs|query|queries|table|tables|warehouse|analyst|analysts|team|teams|night|morning|week|weeks|day|days|hour|hours|cost|costs|budget|people|staff|invoice|contract|bill)\b'
+        severity: fail
+        message: "Blind headline. Cover the body copy and the biggest words on the card mean nothing on their own — which is how most people will meet them. Ogilvy: five times as many people read the headline as the body."
+        fix: "Make the focal/headline stand alone. Name the subject in it, or state the problem in full. 'An open tab' and 'No ceiling' are metaphors doing a headline's job; 'Nobody can tell you next year's the subject bill' is a headline."
+
+      - id: C0.4
+        type: forbidden_pattern
+        scope: headline_only
+        # A question headline is fine — often better than a statement, because
+        # the reader has to answer it themselves and cannot simply reject a
+        # claim. But only if they CANNOT answer it in one word. A headline
+        # opening on a yes/no auxiliary hands them an exit: "Is your the subject
+        # bill too high?" is answered "no" and scrolled past, and every gate we
+        # had passed it. Open questions (what / how much / who / when / why)
+        # cannot be closed that way, which is the whole point of asking.
+        pattern: '(?i)^\s*(is|are|was|were|do|does|did|can|could|should|would|will|have|has|had|am)\b[^?]*\?'
+        severity: fail
+        message: "Dismissible question. It opens on a yes/no auxiliary, so the reader answers it in one word and keeps scrolling — which is the opposite of what a question headline is for."
+        fix: "Open it instead. 'Is your the subject bill too high?' -> 'What will the subject cost you next year?' The reader cannot answer that one without going to find out, and not knowing is the point."
+
+  - id: C1
+    title: "Hook length"
+    rubric_ref: "judge-rubric.md §C1"
+    checks:
+      - id: C1.1
+        type: word_count
+        field: hook
+        max: 14
+        warn_above: 10
+        severity: fail
+        message: "Hook is over 14 words. Hooks under 10 words outperform longer by roughly 40%, and 65% of readers decide on the opening line alone."
+        fix: "Cut to under 10 words and keep the loop open — do not state the payoff."
+
+  - id: C3
+    title: "Brand voice — auto-zero phrases"
+    rubric_ref: "judge-rubric.md §C3"
+    severity: fail
+    auto_zero: true
+    checks:
+      - id: C3.1
+        type: forbidden_pattern
+        scope: all
+        pattern: "(?i)(revolutioni[sz]\\w+|game[\\s-]chang\\w+|unlock the power of|in today'?s (fast[\\s-]paced|rapidly evolving|ever[\\s-]changing|dynamic)[^.!?]{0,30}(landscape|world|environment)|we'?re excited to announce|we are excited to announce)"
+        message: "Auto-zero phrase on the C3 list. Two of these are live verbatim in this niche today."
+        fix: "Delete the phrase and state the point plainly. Numbers over adjectives."
+      - id: C3.2
+        type: forbidden_pattern
+        scope: all
+        severity: warn
+        pattern: '(?i)\b(synergy|paradigm shift|best[\s-]in[\s-]class|world[\s-]class|next[\s-]generation|state[\s-]of[\s-]the[\s-]art|supercharge|turbocharge|seamlessly|cutting[\s-]edge|delve)\b'
+        message: "Buzzword. Not an auto-zero, but the voice spec says no buzzword density and no vague superlatives."
+        fix: "Replace with the concrete thing it stands in for."
+
+  - id: C4
+    title: "Reads as human — mechanical AI tells"
+    rubric_ref: "judge-rubric.md §C4 · linkedin-niche-scan.md §1"
+    severity: fail
+    checks:
+      - id: C4.1
+        type: count_max
+        scope: all
+        pattern: '[✓✔✅☑]'
+        max: 2
+        message: "Tick-mark feature list — the house style of this category and completely interchangeable. Nobody saves a spec sheet."
+        fix: "Replace the list with one argument carried in prose, or a genuinely reusable artifact the reader would return to."
+      - id: C4.2
+        type: count_max
+        scope: caption
+        pattern: "(?i)\\bit'?s not just\\b[^.!?]{0,80}(—|--|,\\s*it'?s)"
+        max: 0
+        message: "The 'It's not just X — it's Y' construction. Most reliable AI tell, and readers are learning it fast."
+        fix: "Say the second half only. The first half is throat-clearing."
+      - id: C4.3
+        type: ratio_max
+        scope: caption
+        numerator_pattern: '—'
+        denominator: sentences
+        max: 0.6
+        message: "An em-dash in most sentences. Reads as machine-generated rhythm."
+        fix: "Convert most em-dashes to full stops. Short declarative sentences are the house voice."
+      - id: C4.4
+        type: count_max
+        scope: caption
+        pattern: '\?\s+(Yes|No|The answer is|Simple\.|Because\b|It\x27?s\b)'
+        max: 0
+        message: "A rhetorical question answered immediately. On the C4 zero list."
+        fix: "Ask the question and let it sit, or cut the question and make the statement."
+      - id: C4.5
+        type: count_max
+        scope: caption
+        severity: warn
+        pattern: '\b\w+, \w+,? and \w+\b'
+        max: 2
+        message: "A tricolon in most paragraphs. Vary the rhythm."
+        fix: "Break one of the three-part lists into a plain sentence."

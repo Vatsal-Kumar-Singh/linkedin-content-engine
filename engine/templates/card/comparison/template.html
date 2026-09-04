@@ -1,0 +1,49 @@
+<!-- TEMPLATE 02 — BEFORE / AFTER. Two worlds, one divider, one clear winner
+     side. Not a table: the right column is materially heavier than the left. -->
+<style>
+  .frame{padding:{{margin}}px;}
+{{> bandstyle}}
+  .headline{margin-top:34px;font-size:{{headline_size}}px;max-width:16ch;flex:none;}
+  .cmp{display:grid;grid-template-columns:1fr 1px 1fr;flex:1 1 auto;min-height:0;
+       margin-top:32px;column-gap:0;}
+  .cmp .vdiv{background:var(--structure);opacity:.4;position:relative;}
+  .cmp .vdiv::after{content:"";position:absolute;left:-5px;top:50%;width:11px;height:11px;
+                    background:var(--accent);transform:translateY(-50%) rotate(45deg);}
+  .side{display:flex;flex-direction:column;padding-right:52px;}
+  .side + .vdiv + .side{padding:0 0 0 52px;}
+  .side h3{
+    font-family:var(--body);font-weight:500;font-size:25px;letter-spacing:.2em;
+    text-transform:uppercase;color:var(--muted);opacity:.62;
+    padding-bottom:16px;border-bottom:1px solid var(--structure);margin-bottom:8px;
+  }
+  .side--new h3{color:var(--accent);opacity:1;border-bottom-color:var(--accent);}
+  .row{
+    font-family:var(--display);font-weight:300;font-size:{{row_size}}px;line-height:1.24;
+    letter-spacing:-.012em;padding:17px 0;border-bottom:1px solid var(--edge);color:var(--fg);
+    opacity:.78;
+  }
+  .side--new .row{font-weight:400;opacity:1;}
+  .row:last-child{border-bottom:0;}
+</style>
+<div class="stage">
+  {{> wash}}
+  <div class="frame">
+    <div class="topbar">
+      <div class="eyebrow">{{eyebrow}}</div>
+    </div>
+    <h2 class="headline" data-fit data-max="{{headline_size}}" data-min="56">{{{headline_html}}}</h2>
+    <div class="cmp" data-overflow-guard>
+      <div class="side side--old">
+        <h3>{{left_label}}</h3>
+        {{#rows_left}}<div class="row" data-fit data-max="{{row_size}}" data-min="30">{{{.}}}</div>{{/rows_left}}
+      </div>
+      <div class="vdiv"></div>
+      <div class="side side--new">
+        <h3>{{right_label}}</h3>
+        {{#rows_right}}<div class="row" data-fit data-max="{{row_size}}" data-min="30">{{{.}}}</div>{{/rows_right}}
+      </div>
+    </div>
+    {{> band}}
+    <div class="corner corner--tr"></div><div class="corner corner--bl"></div>
+  </div>
+</div>

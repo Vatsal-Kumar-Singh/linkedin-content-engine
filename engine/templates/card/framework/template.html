@@ -1,0 +1,43 @@
+<!-- TEMPLATE 05 — FRAMEWORK / SYSTEM MAP. Four blocks, one spine, aggressive
+     simplification. The diagram should make the idea faster to grasp than the
+     sentence would be. -->
+<style>
+  .frame{padding:{{margin}}px;}
+{{> bandstyle}}
+  .headline{margin-top:32px;font-size:{{headline_size}}px;max-width:16ch;flex:none;}
+  .sub{margin-top:18px;font-family:var(--body);font-weight:300;font-size:30px;line-height:1.42;
+       color:var(--muted);max-width:34ch;flex:none;}
+  .map{display:grid;grid-template-columns:1fr 1fr;gap:16px;flex:1 1 auto;min-height:0;
+       margin:32px 0 8px;}
+  .node{
+    background:var(--raised);border:1px solid var(--edge);position:relative;
+    padding:22px 24px 22px;display:flex;flex-direction:column;gap:9px;
+  }
+  .node::before{content:"";position:absolute;top:0;left:0;width:52px;height:2px;background:var(--accent);}
+  .node .n{font-family:var(--body);font-weight:500;font-size:25px;letter-spacing:.16em;color:var(--accent);}
+  .node .t{font-family:var(--display);font-weight:600;font-size:{{node_size}}px;line-height:1.08;
+           letter-spacing:-.02em;color:var(--fg);}
+  .node .b{font-family:var(--body);font-weight:300;font-size:25px;line-height:1.36;color:var(--muted);}
+  .node:nth-child(2)::after,.node:nth-child(4)::after{display:none;}
+</style>
+<div class="stage">
+  {{> wash}}
+  <div class="frame">
+    <div class="topbar">
+      <div class="eyebrow">{{eyebrow}}</div>
+    </div>
+    <h2 class="headline" data-fit data-max="{{headline_size}}" data-min="52">{{{headline_html}}}</h2>
+    {{#sub}}<p class="sub" data-fit data-max="30" data-min="26">{{{sub_html}}}</p>{{/sub}}
+    <div class="map" data-overflow-guard>
+      {{#nodes}}
+      <div class="node">
+        <div class="n">{{n}}</div>
+        <div class="t" data-fit data-max="{{node_size}}" data-min="32">{{title}}</div>
+        {{#body}}<div class="b" data-fit data-max="27" data-min="24">{{body}}</div>{{/body}}
+      </div>
+      {{/nodes}}
+    </div>
+    {{> band}}
+    <div class="corner corner--tr"></div><div class="corner corner--bl"></div>
+  </div>
+</div>

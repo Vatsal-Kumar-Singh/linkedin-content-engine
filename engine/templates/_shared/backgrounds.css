@@ -1,0 +1,201 @@
+/* Background layers. Absolutely positioned, never in flow, never interactive.
+   Fixed stacking order so composing several never produces a surprise. */
+
+.bg{position:absolute;inset:0;width:100%;height:100%;pointer-events:none;}
+.bg--grid{z-index:1;}
+.bg--dots{z-index:1;}
+.bg--glow{
+  z-index:2;
+  background:radial-gradient(
+    circle {{glow_spread}}% at var(--glow-x,72%) var(--glow-y,18%),
+    color-mix(in srgb, var(--accent) 100%, transparent) 0%,
+    transparent 68%);
+  opacity:{{glow_opacity}};
+}
+.bg--geometry{z-index:3;}
+.bg--network{z-index:3;}
+.bg--flow{z-index:3;}
+.bg--linework{z-index:4;}
+
+/* Content always sits above every background layer. */
+.frame{position:relative;z-index:5;}
+
+/* A raised panel — the third depth layer. Not glassmorphism: a flat, slightly
+   lighter navy with a single hairline edge. */
+.panel{
+  background:var(--raised);
+  border:1px solid var(--edge);
+  position:relative;
+}
+.panel--flush{border-radius:0;}
+
+/* ---- micro-details -------------------------------------------------------
+   Small components that make a composition feel finished. Used deliberately,
+   never scattered. */
+
+.corner{position:absolute;width:26px;height:26px;border:1px solid var(--structure);opacity:.55;}
+.corner--tl{top:0;left:0;border-right:0;border-bottom:0;}
+.corner--tr{top:0;right:0;border-left:0;border-bottom:0;}
+.corner--bl{bottom:0;left:0;border-right:0;border-top:0;}
+.corner--br{bottom:0;right:0;border-left:0;border-top:0;}
+
+.rail{
+  position:absolute;top:0;bottom:0;width:1px;background:var(--structure);opacity:.4;
+}
+.rail__label{
+  position:absolute;left:50%;transform:translateX(-50%) rotate(180deg);
+  writing-mode:vertical-rl;
+  font-family:var(--body);font-weight:500;font-size:25px;letter-spacing:.24em;
+  text-transform:uppercase;color:var(--muted);opacity:.75;
+  background:var(--ground);padding:18px 0;
+}
+
+.index{
+  font-family:var(--body);font-weight:500;font-size:24px;letter-spacing:.16em;
+  color:var(--accent);
+}
+.index em{font-style:normal;color:var(--muted);opacity:.7;}
+
+.hair{height:1px;background:var(--structure);opacity:.45;}
+.hair--accent{background:var(--accent);opacity:1;}
+
+.tickrow{display:flex;align-items:flex-end;gap:7px;height:22px;}
+.tickrow i{display:block;width:1px;background:var(--structure);opacity:.5;height:9px;}
+.tickrow i:nth-child(5n+1){height:22px;opacity:.85;}
+
+.chip{
+  display:inline-flex;align-items:center;gap:12px;
+  font-family:var(--body);font-weight:500;font-size:25px;letter-spacing:.15em;
+  text-transform:uppercase;color:var(--muted);
+}
+.chip::before{content:"";width:22px;height:1px;background:var(--accent);}
+
+/* Brand lockup — present, never the focal point. */
+.brandmark{
+  font-family:var(--display);font-weight:600;font-size:34px;letter-spacing:-.01em;
+  color:var(--fg);white-space:nowrap;
+}
+.brandmark span{color:var(--accent);}
+.brandline{
+  font-family:var(--body);font-weight:400;font-size:25px;letter-spacing:.13em;
+  text-transform:uppercase;color:var(--muted);opacity:.62;
+}
+
+/* Optional, never automatic. Only rendered when source_label is populated. */
+.source{
+  font-family:var(--body);font-weight:400;font-size:25px;letter-spacing:.04em;
+  color:var(--muted);opacity:.62;
+}
+
+/* ---------------------------------------------------------------------------
+   Travelling pulse on the background tracings (animated variants only).
+   The dash is one bright segment chasing a gap the length of the whole circle,
+   so animating the offset walks a highlight around the ring. Both rings share
+   a period and differ only in phase, which keeps the loop exactly one period
+   long — different periods would make the seamless loop their lowest common
+   multiple, and a 7s idea becomes a 70s file.
+   --------------------------------------------------------------------------- */
+/* The sweep occupies 88% of the cycle. Earlier passes reserved a long explicit
+   rest so the motion would not read as a loading spinner, but the content mask
+   now supplies that dip on its own — the comet dims every time it passes behind
+   the type. Holding a second dead phase on top of it just froze the card. */
+@keyframes pulse-sweep {
+  0%            { stroke-dashoffset: var(--pulse-from); }
+  88%, 100%     { stroke-dashoffset: var(--pulse-to); }
+}
+/* Fast in, long hold, fast out. Ramping brightness across the whole sweep, as
+   the first pass did, meant the streak was near its dimmest exactly while it
+   crossed the middle of the card where anyone would actually see it. */
+@keyframes pulse-fade {
+  0%, 88%, 100% { opacity: 0; }
+  6%, 80%       { opacity: var(--pulse-peak); }
+}
+.pulse{
+  stroke-dashoffset: var(--pulse-from);
+  animation: pulse-sweep var(--pulse-secs) cubic-bezier(.35,0,.5,1) infinite,
+             pulse-fade  var(--pulse-secs) linear infinite;
+}
+/* Negative delay starts the inner ring mid-cycle rather than waiting out a
+   full period before it first appears. */
+.pulse--inner{ animation-delay: calc(var(--pulse-secs) / -2), calc(var(--pulse-secs) / -2); }
+
+/* ---------------------------------------------------------------------------
+   WASH MOTION — both grounds.
+
+   Pass 1 animated the base strokes directly, which only worked on navy: a
+   brightening sweep on a pale ground is invisible. The highlight is now its own
+   layer, so the same keyframes serve both — what changes is only whether that
+   layer is lighter or darker than what sits under it.
+
+   Everything drives stroke-dashoffset against pathLength="1000". Declaring a
+   nominal length is what lets one set of numbers work for a spiral and a
+   straight moire line, whose real arc lengths differ by an order of magnitude.
+   --------------------------------------------------------------------------- */
+
+.wash-hi path{ opacity: 0; }
+
+/* SWEEP — a light runs the length of every stroke and the figure resolves in
+   sequence. The dash is long (260 of 1000) so it reads as a passage of light
+   rather than a bead sliding along a wire, which is what 120 gave in pass 1. */
+@keyframes wash-sweep {
+  0%        { stroke-dashoffset: 1260; opacity: 0; }
+  8%        { opacity: 1; }
+  74%       { opacity: 1; }
+  86%, 100% { stroke-dashoffset: -260; opacity: 0; }
+}
+.wash--sweep .wash-hi path,
+.wash--both  .wash-hi path{
+  stroke-dasharray: 260 1000;
+  animation: wash-sweep 7s cubic-bezier(.4,0,.5,1) infinite;
+}
+/* Staggered so the figure reveals its structure across the bundle rather than
+   flashing as one block. Prime-ish offsets stop the strokes pairing up. */
+.wash--sweep .wash-hi path:nth-child(2n),
+.wash--both  .wash-hi path:nth-child(2n){ animation-delay: -.55s; }
+.wash--sweep .wash-hi path:nth-child(3n),
+.wash--both  .wash-hi path:nth-child(3n){ animation-delay: -1.15s; }
+.wash--sweep .wash-hi path:nth-child(5n),
+.wash--both  .wash-hi path:nth-child(5n){ animation-delay: -1.85s; }
+.wash--sweep .wash-hi path:nth-child(7n),
+.wash--both  .wash-hi path:nth-child(7n){ animation-delay: -2.6s; }
+
+/* The accent breathes on the same period, so the figure has one heartbeat
+   rather than two unrelated rhythms. */
+@keyframes wash-dot {
+  0%, 100%  { opacity: .45; }
+  42%       { opacity: 1; }
+}
+.wash--anim .wash-dot{ animation: wash-dot 7s ease-in-out infinite; }
+
+/* DRIFT — the ground itself turns. Very slow: faster and the colour moves
+   visibly under static type, which reads as a fault rather than as depth.
+   Note this mode is expensive to encode as GIF (every pixel changes every
+   frame, ~17x the file size of sweep) and wants MP4. */
+@keyframes wash-drift { to { transform: rotate(360deg); } }
+.wash--drift .wash-ground,
+.wash--both  .wash-ground{
+  transform-origin: 50% 50%;
+  animation: wash-drift 44s linear infinite;
+}
+
+/* DRAW — the figure draws itself in, holds, then releases. The hold is most of
+   the loop: a figure that redraws every few seconds is a loading spinner. */
+@keyframes wash-draw {
+  0%        { stroke-dashoffset: 1000; opacity: 1; }
+  40%, 82%  { stroke-dashoffset: 0;    opacity: 1; }
+  100%      { stroke-dashoffset: 0;    opacity: 0; }
+}
+.wash--draw .wash-hi path{
+  stroke-dasharray: 1000 1000;
+  animation: wash-draw 7s cubic-bezier(.32,0,.28,1) infinite;
+}
+.wash--draw .wash-hi path:nth-child(2n){ animation-delay: -.3s; }
+.wash--draw .wash-hi path:nth-child(3n){ animation-delay: -.62s; }
+.wash--draw .wash-hi path:nth-child(5n){ animation-delay: -.95s; }
+
+@media (prefers-reduced-motion: reduce){
+  .wash--anim .wash-hi path,
+  .wash--anim .wash-dot,
+  .wash--anim .wash-ground{ animation: none !important; }
+  .wash--anim .wash-hi path{ opacity: 0; }
+}

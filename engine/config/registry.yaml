@@ -1,0 +1,79 @@
+# Controlled vocabularies. The generator may only choose from these.
+# EXAMPLE CONTENT — replace with your own.
+#
+# This is what the generator actually reads: it pulls each pain's title and
+# value from here, not from any markdown file. If you keep a pain-point
+# document as your source of truth, sync it into this file and add a test that
+# fails when the two drift. On the original project that drift went unnoticed
+# through two rewrites, and the model was fed superseded copy the whole time.
+#
+# The product below is fictional: Meridian, data pipeline monitoring.
+
+pain_points:
+  A1: { family: A, title: "A pipeline broke on Sunday and nobody knew until Tuesday's board deck.", value: "Every pipeline is watched, and you hear about a break before your CEO does.", star: true }
+  A2: { family: A, title: "Four teams own pieces of the pipeline. None of them owns the number.", value: "One place shows who owns each pipeline and who is on the hook when it breaks." }
+  A3: { family: A, title: "You find out a pipeline is broken from someone in Sales.", value: "Alerts reach the team that can fix it, not the team that noticed." }
+  B1: { family: B, title: "Your analysts start every morning checking whether last night's pipelines ran.", value: "The check runs itself. Your analysts start on the work you hired them for.", star: true }
+  B2: { family: B, title: "The same pipeline breaks the same way every month.", value: "A pipeline that has failed before is watched for that failure specifically." }
+  C1: { family: C, title: "Someone asks where a number came from and three people guess.", value: "Every number traces back to the pipeline that produced it and when it last ran clean.", star: true }
+  C2: { family: C, title: "Two dashboards show different revenue and both are technically right.", value: "When two numbers disagree you can see which pipeline diverged, and when." }
+
+families:
+  # The family sentence is written to be READ. Keep it plain: if you would not
+  # say it out loud to a colleague, it does not belong here.
+  A: "Your data pipelines fail quietly — nobody finds out until a dashboard is wrong"
+  B: "Your analysts spend the week firefighting — the people you hired to model data are chasing broken jobs"
+  C: "Nobody can say whether a number is trustworthy — the dashboard says 4.2m and nobody will say whether to believe it"
+
+# Short label for the card eyebrow. The family sentence is written to be read;
+# an eyebrow is glanced at, truncated to 26 characters and set in caps, so it
+# needs its own wording rather than the first clause of a sentence.
+eyebrows:
+  # Short label for the card eyebrow. An eyebrow is glanced at, truncated to 26
+  # characters and set in caps, so it needs its own wording rather than the
+  # first clause of the family sentence.
+  A: "When it breaks"
+  B: "The morning check"
+  C: "Where it came from"
+
+personas:
+  cio-cto:            "CIO / CTO — owns the platform budget and the board narrative"
+  vp-platform:        "VP / Head of Data — owns the platform and the analyst team"
+  ciso-risk:          "CISO / risk and compliance — owns what AI is allowed to touch"
+  cfo-procurement:    "CFO / procurement — owns the contract and the renewal"
+  transformation-exec: "Chief Digital / Transformation Officer — owns the outcome"
+
+funnel_stages:
+  TOFU: "Broad audience, low intent, no product. Demand creation."
+  MOFU: "Knows the problem, weighing approaches. Category education."
+  BOFU: "In-market. Specifics, checklists, pricing, case studies."
+
+content_types: [stat-creative, statement, comparison, problem-spiral, explainer, checklist, framework, hypothetical-case-study, long-form-text]
+
+arcs:
+  "single stat":        "One number, then what sits behind it."
+  "stat arc":           "One number, then what sits behind it."
+  "explainer":          "Here's how this works, step by step."
+  "before -> after":    "Two states of the same situation."
+  "old way -> new way": "Two columns. Never a named competitor."
+  "problem spiral":     "Decline, decline, decline — then the turn."
+
+templates:
+  CARD: { engagement: 5.30, note: "Single card. One number or one sentence, full bleed." }
+  DOC:  { engagement: 7.00, note: "Document carousel, 6–10 slides, exported as PDF. Top format." }
+  TEXT: { engagement: 4.50, note: "Long-form text, 1,301–2,500 chars. Zero design cost." }
+
+benchmarks:
+  engagement_rate_median: 5.72
+  engagement_rate_top_decile: 22.45
+  impressions_median: 826
+  source: "Oktopost LinkedIn Benchmark, March 2026, n=1,000+ B2B company pages"
+
+# What the card footer prints. Was hard-coded in the renderer on the original
+# project, which meant a second company could not use it without editing Python.
+wordmark: "Meridian"          # rendered with the middle letter accented
+brandline: "Your pipelines tell you when they break"
+meta_label: "pipeline monitoring"
+
+positioning_line: "Your pipelines tell you when they break."
+publisher: "company page"   # or a personal profile — see the linkedin-post skill

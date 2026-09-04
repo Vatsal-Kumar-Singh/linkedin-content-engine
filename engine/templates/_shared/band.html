@@ -1,0 +1,17 @@
+<div class="band">
+  {{#strip}}
+  <div class="strip">
+    {{#strip_cells}}<div class="cell"><div class="k">{{k}}</div><div class="v">{{{v}}}</div></div>{{/strip_cells}}
+  </div>
+  {{/strip}}
+  <div class="footer">
+    <div class="footer__left">
+      <div class="brandmark">{{{wordmark_html}}}</div>
+      <div class="hair" style="width:32px"></div>
+      <div class="brandline">{{brandline}}</div>
+    </div>
+    <div class="footer__right">
+      {{#source_label}}<div class="source">{{source_label}}</div>{{/source_label}}
+    </div>
+  </div>
+</div>
