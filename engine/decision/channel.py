@@ -20,6 +20,7 @@ Ruling 4 still holds. It recommends; a person decides.
 
 from __future__ import annotations
 
+from .company_type import implications
 from .scoring import JOB_SERVES, JOB_TO_TIER
 
 # The three profile answers this reads, and what each one can be.
@@ -154,6 +155,25 @@ def recommend_channels(profile: dict) -> dict:
         "why": "a visitor to the page has already arrived, so the page is a validation surface "
                "rather than a reach surface",
     }
+    # WHAT YOU SELL CAN OVERRIDE WHAT THE MARKET KNOWS. Awareness decides which channel gets
+    # funded first for most companies; for a service it does not get to, because the thing being
+    # bought is the people. An organisation page cannot answer "do I want these specific humans
+    # in my business", and that is the question a service buyer is actually asking.
+    imp = implications(profile)
+    if imp["declared"] and imp["offering"] == "service" and primary != "clevel":
+        out["reasons"].append(
+            "OVERRIDDEN by what this company sells. Awareness would have funded the page first, "
+            "but a service sale is a bet on people and the content that works has a person's "
+            "name on it. A named channel is the primary one here regardless of awareness")
+        primary = "clevel"
+    for c in imp["cautions"]:
+        out["cautions"].append(c)
+    if not imp["declared"]:
+        out["cautions"].append(
+            "company_type is not declared, so nothing about what you sell or how it is bought "
+            "shaped this. That is a real gap: most content advice assumes SaaS sold PLG and "
+            "transfers badly to anything else")
+
     out["primary"] = primary
 
     # --- the condition that moves claim-bearing work back to the page ----------------------

@@ -116,6 +116,26 @@ record to read.
 objective, what are you willing to accept less of?"* An objective that costs nothing is not an
 objective, and weights that come back near-equal mean nobody has chosen.
 
+**And declare the company type, because it changes the answer.** Two independent axes: what you
+sell (SaaS, service, physical product) and how it gets bought (PLG, SLG, PLS, enterprise). A SaaS
+product can be PLG or SLG; a service is almost never PLG.
+
+It is not a label. `engine/decision/company_type.py` reads it and it changes real decisions:
+
+- **In PLG the reader is the buyer; in SLG the reader is often a messenger.** SLG content has a
+  second audience it never meets, so the artefact has to survive being forwarded with nobody
+  there to explain it. PLG content does not, and consensus work there answers an objection
+  nobody is raising
+- **A service sale is a bet on people**, so a named person's channel is primary regardless of
+  what market awareness would otherwise say. An organisation page cannot answer "do I want these
+  specific humans in my business"
+- **A physical product's claims are checkable and wrong ones are expensive**, which is why the
+  Gate is a hard binary rather than a style guideline
+
+**Undeclared is not a default.** Most published advice assumes SaaS sold PLG and reads plausible
+everywhere because the vocabulary is generic; it transfers badly because the buying model
+underneath is different. The engine says so rather than guessing.
+
 ---
 
 ## Phase 3 — Decide what to publish

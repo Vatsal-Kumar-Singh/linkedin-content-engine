@@ -452,3 +452,89 @@ class TestFormatDrivesTemplate(unittest.TestCase):
             out = m.to_spec(slot, 1, "t", rec)
             self.assertEqual(out["template"], rec["template"], ch)
             self.assertEqual(out["creative_format"], rec["format"], ch)
+
+
+# =================================================================================================
+# Company type. Two axes: what you sell, and how it gets bought.
+#
+# It sat in the profile and nothing read it, which made it a note rather than a decision. These
+# check that it now changes answers, and that an undeclared type is not silently treated as the
+# case most published advice assumes.
+# =================================================================================================
+
+class TestCompanyType(unittest.TestCase):
+    def _ct(self):
+        from decision import company_type
+        return company_type
+
+    def test_an_undeclared_type_is_not_quietly_defaulted(self):
+        """Most content advice assumes SaaS sold PLG. Defaulting to it hides the mismatch."""
+        imp = self._ct().implications({})
+        self.assertFalse(imp["declared"])
+        self.assertEqual(imp["load_bearing"], [])
+        self.assertTrue(imp["missing"])
+
+    def test_every_rule_table_key_is_an_allowed_value(self):
+        ct = self._ct()
+        self.assertEqual(set(ct.MOTION_RULES), ct.MOTION)
+        self.assertEqual(set(ct.OFFERING_RULES), ct.OFFERING)
+
+    def test_every_named_job_is_a_real_buying_job(self):
+        """A typo here silently stops a load-bearing job from ever being checked for."""
+        ct = self._ct()
+        for m, rules in ct.MOTION_RULES.items():
+            for job in rules["load_bearing"] + rules["discounted"]:
+                self.assertIn(job, JOB_TO_TIER, "%s names a job that does not exist" % m)
+
+    def test_plg_discounts_consensus_and_slg_turns_on_it(self):
+        """The single most useful distinction: in PLG the reader is the buyer; in SLG a messenger."""
+        ct = self._ct()
+        plg = ct.implications({"company_type": {"offering": "saas", "motion": "plg"}})
+        slg = ct.implications({"company_type": {"offering": "saas", "motion": "slg"}})
+        self.assertIn("consensus creation", plg["discounted"])
+        self.assertIn("consensus creation", slg["load_bearing"])
+
+    def test_selling_a_service_makes_the_named_channel_primary(self):
+        """Awareness funds the page first for most companies. A service sale is a bet on people,
+        and an organisation page cannot answer whether you want these specific humans."""
+        base = {"channel_strategy": {"founder_network": {"viable": "yes", "evidence": "x"},
+                                     "category_awareness": "established",
+                                     "named_person_exposure": "low"}}
+        saas = dict(base, company_type={"offering": "saas", "motion": "plg"})
+        svc = dict(base, company_type={"offering": "service", "motion": "slg"})
+        self.assertEqual(channel.recommend_channels(saas)["primary"], "company")
+        self.assertEqual(channel.recommend_channels(svc)["primary"], "clevel")
+
+    def test_an_undeclared_type_is_flagged_on_the_channel_recommendation(self):
+        base = {"channel_strategy": {"founder_network": {"viable": "yes", "evidence": "x"},
+                                     "category_awareness": "emerging",
+                                     "named_person_exposure": "low"}}
+        self.assertTrue(any("company_type is not declared" in c
+                            for c in channel.recommend_channels(base)["cautions"]))
+
+    def test_the_check_does_not_demand_what_a_channel_cannot_carry(self):
+        """**A warning that cannot be satisfied trains people to ignore the ones that can be.**
+
+        An executive profile carries no consensus-creation work by construction, so demanding it
+        there is noise. It is still reported, as a pointer to the channel that does carry it.
+        """
+        ct = self._ct()
+        prof = {"company_type": {"offering": "saas", "motion": "slg"}}
+        carried = {"problem identification", "solution exploration"}
+        out = ct.check_calendar(prof, carried, carried)
+        self.assertTrue(all("not carried by this channel" in f for f in out), out)
+
+    def test_the_check_still_flags_a_gap_the_channel_could_have_filled(self):
+        ct = self._ct()
+        prof = {"company_type": {"offering": "saas", "motion": "slg"}}
+        carried = {"consensus creation", "validation", "supplier selection"}
+        out = ct.check_calendar(prof, {"validation"}, carried)
+        self.assertTrue(any(f.startswith("NO consensus creation") for f in out), out)
+
+    def test_it_returns_no_score_multipliers(self):
+        """Constraints and cautions only. A scorer that refuses to invent a length band must not
+        invent a weighting because a document implied one mattered."""
+        imp = self._ct().implications({"company_type": {"offering": "product",
+                                                        "motion": "enterprise"}})
+        for v in imp.values():
+            self.assertNotIsInstance(v, float)

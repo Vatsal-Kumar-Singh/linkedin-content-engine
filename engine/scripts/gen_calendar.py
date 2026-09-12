@@ -30,6 +30,7 @@ sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 import yaml  # noqa: E402
 
 from decision import channel as channel_mod  # noqa: E402
+from decision import company_type as ct_mod  # noqa: E402
 from decision import profile as profile_mod  # noqa: E402
 from decision.scoring import (ANGLE_TO_JOB, ANGLE_TO_OTHER_OBJECTIVE, JOB_TO_TIER,  # noqa: E402
                               classify, gate, recommend, score_slot)
@@ -259,6 +260,19 @@ def main():
               "talking: photographs beat designed cards on most personal-profile corpora, and no "
               "renderer takes a photograph." % (not_rendered, len(chosen)))
         print("Those ship on TEXT, with the caption and a production note saying what to shoot.")
+
+    # DOES THIS CALENDAR DO THE JOBS THIS COMPANY'S BUYING MODEL TURNS ON?
+    #
+    # A missing load-bearing job is the gap that goes unnoticed for a quarter, because nothing
+    # about a calendar full of good posts looks wrong until somebody asks who the late-stage work
+    # was for. And a job the motion barely uses is effort spent answering an objection nobody in
+    # this buying model raises.
+    imp = ct_mod.implications(prof)
+    if imp["declared"]:
+        print("\ncompany type: %s sold %s. This buying model turns on: %s"
+              % (imp["offering"], (imp["motion"] or "").upper(), ", ".join(imp["load_bearing"])))
+    for f in ct_mod.check_calendar(prof, {c["job"] for _, c, _ in chosen}, carried):
+        print("  ! %s" % f)
 
     if not a.write:
         print("\nNothing written. Re-run with --write <dir> to emit specs into posts/<dir>/.")
