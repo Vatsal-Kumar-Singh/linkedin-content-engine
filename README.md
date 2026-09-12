@@ -10,6 +10,16 @@ every draft through a loop that tries to reject it before a human ever sees it:
 generate → deterministic gates → independent judge → revise → render → design critic
 ```
 
+Before any of that, it can tell you **what to publish and why**:
+
+```
+intake → company profile → Gate / Lift / Fit → channel split → calendar
+```
+
+That half ships with **no measurements of its own**. It reads them from a profile you fill in from
+your own corpus, and where the profile is silent it returns nothing and says which input is
+missing, rather than scoring you against somebody else's audience.
+
 It ships with a fictional example product, so a fresh clone renders something
 immediately. Swap the config for yours and it is your engine.
 

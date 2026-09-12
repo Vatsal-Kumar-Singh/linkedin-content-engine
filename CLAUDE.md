@@ -32,6 +32,29 @@ the list with whatever your own sources are full of.
 
 ---
 
+## Two halves: deciding, and writing
+
+`engine/postengine/` writes a post and renders it. **`engine/decision/` decides whether it should
+exist**, on which channel, in what form — and shows its reasoning so a person can disagree.
+
+```bash
+python engine/decision/profile.py example-meridian     # read a company profile
+```
+
+**It carries no measurements.** Not as an omission: an earlier version shipped one company's
+length bands and format medians as a fallback, so anybody who had not measured their own corpus
+still got a score, and the score looked exactly like a real one. Every number now comes from the
+profile of the company being written for. Without one, Lift and Fit return `None` and name what is
+missing.
+
+**Refusing is the useful behaviour.** The gap tells you the corpus has never been measured, which
+is a real finding about the project rather than a defect in the tool.
+
+`docs/decision/` has the architecture, the intake, the research the models are graded against, and
+the method for eliciting what content is actually for.
+
+---
+
 ## Getting oriented
 
 ```bash

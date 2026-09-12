@@ -28,10 +28,40 @@ This is the rule most likely to slip, because every pain in the register is writ
 as problem *plus* what we do about it. On TOFU only the left column ships. Nothing
 enforces that by default, so make it a gate or a review question.
 
-**BOFU is not really feed content.** It is sales enablement that happens to live on
+**Most BOFU is not feed content.** It is sales enablement that happens to live on
 LinkedIn — an asset a rep sends in a follow-up, links in a DM, shows on a call. Its
 audience is the people in your pipeline, not the feed. Judge it by whether a rep
 used it, and make it when sales asks rather than on a schedule.
+
+**The exception, and it is the one that matters.** *The test is not the tier. It is
+whether the reader can be reached any other way.* A rep can send a spec sheet to a
+contact who asked for it. **Nobody can send anything to the person who blocks the
+deal and never takes a vendor call** — the security reviewer, the platform owner,
+the safety lead. They are not in your pipeline and never will be.
+
+For that reader the feed is not a second-best channel, it is the only one. Schedule
+the consensus artefacts: the objection they will raise, answered for the champion
+who has to face them without you in the room. Keep the collateral off the feed.
+
+This was learned the expensive way: a calendar with a documented BOFU bank, every
+item deliberately unscheduled, and nothing anywhere that armed a champion against
+the person who could stop the project.
+
+## Decide it, do not assume it
+
+`engine/decision/` scores a planned slot three ways and never blends them, because
+they fail differently:
+
+| | |
+|---|---|
+| **Gate** | May we publish this at all. Binary, runs first, holds the claim rules |
+| **Lift** | What this treatment is worth, from **your own** measured corpus |
+| **Fit** | Is it the right thing to say, given what your content is for |
+
+**It ships with no measurements and refuses rather than guessing.** Without a
+profile it returns `None` and names the missing input — because a number computed
+from somebody else's audience looks exactly like a real one. `docs/decision/`
+covers the profile, the intake and the method for eliciting objectives.
 
 ## The mix depends on audience size
 
@@ -88,6 +118,23 @@ on Monday and forgets you exist by Friday.
 
 The tiers are still useful as a discipline on what a given post is allowed to do.
 Treat them as constraints on the draft, not a journey the reader is on.
+
+**Better: classify by the buying JOB, and keep the funnel word as a label.** The
+research the funnel is usually justified with does not describe stages at all — it
+describes jobs a buying group revisits in loops and in parallel: identifying the
+problem, exploring solutions, building requirements, selecting a supplier,
+validating, and building internal consensus. Ask which job a post does, then let
+the tier follow from it. The vocabulary survives and the classification stops
+being a guess.
+
+`engine/decision/` does this, and will tell you when it cannot: an angle with no
+job mapping reports as unclassified rather than defaulting to a tier. **Watch the
+unclassified rate.** Above roughly 15% the taxonomy does not describe your corpus,
+and a tidy distribution computed from it is worse than no distribution. A first
+run on a real calendar reported zero BOFU anywhere, which looked like a strategy
+finding and was a coverage artefact: two thirds of one channel's angles were
+unmapped, and the unmapped set happened to contain every late-stage angle there
+was.
 
 ## And do not confuse a calendar with a test
 
