@@ -20,6 +20,9 @@ That half ships with **no measurements of its own**. It reads them from a profil
 your own corpus, and where the profile is silent it returns nothing and says which input is
 missing, rather than scoring you against somebody else's audience.
 
+**Setting it up for a company is `docs/PLAYBOOK.md`** — six phases, what each one decides, and the
+trap in each. The first two produce nothing publishable and are most of the work.
+
 It ships with a fictional example product, so a fresh clone renders something
 immediately. Swap the config for yours and it is your engine.
 

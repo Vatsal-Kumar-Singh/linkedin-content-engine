@@ -32,6 +32,14 @@ the list with whatever your own sources are full of.
 
 ---
 
+## Standing this up for a new company
+
+**`docs/PLAYBOOK.md` is the order the pieces go in**, what each decides, and where each usually
+goes wrong. Read it before starting on a company that is not the one you already know: most of
+the expensive mistakes in this repository's history were order-of-operations mistakes.
+
+---
+
 ## Two halves: deciding, and writing
 
 `engine/postengine/` writes a post and renders it. **`engine/decision/` decides whether it should
