@@ -151,8 +151,12 @@ corpus:
     - [100, 199, 150.0]
     - [1, 99, 70.0]
   format_lift:               # per channel, because they differ and the difference is large
+    # The personal profile rewards photographs, which is what most measured corpora show and
+    # which no renderer produces. Those slots ship on TEXT with a note saying what to shoot.
     clevel: {photo album: 400.0, single image: 200.0, text: 100.0, carousel: 500.0}
-    company: null            # not measured. The engine declines rather than borrowing the other
+    # The page rewards designed work, which this engine does render. Two channels, two different
+    # answers, from one profile: that is the whole reason format lift is measured per channel.
+    company: {designed card: 300.0, carousel: 260.0, text: 120.0}
   saturation:                # competitor corpus chunks per theme. Low is open ground
     pipeline reliability: 40
     data quality: 320

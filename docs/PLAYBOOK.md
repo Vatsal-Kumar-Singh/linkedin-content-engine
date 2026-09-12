@@ -137,6 +137,13 @@ specs `run.py` loads unchanged.
 **It writes briefs, never copy.** A calendar tool that invents titles is writing content nobody
 reviewed.
 
+**The measured format decides the template, and some formats this engine does not render.** A
+photo album is photographs; no renderer takes one. Where the corpus says photographs win, the
+slot ships on the TEXT template with the caption and a note saying what to shoot. Where it says
+designed work wins, the slot carries a CARD or DOC and the pipeline renders it. **One profile can
+answer differently per channel**, which is the whole reason format lift is measured per channel
+rather than pooled.
+
 Score it with `engine/decision/`:
 
 | | |

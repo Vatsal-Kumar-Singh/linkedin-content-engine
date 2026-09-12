@@ -44,13 +44,33 @@ from __future__ import annotations
 #
 # This is why the cheap format is often nearly the best one, and why a format nobody has time to
 # produce is worth nothing however well it scores.
-FORMAT_REQUIREMENT = {
-    "photo album": "3 to 5 photographs exist, or can be taken on a phone",
-    "single image": "1 photograph exists",
-    "text": "nothing",
-    "carousel": "design time, and consistent aspect ratios across every card",
-    "video": "shooting and editing time",
+# WHAT EACH FORMAT COSTS TO MAKE, AND WHO MAKES IT.
+#
+# **`template` is the seam with the render pipeline** and `rendered` is the honest half of it:
+# this engine designs and renders creatives, and several of the best-performing formats on most
+# corpora are photographs, which no renderer produces. A person with a phone does.
+#
+# Conflating the two is how a calendar ends up claiming a format nobody makes. So a format that
+# the engine cannot render maps to the TEXT template — the post ships with a caption and no
+# rendered creative — and carries the production note saying what a human has to supply.
+#
+# A profile may add its own formats under `corpus.format_lift`; anything not named here is scored
+# for Lift and reported as unmappable to a template rather than guessed at.
+FORMAT_PRODUCTION = {
+    "text":          {"needs": "nothing", "template": "TEXT", "rendered": False},
+    "single image":  {"needs": "1 photograph", "template": "TEXT", "rendered": False},
+    "photo album":   {"needs": "3 to 5 photographs, or a phone and a site visit",
+                      "template": "TEXT", "rendered": False},
+    "designed card": {"needs": "design time, or this engine's renderer",
+                      "template": "CARD", "rendered": True},
+    "carousel":      {"needs": "design time, and consistent aspect ratios across every card",
+                      "template": "DOC", "rendered": True},
+    "video":         {"needs": "shooting and editing time", "template": "TEXT",
+                      "rendered": False},
 }
+
+# Kept as a name because callers and tests read it. One source, two views.
+FORMAT_REQUIREMENT = {k: v["needs"] for k, v in FORMAT_PRODUCTION.items()}
 
 # Proof tiers the calendar already uses, ordered by how much weight they carry with a buyer who
 # is checking. Mirrors the existing PROOF dict in gen_content_calendar.py rather than inventing
@@ -418,7 +438,8 @@ def recommend(slot: dict, channel: str = "clevel", profile: dict | None = None) 
     """
     corp = corpus(profile)
     table = corp["format_lift"].get(channel)
-    out = {"format": None, "options": [], "words": None, "notes": []}
+    out = {"format": None, "template": None, "rendered": None,
+           "options": [], "words": None, "notes": []}
 
     if not table:
         out["notes"].append(
@@ -437,14 +458,28 @@ def recommend(slot: dict, channel: str = "clevel", profile: dict | None = None) 
             survivors.append((fmt, median))
         base = table.get(current)
         for fmt, median in survivors:
+            prod = FORMAT_PRODUCTION.get(fmt)
             out["options"].append({
                 "fmt": fmt,
                 "median": median,
                 "vs_current": round(median / base, 2) if base else None,
-                "needs": FORMAT_REQUIREMENT.get(fmt, "unknown"),
+                "needs": prod["needs"] if prod else "unknown, this format is not in "
+                                                   "FORMAT_PRODUCTION",
+                # The seam with the renderer. None where the engine has no mapping for a format
+                # a profile measured, which is a gap to close rather than a value to invent.
+                "template": prod["template"] if prod else None,
+                "rendered": prod["rendered"] if prod else None,
             })
         if survivors:
             out["format"] = survivors[0][0]
+            best = FORMAT_PRODUCTION.get(out["format"])
+            out["template"] = best["template"] if best else None
+            out["rendered"] = best["rendered"] if best else None
+            if best and not best["rendered"]:
+                out["notes"].append(
+                    "%s is not something this engine renders: %s. The post ships on the TEXT "
+                    "template with a caption, and the creative is produced by a person."
+                    % (out["format"], best["needs"]))
             if current == out["format"]:
                 out["notes"].append("already on the best surviving format")
             elif base:

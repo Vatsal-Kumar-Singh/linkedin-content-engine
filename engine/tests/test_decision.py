@@ -394,3 +394,61 @@ class TestCalendarGenerator(unittest.TestCase):
         """Recruitment has its own budget. It must not compete for calendar slots."""
         _, slots = self._slots()
         self.assertFalse(any(s["angle"] in ("hiring", "career-arc") for s in slots))
+
+
+# =================================================================================================
+# Format -> template. The last seam: what the corpus says wins, translated into what renders.
+# =================================================================================================
+
+class TestFormatDrivesTemplate(unittest.TestCase):
+    def test_every_known_format_maps_to_a_template_the_router_understands(self):
+        """A format mapping to a template the engine has no router entry for renders nothing."""
+        import yaml
+        from decision.scoring import FORMAT_PRODUCTION
+        path = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
+                            "config", "engine.yaml")
+        with open(path, encoding="utf-8") as fh:
+            router = (yaml.safe_load(fh) or {}).get("template_router") or {}
+        known = set((router.get("default") or {}))
+        for fmt, spec in FORMAT_PRODUCTION.items():
+            self.assertIn(spec["template"], known, fmt)
+
+    def test_a_format_this_engine_cannot_render_ships_on_text(self):
+        """A photo album is photographs. Claiming a CARD for one is claiming a creative that
+        nobody will make, and the post then ships late or without art."""
+        from decision.scoring import FORMAT_PRODUCTION
+        for fmt, spec in FORMAT_PRODUCTION.items():
+            if not spec["rendered"]:
+                self.assertEqual(spec["template"], "TEXT", fmt)
+
+    def test_recommend_reports_the_template_and_who_makes_the_creative(self):
+        r = recommend({"fmt": "text", "words": 250, "proof": "NONE"}, "company", EXAMPLE)
+        self.assertIsNotNone(r["template"])
+        self.assertIsInstance(r["rendered"], bool)
+
+    def test_the_two_channels_choose_different_templates_from_one_profile(self):
+        """The reason format lift is measured per channel, asserted end to end."""
+        exec_slot = {"fmt": "text", "words": 250, "who": "x", "proof": "NONE"}
+        page_slot = {"fmt": "text", "words": 250, "proof": "NONE"}
+        a = recommend(exec_slot, "clevel", EXAMPLE)
+        b = recommend(page_slot, "company", EXAMPLE)
+        self.assertNotEqual(a["template"], b["template"])
+        self.assertFalse(a["rendered"])     # profile rewards photographs
+        self.assertTrue(b["rendered"])      # page rewards designed work
+
+    def test_the_generated_spec_carries_the_recommended_template(self):
+        """If the spec ignored the recommendation the wiring would be decorative."""
+        import importlib.util
+        path = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
+                            "scripts", "gen_calendar.py")
+        spec_ = importlib.util.spec_from_file_location("gen_calendar", path)
+        m = importlib.util.module_from_spec(spec_)
+        spec_.loader.exec_module(m)
+        from decision.channel import recommend_channels
+        for ch in ("clevel", "company"):
+            carried = set(recommend_channels(EXAMPLE)["channels"][ch]["carries"])
+            slot = m.candidates(m.load_registry(), carried, "a buyer", ch)[0]
+            rec = recommend(slot, ch, EXAMPLE)
+            out = m.to_spec(slot, 1, "t", rec)
+            self.assertEqual(out["template"], rec["template"], ch)
+            self.assertEqual(out["creative_format"], rec["format"], ch)
