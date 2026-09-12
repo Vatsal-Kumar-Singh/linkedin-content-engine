@@ -90,6 +90,16 @@ every test and were caught only by opening the PNG: a comet head detached from i
 tail, a scrim correct on one ground and glaring on the other, a motif that read as
 a bullseye. Render it, open it, look at it — then look again with real copy on it.
 
+**The type-column mask is a fixed fraction, and a tall headline overflows it.** The motif dims
+through the band where type sits so it reads as behind glass rather than cut by the glyphs — but
+that band is `pulse_mask_from/to` in config, roughly 0.19 to 0.30 of the height, tuned for a
+layout with a short headline. A three-line headline runs about 0.13 to 0.33, so its top and
+bottom sit outside the dimmed band and the brightest stroke crosses the type. Visible on
+`comparison_dark` at feed size. **The fix is to derive the band from measured type geometry
+rather than a constant** — the renderer already measures elements for autofit — and it needs
+checking across every template on both grounds, because a band widened by guesswork dims the
+motif where it should not.
+
 **Text composed at render time never reaches the validator.** The card eyebrow is
 built from config during rendering, so it bypassed every gate and shipped banned
 language onto finished creatives. If on-card text is not a draft field, no gate

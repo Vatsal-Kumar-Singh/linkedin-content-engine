@@ -237,3 +237,97 @@ class TestBrandPortability(unittest.TestCase):
             if "grounds.get(" in line:
                 self.assertNotIn('", "', line.replace("grounds.get(", "").split(")")[0] + ")",
                                  "a literal fallback colour name in: " + line.strip())
+
+
+class TestPaletteIsLegible(unittest.TestCase):
+    """**The floor this repository states and did not enforce.**
+
+    CLAUDE.md: *put quality floors in code, not in a style guide. A style guide is a suggestion;
+    a failing check is a decision.* Colour contrast was measured by `scripts/check_palette.py`,
+    which nobody had to run. A brand whose foreground was unreadable on its own background would
+    render, pass every test, and ship.
+
+    That matters most for the case this engine exists to serve: somebody swaps in their own
+    palette. The role indirection means they never touch a template, so **this test is the only
+    thing between a new brand and an illegible card.**
+
+    WCAG AA: 4.5:1 for body text, 3.0:1 for large display type. Structure roles draw hairlines
+    and corner marks rather than type, so they are exempt by design rather than by oversight.
+    """
+
+    TYPE_ROLES = {"fg": 4.5, "muted": 4.5, "accent": 3.0}
+
+    def _check(self):
+        import importlib.util
+        path = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
+                            "scripts", "check_palette.py")
+        spec = importlib.util.spec_from_file_location("check_palette", path)
+        m = importlib.util.module_from_spec(spec)
+        spec.loader.exec_module(m)
+        return m
+
+    def _failures(self, brand):
+        cp = self._check()
+        pal, out = brand["palette"], []
+        for ground, roles in brand["grounds"].items():
+            bg = pal[roles["bg"]]
+            for role, floor in self.TYPE_ROLES.items():
+                if role not in roles:
+                    continue
+                ratio = cp.contrast(bg, pal[roles[role]])
+                if ratio < floor:
+                    out.append("%s.%s %.2f:1 needs %s" % (ground, role, ratio, floor))
+        return out
+
+    def test_every_ground_carries_type_at_or_above_the_wcag_floor(self):
+        self.assertEqual(self._failures(CFG.brand), [],
+                         "unreadable role pairs in brand.yaml")
+
+    def test_the_check_actually_fails_on_an_unreadable_palette(self):
+        """A guard that cannot fail is decorative. This is the mutation, written down."""
+        import copy
+        bad = copy.deepcopy(CFG.brand)
+        dark = bad["grounds"]["dark"]
+        bad["palette"][dark["fg"]] = bad["palette"][dark["bg"]]   # foreground = background
+        self.assertTrue(self._failures(bad),
+                        "the contrast check passed a foreground identical to its background")
+
+
+class TestNoTemplateReferencesAnUndefinedVariable(unittest.TestCase):
+    """**A CSS variable that is never defined fails silently and looks like a design choice.**
+
+    Twelve references across four templates pointed at variables from a palette this repo no
+    longer ships: `--grey`, `--grey-light`, `--ink`, `--bg`. The browser resolved them to
+    nothing, so ring strokes, comet highlights, editorial type and the wash gradient all fell
+    back to a default. Every test passed. It was found by opening a card and seeing linework
+    cut across a headline.
+
+    **This is the class, not the instance.** Rename a token, add a template, or swap a palette
+    and the same failure returns; nothing else in the suite would notice.
+
+    Variables set inline on an element (`style="--pulse-from:..."`) are legitimate and excluded.
+    """
+
+    ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
+    def _scan(self):
+        import glob
+        import re
+        tdir = os.path.join(self.ROOT, "templates")
+        used, inline = set(), set()
+        for path in glob.glob(os.path.join(tdir, "**", "*.*"), recursive=True):
+            if not path.endswith((".html", ".css")):
+                continue
+            with open(path, encoding="utf-8") as fh:
+                text = fh.read()
+            for m in re.finditer(r"var\((--[a-z0-9-]+)", text):
+                used.add((m.group(1), os.path.relpath(path, tdir)))
+            inline |= set(re.findall(r"(--[a-z0-9-]+)\s*:", text))
+        with open(os.path.join(tdir, "_shared", "tokens.css"), encoding="utf-8") as fh:
+            defined = set(re.findall(r"^\s*(--[a-z0-9-]+)\s*:", fh.read(), re.M))
+        return used, defined | inline
+
+    def test_every_referenced_variable_resolves(self):
+        used, available = self._scan()
+        missing = sorted("%s in %s" % (v, where) for v, where in used if v not in available)
+        self.assertEqual(missing, [], "template variables that resolve to nothing")

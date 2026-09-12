@@ -48,6 +48,15 @@ MUTATIONS = [
                          "an operating model problem, not a tooling one"),
      ["test_registry_content"]),
 
+    # Added with the contrast guard. Colour contrast was measured by check_palette.py and
+    # enforced by nothing, so a brand whose foreground was unreadable on its own background
+    # rendered, passed every test, and shipped. That matters most for the case this engine
+    # exists to serve: somebody swapping in their own palette, who never touches a template.
+    ("foreground colour made unreadable on its own ground",
+     _p("config", "brand.yaml"),
+     lambda s: s.replace('cloud_white:   "#F7F9FC"', 'cloud_white:   "#0C2036"'),
+     ["test_render.TestPaletteIsLegible"]),
+
     ("animation freeze removed from stills",
      _p("postengine", "render", "renderer.py"),
      lambda s: s.replace("a.currentTime = 0;", "a.currentTime = 0; a.play();"),

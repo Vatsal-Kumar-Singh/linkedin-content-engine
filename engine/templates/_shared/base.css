@@ -53,7 +53,7 @@ body{
   color:var(--fg);
 }
 .headline em{font-style:normal;color:var(--accent);}
-.headline u{text-decoration:none;color:var(--grey);}
+.headline u{text-decoration:none;color:var(--muted);}
 
 .deck{
   font-family:var(--display);font-weight:300;
@@ -61,7 +61,7 @@ body{
   color:var(--fg);
 }
 .deck em{font-style:normal;font-weight:600;color:var(--accent);}
-.deck b{font-weight:400;color:var(--grey-light);}
+.deck b{font-weight:400;color:var(--muted);}
 
 .body{
   font-family:var(--body);font-weight:300;
@@ -77,7 +77,7 @@ body{
 /* `*word*` in copy becomes an accent word. Set once, globally, so a template
    can never fall through to the browser's italic default. */
 em{font-style:normal;color:var(--accent);}
-b{font-weight:500;color:var(--grey-light);}
+b{font-weight:500;color:var(--muted);}
 
 .spacer{flex:1 1 auto;min-height:0;}
 
