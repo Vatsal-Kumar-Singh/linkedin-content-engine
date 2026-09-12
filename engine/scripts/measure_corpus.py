@@ -194,7 +194,10 @@ def main():
         emitted_fmt[f] = round(med, 3)
 
     # --- the block -----------------------------------------------------------------------------
-    chan = a.channel or (channels[0] if channels else "clevel")
+    # No invented fallback. The key this block is filed under has to match a channel the
+    # profile declares, and a made-up name means the engine looks somewhere the numbers
+    # are not. Where the file names no channel and none was passed, say so.
+    chan = a.channel or (channels[0] if channels else None)
     print("\n=== paste into the profile, under `corpus:` ===\n")
     if emitted_bands:
         print("  length_bands:              # [min_words, max_words, median relative to author]")
@@ -203,10 +206,12 @@ def main():
     else:
         print("  # no band cleared --min-n. Length is not measurable from this corpus yet.")
     print("  format_lift:")
+    label = chan or "<name the channel: --channel, or a `channel` column in the csv>"
     if emitted_fmt:
-        print("    %s: {%s}" % (chan, ", ".join("%s: %s" % (k, v) for k, v in emitted_fmt.items())))
+        print("    %s: {%s}" % (label, ", ".join("%s: %s" % (k, v)
+                                                 for k, v in emitted_fmt.items())))
     else:
-        print("    %s: null                 # nothing cleared --min-n" % chan)
+        print("    %s: null                 # nothing cleared --min-n" % label)
 
     thin = [f for f, v in by_fmt.items() if len(v) < a.min_n]
     if thin or len(emitted_bands) < len(bands):

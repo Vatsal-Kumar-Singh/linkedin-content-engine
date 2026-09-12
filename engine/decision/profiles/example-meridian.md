@@ -53,11 +53,17 @@ by construction.
 
 ## 5. Channels
 
-| Channel | For |
-|---|---|
-| Company page | Validation. A visitor has already arrived; it cannot win reach |
-| Founder's profile | Creation. Reaches people who do not follow the company |
-| Engineering blog | The crawler surface, and the artefact a champion forwards |
+Declared in the YAML block as `channels:`, because how many there are and who they belong to is
+a fact about this company rather than about the engine.
+
+| Channel | Kind | For |
+|---|---|---|
+| `page` | organisation | Validation. A visitor has already arrived; it cannot win reach |
+| `founder` | person | Creation. Reaches people who do not follow the company |
+
+A real profile with two named executives declares both. **They will carry the same buying jobs**,
+and what separates them is mode — who speaks at events, who writes long form, who has
+photographs — which sets format and source material rather than which jobs they do.
 
 ## 6. Claim regime
 
@@ -129,6 +135,18 @@ objectives:
     qualified trials from analytics teams: "trial signups with a source field, which most people skip"
     known as the team that explains this problem well: "unsolicited conference and podcast invitations"
 
+# THE CHANNELS THIS COMPANY HAS, AND WHAT KIND EACH IS. The names are yours; the engine reads
+# `kind` and nothing else. Two kinds exist because the distinction is structural: a named person
+# reaches people who do not follow the company, and a page is read by somebody who already
+# arrived. Declare as many as you have — three named people and a page is a normal shape.
+channels:
+  founder:
+    kind: person
+    what: "creation. Reaches analytics engineers who have never heard of us"
+  page:
+    kind: organisation
+    what: "validation. A visitor has already arrived; it cannot win reach"
+
 channel_strategy:
   founder_network:
     viable: yes
@@ -153,10 +171,10 @@ corpus:
   format_lift:               # per channel, because they differ and the difference is large
     # The personal profile rewards photographs, which is what most measured corpora show and
     # which no renderer produces. Those slots ship on TEXT with a note saying what to shoot.
-    clevel: {photo album: 400.0, single image: 200.0, text: 100.0, carousel: 500.0}
+    founder: {photo album: 400.0, single image: 200.0, text: 100.0, carousel: 500.0}
     # The page rewards designed work, which this engine does render. Two channels, two different
     # answers, from one profile: that is the whole reason format lift is measured per channel.
-    company: {designed card: 300.0, carousel: 260.0, text: 120.0}
+    page: {designed card: 300.0, carousel: 260.0, text: 120.0}
   saturation:                # competitor corpus chunks per theme. Low is open ground
     pipeline reliability: 40
     data quality: 320

@@ -77,7 +77,7 @@ def load_registry():
         return (yaml.safe_load(fh) or {}).get("pain_points") or {}
 
 
-def candidates(pains, carried_jobs, persona, channel):
+def candidates(pains, carried_jobs, persona, channel, kind):
     """Every (pain, angle) pair whose job this channel carries. The whole grid, unranked."""
     out = []
     for pid, p in sorted(pains.items()):
@@ -93,11 +93,11 @@ def candidates(pains, carried_jobs, persona, channel):
                 "pain_value": (p or {}).get("value") or "",
                 "angle": angle, "job": c["job"], "tier": c["label"],
                 "arc": arc, "persona": persona,
-                # `who` marks a named person's own profile, and Gate reads it: a designed
-                # carousel is banned there on production bandwidth. Without it the scorer
-                # cheerfully recommended a carousel for every executive slot, because carousel
-                # is the highest median in most corpora and nothing was stopping it.
-                **({"who": "the named executive"} if channel == "clevel" else {}),
+                # `who` marks a named person's own feed, and Gate reads it: a designed
+                # carousel is banned there on production bandwidth. It is derived from the
+                # channel's declared KIND rather than from its name, because the name is the
+                # company's to choose and `clevel` was never a general one.
+                **({"who": channel} if kind == "person" else {}),
                 # TEXT is the honest default. A template is only claimed once somebody has
                 # decided a creative is worth making, and Lift reports what that is worth.
                 "template": "CARD", "fmt": "text", "proof": "NONE",
@@ -158,7 +158,7 @@ def to_spec(slot, n, prefix, rec=None):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--profile", default="example-meridian")
-    ap.add_argument("--channel", default="clevel")
+    ap.add_argument("--channel", help="a channel name declared in the profile")
     ap.add_argument("--slots", type=int, default=12)
     ap.add_argument("--persona", default="the buyer named in the profile")
     ap.add_argument("--write", metavar="DIR", help="write specs into posts/<DIR>/")
@@ -176,9 +176,9 @@ def main():
             print("   -", m)
         print("\nThese come from the intake. docs/decision/INTAKE.md")
         return 1
-    if a.channel not in rec["channels"]:
-        print("This profile gives no role to %r. It carries: %s"
-              % (a.channel, ", ".join(rec["channels"])))
+    if not a.channel or a.channel not in rec["channels"]:
+        print("Name a channel with --channel. This profile declares: %s"
+              % ", ".join("%s (%s)" % (n, d["kind"]) for n, d in rec["channels"].items()))
         return 1
 
     carried = set(rec["channels"][a.channel]["carries"])
@@ -186,7 +186,8 @@ def main():
     if not pains:
         sys.exit("config/registry.yaml has no pain_points. Phase 1 of docs/PLAYBOOK.md")
 
-    cands = candidates(pains, carried, a.persona, a.channel)
+    cands = candidates(pains, carried, a.persona, a.channel,
+                       rec["channels"][a.channel]["kind"])
     print("%d pains x %d angles this channel carries = %d candidates"
           % (len(pains), len({c["angle"] for c in cands}), len(cands)))
 

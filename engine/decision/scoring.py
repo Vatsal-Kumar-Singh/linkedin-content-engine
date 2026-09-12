@@ -224,7 +224,10 @@ def corpus(profile: dict | None = None) -> dict:
     fmt = c.get("format_lift") or {}
     return {
         "length_bands": [tuple(b) for b in bands] if bands else None,
-        "format_lift": {"clevel": fmt.get("clevel"), "company": fmt.get("company")},
+        # Keyed by whatever the profile CALLS its channels. This used to name two of them, so
+        # a company whose channels were not called `clevel` and `company` measured them and the
+        # engine looked somewhere else and found nothing.
+        "format_lift": dict(fmt),
         "saturation": c.get("saturation") or None,
         "measured": sorted(k for k in ("length_bands", "format_lift", "saturation")
                            if (c.get(k) if k != "format_lift" else fmt)),
@@ -254,7 +257,7 @@ def gate(slot: dict) -> dict:
     return {"pass": not reasons, "reasons": reasons}
 
 
-def lift(slot: dict, channel: str = "clevel", profile: dict | None = None) -> dict:
+def lift(slot: dict, channel: str, profile: dict | None = None) -> dict:
     """What this treatment is worth, from the measured corpus. Normalised so 1.0 is the best
     measured option on each component, which keeps the components readable next to each other."""
     comps, notes = {}, []
@@ -420,7 +423,7 @@ def _weights_by_kind(profile: dict) -> dict:
     return dict(direct) if direct else {}
 
 
-def recommend(slot: dict, channel: str = "clevel", profile: dict | None = None) -> dict:
+def recommend(slot: dict, channel: str, profile: dict | None = None) -> dict:
     """What Lift would set for format and length, and what it refuses to set.
 
     **Gate runs before Lift, in that order.** Recommending a format the claim and bandwidth
@@ -516,7 +519,7 @@ def recommend(slot: dict, channel: str = "clevel", profile: dict | None = None) 
     return out
 
 
-def score_slot(slot: dict, profile: dict | None = None, channel: str = "clevel") -> dict:
+def score_slot(slot: dict, profile: dict | None = None, channel: str = None) -> dict:
     g, l, c = gate(slot), lift(slot, channel, profile), classify(slot)
     f = fit(slot, profile or {}, cls=c)      # one classification, so the two cannot disagree
     if not g["pass"]:

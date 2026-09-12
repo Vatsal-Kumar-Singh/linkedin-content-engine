@@ -16,6 +16,7 @@ sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 from decision import profile as profile_mod
 from decision import channel, scoring
+from decision.channel import recommend_channels
 from decision.scoring import (ANGLE_TO_JOB, ANGLE_TO_OTHER_OBJECTIVE, JOB_SERVES, JOB_TO_TIER,
                               classify, fit, gate, lift, recommend, score_slot)
 
@@ -42,20 +43,20 @@ class TestNoMeasurementsShip(unittest.TestCase):
         self.assertEqual(c["measured"], [])
 
     def test_lift_declines_entirely_without_a_profile(self):
-        r = lift({"fmt": "text", "words": 300})
+        r = lift({"fmt": "text", "words": 300}, "founder")
         self.assertIsNone(r["score"])
         self.assertTrue(any("profile" in n for n in r["notes"]))
 
     def test_lift_scores_once_a_profile_supplies_a_corpus(self):
-        r = lift({"fmt": "text", "words": 300}, profile=EXAMPLE)
+        r = lift({"fmt": "text", "words": 300}, "founder", profile=EXAMPLE)
         self.assertIsNotNone(r["score"])
 
     def test_two_profiles_produce_different_scores(self):
         """The point of the whole indirection. If this passes trivially it is decorative."""
         other = copy.deepcopy(EXAMPLE)
-        other["corpus"]["format_lift"]["clevel"] = {"text": 900.0, "photo album": 100.0}
-        mine = lift({"fmt": "text", "words": 300}, profile=EXAMPLE)["components"]["format"]
-        theirs = lift({"fmt": "text", "words": 300}, profile=other)["components"]["format"]
+        other["corpus"]["format_lift"]["founder"] = {"text": 900.0, "photo album": 100.0}
+        mine = lift({"fmt": "text", "words": 300}, "founder", EXAMPLE)["components"]["format"]
+        theirs = lift({"fmt": "text", "words": 300}, "founder", other)["components"]["format"]
         self.assertNotEqual(mine, theirs)
         self.assertEqual(theirs, 1.0)
 
@@ -191,17 +192,24 @@ class TestProfileLoader(unittest.TestCase):
 # The channel split, which is conditional and must be able to say no.
 # =================================================================================================
 
-def _strat(viable="partial", awareness="emerging", exposure="low"):
-    return {"channel_strategy": {"founder_network": {"viable": viable, "evidence": "x"},
+# Channels are declared, never assumed, so every fixture has to say what this company has.
+TWO_CHANNELS = {"founder": {"kind": "person"}, "page": {"kind": "organisation"}}
+
+
+def _strat(viable="partial", awareness="emerging", exposure="low", channels=None):
+    return {"channels": dict(TWO_CHANNELS if channels is None else channels),
+            "channel_strategy": {"founder_network": {"viable": viable, "evidence": "x"},
                                  "category_awareness": awareness,
                                  "named_person_exposure": exposure}}
 
 
 class TestChannelSplit(unittest.TestCase):
     def test_it_refuses_without_the_intake_answers(self):
+        """Four things now, because which channels exist is also the profile's to say."""
         r = channel.recommend_channels({})
         self.assertIsNone(r["applies"])
-        self.assertEqual(len(r["missing"]), 3)
+        self.assertEqual(len(r["missing"]), 4)
+        self.assertTrue(any("channels" in m for m in r["missing"]))
 
     def test_yaml_booleans_are_accepted_as_the_words_somebody_typed(self):
         """`viable: yes` arrives from YAML as True. Rejecting it punishes the obvious spelling."""
@@ -211,19 +219,19 @@ class TestChannelSplit(unittest.TestCase):
     def test_no_usable_network_means_the_split_does_not_apply(self):
         r = channel.recommend_channels(_strat(viable="no"))
         self.assertFalse(r["applies"])
-        self.assertEqual(set(r["channels"]), {"company"})
+        self.assertEqual(set(r["channels"]), {"page"})
 
     def test_mofu_sits_on_both_channels(self):
         r = channel.recommend_channels(_strat())
-        both = set(r["channels"]["clevel"]["carries"]) & set(r["channels"]["company"]["carries"])
+        both = set(r["channels"]["founder"]["carries"]) & set(r["channels"]["page"]["carries"])
         self.assertTrue(both)
         self.assertTrue(all(JOB_TO_TIER[j] == "MOFU" for j in both))
 
     def test_an_established_category_inverts_which_channel_is_funded_first(self):
         self.assertEqual(channel.recommend_channels(_strat(awareness="emerging"))["primary"],
-                         "clevel")
+                         "founder")
         self.assertEqual(channel.recommend_channels(_strat(awareness="established"))["primary"],
-                         "company")
+                         "page")
 
     def test_high_exposure_moves_claim_bearing_work_to_the_page(self):
         self.assertTrue(any("WHO CARRIES THE RISK" in c
@@ -237,16 +245,16 @@ class TestChannelSplit(unittest.TestCase):
 class TestRecommend(unittest.TestCase):
     def test_it_never_offers_a_gate_blocked_format(self):
         r = recommend({"fmt": "text", "words": 250, "who": "founder", "proof": "NONE"},
-                      profile=EXAMPLE)
+                      "founder", EXAMPLE)
         self.assertNotIn("video", {o["fmt"] for o in r["options"]})
         self.assertNotIn("carousel", {o["fmt"] for o in r["options"]})
 
     def test_every_option_carries_the_precondition_lift_cannot_check(self):
-        r = recommend({"fmt": "text", "words": 250, "proof": "NONE"}, profile=EXAMPLE)
+        r = recommend({"fmt": "text", "words": 250, "proof": "NONE"}, "page", EXAMPLE)
         self.assertTrue(all(o["needs"] for o in r["options"]))
 
     def test_it_declines_a_word_target_with_no_measured_bands(self):
-        r = recommend({"fmt": "text", "words": 250, "proof": "NONE"})
+        r = recommend({"fmt": "text", "words": 250, "proof": "NONE"}, "founder")
         self.assertIsNone(r["words"]["in_best_band"])
 
 
@@ -254,7 +262,7 @@ class TestScoreSlot(unittest.TestCase):
     def test_every_result_carries_a_line_a_human_can_argue_with(self):
         for prof in ({}, EXAMPLE):
             r = score_slot({"fmt": "text", "words": 250, "proof": "NONE",
-                            "angle": "explainer"}, prof, "clevel")
+                            "angle": "explainer"}, prof, "founder")
             self.assertTrue(r["why"] and isinstance(r["why"], str))
 
 
@@ -351,11 +359,12 @@ class TestCalendarGenerator(unittest.TestCase):
         spec.loader.exec_module(m)
         return m
 
-    def _slots(self, channel="clevel"):
+    def _slots(self, channel="founder"):
         m = self._gen()
         from decision.channel import recommend_channels
         carried = set(recommend_channels(EXAMPLE)["channels"][channel]["carries"])
-        return m, m.candidates(m.load_registry(), carried, "a buyer", channel)
+        kind = recommend_channels(EXAMPLE)["channels"][channel]["kind"]
+        return m, m.candidates(m.load_registry(), carried, "a buyer", channel, kind)
 
     def test_what_it_emits_loads_as_a_content_spec(self):
         """The whole claim of seamlessness, asserted rather than hoped for."""
@@ -368,7 +377,7 @@ class TestCalendarGenerator(unittest.TestCase):
     def test_a_channel_only_gets_the_jobs_it_carries(self):
         from decision.channel import recommend_channels
         rec = recommend_channels(EXAMPLE)
-        for ch in ("clevel", "company"):
+        for ch in ("founder", "page"):
             _, slots = self._slots(ch)
             carried = set(rec["channels"][ch]["carries"])
             self.assertTrue(slots, ch)
@@ -376,18 +385,18 @@ class TestCalendarGenerator(unittest.TestCase):
 
     def test_the_two_channels_produce_different_work(self):
         """If they came back the same, the channel split would be decoration."""
-        _, cl = self._slots("clevel")
-        _, co = self._slots("company")
+        _, cl = self._slots("founder")
+        _, co = self._slots("page")
         self.assertNotEqual({s["job"] for s in cl}, {s["job"] for s in co})
 
     def test_an_executive_slot_is_marked_so_the_carousel_ban_applies(self):
         """Gate reads `who`. Without it the scorer recommends a designed carousel for every
         executive slot, because carousel tops most corpora and nothing was stopping it."""
-        m, cl = self._slots("clevel")
-        _, co = self._slots("company")
+        m, cl = self._slots("founder")
+        _, co = self._slots("page")
         self.assertTrue(all(s.get("who") for s in cl))
         self.assertFalse(any(s.get("who") for s in co))
-        blocked = m.recommend(dict(cl[0], fmt="carousel"), "clevel", EXAMPLE)
+        blocked = m.recommend(dict(cl[0], fmt="carousel"), "founder", EXAMPLE)
         self.assertNotIn("carousel", {o["fmt"] for o in blocked["options"]})
 
     def test_no_slot_serves_an_objective_funded_separately(self):
@@ -422,7 +431,7 @@ class TestFormatDrivesTemplate(unittest.TestCase):
                 self.assertEqual(spec["template"], "TEXT", fmt)
 
     def test_recommend_reports_the_template_and_who_makes_the_creative(self):
-        r = recommend({"fmt": "text", "words": 250, "proof": "NONE"}, "company", EXAMPLE)
+        r = recommend({"fmt": "text", "words": 250, "proof": "NONE"}, "page", EXAMPLE)
         self.assertIsNotNone(r["template"])
         self.assertIsInstance(r["rendered"], bool)
 
@@ -430,8 +439,8 @@ class TestFormatDrivesTemplate(unittest.TestCase):
         """The reason format lift is measured per channel, asserted end to end."""
         exec_slot = {"fmt": "text", "words": 250, "who": "x", "proof": "NONE"}
         page_slot = {"fmt": "text", "words": 250, "proof": "NONE"}
-        a = recommend(exec_slot, "clevel", EXAMPLE)
-        b = recommend(page_slot, "company", EXAMPLE)
+        a = recommend(exec_slot, "founder", EXAMPLE)
+        b = recommend(page_slot, "page", EXAMPLE)
         self.assertNotEqual(a["template"], b["template"])
         self.assertFalse(a["rendered"])     # profile rewards photographs
         self.assertTrue(b["rendered"])      # page rewards designed work
@@ -445,9 +454,10 @@ class TestFormatDrivesTemplate(unittest.TestCase):
         m = importlib.util.module_from_spec(spec_)
         spec_.loader.exec_module(m)
         from decision.channel import recommend_channels
-        for ch in ("clevel", "company"):
+        for ch in ("founder", "page"):
             carried = set(recommend_channels(EXAMPLE)["channels"][ch]["carries"])
-            slot = m.candidates(m.load_registry(), carried, "a buyer", ch)[0]
+            kind = recommend_channels(EXAMPLE)["channels"][ch]["kind"]
+            slot = m.candidates(m.load_registry(), carried, "a buyer", ch, kind)[0]
             rec = recommend(slot, ch, EXAMPLE)
             out = m.to_spec(slot, 1, "t", rec)
             self.assertEqual(out["template"], rec["template"], ch)
@@ -497,16 +507,18 @@ class TestCompanyType(unittest.TestCase):
     def test_selling_a_service_makes_the_named_channel_primary(self):
         """Awareness funds the page first for most companies. A service sale is a bet on people,
         and an organisation page cannot answer whether you want these specific humans."""
-        base = {"channel_strategy": {"founder_network": {"viable": "yes", "evidence": "x"},
+        base = {"channels": dict(TWO_CHANNELS),
+                "channel_strategy": {"founder_network": {"viable": "yes", "evidence": "x"},
                                      "category_awareness": "established",
                                      "named_person_exposure": "low"}}
         saas = dict(base, company_type={"offering": "saas", "motion": "plg"})
         svc = dict(base, company_type={"offering": "service", "motion": "slg"})
-        self.assertEqual(channel.recommend_channels(saas)["primary"], "company")
-        self.assertEqual(channel.recommend_channels(svc)["primary"], "clevel")
+        self.assertEqual(channel.recommend_channels(saas)["primary"], "page")
+        self.assertEqual(channel.recommend_channels(svc)["primary"], "founder")
 
     def test_an_undeclared_type_is_flagged_on_the_channel_recommendation(self):
-        base = {"channel_strategy": {"founder_network": {"viable": "yes", "evidence": "x"},
+        base = {"channels": dict(TWO_CHANNELS),
+                "channel_strategy": {"founder_network": {"viable": "yes", "evidence": "x"},
                                      "category_awareness": "emerging",
                                      "named_person_exposure": "low"}}
         self.assertTrue(any("company_type is not declared" in c

@@ -107,6 +107,26 @@ within about ninety seconds, and you have learned one opinion at the cost of thr
 Write the result into a profile: `engine/decision/profiles/_schema.md` for the shape,
 `engine/decision/profiles/example-meridian.md` for a filled-in one.
 
+**Declare the channels too, and name them yourself.** The engine reads one field on each,
+`kind: person` or `kind: organisation`, and nothing else:
+
+```yaml
+channels:
+  founder: {kind: person}
+  cto:     {kind: person}
+  page:    {kind: organisation}
+```
+
+**Two kinds, because the distinction is structural rather than cosmetic.** A named person reaches
+people who do not follow the company; a page is read by somebody who already arrived. Every
+asymmetry in the split follows from that.
+
+Declare as many as you have. **Two named people will carry the same buying jobs** — what separates
+them is mode, who speaks at events and who writes long form, which sets format and source material
+rather than which jobs they do. Record that per channel; do not expect the split to distinguish
+them. And **there is no default**: how many channels exist and who they belong to is a fact about
+the company, not about the engine.
+
 **Before you run it, ask what the channel will be made out of.** If a body of published work
 already exists — articles, talks, posts — read that instead. **A back catalogue is revealed
 preference and it beats a stated objective.** Elicitation earns its place where there is no track

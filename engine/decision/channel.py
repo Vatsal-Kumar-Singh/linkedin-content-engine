@@ -32,6 +32,18 @@ VIABILITY = {"yes", "partial", "no"}
 AWARENESS = {"unknown", "emerging", "established"}
 EXPOSURE = {"low", "high"}
 
+# THE TWO KINDS OF CHANNEL, AND ONLY TWO. A profile names its own channels and says which kind
+# each one is; the engine never assumes how many there are or what they are called.
+#
+# Why two kinds rather than a free-for-all: the distinction is structural, not cosmetic. A named
+# person reaches people who do not follow the company, and an organisation page is read by
+# somebody who has already arrived. Every asymmetry in this module follows from that one fact,
+# and no third kind has turned up that behaves differently from one of these two.
+#
+#   person        a named human's own feed. Carries creation work
+#   organisation  a company page, brand account or publication. Carries capture work
+KINDS = {"person", "organisation"}
+
 # WHICH JOBS EACH CHANNEL CARRIES. Derived from the tier, and **MOFU is deliberately on both.**
 #
 # A first version split this on whether a job serves creation more than capture, which put every
@@ -93,6 +105,21 @@ def recommend_channels(profile: dict) -> dict:
         elif val not in allowed:
             out["missing"].append("%s is %r, expected one of %s" % (name, val, sorted(allowed)))
 
+    # WHICH CHANNELS EXIST IS THE PROFILE'S TO SAY, not this module's to assume. It used to
+    # hardcode exactly two, called `clevel` and `company`, so a company with three named people
+    # or only a page could not describe itself.
+    declared = (profile or {}).get("channels") or {}
+    if not declared:
+        out["missing"].append(
+            "no `channels:` declared. Name each channel and say whether its kind is `person` or "
+            "`organisation`. There is no sensible default: how many channels exist, and who "
+            "they belong to, is a fact about the company rather than about the engine")
+    for name, spec in declared.items():
+        kind = (spec or {}).get("kind")
+        if kind not in KINDS:
+            out["missing"].append(
+                "channel %r has kind %r, expected `person` or `organisation`" % (name, kind))
+
     if out["missing"]:
         out["reasons"].append(
             "cannot recommend a channel split: " + "; ".join(out["missing"])
@@ -100,22 +127,41 @@ def recommend_channels(profile: dict) -> dict:
               "input nobody agreed to supply")
         return out
 
-    # --- condition 1, and it is the one that fails most often ------------------------------
-    if network == "no":
+    people = [n for n, d in declared.items() if d["kind"] == "person"]
+    orgs = [n for n, d in declared.items() if d["kind"] == "organisation"]
+
+    everything = sorted(set(EARLY) | set(LATE), key=list(JOB_TO_TIER).index)
+
+    # --- condition 1: is there a usable named channel at all? ------------------------------
+    #
+    # Two separate ways this fails, and they are worth telling apart. A profile can declare no
+    # person channel, meaning one does not exist. Or it can declare one while the intake says
+    # the person will not actually post, which is the more common and more expensive case.
+    if not people or network == "no":
         out["applies"] = False
-        evidence = (strat.get("founder_network") or {}).get("evidence") or "no evidence recorded"
-        out["reasons"].append(
-            "No usable executive network, so an executive-led split does not apply. The company "
-            "page is what you have. Evidence: %s" % evidence)
-        out["channels"]["company"] = {
-            "carries": sorted(set(EARLY) | set(LATE), key=list(JOB_TO_TIER).index),
-            "tier_hint": "TOFU to BOFU",
-            "why": "with no second channel the page carries the whole funnel, which it will do "
-                   "badly at the top: a company page cannot win reach against a named profile",
-        }
-        out["cautions"].append(
-            "Do not build a plan on executives posting. Stated intent is not evidence; the "
-            "question that predicts this is how many originals they wrote in the last year")
+        if not people:
+            out["reasons"].append(
+                "No channel of kind `person` is declared, so there is no creation channel. "
+                "Everything falls to the organisation channel")
+        else:
+            evidence = (strat.get("founder_network") or {}).get("evidence") or "none recorded"
+            out["reasons"].append(
+                "A person channel exists (%s) but the intake says the network is not usable, so "
+                "an executive-led split does not apply. Evidence: %s"
+                % (", ".join(people), evidence))
+            out["cautions"].append(
+                "Do not build a plan on a named person posting. Stated intent is not evidence; "
+                "the question that predicts it is how many originals they wrote last year")
+        if not orgs:
+            out["cautions"].append(
+                "**And no organisation channel is declared either, so nothing carries anything.** "
+                "Declare at least one channel this company can actually publish on")
+        for name in orgs:
+            out["channels"][name] = {
+                "kind": "organisation", "carries": everything, "tier_hint": "TOFU to BOFU",
+                "why": "with no usable named channel this page carries the whole funnel, which "
+                       "it will do badly at the top: a page cannot win reach against a person",
+            }
         return out
 
     # --- condition 2: is there demand to capture, or must it be created? --------------------
@@ -125,13 +171,13 @@ def recommend_channels(profile: dict) -> dict:
             "The buyer already knows the category exists, so capture is cheap and creation is "
             "less urgent. The usual split still holds but the weighting inverts: fund the "
             "company page first and treat the executive channel as reinforcement")
-        primary = "company"
+        primary = orgs[0] if orgs else people[0]
     else:
         out["reasons"].append(
             "Category awareness is %r, so few people are searching for something they do not "
             "know exists and capture catches almost nobody. Creation has to come first, and a "
             "named human is the cheapest creation channel available" % awareness)
-        primary = "clevel"
+        primary = people[0]
 
     if network == "partial":
         out["cautions"].append(
@@ -143,29 +189,49 @@ def recommend_channels(profile: dict) -> dict:
         "MOFU sits on BOTH channels (%s). A reader working out what they need may be "
         "discovering the category on a profile or already evaluating us on the page: same job, "
         "different treatment" % ", ".join(SHARED))
-    out["channels"]["clevel"] = {
-        "carries": EARLY,
-        "tier_hint": " to ".join(_tiers(EARLY)[:1] + _tiers(EARLY)[-1:]),
-        "why": "a named profile reaches people who do not follow the company, which is the only "
-               "way early-stage work finds anybody",
-    }
-    out["channels"]["company"] = {
-        "carries": LATE,
-        "tier_hint": " to ".join(_tiers(LATE)[:1] + _tiers(LATE)[-1:]),
-        "why": "a visitor to the page has already arrived, so the page is a validation surface "
-               "rather than a reach surface",
-    }
+    for name in people:
+        out["channels"][name] = {
+            "kind": "person",
+            "carries": EARLY,
+            "tier_hint": " to ".join(_tiers(EARLY)[:1] + _tiers(EARLY)[-1:]),
+            "why": "a named profile reaches people who do not follow the company, which is the "
+                   "only way early-stage work finds anybody",
+        }
+    for name in orgs:
+        out["channels"][name] = {
+            "kind": "organisation",
+            "carries": LATE,
+            "tier_hint": " to ".join(_tiers(LATE)[:1] + _tiers(LATE)[-1:]),
+            "why": "a visitor to the page has already arrived, so the page is a validation "
+                   "surface rather than a reach surface",
+        }
+
+    # **Two named people get the same job set, and that is the finding rather than a shortcut.**
+    # Asked separately what their channels were for, two executives at one company returned
+    # identical answers. What actually separated them was mode: one spoke at events, the other
+    # wrote articles. A mode difference sets format and source material, not which buying jobs
+    # the channel does, so it belongs in each channel's own notes rather than in this split.
+    if len(people) > 1:
+        out["cautions"].append(
+            "%d person channels carry the same jobs. What separates them is MODE — who speaks "
+            "at events, who writes long form, who has photographs — which sets format and source "
+            "material rather than which jobs they do. Record that per channel; do not expect "
+            "this split to distinguish them" % len(people))
+    if not orgs:
+        out["cautions"].append(
+            "No organisation channel is declared, so validation and consensus work has nowhere "
+            "to go. Those are the jobs a buyer close to deciding needs")
     # WHAT YOU SELL CAN OVERRIDE WHAT THE MARKET KNOWS. Awareness decides which channel gets
     # funded first for most companies; for a service it does not get to, because the thing being
     # bought is the people. An organisation page cannot answer "do I want these specific humans
     # in my business", and that is the question a service buyer is actually asking.
     imp = implications(profile)
-    if imp["declared"] and imp["offering"] == "service" and primary != "clevel":
+    if imp["declared"] and imp["offering"] == "service" and people and primary not in people:
         out["reasons"].append(
             "OVERRIDDEN by what this company sells. Awareness would have funded the page first, "
             "but a service sale is a bet on people and the content that works has a person's "
-            "name on it. A named channel is the primary one here regardless of awareness")
-        primary = "clevel"
+            "name on it. %s is the primary channel here regardless of awareness" % people[0])
+        primary = people[0]
     for c in imp["cautions"]:
         out["cautions"].append(c)
     if not imp["declared"]:
@@ -182,8 +248,9 @@ def recommend_channels(profile: dict) -> dict:
             "A named person making a claim here carries personal or regulatory exposure, so "
             "claim-bearing content belongs on the company page even where the split would "
             "otherwise put it on a profile. Split by WHO CARRIES THE RISK, not only by stage")
-        out["channels"]["clevel"]["why"] += ", but it carries mechanism and judgement rather " \
-                                            "than claims"
+        for name in people:
+            out["channels"][name]["why"] += (", but it carries mechanism and judgement rather "
+                                             "than claims")
     return out
 
 
