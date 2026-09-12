@@ -91,8 +91,8 @@ class TestPageAssembly(unittest.TestCase):
                           card_slots(CFG, draft(), spec(), "card/big_stat"), "CARD")
         # Through the ROLES, not through colour names. `build_page` composes the dark ground, so
         # that ground's background and foreground colours must appear in the output. Asserting
-        # on `ink_black` and `brand_orange` tied this test to one company's palette and broke as
-        # soon as another brand was loaded, which is the coupling this whole contract removes.
+        # on two literal palette keys tied this test to one brand and broke as soon as another
+        # was loaded, which is the coupling this whole contract exists to remove.
         ground = CFG.brand["grounds"]["dark"]
         palette = CFG.brand["palette"]
         self.assertIn(palette[ground["bg"]], html)
@@ -203,3 +203,37 @@ class TestLiveRender(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class TestBrandPortability(unittest.TestCase):
+    """A second brand must render without editing the engine.
+
+    Two token lookups used to fall back to a literal palette key when a ground did not define
+    the role, and that key belonged to whichever brand shipped last. Any other palette raised
+    KeyError. **This is the test that fails if a company's colour names get back into the code.**
+    """
+
+    def _brand_without(self, role):
+        import copy
+        b = copy.deepcopy(CFG.brand)
+        for ground in b["grounds"].values():
+            ground.pop(role, None)
+        return b
+
+    def test_a_ground_missing_the_optional_roles_still_renders(self):
+        import copy
+        cfg = copy.copy(CFG)
+        cfg.brand = self._brand_without("raised")
+        html = build_page(cfg, "card/big_stat",
+                          card_slots(cfg, draft(), spec(), "card/big_stat"), "CARD")
+        self.assertNotIn("{{", html)
+
+    def test_no_palette_key_is_hardcoded_in_the_renderer(self):
+        """Every colour the renderer resolves must come from the brand file, by role."""
+        import inspect
+        from postengine.render import renderer
+        src = inspect.getsource(renderer._token_ctx)
+        for line in src.splitlines():
+            if "grounds.get(" in line:
+                self.assertNotIn('", "', line.replace("grounds.get(", "").split(")")[0] + ")",
+                                 "a literal fallback colour name in: " + line.strip())

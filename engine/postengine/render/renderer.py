@@ -150,8 +150,12 @@ def _token_ctx(cfg: Config, fmt: str, ground: str = "dark") -> Dict[str, Any]:
         "ground_fg": pal[grounds["fg"]],
         "ground_muted": pal[grounds["muted"]],
         "ground_accent": pal[grounds["accent"]],
-        "ground_structure": pal[grounds.get("structure", "grey_dark")],
-        "ground_raised": pal[grounds.get("raised", "black_raised")],
+        # **Fall back to a ROLE, never to a colour name.** These two read
+        # `grounds.get(role, "<a literal palette key>")`, and that key belonged to one brand: any
+        # other palette raised KeyError here on a ground that happened not to define the role.
+        # `bg` and `fg` are guaranteed by Config._check_palette_references, so they are safe.
+        "ground_structure": pal[grounds.get("structure", grounds["fg"])],
+        "ground_raised": pal[grounds.get("raised", grounds["bg"])],
         "fallback_stack": ", ".join('"%s"' % f if " " in f else f
                                     for f in cfg.brand["typography"]["fallback_stack"]),
         "width": geo["width"], "height": geo["height"],

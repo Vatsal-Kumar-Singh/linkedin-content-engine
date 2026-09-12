@@ -80,11 +80,10 @@ class Config:
     def _check_palette_references(self) -> None:
         """Every colour named anywhere in the brand file must exist in the palette.
 
-        **This used to require three specific keys by name** (`brand_orange`, `ink_black`,
-        `grey_light`), which were one company's colour names baked into the engine's contract.
-        A different company with a perfectly good palette failed validation for not being that
-        company, and the check still passed for a brand file whose `grounds` pointed at a colour
-        that had been renamed.
+        **This used to require three palette keys by name**, taken from whichever brand the
+        engine last shipped with. Any other brand then failed validation for not being that
+        brand, while a brand file whose `grounds` pointed at a colour that had since been
+        renamed still passed. It checked the wrong thing in both directions.
 
         Referential integrity is both company-agnostic and strictly stronger: it catches the
         typo and the rename, which are the failures that actually happen, and it never asks
