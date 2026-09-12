@@ -332,3 +332,65 @@ class TestMeasureCorpus(unittest.TestCase):
         kept, _, dropped = m.normalise(rows)
         self.assertEqual(len(dropped), 1)
         self.assertNotIn("silent", {r["author"] for r in kept})
+
+
+# =================================================================================================
+# gen_calendar.py — the seam between the decision layer and the pipeline.
+#
+# **The integration test that matters**: what this emits must be something `run.py` can load
+# without any change downstream. If that stops being true, the two halves have come apart.
+# =================================================================================================
+
+class TestCalendarGenerator(unittest.TestCase):
+    def _gen(self):
+        import importlib.util
+        path = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
+                            "scripts", "gen_calendar.py")
+        spec = importlib.util.spec_from_file_location("gen_calendar", path)
+        m = importlib.util.module_from_spec(spec)
+        spec.loader.exec_module(m)
+        return m
+
+    def _slots(self, channel="clevel"):
+        m = self._gen()
+        from decision.channel import recommend_channels
+        carried = set(recommend_channels(EXAMPLE)["channels"][channel]["carries"])
+        return m, m.candidates(m.load_registry(), carried, "a buyer", channel)
+
+    def test_what_it_emits_loads_as_a_content_spec(self):
+        """The whole claim of seamlessness, asserted rather than hoped for."""
+        from postengine.models import ContentSpec
+        m, slots = self._slots()
+        self.assertTrue(slots)
+        for i, s in enumerate(slots[:5], 1):
+            ContentSpec.from_dict(m.to_spec(s, i, "t"))     # raises SpecError if it would not
+
+    def test_a_channel_only_gets_the_jobs_it_carries(self):
+        from decision.channel import recommend_channels
+        rec = recommend_channels(EXAMPLE)
+        for ch in ("clevel", "company"):
+            _, slots = self._slots(ch)
+            carried = set(rec["channels"][ch]["carries"])
+            self.assertTrue(slots, ch)
+            self.assertTrue({s["job"] for s in slots} <= carried, ch)
+
+    def test_the_two_channels_produce_different_work(self):
+        """If they came back the same, the channel split would be decoration."""
+        _, cl = self._slots("clevel")
+        _, co = self._slots("company")
+        self.assertNotEqual({s["job"] for s in cl}, {s["job"] for s in co})
+
+    def test_an_executive_slot_is_marked_so_the_carousel_ban_applies(self):
+        """Gate reads `who`. Without it the scorer recommends a designed carousel for every
+        executive slot, because carousel tops most corpora and nothing was stopping it."""
+        m, cl = self._slots("clevel")
+        _, co = self._slots("company")
+        self.assertTrue(all(s.get("who") for s in cl))
+        self.assertFalse(any(s.get("who") for s in co))
+        blocked = m.recommend(dict(cl[0], fmt="carousel"), "clevel", EXAMPLE)
+        self.assertNotIn("carousel", {o["fmt"] for o in blocked["options"]})
+
+    def test_no_slot_serves_an_objective_funded_separately(self):
+        """Recruitment has its own budget. It must not compete for calendar slots."""
+        _, slots = self._slots()
+        self.assertFalse(any(s["angle"] in ("hiring", "career-arc") for s in slots))

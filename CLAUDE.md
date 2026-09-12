@@ -66,6 +66,20 @@ the method for eliciting what content is actually for.
 
 ---
 
+## The one thing that changed for an existing brand file
+
+**Every ground must now define `bg`, `fg`, `accent` and `structure`.** The validator used to
+require three specific palette keys by name — one brand's colour names, so any other brand failed
+for not being that brand, while a ground pointing at a colour that had been renamed still passed.
+It now checks that every colour named anywhere in `brand.yaml` exists in the palette, and that
+every ground carries the four roles a template composes.
+
+**A brand file missing one used to render a card with a hole in it.** If yours fails on load, the
+message names the ground and the role; add it and nothing else changes. `raised` stays optional
+and falls back to `bg`.
+
+---
+
 ## Getting oriented
 
 ```bash

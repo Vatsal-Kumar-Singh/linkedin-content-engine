@@ -120,9 +120,22 @@ objective, and weights that come back near-equal mean nobody has chosen.
 
 ## Phase 3 — Decide what to publish
 
-**Generate the calendar, do not write it.** `.claude/skills/build-content-calendar`. The grid is
-pains × jobs × formats; hand-maintaining it guarantees it drifts from the register, and then two
-documents disagree with nothing saying which is current.
+**Generate the calendar, do not write it.** `.claude/skills/build-content-calendar` has the
+method; `scripts/gen_calendar.py` does it:
+
+```bash
+python scripts/gen_calendar.py --profile <name> --channel <one channel> --slots 12
+python scripts/gen_calendar.py --profile <name> --channel <one channel> --write q1
+```
+
+**The grid is pains × angles, not pains × tiers.** Three pains at one post per tier is nine posts
+and four weeks of runway; what fills the gap is angles, the same pain approached a different way.
+It reads the registry and the profile, asks `decision/` which channel carries which jobs, ranks
+what survives Gate, rotates across pains so one angle does not repeat seven times, and writes post
+specs `run.py` loads unchanged.
+
+**It writes briefs, never copy.** A calendar tool that invents titles is writing content nobody
+reviewed.
 
 Score it with `engine/decision/`:
 
