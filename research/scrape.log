@@ -1,0 +1,77 @@
+47 companies selected, 2 already on disk, 45 to pull
+account 1 of 3 has spent $0.42 of 5.00 this cycle
+
+run 1: linearapp, supabase, cal-com, mirohq, airtable, retool
+   Linear                   49 posts
+   Supabase                 49 posts
+   Cal.com                  50 posts
+   Miro                     50 posts
+   Airtable                 50 posts
+   Retool                   0 posts  <-- EMPTY
+run 2: posthog, vercel, gong-io, clari, 6sense, cognism
+   PostHog                  48 posts
+   Vercel                   48 posts
+   Gong                     49 posts
+   Clari                    48 posts
+   6sense                   49 posts
+   Cognism                  50 posts
+run 3: outreach-io, databricks, snowflake-computing, uipath, veeva-systems, refine-labs
+   Outreach                 0 posts  <-- EMPTY
+   Databricks               50 posts
+   Snowflake                0 posts  <-- EMPTY
+   UiPath                   49 posts
+   Veeva Systems            49 posts
+   Refine Labs              0 posts  <-- EMPTY
+run 4: kalungi, new-breed, directive-consulting, thoughtworks, slalom-consulting, accenturesong
+   Kalungi                  16 posts
+   New Breed                0 posts  <-- EMPTY
+   Directive Consulting     50 posts
+   Thoughtworks             50 posts
+   Slalom                   0 posts  <-- EMPTY
+   Accenture Song           0 posts  <-- EMPTY
+run 5: formlabs, markforged, rockwell-automation, abb-robotics, locus-robotics, agility-robotics
+   Formlabs                 49 posts
+   Markforged               50 posts
+   Rockwell Automation      50 posts
+   ABB Robotics             0 posts  <-- EMPTY
+   Locus Robotics           47 posts
+   Agility Robotics         2 posts
+run 6: zebra-technologies, prusa-research, raspberry-pi-foundation, resend, triggerdotdev, dubinc
+   Zebra Technologies       50 posts
+   Prusa Research           0 posts  <-- EMPTY
+   Raspberry Pi             0 posts  <-- EMPTY
+   Resend                   49 posts
+   Trigger.dev              50 posts
+   Dub                      50 posts
+run 7: cohere-health, chef-robotics, nimble-robotics, zoho, freshworks-inc, postman-platform
+   Cohere Health            0 posts  <-- EMPTY
+   Chef Robotics            50 posts
+   Nimble Robotics          0 posts  <-- EMPTY
+   Zoho                     27 posts
+   Freshworks               48 posts
+   Postman                  49 posts
+run 8: personio, atherenergy, addverb-technologies
+   Personio                 47 posts
+   Ather Energy             0 posts  <-- EMPTY
+   Addverb Technologies     0 posts  <-- EMPTY
+
+1422 posts across 31 companies
+spent $3.011 on this account, about $0.097 per company
+
+**14 COMPANIES RETURNED NOTHING.** An empty dataset is what a wrong slug and an
+exhausted actor cap both look like, and neither is the finding 'they post nothing':
+   Retool                   slug 'retool'
+   Outreach                 slug 'outreach-io'
+   Snowflake                slug 'snowflake-computing'
+   Refine Labs              slug 'refine-labs'
+   New Breed                slug 'new-breed'
+   Slalom                   slug 'slalom-consulting'
+   Accenture Song           slug 'accenturesong'
+   ABB Robotics             slug 'abb-robotics'
+   Prusa Research           slug 'prusa-research'
+   Raspberry Pi             slug 'raspberry-pi-foundation'
+   Cohere Health            slug 'cohere-health'
+   Nimble Robotics          slug 'nimble-robotics'
+   Ather Energy             slug 'atherenergy'
+   Addverb Technologies     slug 'addverb-technologies'
+Check the slug by opening linkedin.com/company/<slug>/ before concluding anything.

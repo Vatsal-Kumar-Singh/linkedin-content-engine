@@ -1,0 +1,249 @@
+# THE SAMPLE FRAME. Which companies stand for which cell, and why.
+#
+# **This file is the study design, and it is the thing most likely to be wrong.** A company filed
+# in the wrong cell does not fail loudly; it quietly moves that cell's numbers and every
+# conclusion drawn from them. So each entry names WHY it represents its cell, and the whole list
+# is reviewed by a human before a single credit is spent.
+#
+# Axes, and a fourth set of attributes that turned out to matter as much as the first three:
+#
+#   offering   saas | service | product          what you sell
+#   motion     plg | pls | slg | enterprise      how it gets bought
+#   stage      early | growth | scaled           roughly: <50, 50-500, 500+ people
+#   buyer      practitioner | manager | exec | procurement
+#   market     global | regional                 a measured 2x difference by market exists
+#   regulated  true | false                      changes claim discipline, not just tone
+#
+# **Two cells are close to structurally empty and are recorded as such rather than forced.**
+# Service sold PLG barely exists: you cannot self-serve a consultancy. Product sold PLG exists
+# only where the hardware is cheap enough to buy on a card. Filling them with bad examples would
+# be worse than reporting them empty.
+#
+# `slug` is the LinkedIn company slug. Wrong slugs return nothing rather than erroring, so the
+# scraper reports every URL that came back empty and that report is part of the result.
+
+meta:
+  designed: 2026-09-12
+  method: >-
+    Measured first. What these companies actually published on LinkedIn, classified by the
+    engine's own buying-job classifier, is the evidence. Published agency and vendor advice is
+    gathered separately, graded, and used as hypotheses to test rather than as conclusions.
+  posts_per_company: 50
+  minimum_per_cell: 3
+  status: APPROVED 2026-09-12. Peak Design struck on review as consumer-adjacent,
+    which would have put a non-B2B voice into a product cell.
+
+companies:
+
+  # ============================================================================================
+  # SaaS x PLG. The case most published content advice is written for, which is exactly why it
+  # needs measuring rather than assuming.
+  # ============================================================================================
+  - {name: Figma, slug: figma, offering: saas, motion: plg, stage: scaled,
+     buyer: practitioner, market: global, regulated: false,
+     why: "design tool adopted bottom-up by individual designers before any contract exists"}
+  - {name: Notion, slug: notionhq, offering: saas, motion: plg, stage: scaled,
+     buyer: practitioner, market: global, regulated: false,
+     why: "personal use first, team plan later. The canonical self-serve expansion path"}
+  - {name: Linear, slug: linearapp, offering: saas, motion: plg, stage: growth,
+     buyer: practitioner, market: global, regulated: false,
+     why: "engineering teams adopt without procurement. Strong opinionated brand voice"}
+  - {name: Supabase, slug: supabase, offering: saas, motion: plg, stage: growth,
+     buyer: practitioner, market: global, regulated: false,
+     why: "developer signs up alone, no sales contact required to reach value"}
+  - {name: Cal.com, slug: cal-com, offering: saas, motion: plg, stage: early,
+     buyer: practitioner, market: global, regulated: false,
+     why: "early-stage open-source PLG. Tests whether stage changes the split at all"}
+
+  # ============================================================================================
+  # SaaS x PLS. A user adopts alone, then a committee arrives. Both readers, different moments.
+  # ============================================================================================
+  - {name: Miro, slug: mirohq, offering: saas, motion: pls, stage: scaled,
+     buyer: manager, market: global, regulated: false,
+     why: "free boards spread through a team, then an enterprise conversation follows"}
+  - {name: Airtable, slug: airtable, offering: saas, motion: pls, stage: scaled,
+     buyer: manager, market: global, regulated: false,
+     why: "self-serve base becomes a company-wide platform deal"}
+  - {name: Retool, slug: tryretool, offering: saas, motion: pls, stage: growth,
+     buyer: practitioner, market: global, regulated: false,
+     why: "developers build internal tools first, platform contract second"}
+  - {name: PostHog, slug: posthog, offering: saas, motion: pls, stage: growth,
+     buyer: practitioner, market: global, regulated: false,
+     why: "open-source self-host, then a paid cloud conversation. Unusually candid publisher"}
+  - {name: Vercel, slug: vercel, offering: saas, motion: pls, stage: growth,
+     buyer: practitioner, market: global, regulated: false,
+     why: "hobby tier to enterprise platform, the whole ladder visible in public"}
+
+  # ============================================================================================
+  # SaaS x SLG. The reader is a messenger. Content has a second audience it never meets.
+  # ============================================================================================
+  - {name: Gong, slug: gong-io, offering: saas, motion: slg, stage: scaled,
+     buyer: exec, market: global, regulated: false,
+     why: "revenue intelligence sold to sales leadership. No meaningful self-serve path"}
+  - {name: Clari, slug: clari, offering: saas, motion: slg, stage: growth,
+     buyer: exec, market: global, regulated: false,
+     why: "revenue operations sold top-down to a CRO"}
+  - {name: 6sense, slug: 6sense, offering: saas, motion: slg, stage: growth,
+     buyer: manager, market: global, regulated: false,
+     why: "ABM platform, committee purchase, long evaluation"}
+  - {name: Cognism, slug: cognism, offering: saas, motion: slg, stage: growth,
+     buyer: manager, market: regional, regulated: true,
+     why: "EU-centric, and GDPR makes its claims a compliance matter rather than a style one"}
+  - {name: Outreach, slug: outreach-saas, offering: saas, motion: slg, stage: scaled,
+     buyer: exec, market: global, regulated: false,
+     why: "sales engagement sold to leadership, heavy proof and comparison content"}
+
+  # ============================================================================================
+  # SaaS x enterprise. A committee with a budget cycle. Forwarded internally, often as a PDF.
+  # ============================================================================================
+  - {name: Databricks, slug: databricks, offering: saas, motion: enterprise, stage: scaled,
+     buyer: exec, market: global, regulated: false,
+     why: "platform purchase tied to a budget cycle and an architecture review"}
+  - {name: Snowflake, slug: snowflake-computing, offering: saas, motion: enterprise,
+     stage: scaled, buyer: exec, market: global, regulated: false,
+     why: "data platform, procurement and security review before anything runs"}
+  - {name: UiPath, slug: uipath, offering: saas, motion: enterprise, stage: scaled,
+     buyer: exec, market: global, regulated: false,
+     why: "automation sold through transformation programmes and capex-shaped budgets"}
+  - {name: Veeva Systems, slug: veeva-systems, offering: saas, motion: enterprise,
+     stage: scaled, buyer: procurement, market: global, regulated: true,
+     why: "life sciences. Validated systems, so every claim is a regulatory artefact"}
+
+  # ============================================================================================
+  # Service x SLG. **The cell where a named person's channel is not optional**, because the
+  # buyer is deciding whether they want these specific humans in their business.
+  # ============================================================================================
+  - {name: Refine Labs, slug: refine-labs, offering: service, motion: slg, stage: growth,
+     buyer: exec, market: global, regulated: false,
+     why: "demand-gen agency whose own category argument is the product. Founder-led by design"}
+  - {name: Kalungi, slug: kalungi, offering: service, motion: slg, stage: early,
+     buyer: exec, market: global, regulated: false,
+     why: "B2B SaaS marketing agency, small, founder visible. Tests service at early stage"}
+  - {name: New Breed, slug: new-breed-revenue, offering: service, motion: slg, stage: growth,
+     buyer: manager, market: global, regulated: false,
+     why: "revenue agency, more corporate register than the founder-led comparators"}
+  - {name: Directive Consulting, slug: directive-consulting, offering: service, motion: slg,
+     stage: growth, buyer: manager, market: global, regulated: false,
+     why: "performance marketing for B2B SaaS. Publishes heavily on its own methods"}
+
+  # ============================================================================================
+  # Service x enterprise. Committee, procurement, and a brand that outranks any individual.
+  # ============================================================================================
+  - {name: Thoughtworks, slug: thoughtworks, offering: service, motion: enterprise,
+     stage: scaled, buyer: exec, market: global, regulated: false,
+     why: "technology consultancy. Named consultants publish, but the brand carries the deal"}
+  - {name: Slalom, slug: slalom-consulting, offering: service, motion: enterprise,
+     stage: scaled, buyer: exec, market: global, regulated: false,
+     why: "consultancy at scale, tests whether service still means person-led when large"}
+  - {name: Accenture Song, slug: accenture-song, offering: service, motion: enterprise,
+     stage: scaled, buyer: exec, market: global, regulated: false,
+     why: "the far end of scaled service: institutional voice, almost no individual"}
+
+  # ============================================================================================
+  # Product x SLG. Physical goods, checkable claims, a sales conversation before purchase.
+  # ============================================================================================
+  - {name: Formlabs, slug: formlabs, offering: product, motion: slg, stage: growth,
+     buyer: practitioner, market: global, regulated: false,
+     why: "professional 3D printing. A practitioner specifies it, a manager signs"}
+  - {name: Markforged, slug: markforged, offering: product, motion: slg, stage: growth,
+     buyer: manager, market: global, regulated: false,
+     why: "industrial additive manufacturing, engineering evaluation before purchase"}
+  - {name: Rockwell Automation, slug: rockwell-automation, offering: product,
+     motion: enterprise, stage: scaled, buyer: exec, market: global, regulated: true,
+     why: "industrial automation at scale. Safety and certification claims carry legal weight"}
+  - {name: ABB Robotics, slug: abbrobotics, offering: product, motion: enterprise,
+     stage: scaled, buyer: exec, market: global, regulated: true,
+     url: 'https://www.linkedin.com/showcase/abbrobotics/',
+     why: "industrial robotics, long capex cycles, engineering and safety review.
+            A showcase page, not a company page: the division publishes separately from ABB"}
+  - {name: Locus Robotics, slug: locus-robotics, offering: product, motion: enterprise,
+     stage: growth, buyer: exec, market: global, regulated: true,
+     why: "warehouse robotics at growth stage. The closest public analogue to a capex AMR sale"}
+  - {name: Agility Robotics, slug: agilityrobotics, offering: product, motion: enterprise,
+     stage: early, buyer: exec, market: global, regulated: true,
+     why: "humanoid logistics robots, early and category-creating. Tests early-stage product"}
+  - {name: Zebra Technologies, slug: zebra-technologies, offering: product,
+     motion: enterprise, stage: scaled, buyer: procurement, market: global, regulated: false,
+     why: "enterprise hardware bought through procurement at volume"}
+
+  # ============================================================================================
+  # Product x PLG. **Thin by nature**: hardware you can buy on a card without talking to anybody.
+  # Two entries, and the cell will be reported as thin rather than padded.
+  # ============================================================================================
+  - {name: Prusa Research, slug: prusa3d, offering: product, motion: plg, stage: growth,
+     buyer: practitioner, market: regional, regulated: false,
+     why: "desktop 3D printers bought directly by the user. Genuine hardware self-serve"}
+  - {name: Raspberry Pi, slug: raspberrypi, offering: product, motion: plg,
+     stage: scaled, buyer: practitioner, market: global, regulated: false,
+     why: "hardware adopted by individuals with no sales motion whatsoever"}
+
+  # ============================================================================================
+  # EARLY STAGE, added deliberately. The stage axis is one of the three and three companies
+  # cannot support a conclusion about it. Early companies are less known and post less, which is
+  # itself part of what the sample should capture rather than something to select away from.
+  # ============================================================================================
+  - {name: Resend, slug: resend, offering: saas, motion: plg, stage: early,
+     buyer: practitioner, market: global, regulated: false,
+     why: "developer email API, self-serve, small team, active publisher for its size"}
+  - {name: Trigger.dev, slug: triggerdotdev, offering: saas, motion: plg, stage: early,
+     buyer: practitioner, market: global, regulated: false,
+     why: "open-source background jobs. Builds in public, which is an early-stage pattern"}
+  - {name: Dub, slug: dubinc, offering: saas, motion: plg, stage: early,
+     buyer: practitioner, market: global, regulated: false,
+     why: "link infrastructure, founder-visible, very small team"}
+  - {name: Cohere Health, slug: coherehealth, offering: saas, motion: enterprise, stage: growth,
+     buyer: procurement, market: global, regulated: true,
+     why: "healthcare prior authorisation. Regulated enterprise SaaS, a cell otherwise thin"}
+  - {name: Chef Robotics, slug: chef-robotics, offering: product, motion: slg, stage: early,
+     buyer: manager, market: global, regulated: true,
+     why: "food robotics, early, category-creating. Early-stage product beside Agility"}
+  - {name: Ambi Robotics, slug: ambirobotics, offering: product, motion: enterprise,
+     stage: early, buyer: exec, market: global, regulated: true,
+     why: "warehouse picking robotics at early stage. Pairs with Locus at growth for a stage
+            comparison. Replaced Nimble Robotics, whose page returns nothing to this actor"}
+  - {name: RightHand Robotics, slug: righthand-robotics-inc, offering: product,
+     motion: enterprise, stage: growth, buyer: exec, market: global, regulated: true,
+     why: "piece-picking robotics. Thickens the cell nearest a capital-equipment sale"}
+  - {name: Dexterity, slug: dexterityinc, offering: product, motion: enterprise, stage: growth,
+     buyer: exec, market: global, regulated: true,
+     why: "warehouse robotics, explicitly category-arguing. Same cell, different register"}
+
+  # ============================================================================================
+  # NON-US MARKETS. The only market difference we have measured is large: executives in one
+  # regional market medianed 213 against 91 globally, on the same platform. Two regional
+  # companies could not support that axis, so the sample carries a real cohort.
+  # ============================================================================================
+  - {name: Zoho, slug: zoho, offering: saas, motion: plg, stage: scaled,
+     buyer: manager, market: regional, regulated: false,
+     why: "India-headquartered, self-serve, deliberately different register to US SaaS"}
+  - {name: Freshworks, slug: freshworks-inc, offering: saas, motion: pls, stage: scaled,
+     buyer: manager, market: regional, regulated: false,
+     why: "India-origin, now global-listed. Tests whether register follows market or listing"}
+  - {name: Postman, slug: postman-platform, offering: saas, motion: plg, stage: scaled,
+     buyer: practitioner, market: regional, regulated: false,
+     why: "India-origin developer tool with a global user base"}
+  - {name: Personio, slug: personio, offering: saas, motion: slg, stage: scaled,
+     buyer: manager, market: regional, regulated: true,
+     why: "German HR software. EU employment data makes its claims a compliance matter"}
+  - {name: Ather Energy, slug: ather-energy, offering: product, motion: plg, stage: growth,
+     buyer: practitioner, market: regional, regulated: true,
+     why: "Indian electric vehicles. Physical product, regional market, regulated"}
+  - {name: Addverb Technologies, slug: addverb, offering: product,
+     motion: enterprise, stage: growth, buyer: exec, market: regional, regulated: true,
+     why: "Indian warehouse robotics. The nearest public comparator to an industrial AMR sale"}
+
+# ================================================================================================
+# CELLS DELIBERATELY LEFT EMPTY, with the reason. An empty cell reported is a finding; an empty
+# cell filled with a poor example is a fabrication.
+# ================================================================================================
+empty_cells:
+  - cell: service x plg
+    why: >-
+      You cannot self-serve a consultancy. Where something looks like it, the product has stopped
+      being a service. Reported as structurally empty rather than padded with a productised
+      agency that is really SaaS.
+  - cell: service x early, at any motion beyond the two sampled
+    why: >-
+      Early service businesses are typically one or two named people whose LinkedIn IS the
+      company channel, so the company page carries almost nothing and the sample would measure
+      an empty page rather than a strategy. Kalungi is included as the closest usable case.

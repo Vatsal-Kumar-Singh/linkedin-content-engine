@@ -25,3 +25,13 @@ desktop.ini
 # a committed calendar drifts from the registry and the profile it came from.
 engine/posts/*/
 !engine/posts/example/
+
+# Scraped third-party posts. `research/raw/` holds the full text of other companies'
+# LinkedIn posts and `research/batches/` holds reading digests of the same text. This
+# repository is public, and redistributing somebody else's content is not ours to do.
+# Both are regenerable: research/scrape_sample.py rebuilds raw from the sample frame,
+# make_batches.py rebuilds the batches from raw. What IS tracked is the part that is our
+# own work and the part that makes the finding checkable: the labels (post id -> label)
+# and findings.json, which carries metadata and labels but no post text.
+research/raw/
+research/batches/
