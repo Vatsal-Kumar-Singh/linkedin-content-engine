@@ -48,7 +48,7 @@
   </g>
   {{^animate}}<circle cx="{{geo_dot_x}}" cy="{{geo_dot_y}}" r="7" fill="var(--accent)"/>{{/animate}}
   {{#animate}}
-  <!-- A silver comet sweeping the visible run of each tracing. Same period,
+  <!-- A grey comet sweeping the visible run of each tracing. Same period,
        phase offset by half a cycle, so the two never peak together and the card
        is never fully still; the inner ring runs dimmer and thinner so the pair
        reads as depth rather than as two equal effects.
@@ -86,13 +86,13 @@
   <g fill="none" stroke-linecap="round" mask="url(#pulse-mask)">
     <!-- OUTER RING -->
     <circle class="pulse pulse--outer pulse--halo" cx="{{geo_cx}}" cy="{{geo_cy}}" r="{{geo_r}}"
-            stroke="var(--silver)" stroke-width="9" filter="url(#pulse-glow)"
+            stroke="var(--grey)" stroke-width="9" filter="url(#pulse-glow)"
             stroke-dasharray="{{pulse_len}} {{pulse_gap}}"
             transform="rotate({{pulse_rot}} {{geo_cx}} {{geo_cy}})"
             style="--pulse-from:{{pulse_from}}px;--pulse-to:{{pulse_to}}px;
                    --pulse-peak:{{pulse_peak}};--pulse-secs:{{pulse_secs}}s"/>
     <circle class="pulse pulse--outer" cx="{{geo_cx}}" cy="{{geo_cy}}" r="{{geo_r}}"
-            stroke="var(--silver-light)" stroke-width="3.5"
+            stroke="var(--grey-light)" stroke-width="3.5"
             stroke-dasharray="{{pulse_len}} {{pulse_gap}}"
             transform="rotate({{pulse_rot}} {{geo_cx}} {{geo_cy}})"
             style="--pulse-from:{{pulse_from}}px;--pulse-to:{{pulse_to}}px;
@@ -100,7 +100,7 @@
     <!-- The head. A dash of effectively zero length with a round cap renders as
          a dot of diameter stroke-width, riding the same path as the streak. -->
     <circle class="pulse pulse--outer pulse--head" cx="{{geo_cx}}" cy="{{geo_cy}}" r="{{geo_r}}"
-            stroke="var(--silver-light)" stroke-width="{{pulse_head_r}}"
+            stroke="var(--grey-light)" stroke-width="{{pulse_head_r}}"
             stroke-dasharray="0.01 {{head_gap}}"
             transform="rotate({{pulse_rot}} {{geo_cx}} {{geo_cy}})"
             style="--pulse-from:{{head_from}}px;--pulse-to:{{head_to}}px;
@@ -108,19 +108,19 @@
 
     <!-- INNER RING -->
     <circle class="pulse pulse--inner pulse--halo" cx="{{geo_cx}}" cy="{{geo_cy}}" r="{{geo_r2}}"
-            stroke="var(--silver)" stroke-width="7" filter="url(#pulse-glow)"
+            stroke="var(--grey)" stroke-width="7" filter="url(#pulse-glow)"
             stroke-dasharray="{{pulse_len2}} {{pulse_gap2}}"
             transform="rotate({{pulse_rot2}} {{geo_cx}} {{geo_cy}})"
             style="--pulse-from:{{pulse_from2}}px;--pulse-to:{{pulse_to2}}px;
                    --pulse-peak:{{pulse_peak2}};--pulse-secs:{{pulse_secs}}s"/>
     <circle class="pulse pulse--inner" cx="{{geo_cx}}" cy="{{geo_cy}}" r="{{geo_r2}}"
-            stroke="var(--silver)" stroke-width="2.5"
+            stroke="var(--grey)" stroke-width="2.5"
             stroke-dasharray="{{pulse_len2}} {{pulse_gap2}}"
             transform="rotate({{pulse_rot2}} {{geo_cx}} {{geo_cy}})"
             style="--pulse-from:{{pulse_from2}}px;--pulse-to:{{pulse_to2}}px;
                    --pulse-peak:{{pulse_peak2}};--pulse-secs:{{pulse_secs}}s"/>
     <circle class="pulse pulse--inner pulse--head" cx="{{geo_cx}}" cy="{{geo_cy}}" r="{{geo_r2}}"
-            stroke="var(--silver-light)" stroke-width="{{pulse_head_r2}}"
+            stroke="var(--grey-light)" stroke-width="{{pulse_head_r2}}"
             stroke-dasharray="0.01 {{head_gap2}}"
             transform="rotate({{pulse_rot2}} {{geo_cx}} {{geo_cy}})"
             style="--pulse-from:{{head_from2}}px;--pulse-to:{{head_to2}}px;

@@ -77,6 +77,22 @@ def detect_renderer(preference: str = "auto") -> str:
 # ---------------------------------------------------------------------------
 
 
+# The script that freezes a still. **Hoisted out of the render loop so a test can read it.**
+#
+# It was inline, and `scripts/mutation_check.py` had a mutant for it that survived every run:
+# adding `a.play()` after the seek resumed every animation and nothing failed. A documented rule
+# in CLAUDE.md ("stills freeze CSS animations before shooting") with no test behind it.
+#
+# Pause, then seek to zero, and **never resume**. A still of an animated card must be a pure
+# function of the card, not of the moment the screenshot landed.
+FREEZE_STILL_JS = """() => {
+    for (const a of document.getAnimations()) {
+        a.pause();
+        a.currentTime = 0;
+    }
+}"""
+
+
 def _font_url(cfg: Config, family_key: str, weight: int) -> str:
     typo = cfg.brand["typography"]
     spec = typo[family_key]
@@ -86,6 +102,30 @@ def _font_url(cfg: Config, family_key: str, weight: int) -> str:
         return ""
     with open(path, "rb") as fh:
         return "data:font/woff2;base64," + base64.b64encode(fh.read()).decode("ascii")
+
+
+def _font_faces(cfg: Config) -> str:
+    """Every @font-face the brand declares, and only those.
+
+    This block was six hardcoded lines at weights 300/400/600 and 300/400/500, written for a
+    font family that shipped those weights. Point the config at a family that ships 400 and 700
+    instead and three of the six name files that do not exist, `_font_url` returns an empty
+    string for them, and the bold face is never embedded at all: every heavy weight
+    on every card was the browser faking one. Deriving the list from
+    `brand.typography.<family>.weights` means a two-weight family works and a five-weight one
+    works, without anyone remembering to edit CSS.
+    """
+    out = []
+    for family_key, css_family in (("display", "BrandDisplay"), ("body", "BrandBody")):
+        spec = cfg.brand["typography"][family_key]
+        for w in spec.get("weights") or [400]:
+            url = _font_url(cfg, family_key, w)
+            if not url:
+                continue
+            out.append('@font-face { font-family:"%s"; src:url("%s") format("woff2"); '
+                       'font-weight:%d; font-style:normal; font-display:block; }'
+                       % (css_family, url, w))
+    return "\n".join(out)
 
 
 def _token_ctx(cfg: Config, fmt: str, ground: str = "dark") -> Dict[str, Any]:
@@ -110,20 +150,15 @@ def _token_ctx(cfg: Config, fmt: str, ground: str = "dark") -> Dict[str, Any]:
         "ground_fg": pal[grounds["fg"]],
         "ground_muted": pal[grounds["muted"]],
         "ground_accent": pal[grounds["accent"]],
-        "ground_structure": pal[grounds.get("structure", "silver_dark")],
-        "ground_raised": pal[grounds.get("raised", "navy_raised")],
+        "ground_structure": pal[grounds.get("structure", "grey_dark")],
+        "ground_raised": pal[grounds.get("raised", "black_raised")],
         "fallback_stack": ", ".join('"%s"' % f if " " in f else f
                                     for f in cfg.brand["typography"]["fallback_stack"]),
         "width": geo["width"], "height": geo["height"],
         "margin": 96 if fmt == "CARD" else 84,
         "min_body_px": leg["min_body_px"], "min_caption_px": leg["min_caption_px"],
         "min_body": leg["min_body_px"], "min_caption": leg["min_caption_px"],
-        "font_display_300": _font_url(cfg, "display", 300),
-        "font_display_400": _font_url(cfg, "display", 400),
-        "font_display_600": _font_url(cfg, "display", 600),
-        "font_body_300": _font_url(cfg, "body", 300),
-        "font_body_400": _font_url(cfg, "body", 400),
-        "font_body_500": _font_url(cfg, "body", 500),
+        "font_faces": _font_faces(cfg),
     })
     return ctx
 
@@ -131,6 +166,12 @@ def _token_ctx(cfg: Config, fmt: str, ground: str = "dark") -> Dict[str, Any]:
 def _read(path: str) -> str:
     with open(path, "r", encoding="utf-8") as fh:
         return fh.read()
+
+
+# The ground the pipeline renders cards on. Named, because `card_slots` and `build_page`
+# each used to take their own default and a mismatch between them is invisible in code
+# and fatal on the page.
+CARD_GROUND = "light"
 
 
 def build_page(cfg: Config, template_dir: str, slots: Dict[str, Any],
@@ -186,12 +227,7 @@ def _shoot_playwright(pages: List[Tuple[str, str]], width: int, height: int,
                 # the animated variants were affected, which is why it went
                 # unnoticed — the static light cards were byte-identical.
                 try:
-                    page.evaluate("""() => {
-                        for (const a of document.getAnimations()) {
-                            a.pause();
-                            a.currentTime = 0;
-                        }
-                    }""")
+                    page.evaluate(FREEZE_STILL_JS)
                 except Exception:
                     pass
                 measure = page.evaluate(FIT_JS, {
@@ -374,7 +410,20 @@ def _wash_seed(spec) -> str:
     return str(getattr(spec, "id", "") or getattr(spec, "pain_point", "") or "x")
 
 
-def card_slots(cfg: Config, draft, spec, template_dir: str) -> Dict[str, Any]:
+def card_slots(cfg: Config, draft, spec, template_dir: str,
+               ground: str = "dark") -> Dict[str, Any]:
+    """Slots for one card.
+
+    `ground` has to be passed in, and it was not before. The wash composes its light variant
+    unconditionally, so a card built for the dark ground got a pale wash behind foreground
+    tokens taken from the dark ground: near-white type on a near-white background. Every
+    template that composes a wash was affected, `build_page` defaults to the dark ground, and
+    the production path takes that default, so this was every card the pipeline made.
+
+    Nothing caught it. 133 tests pass either way, because the failure is a colour relationship
+    between two subsystems and each one is correct on its own. It was found by rendering a PNG
+    and looking at it, which is what this project's own notes say to do.
+    """
     """Route a draft into the slots of whichever card template was selected."""
     ts = cfg.brand.get("type_scale") or {}
     geo = cfg.brand["formats"]["CARD"]
@@ -393,7 +442,7 @@ def card_slots(cfg: Config, draft, spec, template_dir: str) -> Dict[str, Any]:
             m = re.match(r"^(\d{1,3})", focal)
             if m and 0 < int(m.group(1)) <= 100:
                 pct = int(m.group(1))
-        slots.update(compose_wash(cfg, _wash_seed(spec), W, H))
+        slots.update(compose_wash(cfg, _wash_seed(spec), W, H, {"wash_dark": ground == "dark"}))
         slots.update({
             "focal": focal, "focal_symbol": symbol, "focal_unit": unit.upper(),
             "focal_class": "focal--word" if is_word else "",
@@ -419,7 +468,7 @@ def card_slots(cfg: Config, draft, spec, template_dir: str) -> Dict[str, Any]:
     hl = ts.get("headline", {}).get("size", 108)
 
     if template_dir == "card/comparison":
-        slots.update(compose_wash(cfg, _wash_seed(spec), W, H))
+        slots.update(compose_wash(cfg, _wash_seed(spec), W, H, {"wash_dark": ground == "dark"}))
         left, right = _comparison_rows(draft)
         slots.update({
             "headline_html": _emphasise(draft.creative_headline or draft.creative_supporting_copy),
@@ -433,7 +482,7 @@ def card_slots(cfg: Config, draft, spec, template_dir: str) -> Dict[str, Any]:
 
     if template_dir == "card/journey":
         steps = _journey_steps(draft)
-        slots.update(compose_wash(cfg, _wash_seed(spec), W, H))
+        slots.update(compose_wash(cfg, _wash_seed(spec), W, H, {"wash_dark": ground == "dark"}))
         slots.update({
             "headline_html": _emphasise(draft.creative_headline or ""),
             "sub_html": "", "sub": "",
@@ -445,7 +494,7 @@ def card_slots(cfg: Config, draft, spec, template_dir: str) -> Dict[str, Any]:
         return slots
 
     if template_dir == "card/editorial":
-        slots.update(compose_wash(cfg, _wash_seed(spec), W, H))
+        slots.update(compose_wash(cfg, _wash_seed(spec), W, H, {"wash_dark": ground == "dark"}))
         slots.update({
             "headline_html": _emphasise(draft.creative_headline or ""),
             "sub_html": _emphasise(draft.creative_supporting_copy or ""),
@@ -457,7 +506,7 @@ def card_slots(cfg: Config, draft, spec, template_dir: str) -> Dict[str, Any]:
 
     if template_dir == "card/framework":
         nodes = _framework_nodes(draft)
-        slots.update(compose_wash(cfg, _wash_seed(spec), W, H))
+        slots.update(compose_wash(cfg, _wash_seed(spec), W, H, {"wash_dark": ground == "dark"}))
         slots.update({
             "headline_html": _emphasise(draft.creative_headline or ""),
             "sub_html": _emphasise(draft.creative_supporting_copy or ""),
@@ -468,7 +517,7 @@ def card_slots(cfg: Config, draft, spec, template_dir: str) -> Dict[str, Any]:
         return slots
 
     if template_dir == "card/wash":
-        slots.update(compose_wash(cfg, _wash_seed(spec), W, H))
+        slots.update(compose_wash(cfg, _wash_seed(spec), W, H, {"wash_dark": ground == "dark"}))
         statement = draft.creative_headline or draft.creative_supporting_copy
         slots.update({
             "statement_html": _emphasise(statement),
@@ -479,7 +528,7 @@ def card_slots(cfg: Config, draft, spec, template_dir: str) -> Dict[str, Any]:
         return slots
 
     # card/contrarian — the default for a statement-led card
-    slots.update(compose_wash(cfg, _wash_seed(spec), W, H))
+    slots.update(compose_wash(cfg, _wash_seed(spec), W, H, {"wash_dark": ground == "dark"}))
     statement = draft.creative_headline or draft.creative_supporting_copy
     slots.update({
         "statement_html": _emphasise(statement),
@@ -646,9 +695,9 @@ def render_creative(cfg: Config, result, store, emit: Callable[[str], None] = la
     pages: List[Tuple[str, str]] = []
     slot_sets: List[Dict[str, Any]] = []
     if fmt == "CARD":
-        slots = card_slots(cfg, draft, spec, template_dir)
+        slots = card_slots(cfg, draft, spec, template_dir, ground=CARD_GROUND)
         slot_sets.append(slots)
-        html = build_page(cfg, template_dir, slots, fmt)
+        html = build_page(cfg, template_dir, slots, fmt, ground=CARD_GROUND)
         hp = os.path.join(src_dir, "creative.html")
         with open(hp, "w", encoding="utf-8") as fh:
             fh.write(html)

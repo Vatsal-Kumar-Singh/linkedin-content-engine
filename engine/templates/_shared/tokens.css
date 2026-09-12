@@ -2,12 +2,10 @@
    nothing is hard-coded in a template. When the the product sub-brand rules land,
    editing brand.yaml restyles every creative. */
 
-@font-face { font-family:"BrandDisplay"; src:url("{{font_display_300}}") format("woff2"); font-weight:300; font-style:normal; font-display:block; }
-@font-face { font-family:"BrandDisplay"; src:url("{{font_display_400}}") format("woff2"); font-weight:400; font-style:normal; font-display:block; }
-@font-face { font-family:"BrandDisplay"; src:url("{{font_display_600}}") format("woff2"); font-weight:600; font-style:normal; font-display:block; }
-@font-face { font-family:"BrandBody"; src:url("{{font_body_300}}") format("woff2"); font-weight:300; font-style:normal; font-display:block; }
-@font-face { font-family:"BrandBody"; src:url("{{font_body_400}}") format("woff2"); font-weight:400; font-style:normal; font-display:block; }
-@font-face { font-family:"BrandBody"; src:url("{{font_body_500}}") format("woff2"); font-weight:500; font-style:normal; font-display:block; }
+/* Generated from brand.typography by renderer._font_faces. It was six hardcoded lines
+   at weights 300/400/600 and 300/400/500, so a family shipping 400 and 700 silently
+   embedded nothing for the other four and the browser faked every heavy weight. */
+{{{font_faces}}}
 
 :root{
   --brand-blue:{{brand_blue}};

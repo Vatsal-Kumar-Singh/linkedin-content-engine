@@ -306,9 +306,13 @@ class TestPassTwoRefinements(unittest.TestCase):
         light = wash(CFG, "hi", 1200, 1200, {})
         dark = wash(CFG, "hi", 1200, 1200, {"wash_dark": True})
         self.assertNotEqual(light["wash_hi"], dark["wash_hi"])
-        pal = CFG.brand["palette"]
-        self.assertEqual(dark["wash_hi"], pal["silver_light"])
-        self.assertEqual(light["wash_hi"], pal["brand_blue"])
+        # Both sweeps must come from the palette rather than a literal in the code, and they
+        # must differ. **Naming the two colours here would pin the test to one brand**, which is
+        # what the previous version did and why it failed the moment the palette changed. The
+        # claim being tested is "ground-aware, from config", and that is exactly what is asserted.
+        colours = set(CFG.brand["palette"].values())
+        self.assertIn(dark["wash_hi"], colours)
+        self.assertIn(light["wash_hi"], colours)
 
     def test_motion_reaches_both_grounds(self):
         for ground, is_dark in (("light", False), ("dark", True)):
@@ -359,3 +363,28 @@ class TestAnimatedStillsAreDeterministic(unittest.TestCase):
                 digests.append(hashlib.sha256(fh.read()).hexdigest())
         self.assertEqual(digests[0], digests[1],
                          "an animated card renders different bytes each time")
+
+
+class TestStillsAreFrozen(unittest.TestCase):
+    """The rule CLAUDE.md states and nothing enforced.
+
+    `scripts/mutation_check.py` carries a mutant that resumes every animation after seeking to
+    zero. It survived every run, because the freeze script was inline in the render loop and no
+    test could see it. A still of an animated card would then sample whatever moment the
+    screenshot landed on, and the same card would render two different files.
+    """
+
+    def test_the_freeze_script_pauses_seeks_and_never_resumes(self):
+        from postengine.render.renderer import FREEZE_STILL_JS
+        self.assertIn("a.pause()", FREEZE_STILL_JS)
+        self.assertIn("a.currentTime = 0", FREEZE_STILL_JS)
+        self.assertNotIn(".play()", FREEZE_STILL_JS,
+                         "a still that resumes its animations is not reproducible")
+
+    def test_the_frame_capture_seeks_by_index_rather_than_waiting(self):
+        """The animated path has the same requirement for the same reason."""
+        import inspect
+        from postengine.render import animate
+        src = inspect.getsource(animate._freeze_and_seek)
+        self.assertIn("a.pause()", src)
+        self.assertNotIn(".play()", src)

@@ -138,9 +138,13 @@ def main():
     for ex in EXAMPLES:
         spec, draft = _spec(ex), _draft(ex)
         for ground in ("light", "dark"):
-            slots = card_slots(cfg, draft, spec, ex["template"])
+            # `ground` has to be passed. Without it card_slots took its own default and composed
+            # a DARK wash under LIGHT type tokens, so every "light" example rendered as
+            # near-black text on a dark ground. It shipped that way and nothing failed, because
+            # the two halves are each correct on their own. Third call site with this bug.
+            slots = card_slots(cfg, draft, spec, ex["template"], ground=ground)
             if ground == "dark":
-                # Recompose the ground in the dark colourway and switch motion on.
+                # Dark additionally switches motion on, which the base call does not do.
                 from postengine.render.backgrounds import wash as compose_wash
                 slots.update(compose_wash(cfg, ex["key"], geo["width"], geo["height"],
                                           {"wash_dark": True, "wash_motion": a.motion}))

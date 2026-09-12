@@ -74,9 +74,54 @@ class Config:
         for role in ("generator", "judge"):
             if role not in (self.engine.get("providers") or {}):
                 raise ConfigError("engine.providers.%s is not configured" % role)
-        for key in ("brand_blue", "deep_navy", "cloud_white"):
-            if key not in (self.brand.get("palette") or {}):
-                raise ConfigError("brand.palette.%s is missing" % key)
+        self._check_palette_references()
+
+    # ------------------------------------------------------------------
+    def _check_palette_references(self) -> None:
+        """Every colour named anywhere in the brand file must exist in the palette.
+
+        **This used to require three specific keys by name** (`brand_orange`, `ink_black`,
+        `grey_light`), which were one company's colour names baked into the engine's contract.
+        A different company with a perfectly good palette failed validation for not being that
+        company, and the check still passed for a brand file whose `grounds` pointed at a colour
+        that had been renamed.
+
+        Referential integrity is both company-agnostic and strictly stronger: it catches the
+        typo and the rename, which are the failures that actually happen, and it never asks
+        anybody to own an orange.
+
+        **Roles live in `grounds`, colours live in `palette`.** A template asks for the accent of
+        the dark ground; it never asks for orange. That indirection is what lets one engine
+        render for any brand, and this check is what keeps the two halves pointing at each other.
+        """
+        pal = self.brand.get("palette") or {}
+        if not pal:
+            raise ConfigError("brand.palette is empty. The renderer has no colours to work with")
+
+        missing = []
+        for ground, roles in (self.brand.get("grounds") or {}).items():
+            for role, colour in (roles or {}).items():
+                if colour not in pal:
+                    missing.append("grounds.%s.%s -> %r" % (ground, role, colour))
+        for name, spec in (self.brand.get("backgrounds") or {}).items():
+            colour = (spec or {}).get("colour")
+            if colour is not None and colour not in pal:
+                missing.append("backgrounds.%s.colour -> %r" % (name, colour))
+
+        if missing:
+            raise ConfigError(
+                "brand.yaml names %d colour(s) that are not in brand.palette:\n  %s\n"
+                "Either add them to the palette or point these at a colour that exists."
+                % (len(missing), "\n  ".join(missing)))
+
+        # The renderer composes a ground from these four roles on every template. A brand file
+        # missing one renders a card with a hole in it rather than failing, which is worse.
+        for ground, roles in (self.brand.get("grounds") or {}).items():
+            for role in ("bg", "fg", "accent", "structure"):
+                if role not in (roles or {}):
+                    raise ConfigError(
+                        "brand.grounds.%s has no %r. Every ground needs bg, fg, accent and "
+                        "structure, because every template composes all four." % (ground, role))
 
     # ------------------------------------------------------------------
     @property

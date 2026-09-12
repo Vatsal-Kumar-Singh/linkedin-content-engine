@@ -59,7 +59,7 @@ def main():
     geo = cfg.brand["formats"]["CARD"]
     draft = _draft(a.statement, a.sub)
 
-    slots = card_slots(cfg, draft, _spec(a.template), a.template)
+    slots = card_slots(cfg, draft, _spec(a.template), a.template, ground=a.ground)
     slots["animate"] = bool(a.animate)
     html = build_page(cfg, a.template, slots, "CARD", ground=a.ground)
     hp = os.path.join(a.out, "preview.html")

@@ -89,8 +89,14 @@ class TestPageAssembly(unittest.TestCase):
     def test_brand_tokens_come_from_config_not_the_template(self):
         html = build_page(CFG, "card/big_stat",
                           card_slots(CFG, draft(), spec(), "card/big_stat"), "CARD")
-        self.assertIn(CFG.brand["palette"]["deep_navy"], html)
-        self.assertIn(CFG.brand["palette"]["brand_blue"], html)
+        # Through the ROLES, not through colour names. `build_page` composes the dark ground, so
+        # that ground's background and foreground colours must appear in the output. Asserting
+        # on `ink_black` and `brand_orange` tied this test to one company's palette and broke as
+        # soon as another brand was loaded, which is the coupling this whole contract removes.
+        ground = CFG.brand["grounds"]["dark"]
+        palette = CFG.brand["palette"]
+        self.assertIn(palette[ground["bg"]], html)
+        self.assertIn(palette[ground["fg"]], html)
 
     def test_fonts_are_embedded_so_the_render_never_depends_on_a_network(self):
         html = build_page(CFG, "card/big_stat",

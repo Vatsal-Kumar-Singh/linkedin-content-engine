@@ -157,7 +157,7 @@ def animate_card(html_path: str, out_dir: str, basename: str,
             out["format"] = "gif"
             out["note"] = ("ffmpeg not found — encoded as GIF. LinkedIn accepts GIF "
                            "and converts it server-side, but MP4 is smaller and "
-                           "keeps more of the silver gradient.")
+                           "keeps more of the grey gradient.")
     finally:
         if not keep_frames:
             shutil.rmtree(frame_dir, ignore_errors=True)
