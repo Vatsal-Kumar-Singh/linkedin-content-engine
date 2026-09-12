@@ -8,6 +8,7 @@ looks wrong. This module ships with no measurements at all, so every refusal is 
 """
 import copy
 import os
+import statistics
 import sys
 import unittest
 
@@ -259,3 +260,75 @@ class TestScoreSlot(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+# =================================================================================================
+# measure_corpus.py — the tool that fills a profile's `corpus:` block.
+#
+# **Tested by planting a structure and checking it comes back**, because a measurement script that
+# runs cleanly and reports the wrong numbers is the exact silent failure this repo keeps hitting.
+# =================================================================================================
+
+class TestMeasureCorpus(unittest.TestCase):
+    @staticmethod
+    def _rows():
+        """Two authors, a 6x audience gap, and a known length and format effect planted in."""
+        import random
+        rng = random.Random(7)
+        rows = []
+        for author, scale in (("small", 40.0), ("large", 320.0)):
+            for _ in range(60):
+                words = rng.choice([rng.randint(20, 49), rng.randint(50, 99),
+                                    rng.randint(100, 179), rng.randint(180, 400)])
+                fmt = rng.choice(["text", "single image", "photo album", "photo album"])
+                length_effect = 0.5 if words < 100 else (1.0 if words < 180 else 1.8)
+                fmt_effect = {"text": 0.6, "single image": 1.0, "photo album": 1.7}[fmt]
+                rows.append({"author": author, "channel": "c", "words": words, "format": fmt,
+                             "eng": scale * length_effect * fmt_effect * rng.uniform(0.7, 1.3)})
+        return rows
+
+    def _module(self):
+        import importlib.util
+        path = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
+                            "scripts", "measure_corpus.py")
+        spec = importlib.util.spec_from_file_location("measure_corpus", path)
+        m = importlib.util.module_from_spec(spec)
+        spec.loader.exec_module(m)
+        return m
+
+    def test_normalisation_removes_the_audience_gap(self):
+        """The whole point. One author earns 8x the other and it says nothing about post shape."""
+        m = self._module()
+        rows, medians, _ = m.normalise(self._rows())
+        self.assertGreater(max(medians.values()) / min(medians.values()), 4,
+                           "the fixture should contain a large audience gap")
+        for author in medians:
+            rel = statistics.median([r["rel"] for r in rows if r["author"] == author])
+            self.assertAlmostEqual(rel, 1.0, delta=0.15,
+                                   msg="after normalising, each author centres on 1.0")
+
+    def test_the_planted_length_effect_comes_back_in_order(self):
+        m = self._module()
+        rows, _, _ = m.normalise(self._rows())
+        meds = []
+        for band in m.DEFAULT_BANDS:
+            vals = [r["rel"] for r in rows if m.band_of(r["words"], m.DEFAULT_BANDS) == band]
+            meds.append(statistics.median(vals))
+        self.assertEqual(meds, sorted(meds, reverse=True),
+                         "longer bands were planted as stronger and must come back that way")
+
+    def test_the_planted_format_effect_comes_back_in_order(self):
+        m = self._module()
+        rows, _, _ = m.normalise(self._rows())
+        got = {f: statistics.median([r["rel"] for r in rows if r["format"] == f])
+               for f in ("text", "single image", "photo album")}
+        self.assertLess(got["text"], got["single image"])
+        self.assertLess(got["single image"], got["photo album"])
+
+    def test_an_author_with_no_engagement_is_dropped_not_divided_by(self):
+        m = self._module()
+        rows = self._rows() + [{"author": "silent", "channel": "c", "words": 200,
+                                "format": "text", "eng": 0.0}]
+        kept, _, dropped = m.normalise(rows)
+        self.assertEqual(len(dropped), 1)
+        self.assertNotIn("silent", {r["author"] for r in kept})

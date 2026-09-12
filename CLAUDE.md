@@ -47,7 +47,10 @@ exist**, on which channel, in what form — and shows its reasoning so a person 
 
 ```bash
 python engine/decision/profile.py example-meridian     # read a company profile
+cd engine && python scripts/measure_corpus.py scripts/example-posts.csv --channel clevel
 ```
+
+`measure_corpus.py` turns a CSV of published posts into the `corpus:` block a profile needs. **It normalises every post against its own author's median**, because a median pooled across authors ranks the audience rather than the post, and it refuses to pool two channels at all.
 
 **It carries no measurements.** Not as an omission: an earlier version shipped one company's
 length bands and format medians as a fallback, so anybody who had not measured their own corpus

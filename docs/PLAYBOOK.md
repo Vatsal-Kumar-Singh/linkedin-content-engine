@@ -69,9 +69,20 @@ a good draft dying on a claim nobody checked.
 finding gaps, never for reusing anybody's text. It also produces the saturation counts that tell
 you which themes are open ground.
 
-**Your own numbers, and this is the one that gets skipped.** Measure the company's own published
-posts: median engagement by word band, by format, on each channel separately. Without this, Lift
-has nothing to work from and the engine will tell you so rather than guessing.
+**Your own numbers, and this is the one that gets skipped.** Export the company's own published
+posts and run:
+
+```bash
+python scripts/measure_corpus.py posts.csv --channel <one channel>
+```
+
+It emits the `corpus:` block a profile needs, and **it enforces both traps below rather than
+trusting you to remember them**: it refuses to pool two channels, it scores every post against
+its own author's median before aggregating, and it leaves out any band or format with fewer than
+five posts instead of shipping an anecdote as a measurement. `scripts/example-posts.csv` shows the
+input shape.
+
+Without this, Lift has nothing to work from and the engine will tell you so rather than guessing.
 
 **Two traps here, both costly.**
 
