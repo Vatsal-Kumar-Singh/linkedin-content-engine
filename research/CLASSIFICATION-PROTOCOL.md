@@ -82,6 +82,14 @@ a finding about how that company uses the channel, not a hole in the taxonomy.
 | `product-news` | A launch, release, version, changelog, feature announcement — **announcement only**. If it explains how the feature works it is `exploration`; if it shows a customer using it, `validation` |
 | `csr` | Sustainability, donations, community programmes, awareness days, education outreach |
 
+**On a named person's channel `culture` widens**, and this is the only definition that differs
+between the two corpora. A page's culture content is team photos and anniversaries; a person's is
+personal and professional narrative — a career move, a lesson learned, appreciating a colleague,
+a story with no product in it. **The labels were deliberately not extended** to add a
+"personal narrative" category, because a label that exists on one side of the comparison and not
+the other makes the two distributions incomparable, which is the entire point of measuring the
+person channel against the page.
+
 ### One escape hatch
 
 | `unclear` | The post cannot be read confidently — too short, pure link drop, no interpretable text, a language the reader cannot assess |

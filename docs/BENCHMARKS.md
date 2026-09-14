@@ -302,6 +302,69 @@ person posts.
 ratio, a founder posting weekly is doing roughly the same work as a page posting three times — and
 the founder's cadence is the one companies treat as optional.
 
+### What a founder publishes about: almost exactly what the page publishes about
+
+645 of the person posts were read and labelled with the same twelve labels as the company corpus,
+sampled evenly per person so a prolific writer could not carry the distribution. The expectation
+going in was that people would publish different *content*. They do not:
+
+| | Page | Person | Difference |
+|---|---:|---:|---:|
+| TOFU | 30.9% | 30.1% | **-0.8** |
+| MOFU | 10.4% | 8.5% | -1.9 |
+| **BOFU** | 11.6% | **6.0%** | **-5.6** |
+| non-buying | 45.4% | 47.3% | +1.9 |
+| unclear | 1.7% | 8.1% | +6.4 |
+
+And by seat, the founder row is the one that matters:
+
+| Who | n | TOFU | MOFU | BOFU | non-buying |
+|---|---:|---:|---:|---:|---:|
+| **company page** | 2045 | 31% | 10% | 12% | 45% |
+| **founder / CEO** | 345 | **28%** | **11%** | 10% | **44%** |
+| C-suite | 60 | 52% | 13% | 2% | 30% |
+| VP / Head / Director | 75 | 33% | 4% | 5% | 53% |
+| individual contributor | 165 | 26% | 4% | **1%** | 58% |
+
+**A founder publishes almost exactly the same mix as their own company page — and outperforms it
+three to one.** Put the two halves of this study together and the conclusion is unusually clean:
+
+> The difference between a founder channel and a page channel is **not what gets said. It is how,
+> and by whom.**
+
+Same topics, same funnel shape, roughly the same share of non-buying content. What changes is that
+the founder writes in first person (43% versus 3.2%), types instead of producing video (40%
+text-only versus 15%), runs long or very short rather than medium, asks for almost nothing (7.4%
+CTA versus 20.6%), and posts a third as often.
+
+Two qualifications, and both matter:
+
+**BOFU halves on a person's channel** — 11.6% to 6.0%, with `validation` dropping from 9.4% to
+4.7%. Named-customer proof stays on the page. That is coherent: a case study is a company asset
+with a company's approvals behind it, and a founder reposting it adds nothing the page did not
+already have. **It also means a founder channel cannot replace the page for a buyer in an
+evaluation.** The two channels are not substitutes.
+
+**Below the founder seat the funnel collapses.** Individual contributors publish **1% BOFU and 4%
+MOFU** against 58% non-buying — they are running a personal brand, which is a perfectly good thing
+to run and is not a sales channel. The VP row looks similar. Only the founder seat reproduces the
+page's shape.
+
+*(The C-suite row at 52% TOFU is the most buying-dense in the table and also the smallest — 60
+posts from 3 people. Treat it as a lead worth checking, not a finding.)*
+
+Where the two differ is inside the non-buying half, and it is one substitution:
+
+| | Page | Founder |
+|---|---:|---:|
+| culture | 8.9% | **17.7%** |
+| event | 18.5% | **10.7%** |
+| product news | 13.7% | 10.4% |
+
+**The page runs the event calendar; the founder tells the stories.** Conference booths, webinars
+and registration drives are page work — a founder doing that is spending the most valuable channel
+a company has on logistics.
+
 ### What this means for the channel decision
 
 This repository already models channels as
@@ -313,10 +376,15 @@ declare which. The measurement supports the distinction and sharpens it:
    person and a page.
 2. **Do not pool a person's corpus with a page's** when measuring format lift. Their format mixes
    differ by 25 points on text alone, so a pooled median describes neither.
-3. **A person is not a distribution channel for page content.** Strip the CTA, drop the video,
-   let it run long or very short, and let the writer say "I" — otherwise it is a page post with a
-   face on it, which is what the 0.54x VP row looks like from the inside.
-4. **Measure your own pair before deciding.** 12 of 39 people lost to their own page, including
+3. **A person is not a distribution channel for page content — but the topic list transfers.**
+   A founder publishes almost the same mix the page does, so the planning grid in this document
+   applies to both. What must not transfer is the execution: strip the CTA, drop the video, let it
+   run long or very short, and let the writer say "I". A page post with a face on it is what the
+   0.54x VP row looks like from the inside.
+4. **Keep the proof on the page.** BOFU halves on a person's channel and named-customer validation
+   nearly halves. The two channels are not substitutes, and a buyer in an evaluation is served by
+   the page.
+5. **Measure your own pair before deciding.** 12 of 39 people lost to their own page, including
    four founders. The spread within one company reached 45.86x to 0.25x.
 
 ---
@@ -538,10 +606,10 @@ reading "Building the future of work" is not, and lands in individual contributo
 also small: 23 founder pairs, but only 3 C-suite and 4 VP. **The VP row at 0.54x is four people**
 and should be treated as a signal to check rather than a finding to act on.
 
-**Person posts are not labelled.** The person corpus has been measured for format, length,
-structure, cadence and paired engagement — all machine-read. What a founder publishes *about*,
-in buying-job terms, is not in this document, because that needs the same hand-reading the company
-corpus got and it has not been done.
+**The person labels are a sample, not a census.** 645 of 1,785 person posts were read, taken as
+an even slice per person so volume could not skew the distribution. The company corpus was read in
+full. A sample that size is comfortable for the headline splits and thin for the small cells:
+`requirements` is 1.2% of it, which is eight posts.
 
 **One reader.** Every label is one person's judgement applied consistently. The protocol exists so
 a second reader can label the same batches independently and the two files can be compared post by

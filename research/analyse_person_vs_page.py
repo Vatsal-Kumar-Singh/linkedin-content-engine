@@ -116,7 +116,8 @@ def rows_from(posts, meta, kind):
     rows = []
     for p in posts:
         text = p.get("content") or ""
-        rows.append({"kind": kind, "who": meta, "fmt": fmt_of(p), "words": len(text.split()),
+        rows.append({"kind": kind, "who": meta, "id": str(p.get("id") or ""),
+                     "fmt": fmt_of(p), "words": len(text.split()),
                      "eng": eng_of(p), "head": head_of(text), "text": text,
                      "date": ((p.get("postedAt") or {}).get("date") or "")[:10]})
     return rows
@@ -139,6 +140,40 @@ def side_by_side(title, left, right, keys, lname="page", rname="person"):
     for k in keys:
         a, b = left.get(k, 0.0), right.get(k, 0.0)
         print("%-22s %9.1f%% %9.1f%% %+8.1f" % (str(k)[:22], a, b, b - a))
+
+
+JOBS = ["problem", "exploration", "requirements", "selection", "validation", "consensus"]
+OTHER = ["recruitment", "culture", "event", "product-news", "csr"]
+TIER = {"problem": "TOFU", "exploration": "TOFU", "requirements": "MOFU",
+        "selection": "MOFU", "validation": "BOFU", "consensus": "BOFU"}
+
+
+def read_labels(subdir):
+    got = {}
+    d = os.path.join(HERE, subdir)
+    if not os.path.isdir(d):
+        return got
+    for path in sorted(glob.glob(os.path.join(d, "*.tsv"))):
+        for line in open(path, encoding="utf-8"):
+            if not line.strip() or line.lstrip().startswith("#"):
+                continue
+            parts = line.rstrip("\n").split("\t")
+            if len(parts) >= 2:
+                got[parts[0].strip()] = parts[1].strip()
+    return got
+
+
+def label_split(rows, labels):
+    """Share of each label among the posts that carry one."""
+    lab = [labels[r["id"]] for r in rows if r.get("id") in labels]
+    n = len(lab)
+    c = Counter(lab)
+    tiers = Counter(TIER.get(x) for x in lab if TIER.get(x))
+    return n, {k: pct(v, n) for k, v in c.items()}, {
+        "TOFU": pct(tiers["TOFU"], n), "MOFU": pct(tiers["MOFU"], n),
+        "BOFU": pct(tiers["BOFU"], n),
+        "non-buying": pct(sum(c[k] for k in OTHER), n),
+        "unclear": pct(c.get("unclear", 0), n)}
 
 
 def main():
@@ -285,6 +320,55 @@ def main():
                 continue
             print("     %-14s %d pairs, median %.2fx, person wins %d"
                   % (k, len(v), statistics.median(v), sum(1 for x in v if x > 1)))
+
+    # ----------------------------------------------------------------------------------------
+    # WHAT THEY PUBLISH ABOUT. Needs both corpora labelled; the person side is a stratified
+    # sample (an even slice per person) so a prolific writer cannot carry the distribution.
+    # ----------------------------------------------------------------------------------------
+    page_lab, person_lab = read_labels("labels"), read_labels("labels_people")
+    if not (page_lab and person_lab):
+        print("\n(no labels found for one side; skipping the buying-job comparison)")
+        return 0
+
+    pn, pdist, ptier = label_split(prows, page_lab)
+    qn, qdist, qtier = label_split(qrows, person_lab)
+    print("\n" + "=" * 78)
+    print("WHAT THEY PUBLISH ABOUT")
+    print("=" * 78)
+    print("%d labelled page posts against %d labelled person posts (an even slice per person).\n"
+          % (pn, qn))
+    print("%-16s %10s %10s %9s" % ("", "page", "person", "diff"))
+    for k in JOBS + OTHER + ["unclear"]:
+        x, y = pdist.get(k, 0.0), qdist.get(k, 0.0)
+        print("%-16s %9.1f%% %9.1f%% %+8.1f" % (k, x, y, y - x))
+    print()
+    for k in ("TOFU", "MOFU", "BOFU", "non-buying", "unclear"):
+        print("%-16s %9.1f%% %9.1f%% %+8.1f" % (k, ptier[k], qtier[k], qtier[k] - ptier[k]))
+
+    print("\n=== by seniority: what each seat publishes ===")
+    print("%-24s %5s %6s %6s %6s %8s %8s" %
+          ("", "n", "TOFU", "MOFU", "BOFU", "non-buy", "unclear"))
+    print("   %-21s %5d %5.0f%% %5.0f%% %5.0f%% %7.0f%% %7.0f%%"
+          % ("company page", pn, ptier["TOFU"], ptier["MOFU"], ptier["BOFU"],
+             ptier["non-buying"], ptier["unclear"]))
+    by_sen = defaultdict(list)
+    for r in qrows:
+        by_sen[r["who"].get("seniority", "?")].append(r)
+    for sen, rs in sorted(by_sen.items(), key=lambda kv: -len(kv[1])):
+        n2, _, t2 = label_split(rs, person_lab)
+        if n2 < 30:
+            print("   %-21s %5d  TOO FEW" % (sen, n2))
+            continue
+        print("   %-21s %5d %5.0f%% %5.0f%% %5.0f%% %7.0f%% %7.0f%%"
+              % (sen, n2, t2["TOFU"], t2["MOFU"], t2["BOFU"], t2["non-buying"], t2["unclear"]))
+
+    print("\n=== the labels that move most between a page and a founder ===")
+    founders = [r for r in qrows if r["who"].get("seniority") == "founder/CEO"]
+    fn, fdist, _ = label_split(founders, person_lab)
+    moves = sorted(((fdist.get(k, 0.0) - pdist.get(k, 0.0)), k) for k in JOBS + OTHER)
+    for d, k in moves[:3] + moves[-3:]:
+        print("   %-16s page %5.1f%%  founder %5.1f%%   %+6.1f" % (k, pdist.get(k, 0.0),
+                                                                   fdist.get(k, 0.0), d))
     return 0
 
 
