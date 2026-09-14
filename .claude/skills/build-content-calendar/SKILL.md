@@ -18,9 +18,15 @@ format, opening move and aspect ratio on each slot:
 
 ```bash
 python research/classify_posts.py --dump research/findings.json
+python research/make_calendar.py --cell "saas x plg x early" --deviate
 python research/make_calendar.py --cell "saas x enterprise" --deviate
 python research/make_calendar.py --industry healthcare-lifesci --weeks 8
 ```
+
+**Use the three-part cell where it exists.** `docs/CELLS.md` cuts offering x
+motion x stage and carries named exemplars, recurring shapes and an aspect-ratio
+profile for each. Stage moves the calendar more than people expect: early-stage
+PLG SaaS runs at 1.9 posts a week, scaled enterprise SaaS at 11.2.
 
 **Default mode reproduces what the cohort publishes, which is not what works** —
 run it to see what your peers do. `--deviate` keeps the cadence and raises

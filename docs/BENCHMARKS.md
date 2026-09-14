@@ -162,6 +162,12 @@ to justify category-level argument and the case studies to prove it.
 `service x plg` is structurally empty and is [documented as such](../research/sample-frame.yaml) —
 you cannot self-serve a consultancy.
 
+**These nine cells are offering x motion. The third axis is cut separately in
+[`CELLS.md`](CELLS.md)**, which reports offering x motion x stage — how a company actually
+identifies itself — with named exemplars, recurring post shapes and an aspect-ratio profile per
+cell. Thirteen of the 36 three-axis cells currently clear the three-company floor; the rest are
+listed there with what each still needs.
+
 ---
 
 ## The split, by industry

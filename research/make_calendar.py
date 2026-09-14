@@ -3,6 +3,7 @@
 
     python research/classify_posts.py --dump research/findings.json
     python research/make_calendar.py --cell "saas x enterprise"
+    python research/make_calendar.py --cell "saas x plg x early"      # three-axis, see CELLS.md
     python research/make_calendar.py --industry healthcare-lifesci --weeks 8
     python research/make_calendar.py --cell "service x slg" --deviate
 
@@ -117,7 +118,8 @@ def largest_remainder(shares, total):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--findings", default=os.path.join(HERE, "findings.json"))
-    ap.add_argument("--cell", help='e.g. "saas x enterprise"')
+    ap.add_argument("--cell",
+                    help='"saas x enterprise", or "saas x plg x early" for the three-axis cut')
     ap.add_argument("--industry", help="e.g. healthcare-lifesci")
     ap.add_argument("--weeks", type=int, default=4)
     ap.add_argument("--per-week", type=float,
@@ -133,7 +135,17 @@ def main():
     d = json.load(open(a.findings, encoding="utf-8"))
     rows = d["posts"]
     if a.cell:
-        rows = [r for r in rows if r.get("cell") == a.cell]
+        # two parts is offering x motion; three is offering x motion x stage, which is how a
+        # company actually identifies itself and the cut docs/CELLS.md uses
+        parts = [x.strip() for x in a.cell.split("x")]
+        if len(parts) == 3:
+            o, m, s = parts
+            rows = [r for r in rows
+                    if r.get("offering") == o and r.get("motion") == m and r.get("stage") == s]
+        elif len(parts) == 2:
+            rows = [r for r in rows if r.get("cell") == a.cell]
+        else:
+            sys.exit('--cell takes "offering x motion" or "offering x motion x stage"')
         label = a.cell
     else:
         rows = [r for r in rows if r.get("industry") == a.industry]
