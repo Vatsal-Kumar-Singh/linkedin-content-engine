@@ -472,6 +472,64 @@ class TestFormatDrivesTemplate(unittest.TestCase):
 # case most published advice assumes.
 # =================================================================================================
 
+class TestChannelSeat(unittest.TestCase):
+    """Which seat a person channel sits in. Measured: the gap between two person channels is
+    wider than the gap between a person and a page, so an undeclared seat is a real omission."""
+
+    def _ch(self):
+        from decision import channel
+        return channel
+
+    def _profile(self, seat="founder"):
+        from decision.profile import load
+        p = load("example-meridian")
+        ch = p["channels"]["founder"]
+        if seat is None:
+            ch.pop("seat", None)
+        else:
+            ch["seat"] = seat
+        return p
+
+    def test_every_seat_in_the_vocabulary_has_rules(self):
+        ch = self._ch()
+        for name, rule in ch.SEATS.items():
+            for key in ("ratio", "carries"):
+                self.assertTrue(rule.get(key), "%s missing %s" % (name, key))
+            self.assertIn("caution", rule, "%s must state a caution or an explicit None" % name)
+
+    def test_a_declared_seat_is_reported(self):
+        ch = self._ch()
+        out = ch.recommend_channels(self._profile("founder"))
+        self.assertTrue(any("`founder` seat" in r for r in out["reasons"]))
+
+    def test_an_undeclared_seat_is_called_out(self):
+        ch = self._ch()
+        out = ch.recommend_channels(self._profile(None))
+        self.assertTrue(any("declares no `seat`" in c for c in out["cautions"]),
+                        "an undeclared seat must not pass in silence: it is the axis that moves "
+                        "a person channel's outcome most")
+
+    def test_a_misspelt_seat_is_flagged_rather_than_ignored(self):
+        ch = self._ch()
+        out = ch.recommend_channels(self._profile("fownder"))
+        self.assertTrue(any("not one of" in c for c in out["cautions"]))
+        self.assertTrue(out["applies"], "an optional-axis typo must not refuse the whole reading")
+
+    def test_the_seats_that_underperformed_carry_a_caution(self):
+        ch = self._ch()
+        for seat in ("vp", "ic"):
+            out = ch.recommend_channels(self._profile(seat))
+            self.assertTrue(
+                any(seat in c or ch.SEATS[seat]["caution"][:30] in c for c in out["cautions"]),
+                "%s measured at or below its own page and must say so" % seat)
+
+    def test_seats_carry_no_multipliers(self):
+        ch = self._ch()
+        for name, rule in ch.SEATS.items():
+            self.assertNotIn("weight", rule)
+            self.assertNotIn("multiplier", rule)
+
+
 class TestCompanyType(unittest.TestCase):
     def _ct(self):
         from decision import company_type

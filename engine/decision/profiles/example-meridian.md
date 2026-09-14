@@ -145,6 +145,9 @@ objectives:
 channels:
   founder:
     kind: person
+    seat: founder      # which seat, not just which kind. Measured against the company's own page
+                       # in the same window, a founder ran 3.06x and a VP ran 0.54x -- a wider gap
+                       # than person-versus-page. One of: founder, c-suite, vp, ic
     what: "creation. Reaches analytics engineers who have never heard of us"
   page:
     kind: organisation

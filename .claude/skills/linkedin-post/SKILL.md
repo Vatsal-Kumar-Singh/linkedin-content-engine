@@ -16,6 +16,57 @@ full copy and builds a topic fingerprint from it. See `references/distribution.m
 
 ---
 
+## What the corpus says about the words, before anything else
+
+From 2,020 hand-read company posts and 1,785 from named people
+(`docs/BENCHMARKS.md`), scored against each account's own median. Four of these
+contradict standard advice.
+
+| Trait | Share of posts | Engagement |
+|---|---:|---:|
+| first line of 1-6 words | 12.2% | **1.19x** |
+| quotes somebody | 8.6% | **1.18x** |
+| "link in comments" | 4.6% | **1.16x** |
+| opens on "we" or "our" | 10.3% | 1.13x |
+| addresses "you" anywhere | 48.8% | 1.00x |
+| uses emoji | 36.0% | 1.00x |
+| has hashtags | 23.4% | 1.00x |
+| **opens on a question** | 7.3% | **0.82x** |
+
+**Opening on a question is the worst trait measured** and the most commonly
+recommended hook. A question asks the reader for work before giving them anything.
+
+**Hashtags do nothing.** Every band — none, 1-3, 4-7 — sits at exactly 1.00x, and
+77% of the corpus uses none. **Emoji do nothing either.** Neither is worth an
+argument in either direction.
+
+**Leading with yourself is fine.** "We" openers run 13% above the rest; "you"
+appears in half of all posts and earns exactly nothing.
+
+**The first line is a cliff, not a gradient.** One to six words earns 1.19x; 7-14,
+15-25 and 26+ are identical at 1.00. Body length barely matters at all (0.91x to
+1.08x across every band). **Write a very short first line and stop optimising the
+rest of the length.**
+
+## Person channel or page: a different instrument, not a different register
+
+| | Page | Person |
+|---|---:|---:|
+| says "I" anywhere | 3.2% | **43.0%** |
+| says "we" anywhere | 53.0% | 52.5% |
+| text-only | 14.9% | 40.3% |
+| explicit CTA verb | 20.6% | **7.4%** |
+| body 160+ words | 8.2% | 24.6% |
+
+A person says **I and we**; a page can only say we. That is the capability the page
+structurally does not have, and it is why reposting a founder's post onto the page
+is not the same as the page saying it.
+
+Drafting for a named person: first person, no CTA in most posts, long or very
+short rather than medium, and plain text far more often than the page would use it.
+Drafting for a page: "we", a CTA where there is a real next step, and the design and
+video pipeline the page actually has.
+
 ## 1. Fix the tier before you write a word
 
 TOFU, MOFU and BOFU are not tones, they are three different jobs. The fastest
@@ -81,6 +132,15 @@ reach for a wider audience.
 
 Never `#AI`, `#Innovation`, `#DigitalTransformation` or anything else that
 describes a category rather than this post.
+
+**Measured, and it narrows the claim above.** Across 2,020 hand-read company posts,
+0 hashtags, 1–3 and 4–7 all score **exactly 1.00x** — there is no gradient inside
+that range, so "fewer is better" is not what the data says; "it makes no
+difference" is. 77% of the corpus uses none at all. The 10+ penalty could not be
+tested here: only 19 posts in the corpus carry 8 or more, which is too few to
+measure, so that figure remains somebody else's benchmark rather than this one's.
+Either way the practical advice is unchanged — spend the effort on the first line,
+which is the one thing that does move (1.19x at six words or fewer).
 
 ## 6. Before it ships
 

@@ -44,6 +44,49 @@ EXPOSURE = {"low", "high"}
 #   organisation  a company page, brand account or publication. Carries capture work
 KINDS = {"person", "organisation"}
 
+# ==================================================================================================
+# WHICH SEAT A PERSON CHANNEL SITS IN. Optional, and the most consequential optional thing in a
+# profile: measured against the company's own page in the same window (`docs/BENCHMARKS.md`), a
+# founder's median post ran 3.06x the page's and won 19 of 23 pairs, while a VP's ran 0.54x and won
+# 1 of 4. The gap between two person channels is larger than the gap between a person and a page,
+# which means "get the executives posting" is not a strategy and "get the founder posting" is.
+#
+# The seat also predicts what the channel can carry. A founder's published mix is close to
+# identical to their own page's (28/11/10/44 against 31/10/12/45 on TOFU/MOFU/BOFU/non-buying).
+# Below that seat the funnel collapses: individual contributors measured 1% BOFU and 4% MOFU.
+#
+# Carried as expectations and cautions. No multipliers: these describe 39 paired accounts in one
+# window, and a description of somebody else's audience is not a coefficient.
+# ==================================================================================================
+SEATS = {
+    "founder": {
+        "ratio": "3.06x the company page's median, winning 19 of 23 measured pairs",
+        "carries": "the same mix the page carries, and it is the only seat measured that does",
+        "caution": None,
+    },
+    "c-suite": {
+        "ratio": "1.91x, on only 3 measured pairs",
+        "carries": "the most TOFU-heavy mix measured, though on a small sample",
+        "caution": "**the C-suite reading rests on 3 pairs and 60 posts.** Treat it as a lead to "
+                   "check against your own corpus rather than a number to plan against",
+    },
+    "vp": {
+        "ratio": "0.54x, winning 1 of 4 measured pairs",
+        "carries": "4% MOFU and 5% BOFU: mostly non-buying content",
+        "caution": "**this seat underperformed the company page in the measured sample.** That is "
+                   "four people and not a verdict, but it is the one seat where the usual advice "
+                   "to amplify executives pointed the wrong way. Measure this pair before "
+                   "planning around it",
+    },
+    "ic": {
+        "ratio": "1.03x: level with the page",
+        "carries": "1% BOFU and 4% MOFU against 58% non-buying",
+        "caution": "**an individual contributor's channel is a personal brand, which is a real "
+                   "thing and is not a sales channel.** Expect reach and community, not "
+                   "evaluation content, and do not plan BOFU onto it",
+    },
+}
+
 # WHICH JOBS EACH CHANNEL CARRIES. Derived from the tier, and **MOFU is deliberately on both.**
 #
 # A first version split this on whether a job serves creation more than capture, which put every
@@ -116,6 +159,24 @@ def recommend_channels(profile: dict) -> dict:
             "they belong to, is a fact about the company rather than about the engine")
     for name, spec in declared.items():
         kind = (spec or {}).get("kind")
+        seat = str((spec or {}).get("seat") or "").strip().lower()
+        if kind == "person":
+            if seat in SEATS:
+                s = SEATS[seat]
+                out["reasons"].append(
+                    "%s is a `%s` seat. Comparable channels ran %s, and carry %s"
+                    % (name, seat, s["ratio"], s["carries"]))
+                if s["caution"]:
+                    out["cautions"].append("%s: %s" % (name, s["caution"]))
+            elif seat:
+                out["cautions"].append(
+                    "channel %r has seat %r, which is not one of %s -- it is being ignored, and a "
+                    "typo here fails silently" % (name, seat, sorted(SEATS)))
+            else:
+                out["cautions"].append(
+                    "channel %r is a person but declares no `seat`. Which seat it is moves "
+                    "outcomes more than person-versus-page does: a founder ran 3.06x their own "
+                    "page and a VP ran 0.54x. Declaring it costs one line" % name)
         if kind not in KINDS:
             out["missing"].append(
                 "channel %r has kind %r, expected `person` or `organisation`" % (name, kind))

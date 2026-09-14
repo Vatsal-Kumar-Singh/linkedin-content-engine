@@ -94,6 +94,37 @@ between any two offerings. Read the buyer off the profile before the offering.
 accounts lean on it harder than the table suggests. Audience size moves you along
 the TOFU axis; the cell tells you the shape of what is left.
 
+## Planning a named person's channel
+
+1,785 posts from 43 named people, each paired to a company page in the same study
+(`docs/BENCHMARKS.md`). Three things follow for a calendar.
+
+**The topic grid transfers; the execution does not.** A founder's published mix is
+nearly identical to their own page's — 28/11/10/44 against 31/10/12/45 on
+TOFU/MOFU/BOFU/non-buying. So plan the founder's slots from the same cell table
+above. What must not transfer is how it ships: person channels run 40% text-only
+against a page's 15%, drop video from 34% to 13%, go long or very short rather than
+medium, and carry an explicit CTA in 7% of posts against a page's 21%.
+
+**Which seat, not which person.** Measured against their own page in the same
+window, a founder's median post ran **3.06x** and won 19 of 23 pairs. A VP's ran
+**0.54x** and won 1 of 4. Individual contributors ran level. The gap between two
+person channels is wider than the gap between a person and a page, so "get the
+executives posting" is not a plan and "get the founder posting" is. Declare the
+seat in the profile: `channels: { founder: { kind: person, seat: founder } }`.
+
+**Keep the proof on the page.** BOFU halves on a person's channel (11.6% to 6.0%)
+and named-customer validation nearly halves (9.4% to 4.7%). That is coherent — a
+case study is a company asset with a company's approvals behind it — and it means
+**the two channels are not substitutes.** A buyer mid-evaluation is served by the
+page.
+
+**And do not put the event calendar on the founder.** The one real substitution
+between the two is `culture` (8.9% page, 17.7% founder) against `event` (18.5%
+page, 10.7% founder). The page runs booths, webinars and registration drives; the
+founder tells the stories. A founder posting booth logistics is spending the most
+valuable channel a company has on the cheapest work it has.
+
 ## Do not let engagement set the mix
 
 The same corpus, scored against each company's own median:

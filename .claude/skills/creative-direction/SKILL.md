@@ -42,6 +42,29 @@ single-image system become the reason nothing else gets built.
 Different offerings behave differently: product companies are the most video-heavy
 (37%), service firms use the most carousels (13%) and the most links (22%).
 
+## 0b. On a named person's channel, the answer is often "do not design it"
+
+The same study measured 43 named people against their own company pages:
+
+| | Page | Person |
+|---|---:|---:|
+| text-only | 14.9% | **40.3%** |
+| video | 33.9% | **13.2%** |
+| single image | 30.5% | 29.5% |
+| multi-image | 7.0% | 5.5% |
+
+**A person's feed is 40% plain text and a page's is 15%.** Video more than halves.
+A page has a design and video pipeline behind it and it uses it; a person types.
+
+For a designer this is a scoping fact, not a taste one. **Creative work aimed at a
+founder channel will mostly go unused**, and the pieces that do get used are the
+ones a person would plausibly have made or commissioned themselves. The instinct to
+give an executive channel the full brand system is the instinct that produces the
+0.54x VP row in the benchmarks: a page post with a face on it.
+
+Where design does earn its place on a person channel, it is the same multi-image
+gap as everywhere else — 5.5% of person posts, against the 1.58x it earns.
+
 ## 1. Measure the reference, do not eyeball it
 
 Given a reference image, extract numbers before forming an opinion: the colour at
