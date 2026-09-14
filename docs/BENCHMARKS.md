@@ -927,11 +927,11 @@ The rest of design cannot be measured from metadata, so it was sampled and looke
 is paired: for each job, the images from that job's best-performing posts against the images from
 its worst-performing posts, at the same company-normalised scale, so the content is held roughly
 constant and what differs is more likely to be the design
-(`research/sample_creative.py`). **34 images were pulled and 18 were coded across eight jobs**,
+(`research/sample_creative.py`). **36 images were pulled and 20 were coded across eight jobs**,
 against an attribute list fixed before any of them was opened. The images, the manifest and the
 coding are in [`research/creative_sample/`](../research/creative_sample/).
 
-**Eighteen images is a hypothesis generator, not a benchmark.** The aspect-ratio table above is
+**Twenty images is a hypothesis generator, not a benchmark.** The aspect-ratio table above is
 the benchmark; this is a set of things to try on your own feed.
 
 #### The pattern that holds in seven jobs out of eight
@@ -1168,9 +1168,9 @@ labelled person posts against a company corpus read in full. That is comfortable
 splits and thin everywhere else: `requirements` is 1.1% of it, which is five posts, and the
 C-suite row is 49 posts from three people.
 
-**The design section is 18 coded images.** The aspect-ratio table rests on all 1,277 image posts
-and is as solid as anything here. Everything after it in that section rests on 18 images across
-eight jobs, out of 34 sampled, paired strong against weak within the same job. It is a hypothesis
+**The design section is 20 coded images.** The aspect-ratio table rests on all 1,277 image posts
+and is as solid as anything here. Everything after it in that section rests on 20 images across
+eight jobs, out of 36 sampled, paired strong against weak within the same job. It is a hypothesis
 generator, it is written as one, and one of the eight pairs contradicts the other seven. The
 images and the coding are in `research/creative_sample/` so the reading can be disagreed with.
 

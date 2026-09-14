@@ -163,12 +163,12 @@ The rest are fillable. `python research/analyse_cells.py --grid` prints the live
   first section of `BENCHMARKS.md` exists because reach and commercial value diverge sharply.
 - **Follower counts are unknown**, so every paired person-versus-page ratio is confounded. Read
   them as a direction, not a multiple.
-- **The design section rests on 18 coded images** out of 34 sampled, and the images themselves
-  are in `research/creative_sample/` with the coding in `coded.tsv`. The aspect-ratio table
-  underneath it rests on all 1,277 image posts and is solid; the coded part is a hypothesis
-  generator and says so. **Sixteen of the 34 are still uncoded** and coding them needs no key and
-  no credit, just reading. One coded pair (`product-news`) contradicts the other seven and is kept
-  for that reason.
+- **The design section rests on 20 coded images** out of 36 sampled, in
+  `research/creative_sample/` with the coding in `coded.tsv`. The aspect-ratio table underneath it
+  rests on all 1,277 image posts and is solid; the coded part is a hypothesis generator and says
+  so. **Sixteen of the 36 are still uncoded** and coding them needs no key and no credit, only
+  reading. One coded pair (`product-news`) contradicts the other seven and is kept for that
+  reason.
 - **The type-column mask defect** in the renderer is diagnosed in `CLAUDE.md` and not fixed: a
   three-line headline overflows the dimmed band and the motif crosses the type.
 
@@ -191,7 +191,7 @@ The rest are fillable. `python research/analyse_cells.py --grid` prints the live
    history, not just out of the working tree.** Deleting the files in a later commit leaves them
    in every clone, every fork and GitHub's caches. The reversal is `git filter-repo` and a force
    push, and it gets less effective the longer the content has been reachable.
-3. **`research/creative_sample/` holds 34 of those companies' creatives**, committed under the
+3. **`research/creative_sample/` holds 36 of those companies' creatives**, committed under the
    same decision and the same condition as the post text. They are attributed by filename and in
    the manifest, and they regenerate deterministically from the tracked corpus for free, so if the
    condition ever stops holding they can be removed without losing the ability to check the
@@ -281,6 +281,39 @@ never quote a corpus median as though it were a rule.
 twice. `research/verify_figures.py` now checks a registry of headline figures against the live
 corpus and exits non-zero on drift. It cannot catch a *sentence* that has become false beside a
 correct number — prose still needs reading.
+
+**Verify the state of an outward-facing thing; do not take it on report.** This repository was
+described as private at the moment 24MB of other companies' post text was about to be pushed into
+it. One unauthenticated call to the GitHub API said otherwise — `private: false`, readable without
+logging in. Costs nothing to check, and the action it gates is irreversible: content that has been
+publicly reachable survives in clones, forks and caches after any later deletion.
+
+**A filename that omits the identifier collides, and collides silently.** The creative sampler
+named files `job_side_company_ratio.jpg`. Two posts from one company, in one job, on one side,
+with the same rounded ratio produce the same name, so the second download overwrote the first.
+This happened twice. The manifest went on claiming 36 images beside a directory holding 34, and
+every downstream count read the manifest. **A count that is written in one place and checked
+nowhere is not a count, it is an assumption.** The name now carries the post id and the script
+refuses to finish if the manifest and the directory disagree.
+
+**A refusal written into code is a judgement, not a law.** `sample_creative.py` refused to write
+inside the repository because redistributing other companies' creatives seemed wrong. The owner
+decided otherwise. The right response is to change the code and state the new condition in it —
+not to work around the check, and not to leave a script whose behaviour contradicts the tree it
+sits in.
+
+**A document that contradicts the tree is worse than no document.** Three files said "no
+third-party post text" on the day that stopped being true. Anyone reading them would have acted on
+a rule the repository no longer followed. They moved in the same commit as the change, which is
+the only version of this that works: canon lives in exactly one place, and the place has to be
+right at every commit rather than eventually.
+
+**A paired design holds the thing you paired on, and nothing else.** The creative sample pairs a
+job's best-performing post against its worst, so the *job* is constant — not the caption, the news,
+the moment or the audience. Seven jobs showed the same pattern and the eighth inverted it: in
+`product-news` a commissioned documentary photograph earned 0.10x and a small low-resolution stock
+shot earned 10.25x. **Keep the pair that breaks the pattern.** It is the only thing in the section
+that tells a reader how much weight the other seven can carry.
 
 ---
 

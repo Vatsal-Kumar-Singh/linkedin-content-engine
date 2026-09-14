@@ -1,8 +1,8 @@
 # The creative sample
 
-34 images pulled from the corpus by [`../sample_creative.py`](../sample_creative.py), plus
+36 images pulled from the corpus by [`../sample_creative.py`](../sample_creative.py), plus
 [`manifest.json`](manifest.json) (what each file is) and [`coded.tsv`](coded.tsv) (the attributes
-read off 18 of them).
+read off 20 of them).
 
 ## What these are, and whose they are
 
@@ -22,7 +22,10 @@ python research/classify_posts.py --dump research/findings.json
 python research/sample_creative.py --out research/creative_sample
 ```
 
-The sample is deterministic: same corpus, same pairing rule, same 34 files.
+The sample is deterministic: same corpus, same pairing rule, same 36 files. The script checks
+that the manifest and the directory agree before it finishes, because an earlier version named
+files without the post id, two names collided, and it wrote 34 files beside a manifest claiming
+36 without saying so.
 
 ## How the sample was drawn, and why it is paired
 
@@ -40,7 +43,7 @@ outperform buyer's guides, which the rest of the study already establishes.
 become a search for a story. `aspect` is machine-read from the scrape metadata and is not a
 judgement; everything else is one reader's judgement, and no second reader has checked it.
 
-**Eighteen images is a hypothesis generator, not a benchmark.** The one number in the design
+**Twenty images is a hypothesis generator, not a benchmark.** The one number in the design
 section of [`BENCHMARKS.md`](../../docs/BENCHMARKS.md) that *is* a benchmark is the aspect-ratio
 table, which is measured on all 1,277 image posts in the corpus and needs none of these files.
 

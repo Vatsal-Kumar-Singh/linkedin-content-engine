@@ -1,6 +1,6 @@
 [
  {
-  "file": "problem_weak_Cal.com_0.25x.jpg",
+  "file": "problem_weak_Cal.com_0.25x_291968.jpg",
   "job": "problem",
   "side": "weak",
   "company": "Cal.com",
@@ -10,7 +10,7 @@
   "industry": "work-productivity"
  },
  {
-  "file": "problem_weak_Cal.com_0.25x.jpg",
+  "file": "problem_weak_Cal.com_0.25x_575872.jpg",
   "job": "problem",
   "side": "weak",
   "company": "Cal.com",
@@ -20,7 +20,7 @@
   "industry": "work-productivity"
  },
  {
-  "file": "problem_strong_Gong_2.13x.jpg",
+  "file": "problem_strong_Gong_2.13x_234944.jpg",
   "job": "problem",
   "side": "strong",
   "company": "Gong",
@@ -30,7 +30,7 @@
   "industry": "revops-martech"
  },
  {
-  "file": "problem_strong_Mercury_3.08x.jpg",
+  "file": "problem_strong_Mercury_3.08x_016128.jpg",
   "job": "problem",
   "side": "strong",
   "company": "Mercury",
@@ -40,7 +40,7 @@
   "industry": "fintech-payments"
  },
  {
-  "file": "exploration_weak_Airtable_0.00x.jpg",
+  "file": "exploration_weak_Airtable_0.00x_568640.jpg",
   "job": "exploration",
   "side": "weak",
   "company": "Airtable",
@@ -50,7 +50,7 @@
   "industry": "work-productivity"
  },
  {
-  "file": "exploration_weak_Cal.com_0.00x.jpg",
+  "file": "exploration_weak_Cal.com_0.00x_792065.jpg",
   "job": "exploration",
   "side": "weak",
   "company": "Cal.com",
@@ -60,7 +60,7 @@
   "industry": "work-productivity"
  },
  {
-  "file": "exploration_strong_UiPath_7.11x.jpg",
+  "file": "exploration_strong_UiPath_7.11x_806720.jpg",
   "job": "exploration",
   "side": "strong",
   "company": "UiPath",
@@ -70,7 +70,7 @@
   "industry": "data-ai"
  },
  {
-  "file": "exploration_strong_DirectiveConsu_9.31x.jpg",
+  "file": "exploration_strong_DirectiveConsu_9.31x_741824.jpg",
   "job": "exploration",
   "side": "strong",
   "company": "Directive Consulting",
@@ -80,7 +80,7 @@
   "industry": "prof-services"
  },
  {
-  "file": "requirements_weak_ABBRobotics_0.21x.jpg",
+  "file": "requirements_weak_ABBRobotics_0.21x_031424.jpg",
   "job": "requirements",
   "side": "weak",
   "company": "ABB Robotics",
@@ -90,7 +90,7 @@
   "industry": "robotics-automation"
  },
  {
-  "file": "requirements_weak_Snyk_0.34x.jpg",
+  "file": "requirements_weak_Snyk_0.34x_827392.jpg",
   "job": "requirements",
   "side": "weak",
   "company": "Snyk",
@@ -100,7 +100,7 @@
   "industry": "cybersecurity"
  },
  {
-  "file": "requirements_strong_Clari_2.20x.jpg",
+  "file": "requirements_strong_Clari_2.20x_331008.jpg",
   "job": "requirements",
   "side": "strong",
   "company": "Clari",
@@ -110,7 +110,7 @@
   "industry": "revops-martech"
  },
  {
-  "file": "requirements_strong_AgilityRobotic_2.29x.jpg",
+  "file": "requirements_strong_AgilityRobotic_2.29x_855744.jpg",
   "job": "requirements",
   "side": "strong",
   "company": "Agility Robotics",
@@ -120,7 +120,7 @@
   "industry": "robotics-automation"
  },
  {
-  "file": "selection_weak_PrusaResearch_0.18x.jpg",
+  "file": "selection_weak_PrusaResearch_0.18x_445760.jpg",
   "job": "selection",
   "side": "weak",
   "company": "Prusa Research",
@@ -130,7 +130,7 @@
   "industry": "industrial-hardware"
  },
  {
-  "file": "selection_weak_ChefRobotics_0.32x.jpg",
+  "file": "selection_weak_ChefRobotics_0.32x_536641.jpg",
   "job": "selection",
   "side": "weak",
   "company": "Chef Robotics",
@@ -140,7 +140,7 @@
   "industry": "robotics-automation"
  },
  {
-  "file": "selection_strong_Clari_12.50x.jpg",
+  "file": "selection_strong_Clari_12.50x_047040.jpg",
   "job": "selection",
   "side": "strong",
   "company": "Clari",
@@ -150,7 +150,7 @@
   "industry": "revops-martech"
  },
  {
-  "file": "selection_strong_Procore_16.29x.jpg",
+  "file": "selection_strong_Procore_16.29x_254976.jpg",
   "job": "selection",
   "side": "strong",
   "company": "Procore",
@@ -160,7 +160,7 @@
   "industry": "construction-proptech"
  },
  {
-  "file": "validation_weak_UiPath_0.08x.jpg",
+  "file": "validation_weak_UiPath_0.08x_377729.jpg",
   "job": "validation",
   "side": "weak",
   "company": "UiPath",
@@ -170,7 +170,7 @@
   "industry": "data-ai"
  },
  {
-  "file": "validation_weak_Trigger.dev_0.18x.jpg",
+  "file": "validation_weak_Trigger.dev_0.18x_884480.jpg",
   "job": "validation",
   "side": "weak",
   "company": "Trigger.dev",
@@ -180,7 +180,7 @@
   "industry": "dev-infra"
  },
  {
-  "file": "validation_strong_Zoho_6.39x.jpg",
+  "file": "validation_strong_Zoho_6.39x_092864.jpg",
   "job": "validation",
   "side": "strong",
   "company": "Zoho",
@@ -190,7 +190,7 @@
   "industry": "business-suite"
  },
  {
-  "file": "validation_strong_Wiz_6.54x.jpg",
+  "file": "validation_strong_Wiz_6.54x_035714.jpg",
   "job": "validation",
   "side": "strong",
   "company": "Wiz",
@@ -200,7 +200,7 @@
   "industry": "cybersecurity"
  },
  {
-  "file": "consensus_weak_Outreach_0.30x.jpg",
+  "file": "consensus_weak_Outreach_0.30x_568001.jpg",
   "job": "consensus",
   "side": "weak",
   "company": "Outreach",
@@ -210,7 +210,7 @@
   "industry": "revops-martech"
  },
  {
-  "file": "consensus_weak_ChefRobotics_0.36x.jpg",
+  "file": "consensus_weak_ChefRobotics_0.36x_302336.jpg",
   "job": "consensus",
   "side": "weak",
   "company": "Chef Robotics",
@@ -220,7 +220,7 @@
   "industry": "robotics-automation"
  },
  {
-  "file": "consensus_strong_Databricks_2.07x.jpg",
+  "file": "consensus_strong_Databricks_2.07x_984640.jpg",
   "job": "consensus",
   "side": "strong",
   "company": "Databricks",
@@ -230,7 +230,7 @@
   "industry": "data-ai"
  },
  {
-  "file": "consensus_strong_VeevaSystems_5.06x.jpg",
+  "file": "consensus_strong_VeevaSystems_5.06x_738880.jpg",
   "job": "consensus",
   "side": "strong",
   "company": "Veeva Systems",
@@ -240,7 +240,7 @@
   "industry": "healthcare-lifesci"
  },
  {
-  "file": "event_weak_Airtable_0.00x.jpg",
+  "file": "event_weak_Airtable_0.00x_606208.jpg",
   "job": "event",
   "side": "weak",
   "company": "Airtable",
@@ -250,7 +250,7 @@
   "industry": "work-productivity"
  },
  {
-  "file": "event_weak_Airtable_0.00x.jpg",
+  "file": "event_weak_Airtable_0.00x_477378.jpg",
   "job": "event",
   "side": "weak",
   "company": "Airtable",
@@ -260,7 +260,7 @@
   "industry": "work-productivity"
  },
  {
-  "file": "event_strong_Netguru_8.50x.jpg",
+  "file": "event_strong_Netguru_8.50x_664129.jpg",
   "job": "event",
   "side": "strong",
   "company": "Netguru",
@@ -270,7 +270,7 @@
   "industry": "prof-services"
  },
  {
-  "file": "event_strong_Juro_11.24x.jpg",
+  "file": "event_strong_Juro_11.24x_092672.jpg",
   "job": "event",
   "side": "strong",
   "company": "Juro",
@@ -280,7 +280,7 @@
   "industry": "legal-compliance"
  },
  {
-  "file": "culture_weak_Cal.com_0.00x.jpg",
+  "file": "culture_weak_Cal.com_0.00x_421824.jpg",
   "job": "culture",
   "side": "weak",
   "company": "Cal.com",
@@ -290,7 +290,7 @@
   "industry": "work-productivity"
  },
  {
-  "file": "culture_weak_Personio_0.17x.jpg",
+  "file": "culture_weak_Personio_0.17x_109056.jpg",
   "job": "culture",
   "side": "weak",
   "company": "Personio",
@@ -300,7 +300,7 @@
   "industry": "hr-people"
  },
  {
-  "file": "culture_strong_Procore_23.64x.jpg",
+  "file": "culture_strong_Procore_23.64x_598976.jpg",
   "job": "culture",
   "side": "strong",
   "company": "Procore",
@@ -310,7 +310,7 @@
   "industry": "construction-proptech"
  },
  {
-  "file": "culture_strong_Zoho_38.19x.jpg",
+  "file": "culture_strong_Zoho_38.19x_576576.jpg",
   "job": "culture",
   "side": "strong",
   "company": "Zoho",
@@ -320,7 +320,7 @@
   "industry": "business-suite"
  },
  {
-  "file": "product-news_weak_Samsara_0.10x.jpg",
+  "file": "product-news_weak_Samsara_0.10x_592000.jpg",
   "job": "product-news",
   "side": "weak",
   "company": "Samsara",
@@ -330,7 +330,7 @@
   "industry": "supply-chain"
  },
  {
-  "file": "product-news_weak_PrusaResearch_0.21x.jpg",
+  "file": "product-news_weak_PrusaResearch_0.21x_580864.jpg",
   "job": "product-news",
   "side": "weak",
   "company": "Prusa Research",
@@ -340,7 +340,7 @@
   "industry": "industrial-hardware"
  },
  {
-  "file": "product-news_strong_Resend_7.58x.jpg",
+  "file": "product-news_strong_Resend_7.58x_537729.jpg",
   "job": "product-news",
   "side": "strong",
   "company": "Resend",
@@ -350,7 +350,7 @@
   "industry": "dev-infra"
  },
  {
-  "file": "product-news_strong_Flexport_10.25x.jpg",
+  "file": "product-news_strong_Flexport_10.25x_284096.jpg",
   "job": "product-news",
   "side": "strong",
   "company": "Flexport",

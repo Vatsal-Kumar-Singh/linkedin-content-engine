@@ -189,7 +189,13 @@ def main():
             continue
         picks = [("weak", r) for r in rs[:a.per_side]] + [("strong", r) for r in rs[-a.per_side:]]
         for side, r in picks:
-            name = "%s_%s_%s_%.2fx.jpg" % (job, side, r["name"].replace(" ", "")[:14], r["rel"])
+            # The post id is in the filename because without it the name is
+            # job_side_company_rel, and two posts from one company in one job on one side with
+            # the same rounded ratio collide. That happened twice -- Cal.com at 0.25x and
+            # Airtable at 0.00x -- and the second download silently overwrote the first, leaving
+            # a manifest claiming 36 images beside a directory holding 34.
+            name = "%s_%s_%s_%.2fx_%s.jpg" % (job, side, r["name"].replace(" ", "")[:14],
+                                              r["rel"], r["id"][-6:])
             path = os.path.join(a.out, name)
             if not os.path.exists(path):
                 try:
@@ -207,7 +213,17 @@ def main():
 
     json.dump(manifest, open(os.path.join(a.out, "manifest.json"), "w", encoding="utf-8"),
               indent=1)
-    print("\n%d images in %s" % (len(manifest), a.out))
+
+    # A manifest that disagrees with the directory is the failure mode this script already had
+    # once, and it is silent: every downstream count reads the manifest. Check, do not assume.
+    on_disk = len([f for f in os.listdir(a.out) if f.endswith(".jpg")])
+    if on_disk != len(manifest):
+        print("\n**%d manifest entries but %d files on disk.** Names are colliding and images "
+              "are being overwritten. Do not code this sample until it is fixed."
+              % (len(manifest), on_disk))
+        return 1
+    print("\n%d images in %s, and the manifest agrees with the directory"
+          % (len(manifest), a.out))
     print("Read them, code the fixed attribute list in the docstring, and write the attributes to")
     print("coded.tsv. Fixing the list before opening the files is what stops the coding becoming")
     print("a search for a story.")
