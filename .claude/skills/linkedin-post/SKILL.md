@@ -18,35 +18,58 @@ full copy and builds a topic fingerprint from it. See `references/distribution.m
 
 ## What the corpus says about the words, before anything else
 
-From 2,026 hand-read company posts and 1,289 from named people
+From 3,114 hand-read company posts and 1,289 from named people
 (`docs/BENCHMARKS.md`), scored against each account's own median. Four of these
 contradict standard advice.
 
 | Trait | Share of posts | Engagement |
 |---|---:|---:|
-| first line of 1-6 words | 12.2% | **1.19x** |
-| quotes somebody | 8.6% | **1.18x** |
-| "link in comments" | 4.6% | **1.16x** |
-| opens on "we" or "our" | 10.3% | 1.13x |
-| addresses "you" anywhere | 48.8% | 1.00x |
-| uses emoji | 36.0% | 1.00x |
-| has hashtags | 23.4% | 1.00x |
-| **opens on a question** | 7.3% | **0.82x** |
+| opens on "we" or "our" | 9.4% | **1.19x** |
+| first line of 1-6 words | 11.1% | **1.19x** |
+| quotes somebody | 9.1% | 1.10x |
+| "link in comments" | 4.8% | 1.08x |
+| addresses "you" anywhere | 49.3% | 1.00x |
+| uses emoji | 42.9% | 1.00x |
+| has hashtags | 20.2% | 1.00x |
+| **opens on "you" or "your"** | 4.6% | **0.96x** |
+| **opens on a question** | 12.1% | **0.81x** |
+| **eight or more hashtags** | 0.8% | **0.69x** |
 
-**Opening on a question is the worst trait measured** and the most commonly
-recommended hook. A question asks the reader for work before giving them anything.
+**The two most-recommended hooks are the two worst.** Opening on a question runs
+0.81x. Opening on the reader runs 0.96x and doubles its company's median only 10%
+of the time, the lowest of any opening. Opening on **"we" or "our" runs 1.19x**,
+the best trait in the table.
 
-**Hashtags do nothing.** Every band — none, 1-3, 4-7 — sits at exactly 1.00x, and
-77% of the corpus uses none. **Emoji do nothing either.** Neither is worth an
-argument in either direction.
+So the rule everyone repeats — lead with the reader, never with yourself — is
+backwards here. Mentioning the reader in the body is neutral (1.00x across half of
+all posts). *Opening* on them costs you.
 
-**Leading with yourself is fine.** "We" openers run 13% above the rest; "you"
-appears in half of all posts and earns exactly nothing.
+**Hashtags do nothing until you use too many.** None, 1-3 and 4-7 all sit between
+0.96 and 1.05, and 80% of the corpus uses none. Eight or more runs **0.69x**, the
+worst band measured. **Emoji do nothing either**, in 43% of posts.
 
 **The first line is a cliff, not a gradient.** One to six words earns 1.19x; 7-14,
-15-25 and 26+ are identical at 1.00. Body length barely matters at all (0.91x to
-1.08x across every band). **Write a very short first line and stop optimising the
-rest of the length.**
+15-25 and 26+ are identical at 1.00. Body length is noise (0.97x to 1.08x across
+every band). **Write a very short first line and stop optimising the rest of the
+length.**
+
+## The shape, before the words
+
+`docs/BENCHMARKS.md` mines 209 recurring post shapes (`job x format x opening`).
+Two are worth memorising because they are the industry default and they lose:
+
+- **An event as a static image with a declarative opening** — the single most
+  published shape in B2B LinkedIn, 181 posts across 49 companies, **0.92x**. The
+  same job as a carousel earns **1.63x**.
+- **A buyer's guide as a static image** — 0.55x, the worst default of any job.
+
+And one that wins and is barely used: **awards and milestones as a static image
+with a declarative opening**, 2.10x across 42 companies. When the claim is short
+and strong, set it large and get out of the way.
+
+**`problem` as a plain text post doubled its company's median 0 times in 34 posts
+across 17 companies.** If you are naming a cost the reader is paying, do not ship
+it as text.
 
 ## Person channel or page: a different instrument, not a different register
 

@@ -1,13 +1,25 @@
 # What B2B companies actually publish on LinkedIn
 
-A measured reference for setting a content split, choosing formats, and shaping a calendar — cut
-by **what you sell**, **how you sell it**, **who buys**, and **how big you are**.
+A measured reference for setting a content split, choosing formats, shaping a calendar and
+briefing a designer — cut by **what you sell**, **how you sell it**, **who buys**, **how big you
+are**, and **which industry you sell into**.
 
-**2,026 original posts from 46 company pages, every one read and labelled by hand**, plus
-**1,289 posts from 33 named people** paired to those same companies. A later audit removed 487
-posts (12.6%) that could not answer the question asked of them — the reasons are in
-[Pruning](#what-was-removed-from-the-corpus-and-what-was-deliberately-kept), and the person count
-fell hardest. Method, sample and limits are at the bottom; read them before quoting any number.
+**3,141 original posts from 77 company pages, every one read and labelled by hand** — of which
+**3,114 across 73 pages** clear the 20-original threshold and carry every number here. Plus
+**1,289 posts from 33 named people** paired to those same companies. An audit removed 506 posts
+(10.1%) that could not answer the question asked of them — the reasons are in
+[Pruning](#what-was-removed-from-the-corpus-and-what-was-deliberately-kept).
+
+**This was measured in two rounds, and the second one matters for how you read the first.** Round
+one covered 49 companies across offering, motion and stage. Those 49 turned out to be, without
+anybody choosing it, almost entirely developer tooling, robotics, industrial hardware, revenue
+software and consulting — so every conclusion was a conclusion about *those* industries and
+nothing said so. Round two added 28 companies across eight absent verticals (fintech, security,
+supply chain, legal, HR, healthcare, climate, construction) and an `industry` axis to carry them.
+Several headline numbers moved. Where a round-one claim did not survive, it is marked rather than
+quietly replaced.
+
+Method, sample and limits are at the bottom; read them before quoting any number.
 
 ---
 
@@ -19,16 +31,17 @@ what that company normally gets":
 
 | What the post does | Share of all posts | Engagement | Doubles the median |
 |---|---:|---:|---:|
-| `selection` — awards, funding, customer counts, partnerships | 7.7% | **1.59x** | 43% |
-| `culture` — team, celebration, humour | 8.7% | **1.32x** | 36% |
-| `product-news` — launches and releases | 13.1% | 1.20x | 28% |
-| `recruitment` | 3.1% | 1.07x | 21% |
-| `event` — booths, webinars, conferences | 18.7% | 1.00x | 13% |
-| `validation` — named customer, measured result | 9.5% | 1.00x | 17% |
-| `exploration` — how a category or approach works | 21.4% | 0.95x | 11% |
-| `consensus` — ROI, security, compliance, procurement | 2.2% | **0.80x** | 7% |
-| `problem` — naming a cost the reader is already paying | 9.9% | **0.77x** | 6% |
-| `requirements` — comparisons, trade-offs, buyer's guides | 2.9% | **0.68x** | 5% |
+| `selection` — awards, funding, customer counts, partnerships | 7.1% | **1.84x** | 48% |
+| `culture` — team, celebration, humour | 11.0% | **1.35x** | 32% |
+| `product-news` — launches and releases | 12.4% | 1.23x | 30% |
+| `recruitment` | 3.0% | 1.00x | 18% |
+| `event` — booths, webinars, conferences | 20.1% | 0.98x | 13% |
+| `validation` — named customer, measured result | 10.1% | 0.97x | 15% |
+| `exploration` — how a category or approach works | 22.2% | 0.92x | 11% |
+| `csr` | 1.2% | 0.89x | 13% |
+| `consensus` — ROI, security, compliance, procurement | 1.5% | **0.82x** | 6% |
+| `problem` — naming a cost the reader is already paying | 7.4% | **0.75x** | 6% |
+| `requirements` — comparisons, trade-offs, buyer's guides | 2.4% | **0.70x** | 4% |
 
 Read the bottom three rows again. **Problem framing, buyer's guides and business-case content are
 the three worst-performing categories in the corpus**, and they are the three that a buyer in an
@@ -41,9 +54,11 @@ trophies and team photos. It is also why this repository scores Gate, Lift and F
 [separately and refuses to blend them](decision/ARCHITECTURE.md): Lift would rank these ten rows
 almost perfectly upside down from Fit.
 
-**`requirements` and `consensus` together are 5.0% of everything published.** Whatever else the
-grid below says, that is the gap in this industry — and it is scarce enough that the 0.68x and
-0.80x above could not be confirmed company by company. See
+**`requirements` and `consensus` together are 3.9% of everything published**, down from 5.0%
+when the corpus was 46 companies. Adding 28 companies across eight new verticals did not find the
+missing decision-stage content; it found more companies not publishing it. Whatever else the grid
+below says, that is the gap in this industry — and it is scarce enough that the 0.70x and 0.82x
+above still cannot be confirmed company by company. See
 [the second pass](#the-engagement-ranking-is-only-partly-universal).
 
 ---
@@ -55,9 +70,9 @@ and CSR combined — real work, just not buying work.
 
 | Offering | n | TOFU | MOFU | BOFU | non-buying |
 |---|---:|---:|---:|---:|---:|
-| **service** | 269 | **49%** | 13% | 8% | **29%** |
-| **saas** | 1082 | 30% | 8% | 11% | 50% |
-| **product** | 650 | 26% | 14% | 15% | 44% |
+| **service** | 393 | **47%** | 10% | 9% | **34%** |
+| **saas** | 2024 | 28% | 8% | 11% | 51% |
+| **product** | 697 | 25% | 14% | 14% | 45% |
 
 **Service firms sell with ideas and almost nothing else.** Half of everything a consultancy or
 agency publishes is problem-framing or category education, and they publish the least non-buying
@@ -74,10 +89,10 @@ product news.
 
 | Motion | n | TOFU | MOFU | BOFU | non-buying |
 |---|---:|---:|---:|---:|---:|
-| **enterprise** | 763 | 35% | 15% | **15%** | **33%** |
-| **slg** | 516 | 37% | 9% | 11% | 42% |
-| **pls** | 226 | 29% | 7% | 14% | 50% |
-| **plg** | 515 | 21% | 7% | **6%** | **63%** |
+| **enterprise** | 973 | 34% | 14% | **15%** | **37%** |
+| **slg** | 1018 | 31% | 8% | 12% | 47% |
+| **pls** | 500 | 30% | 8% | 12% | 49% |
+| **plg** | 623 | 20% | 6% | **5%** | **66%** |
 
 **Enterprise motion has the only balanced funnel in the dataset.** It is also the only cohort
 where MOFU and BOFU each clear 15%. Long cycles with committees force the content that serves
@@ -88,7 +103,10 @@ they announce releases, run community events and post culture. That is coherent 
 product does the selling and the page does awareness and retention — but it means **a PLG company
 copying PLG benchmarks will never build the evaluation content a committee needs the day it
 starts selling upmarket.** The shift from PLG to PLS to enterprise is visible in this table as a
-BOFU climb from 6% to 14% to 15%.
+BOFU climb from 5% to 12% to 15%.
+
+*(Round two more than doubled the PLS cell, from 226 posts to 500, by adding Stripe, Vanta,
+1Password, Clio, Deel, Buildertrend and Bluebeam. The shape held.)*
 
 ## The split, by who buys
 
@@ -96,25 +114,30 @@ This is the sharpest single cut in the whole corpus:
 
 | Buyer | n | TOFU | MOFU | BOFU | non-buying |
 |---|---:|---:|---:|---:|---:|
-| **procurement** | 136 | 35% | 15% | **17%** | **32%** |
-| **exec** | 804 | 35% | 14% | 13% | 36% |
-| **manager** | 456 | 36% | 8% | 13% | 43% |
-| **practitioner** | 624 | **22%** | 7% | **8%** | **60%** |
+| **procurement** | 128 | 31% | **16%** | **18%** | **34%** |
+| **exec** | 1356 | 33% | 11% | 12% | 42% |
+| **manager** | 804 | 30% | 7% | 13% | 49% |
+| **practitioner** | 826 | **24%** | 8% | **8%** | **58%** |
 
-**Who signs matters more than what you sell.** A page aimed at practitioners is 60% non-buying
-content; a page aimed at procurement is 32%. The gap between those two numbers is bigger than the
+**Who signs matters more than what you sell.** A page aimed at practitioners is 58% non-buying
+content; a page aimed at procurement is 34%. The gap between those two numbers is bigger than the
 gap between any two offerings or any two stages. If your profile declares only one axis, declare
 this one.
+
+**Procurement is three companies and stays a signal rather than a result.** It is the only level
+of any axis in this study that never reached the three-company floor comfortably, and round two
+did not fix it: the verticals added buy through legal and security review rather than through a
+procurement function that owns the decision.
 
 ## The split, by stage
 
 | Stage | n | TOFU | MOFU | BOFU | non-buying |
 |---|---:|---:|---:|---:|---:|
-| early | 282 | 29% | 14% | 8% | 43% |
-| growth | 821 | 27% | 10% | 10% | 52% |
-| scaled | 917 | **36%** | 9% | **15%** | 39% |
+| early | 402 | 24% | 11% | 9% | 53% |
+| growth | 1411 | 29% | 9% | 10% | 50% |
+| scaled | 1301 | **32%** | 10% | **14%** | 43% |
 
-**Early-stage companies have the least BOFU (8%)** — they have the fewest customers to name, which
+**Early-stage companies have the least BOFU (9%)** — they have the fewest customers to name, which
 is circular and self-reinforcing: no proof, so no proof content, so a harder time earning the
 next customer. The one reliably available substitute is the company's own deployment or an
 early design partner, which is exactly what the early-stage robotics companies in this sample do.
@@ -126,14 +149,14 @@ to justify category-level argument and the case studies to prove it.
 
 | Cell | n | TOFU | MOFU | BOFU | non-buying | The shape in one line |
 |---|---:|---:|---:|---:|---:|---|
-| service x slg | 123 | **50%** | 9% | **2%** | 37% | Pure argument. Almost no proof published at all |
-| service x enterprise | 146 | **49%** | 16% | 13% | **22%** | The most buying-dense cell in the dataset |
-| saas x slg | 250 | 36% | 10% | 6% | 48% | Category argument plus a heavy event calendar |
-| saas x enterprise | 230 | 33% | 13% | **20%** | 33% | The most BOFU-heavy SaaS. Committees demand proof |
+| service x enterprise | 190 | **49%** | 14% | 10% | **26%** | The most buying-dense cell in the dataset |
+| service x slg | 203 | **44%** | 6% | 7% | 41% | Pure argument. Very little proof published |
+| saas x enterprise | 408 | 32% | 11% | **18%** | 39% | The most BOFU-heavy SaaS. Committees demand proof |
+| saas x pls | 500 | 30% | 8% | 12% | 49% | Self-serve front door, enterprise back end |
 | product x enterprise | 375 | 29% | **17%** | 14% | 39% | Spec and comparison content. Engineers are evaluating |
-| product x slg | 140 | 29% | 8% | **29%** | 35% | **Proof is the product.** Highest BOFU anywhere |
-| saas x pls | 226 | 29% | 7% | 14% | 50% | Self-serve front door, enterprise back end |
-| saas x plg | 376 | 23% | 5% | 7% | **61%** | Release notes and community |
+| saas x slg | 628 | 29% | 9% | 10% | 51% | Category argument plus a heavy event calendar |
+| product x slg | 187 | 26% | 9% | **25%** | 41% | **Proof is the product.** Highest BOFU anywhere |
+| saas x plg | 488 | 22% | 4% | 6% | **65%** | Release notes and community |
 | product x plg | 135 | **15%** | 13% | **2%** | **69%** | Effectively a consumer brand page |
 
 `service x plg` is structurally empty and is [documented as such](../research/sample-frame.yaml) —
@@ -141,35 +164,98 @@ you cannot self-serve a consultancy.
 
 ---
 
+## The split, by industry
+
+**This axis did not exist in round one, and its absence was the biggest hole in this study.** The
+first 49 companies were all developer tooling, robotics, industrial hardware, revenue software or
+consulting. Round two added 28 companies across eight verticals chosen for being missing rather
+than for being interesting. A vertical needs three companies before it gets a row.
+
+| Industry | n | TOFU | MOFU | BOFU | non-buying |
+|---|---:|---:|---:|---:|---:|
+| **prof-services** | 349 | **46%** | 10% | 10% | 33% |
+| **revops-martech** | 206 | 38% | 11% | **6%** | 44% |
+| supply-chain | 139 | 37% | 13% | **6%** | 43% |
+| climate-energy | 137 | 36% | 10% | 12% | 42% |
+| data-ai | 144 | 36% | 12% | **19%** | **33%** |
+| cybersecurity | 170 | 34% | 8% | **5%** | 50% |
+| work-productivity | 252 | 31% | **4%** | 9% | 50% |
+| robotics-automation | 329 | 29% | **19%** | 15% | 35% |
+| hr-people | 156 | 24% | 6% | 12% | 55% |
+| construction-proptech | 140 | 24% | 7% | 16% | 54% |
+| industrial-hardware | 321 | 22% | 10% | 14% | 53% |
+| **healthcare-lifesci** | 166 | 22% | 10% | **24%** | 43% |
+| fintech-payments | 125 | 21% | 7% | 9% | 58% |
+| dev-infra | 277 | **19%** | **5%** | 9% | **68%** |
+| **legal-compliance** | 130 | **12%** | **5%** | 8% | **73%** |
+
+`business-suite` has two companies and is reported, not counted.
+
+**The spread by industry is wider than the spread by anything else measured.** TOFU runs from 12%
+to 46% — a range no offering, motion, stage or buyer cut comes close to. **Industry is the axis
+this study was missing, and it is now the one with the most signal in it.**
+
+**Healthcare and life sciences publish the most proof of any vertical, by a distance.** 24% BOFU
+against a corpus average of 11%. When a claim has to survive a regulator, a named deployment with
+a measured result is the only safe thing to say — and the page ends up more useful to a buyer than
+almost anyone else's.
+
+**Security publishes the least proof of any vertical: 5% BOFU.** That is the finding most worth
+arguing with. Security vendors publish prolifically — original threat research, vulnerability
+disclosures, conference programmes — and almost none of it is a named customer with a measured
+outcome. The category talks about attacks and rarely about what the product did about one at a
+named company. `revops-martech` and `supply-chain` sit at the same 6%, which is the same shape:
+sell advice, prove little.
+
+**Legal and compliance is the strangest row in the study** and worth reading twice. 73% non-buying,
+12% TOFU, the lowest of both. It is driven by two things this corpus had not seen before: an
+extremely heavy event calendar, and **vendors running job boards for their own audience** — Juro
+posted other companies' legal vacancies weekly, which is a quarter of its feed. It is real
+audience-building and it does no buying work at all.
+
+**Developer infrastructure is 68% non-buying** — release notes and community, with 19% TOFU. It is
+the PLG shape in its purest form and it is the shape most content advice is unconsciously written
+about, because it is the corner of B2B that writes the most about content.
+
+**Robotics has the most MOFU of any vertical (19%).** Long capex cycles with engineering review
+produce comparison and specification content that nobody else publishes.
+
+---
+
+
 ## Format: what gets used, and what the feed rewards
 
 | Format | Share | Engagement | Doubles the median |
 |---|---:|---:|---:|
-| **multi-image / carousel** | **7.1%** | **1.58x** | **38%** |
-| video | 33.6% | 1.13x | 23% |
-| single image | 30.5% | 1.00x | 20% |
-| text only | 14.9% | 0.78x | 9% |
-| link post | 13.9% | **0.75x** | 6% |
+| **multi-image / carousel** | **7.9%** | **1.61x** | **37%** |
+| video | 33.4% | 1.10x | 22% |
+| single image | 33.1% | 1.00x | 19% |
+| text only | 12.4% | 0.78x | 9% |
+| link post | 13.2% | **0.78x** | 8% |
 
-**The best-performing format is the least used, by a factor of four.** Multi-image posts earn 58%
-above their company's median and more than double it 38% of the time, and they are 7% of what gets
-published. **Ten of the 46 companies published none at all.** The companies that do use it are not
-the ones you would guess: Addverb (34% of posts), Directive Consulting (29%), Zoho (28%),
-Prusa (21%).
+**The best-performing format is the least used, by a factor of four.** Multi-image posts earn 61%
+above their company's median and more than double it 37% of the time, and they are 8% of what gets
+published. **Fourteen of the 73 companies published none at all.** The companies that do use it
+are not the ones you would guess: Addverb (34% of posts), Mercury (30%), Directive Consulting
+(29%), Zoho (28%), Wiz (24%), Buildertrend (23%).
+
+This held across a doubled corpus and eight new verticals, which is more than can be said for
+several other findings on this page.
 
 And where carousels *are* used, they are used for the wrong thing:
 
 | Multi-image used for | n | Engagement |
 |---|---:|---:|
-| culture | 41 | **2.38x** |
-| selection | 16 | 1.71x |
-| event | 36 | 1.55x |
-| validation | 11 | 1.38x |
-| exploration | 15 | 1.36x |
+| culture | 73 | **2.10x** |
+| selection | 19 | 1.83x |
+| event | 80 | 1.60x |
+| csr | 9 | 1.53x |
+| validation | 12 | 1.36x |
+| exploration | 29 | 1.36x |
 
 **The single largest exploitable gap in this dataset**: the format that outperforms everything is
 being spent on team photos. `requirements` — comparisons and buyer's guides, the worst-performing
-category — is published as a **link post 34% of the time** and as a carousel **2%** of the time.
+category — is published as a **link post 30% of the time** and as a carousel **3%** of the time.
 The comparison table that belongs in a carousel is being posted as a link to a blog.
 
 **Link posts are the worst format in the corpus** and they carry the most decision-stage content.
@@ -178,45 +264,48 @@ The comparison table that belongs in a carousel is being posted as a link to a b
 
 | Job | text | link | image | multi | video |
 |---|---:|---:|---:|---:|---:|
-| validation | 5% | 15% | 22% | 6% | **52%** |
-| product-news | 9% | 12% | 27% | 5% | **47%** |
-| exploration | 20% | 11% | 25% | 3% | 40% |
-| problem | 22% | 19% | 25% | **2%** | 32% |
-| **requirements** | 9% | **34%** | 36% | **2%** | 19% |
-| **consensus** | 20% | **31%** | 27% | **2%** | 20% |
-| selection | 14% | 12% | **43%** | 10% | 21% |
-| culture | 21% | 4% | 35% | **23%** | 17% |
-| event | 7% | 15% | 40% | 10% | 29% |
-| recruitment | **40%** | 23% | 27% | 2% | 8% |
+| product-news | 9% | 11% | 27% | 4% | **49%** |
+| validation | 4% | 18% | 28% | 4% | **46%** |
+| exploration | 16% | 12% | 29% | 4% | 39% |
+| problem | 23% | 18% | 26% | **1%** | 32% |
+| **requirements** | 9% | **30%** | 36% | **3%** | 22% |
+| **consensus** | 19% | **30%** | 28% | **2%** | 21% |
+| selection | 13% | 12% | **48%** | 9% | 19% |
+| culture | 15% | 5% | 29% | **21%** | 30% |
+| event | 9% | 12% | 42% | 13% | 24% |
+| recruitment | 9% | 26% | **48%** | 5% | 13% |
+| csr | 13% | 11% | 34% | **24%** | 18% |
 
 ### Format mix by offering and motion
 
 | | text | link | image | multi | video |
 |---|---:|---:|---:|---:|---:|
-| product | 14% | 9% | 32% | 8% | 37% |
-| saas | 17% | 15% | 31% | 5% | 32% |
-| service | 10% | **22%** | 24% | **13%** | 32% |
-| enterprise | 10% | 15% | 33% | 6% | 36% |
-| plg | **21%** | 12% | 29% | 8% | 30% |
-| pls | 15% | 20% | 24% | 8% | 32% |
-| slg | 16% | 11% | 31% | 8% | 34% |
+| product | 12% | 9% | 32% | 9% | **38%** |
+| saas | 13% | 13% | 35% | 7% | 32% |
+| service | 11% | **21%** | 26% | **12%** | 30% |
+| enterprise | **8%** | 14% | 36% | 7% | 35% |
+| plg | **19%** | 11% | 33% | 9% | 28% |
+| pls | 15% | 16% | 25% | 8% | 36% |
+| slg | 11% | 13% | 34% | 8% | 34% |
 
 Service firms lean hardest on links — they are driving to long-form thinking — and also use
-carousels most. Product companies are the most video-heavy (37%).
+carousels most. Product companies are the most video-heavy (38%).
 
 ## Length barely matters
 
 | Words | Share | Engagement |
 |---|---:|---:|
-| 0-29 | 16.4% | 0.91x |
-| 30-59 | 26.9% | 0.97x |
-| 60-99 | 29.0% | 1.00x |
-| 100-159 | 19.4% | 1.06x |
-| 160+ | 8.3% | 1.08x |
+| 0-29 | 14.0% | 1.00x |
+| 30-59 | 24.8% | 0.97x |
+| 60-99 | 30.3% | 1.00x |
+| 100-159 | 22.0% | 1.02x |
+| 160+ | 8.9% | 1.08x |
 
-**The spread from shortest to longest is 0.91 to 1.08.** Against a format spread of 0.75 to 1.58,
-length is close to noise. Longer is very slightly better, and anyone optimising word count before
-they have fixed their format mix is working on the wrong variable.
+**The spread from shortest to longest is 0.97 to 1.08.** Against a format spread of 0.78 to 1.61,
+length is not close to noise, it *is* noise. Doubling the corpus flattened this further: the
+0.91x that very short posts earned in round one was a small-sample artefact and is now 1.00x.
+Anyone optimising word count before they have fixed their format mix is working on the wrong
+variable.
 
 ## The person channel: it is not person versus page, it is founder versus everyone else
 
@@ -411,48 +500,62 @@ format numbers. "vs rest" compares posts with the trait against posts without it
 
 | Trait | Share of posts | Engagement | vs rest |
 |---|---:|---:|---:|
-| quotes somebody | 8.6% | **1.18x** | **+18%** |
-| "link in comments" | 4.6% | **1.16x** | **+16%** |
-| opens on "we" or "our" | 10.3% | **1.13x** | **+13%** |
-| has a stat in the body | 24.8% | 1.05x | +5% |
-| explicit CTA verb | 27.4% | 1.03x | +3% |
-| addresses "you" anywhere | 48.8% | 1.00x | 0% |
-| uses emoji | 36.0% | 1.00x | 0% |
-| has hashtags | 23.4% | 1.00x | 0% |
-| bulleted or listed | 11.8% | 0.98x | -2% |
-| **opens on a question** | 7.3% | **0.82x** | **-18%** |
+| opens on "we" or "our" | 9.4% | **1.19x** | **+19%** |
+| quotes somebody | 9.1% | **1.10x** | **+10%** |
+| "link in comments" | 4.8% | 1.08x | +8% |
+| has a stat in the body | 26.8% | 1.04x | +4% |
+| opens on a number | 4.6% | 1.00x | 0% |
+| explicit CTA verb | 29.3% | 1.00x | 0% |
+| addresses "you" anywhere | 49.3% | 1.00x | -1% |
+| uses emoji | 42.9% | 1.00x | 0% |
+| has hashtags | 20.2% | 1.00x | 0% |
+| bulleted or listed | 11.8% | 0.97x | -3% |
+| **opens on "you" or "your"** | 2.8% | **0.89x** | **-11%** |
+| **opens on a question** | 6.5% | **0.81x** | **-19%** |
 
-**Four of these contradict advice you will have been given.**
+**Five of these contradict advice you will have been given, and the two strongest are about
+pronouns.**
 
 **Opening on a question is the worst-performing trait measured.** It is the single most commonly
-recommended LinkedIn hook and it runs 18% below posts that do not use it. A question asks the
+recommended LinkedIn hook and it runs 19% below posts that do not use it. A question asks the
 reader for work before giving them anything.
 
-**Hashtags do nothing. At all.** Zero hashtags, one to three, four to seven — every band sits at
-exactly 1.00x. **76.6% of this corpus uses none**, and the quarter that does gets nothing for it.
+**Opening on "you" is the second worst, at 0.89x.** Round one measured only whether a post
+*contained* "you" anywhere, found it level, and concluded the second-person advice was neutral.
+Round two separated the opener from the body, and the opener is negative: 0.89x, and only 10% of
+those posts double their company's median. Meanwhile opening on **"we" or "our" runs 1.19x**, the
+best-performing trait in the table.
 
-**Emoji do nothing either** — 36% of posts use them, at 1.00x.
+**So the most repeated rule in LinkedIn advice — lead with the reader, never with yourself —
+is backwards in this corpus.** Mentioning the reader in the body is fine and does nothing either
+way (1.00x across 49% of posts). Opening on them costs you.
 
-**Talking about yourself is fine.** Posts opening on "we" or "our" run 13% *above* the rest, and
-posts addressing "you" run exactly level. The advice to write in second person and never lead with
-yourself is not visible in this data.
+**Hashtags do nothing, until you use too many.** Zero, one to three and four to seven all sit at
+0.96 to 1.05. **79.8% of this corpus uses none.** The one real signal is at the top: **eight or
+more hashtags runs 0.69x**, the worst band of any trait measured. That band is only 0.8% of posts,
+so it is a small sample and a large penalty.
 
-Two things that do work and are barely used: **quoting somebody** (+18%, in 8.6% of posts) and
-putting the **link in the comments** (+16%, in 4.6%). The second is worth noting alongside the
-format table, where link posts are the worst format at 0.75x — the penalty is on the link *in the
-post*, and moving it to the comments appears to recover it.
+**Emoji do nothing either** — 43% of posts use them, at 1.00x.
+
+Two things that do work and are barely used: **quoting somebody** (+10%, in 9.1% of posts) and
+putting the **link in the comments** (+8%, in 4.8%). The second is worth noting alongside the
+format table, where link posts are the worst format at 0.78x — the penalty is on the link *in the
+post*, and moving it to the comments appears to recover part of it. Both effects roughly halved
+when the corpus doubled, which is the normal fate of a finding from a small sample; the direction
+held, the size did not.
 
 ### The first line is the lever
 
 | First line | Share | Engagement |
 |---|---:|---:|
-| **1-6 words** | 12.2% | **1.19x** |
-| 7-14 words | 36.9% | 1.00x |
-| 15-25 words | 29.6% | 0.99x |
-| 26+ words | 21.3% | 1.00x |
+| **1-6 words** | 11.1% | **1.19x** |
+| 7-14 words | 37.3% | 1.00x |
+| 15-25 words | 30.3% | 0.98x |
+| 26+ words | 21.2% | 1.00x |
 
-**A very short opening line is worth more than anything else in this table, and only 12% of posts
-use one.** Note the shape: it is not "shorter is better" — 7-14, 15-25 and 26+ are identical. It is
+**A very short opening line is worth more than anything else in this table, and only 11% of posts
+use one.** This is one of the few numbers on this page that did not move at all when the corpus
+doubled. Note the shape: it is not "shorter is better" — 7-14, 15-25 and 26+ are identical. It is
 a cliff at about six words. Everything past that is the same.
 
 Combined with the body-length finding, the picture is clear: **the first line matters and the rest
@@ -462,16 +565,22 @@ of the length does not.**
 
 | Job | opens on ? | opens on a number | stat in body | says "you" | bulleted | link in comments |
 |---|---:|---:|---:|---:|---:|---:|
-| problem | 11% | 14% | 33% | 50% | 12% | 5% |
-| exploration | 10% | 4% | 17% | 46% | 11% | 5% |
-| requirements | **16%** | 3% | 14% | **62%** | 21% | 7% |
-| selection | 3% | 8% | **45%** | 27% | 5% | 3% |
-| validation | 8% | 7% | 41% | 21% | 13% | 3% |
-| consensus | 11% | 2% | 24% | 40% | 20% | 2% |
+| problem | 10% | 13% | 34% | 50% | 11% | 4% |
+| exploration | 8% | 5% | 25% | 47% | 12% | 4% |
+| requirements | **12%** | 4% | 16% | **55%** | 18% | 7% |
+| selection | **2%** | 8% | **48%** | 27% | 5% | 3% |
+| validation | 8% | 8% | 39% | 27% | 12% | 4% |
+| consensus | 11% | 2% | 26% | 43% | 21% | 2% |
 
-`requirements` — already the worst-performing category at 0.68x — uses the worst-performing hook
-(question openers, 16%) more than any other job. It is being written in the least effective way
-available, on top of shipping as a link post a third of the time.
+`requirements` — already the worst-performing category at 0.70x — uses the worst-performing hook
+(question openers) more than any other job, addresses the reader as "you" more than any other job,
+and ships as a link post 30% of the time. Every one of those is a measured penalty in this corpus.
+**It is not that buyer's guides cannot travel; it is that nobody publishes them in a shape that
+travels.**
+
+Compare `selection`, the best-performing job at 1.84x: it opens on a question 2% of the time,
+carries a stat in the body 48% of the time, and barely addresses the reader at all. The
+highest-performing content in this corpus is the least reader-centred content in it.
 
 ## Cadence varies thirty-fold
 
@@ -483,25 +592,29 @@ ceiling looks exactly like uniformity produced by behaviour. The cap was the fin
 The measurable thing is the **span**: a company posting five times a week fills 50 slots in ten
 weeks, one posting weekly takes a year. On that measure:
 
-**Median 4.5 posts per week, range 0.7 to 20.6.** Rockwell Automation filled the 50-post cap in
+**Median 4.6 posts per week, range 0.7 to 20.6.** Rockwell Automation filled the 50-post cap in
 **two weeks**; RightHand Robotics took 41 weeks to publish 27.
 
 | | Median posts/week | Range |
 |---|---:|---|
-| **saas** | 6.0 | 1.2 - 15.9 |
-| product | 3.4 | 0.7 - 20.6 |
-| **service** | 2.5 | 0.7 - 9.2 |
-| **enterprise motion** | 6.0 | 0.7 - 20.6 |
-| plg | 4.9 | 1.0 - 15.6 |
-| pls | 4.5 | 3.6 - 9.0 |
-| **slg** | 3.1 | 0.7 - 9.8 |
-| **scaled** | 6.6 | 1.0 - 20.6 |
-| growth | 3.0 | 0.7 - 9.8 |
-| early | 2.8 | 1.0 - 12.2 |
+| **saas** | 5.4 | 1.2 - 15.9 |
+| product | 3.6 | 0.7 - 20.6 |
+| **service** | 2.8 | 0.7 - 9.2 |
+| **enterprise motion** | 5.9 | 0.7 - 20.6 |
+| plg | 5.3 | 1.0 - 15.6 |
+| pls | 4.9 | 3.4 - 11.4 |
+| **slg** | 3.9 | 0.7 - 9.8 |
+| **scaled** | 6.3 | 1.0 - 20.6 |
+| growth | 3.8 | 0.7 - 11.4 |
+| **early** | 2.2 | 0.9 - 12.2 |
 
-**Scaled companies publish more than twice as often as growth-stage ones**, and SaaS more than
-twice as often as service firms. Service firms publish least and, from the split tables above,
-publish the most buying-dense content when they do — fewer, heavier posts.
+**Scaled companies publish nearly three times as often as early-stage ones** (6.3 against 2.2),
+and SaaS twice as often as service firms. Service firms publish least and, from the split tables
+above, publish the most buying-dense content when they do — fewer, heavier posts.
+
+Round two sharpened the stage gradient rather than flattening it: with 12 early-stage companies
+instead of 8, early cadence fell from 2.8 to **2.2 posts a week**. The thing a small company has
+least of is not audience, it is publishing capacity.
 
 **Publishing more does not appear to dilute.** Splitting the sample at the median cadence, both
 halves break out (double their own median) on exactly **19%** of posts. High-cadence companies are
@@ -509,13 +622,13 @@ not paying for volume with flatter performance. That is a null result on one yea
 not a licence to post twenty times a week, but the dilution effect people assume is not visible
 here.
 
-**Day of week is close to noise**: Monday to Friday runs 0.98 to 1.02. Weekend volume is tiny and
-Sunday is the only day below 0.90. Day tables are usually content tables wearing a calendar —
+**Day of week is close to noise**: Monday to Thursday runs 1.00 to 1.04, Friday 0.94. Weekend
+volume is tiny and Sunday the only day below 0.90. Day tables are usually content tables wearing a calendar —
 Monday is 21% events here — so a day ranking mostly tells you what people schedule when.
 
 ## When the page is not the channel
 
-Five companies reshare more than 40% of what appears on their page, and three of them reshare so
+Seven companies reshare more than 40% of what appears on their page, and three of them reshare so
 much that they have almost no original page content at all:
 
 | Company | Reshared | Cell |
@@ -525,13 +638,17 @@ much that they have almost no original page content at all:
 | Dub | 72% (36 of 50) | saas x plg, early |
 | Notion | 47% (23 of 49) | saas x plg, scaled |
 | Dexterity | 46% (19 of 41) | product x enterprise, growth |
+| Stripe | 44% (21 of 48) | saas x pls, scaled |
+| Mercury | 40% (20 of 50) | saas x plg, growth |
 
 These are founder-led companies whose page is an **amplifier for named people**, not a publisher.
 That is a deliberate channel design and this engine models it directly as
 [`kind: person` versus `kind: organisation`](decision/RESEARCH-channel-split.md). It also means
 **a page-level benchmark is the wrong benchmark for these companies** — measure the founder's
 profile instead. Kalungi, PostHog and Dub fall below this study's 20-original threshold for that
-reason and are excluded from every percentage above.
+reason and are excluded from every percentage above. So does Velocity Partners, for a different
+reason worth recording: a B2B content agency that published **two posts in eleven months** on its
+own page.
 
 ---
 
@@ -545,10 +662,10 @@ read.
 
 | | Share of all engagement |
 |---|---:|
-| the top **1%** of posts | **30%** |
-| the top 5% | 50% |
-| the top 10% | 61% |
-| the top 20% | 74% |
+| the top **1%** of posts | **26%** |
+| the top 5% | 47% |
+| the top 10% | 59% |
+| the top 20% | 73% |
 
 Median company Gini on raw engagement is **0.42** (Miro the most even at 0.24, Zoho the most
 lottery-like at 0.67). Person channels are slightly more concentrated than pages, 0.47 against
@@ -561,8 +678,8 @@ followers experience week to week, the tail is what reaches anybody else.
 
 ### The spread inside one company dwarfs the spread between companies
 
-**The median company's best post outscores its own worst by 36x**, with a within-company standard
-deviation of 1.33 on the normalised scale. Since every company's median is 1.00 by construction,
+**The median company's best post outscores its own worst by 43x**, with a within-company standard
+deviation of 1.34 on the normalised scale. Since every company's median is 1.00 by construction,
 there is no between-company variance left in relative terms at all.
 
 **So the decision that matters is not which company to imitate. It is which post to publish
@@ -576,67 +693,90 @@ as a vote — one company, one vote, only where it published at least six posts 
 
 | Label | Corpus median | Companies testable | Share above 1.0 | Verdict |
 |---|---:|---:|---:|---|
-| `selection` | 1.82 | 10 | **90%** | consistent |
-| `product-news` | 1.39 | 16 | 75% | consistent |
-| `culture` | 1.33 | 14 | 71% | consistent |
-| `problem` | 0.69 | 17 | **18%** | consistent (reliably *under*) |
-| `event` | 1.01 | 25 | 56% | **mixed** |
-| `validation` | 1.06 | 11 | 55% | **mixed** |
-| `exploration` | 0.93 | 31 | 32% | **mixed** |
+| `selection` | 1.98 | 13 | **92%** | consistent |
+| `product-news` | 1.35 | 23 | 70% | **mixed** |
+| `culture` | 1.33 | 26 | 69% | **mixed** |
+| `event` | 1.00 | 43 | 49% | **mixed** |
+| `validation` | 0.99 | 20 | 50% | **mixed** |
+| `recruitment` | 0.78 | 6 | 33% | **mixed** |
+| `exploration` | 0.90 | 49 | 31% | **mixed** |
+| `problem` | 0.69 | 17 | **12%** | consistent (reliably *under*) |
 | `requirements` | — | **1** | — | **cannot be tested** |
 | `consensus` | — | **0** | — | **cannot be tested** |
 
-Four claims survive the stricter test: awards, launches and culture reliably beat a company's own
-median, and problem framing reliably loses to it. **Three do not.** `validation` splits almost
-evenly — a case study is a strong post at some companies and a weak one at others, so "case
-studies perform" is not a safe generalisation and is worth testing on your own feed.
+**Round one ran this test on 46 companies and found four claims consistent. Round two ran it on 73
+and found two.** `product-news` and `culture` both crossed back over the line — 70% and 69%, where
+the test asks for 70% or better. They did not reverse; they stopped being reliable. That is what a
+larger sample usually does to a finding at the boundary, and it is the reason to report the vote
+rather than the median.
 
-**And the two scarcest labels cannot be validated at all.** Exactly one company published six or
-more `requirements` posts and none published six `consensus` posts, so the 0.68x and 0.80x
-figures quoted earlier rest on posts scattered thinly across many companies rather than on any
-company's own experience. They are the best available estimate and they are not a robust one.
-The scarcity that makes them the industry's biggest gap is the same scarcity that makes them hard
-to measure.
+**Two claims survive.** `selection` beats a company's own median at 12 of the 13 companies that
+published enough of it, and `problem` loses to it at 15 of 17. Those two are safe to act on
+anywhere. Everything else on this page is a corpus median that hides real disagreement between
+companies.
+
+**`validation` splits exactly 50/50 across 20 companies.** "Case studies perform" is not a
+generalisation this data supports. At half the companies measured, the case study is the weakest
+thing on the page.
+
+**And the two scarcest labels still cannot be validated at all, on a corpus of 73 companies.**
+Exactly one company published six or more `requirements` posts and none published six `consensus`
+posts. Adding 28 companies across eight verticals moved those counts from 1 and 0 to 1 and 0.
+
+So the 0.70x and 0.82x quoted earlier rest on posts scattered thinly across many companies rather
+than on any company's own experience. They are the best available estimate and they are not a
+robust one. **The scarcity that makes decision-stage content the industry's biggest gap is the
+same scarcity that makes it impossible to measure properly** — and that is itself the most
+reliable thing this study can say about it.
 
 ### The carousel advantage is real, not an artefact of what gets published in it
 
-The obvious objection to "multi-image earns 1.58x" is that carousels are mostly culture posts, and
+The obvious objection to "multi-image earns 1.61x" is that carousels are mostly culture posts, and
 culture performs well anyway. Tested inside each job, the format wins on its own:
 
 | Job | Multi-image | Same job, other formats | |
 |---|---:|---:|---|
-| culture | **2.38x** (n=41) | 1.12x | format wins |
-| selection | **1.71x** (n=16) | 1.50x | format wins |
-| event | **1.60x** (n=36) | 0.93x | format wins |
-| validation | **1.38x** (n=11) | 0.97x | format wins |
-| exploration | **1.36x** (n=15) | 0.94x | format wins |
-| product-news | 0.88x (n=13) | 1.24x | no gain |
+| culture | **2.10x** (n=73) | 1.18x | format wins |
+| event | **1.60x** (n=80) | 0.89x | format wins |
+| csr | **1.53x** (n=9) | 0.83x | format wins |
+| validation | **1.36x** (n=12) | 0.96x | format wins |
+| exploration | **1.36x** (n=29) | 0.90x | format wins |
+| selection | 1.83x (n=19) | 1.85x | no gain |
+| product-news | 0.95x (n=14) | 1.24x | no gain |
 
-**Within `validation` a carousel earns 1.38x where every other format earns 0.97x.** The case
-study that becomes a carousel is a different post from the case study that becomes a link. Only
-product news shows no benefit, which fits — a launch is an announcement and a carousel asks the
-reader to work through it.
+**Within `validation` a carousel earns 1.36x where every other format earns 0.96x.** The case
+study that becomes a carousel is a different post from the case study that becomes a link. Within
+`event` the gap is wider still: 1.60x against 0.89x, on 80 carousels.
+
+Two jobs show no benefit. Product news fits — a launch is an announcement and a carousel asks the
+reader to work through it. `selection` is the interesting one: it was a format win in round one and
+is now a dead heat, because an awards post is already the best-performing thing on the page and
+the carousel has nothing left to add.
 
 ### What breakout posts are made of
 
-174 posts tripled their own company's median. Against the other 1,827:
+298 posts tripled their own company's median. Against the other 2,816:
 
 | | Breakouts | Everything else | |
 |---|---:|---:|---:|
-| `culture` | 23.0% | 7.4% | **+15.5** |
-| `selection` | 20.7% | 6.5% | **+14.2** |
-| `product-news` | 23.0% | 12.3% | +10.7 |
-| `validation` | 5.2% | 10.0% | -4.8 |
-| `event` | 10.9% | 19.6% | -8.7 |
-| `problem` | **0.6%** | 10.8% | **-10.3** |
-| `exploration` | 9.2% | 22.3% | -13.1 |
-| **`requirements`** | **0.0%** | 3.1% | -3.1 |
-| video | 42.5% | 33.0% | +9.5 |
-| multi-image | **15.5%** | 6.3% | **+9.2** |
-| text | 5.7% | 15.3% | -9.5 |
-| link | 5.7% | 14.8% | -9.1 |
+| `selection` | 21.5% | 5.6% | **+15.9** |
+| `culture` | 24.2% | 9.7% | **+14.5** |
+| `product-news` | 19.8% | 11.6% | +8.2 |
+| `recruitment` | 3.0% | 3.0% | 0.0 |
+| `validation` | 6.0% | 10.6% | -4.5 |
+| `problem` | **0.3%** | 8.2% | **-7.8** |
+| `event` | 12.1% | 21.0% | -8.9 |
+| `exploration` | 8.7% | 23.6% | **-14.9** |
+| **`requirements`** | **0.0%** | 2.7% | -2.7 |
+| **`consensus`** | **0.3%** | 1.6% | -1.3 |
+| video | 39.3% | 32.7% | +6.5 |
+| multi-image | **16.8%** | 7.0% | **+9.8** |
+| text | 5.4% | 13.1% | -7.8 |
+| link | 6.4% | 14.0% | -7.6 |
 
-**Not one of the 174 breakout posts was a buyer's guide, and one was problem framing.** If
+**Not one of the 298 breakout posts was a buyer's guide.** One was a business case and one was
+problem framing. On a corpus 55% larger than round one's, the decision-stage categories stayed at
+zero. If
 breakout reach is the goal, the decision-stage content is the wrong instrument — which is another
 way of saying the same thing as the first table on this page, stated in the tail rather than the
 median.
@@ -646,21 +786,189 @@ half as likely to appear** as their share of the corpus would predict.
 
 ---
 
+---
+
+## The shapes that recur, and the ones that work
+
+Everything above measures what companies publish *about*. This measures what shape the post is,
+which is the part a writer actually reuses. A shape is `job x format x opening move`, all three
+machine-read (`research/analyse_templates.py`). **209 shapes exist in the corpus; 31 carry at
+least 25 posts** and those 31 cover two thirds of everything published.
+
+### The opening move
+
+| Opening | Share | Engagement | Doubles the median |
+|---|---:|---:|---:|
+| **"We…" / "Our…"** | 9.4% | **1.21x** | **28%** |
+| declarative (everything else) | 71.6% | 1.00x | 20% |
+| opens on a number | 2.3% | 0.99x | 20% |
+| **"You…" / "Your…"** | 4.6% | 0.96x | **10%** |
+| **a question** | 12.1% | **0.81x** | 11% |
+
+The two moves LinkedIn advice recommends most — open on a question, open on the reader — are the
+two worst. The move it warns against is the best.
+
+### The thirteen shapes worth naming
+
+Every shape below is at least 25 posts across at least ten companies, so none of them is one
+company's house style:
+
+| Job | Format | Opening | n | Engagement | Companies |
+|---|---|---|---:|---:|---:|
+| culture | multi-image | declarative | 48 | **2.14x** | 20 |
+| **selection** | **image** | **declarative** | **79** | **2.10x** | **42** |
+| selection | video | declarative | 28 | 2.08x | 20 |
+| **event** | **multi-image** | declarative | 60 | **1.63x** | 33 |
+| product-news | video | declarative | 151 | 1.54x | 38 |
+| culture | image | declarative | 70 | 1.41x | 32 |
+| event | video | declarative | 102 | 1.13x | 41 |
+| validation | video | declarative | 112 | 1.11x | 37 |
+| exploration | video | declarative | 183 | 1.00x | 54 |
+| **event** | **image** | declarative | **181** | **0.92x** | 49 |
+| problem | image | declarative | 45 | 0.77x | 24 |
+| **problem** | **text** | declarative | 34 | **0.74x** | 17 |
+| **event** | **link** | declarative | 47 | **0.58x** | 25 |
+
+**The single most-published shape in B2B LinkedIn is an event post as a static image with a
+declarative opening — 181 posts across 49 companies — and it earns 0.92x.** The same job as a
+carousel earns 1.63x. That is one substitution, available to every company in the study, and
+almost nobody makes it.
+
+**The worst-performing shape that recurs is an event as a link post: 0.58x across 25 companies.**
+A registration link posted as a link preview is the cheapest thing to make and the least
+rewarded thing in the corpus.
+
+**`problem` as a plain text post doubles its company's median 0% of the time.** Not rarely —
+never, across 34 posts and 17 companies. If you are going to name a cost the reader is paying,
+this data says do not do it as a text post.
+
+### For each job: the shape most used, and the shape that earns most
+
+Where these differ, the gap is the finding.
+
+| Job | Most used | | Best | |
+|---|---|---:|---|---:|
+| problem | image / declarative (n=45) | 0.77x | video / "you" (n=13) | **1.07x** |
+| exploration | video / declarative (n=183) | 1.00x | video / number (n=10) | **1.39x** |
+| requirements | image / declarative (n=21) | **0.55x** | video / declarative (n=11) | **1.03x** |
+| selection | image / declarative (n=79) | 2.10x | image / "we" (n=21) | 2.20x |
+| validation | video / declarative (n=112) | 1.11x | *the same shape* | 1.11x |
+| event | image / declarative (n=181) | 0.92x | multi-image / declarative (n=60) | **1.63x** |
+| product-news | video / declarative (n=151) | 1.54x | video / question (n=11) | **2.19x** |
+| culture | image / declarative (n=70) | 1.41x | multi-image / "we" (n=21) | **2.38x** |
+| recruitment | image / declarative (n=27) | 0.86x | image / "we" (n=15) | **1.53x** |
+
+**`validation` is the only job where the industry's default shape is also its best.** Everywhere
+else the most-published shape is beaten by a shape sitting in the same corpus.
+
+**`requirements` has the worst default of all: a static image with a declarative opening, at
+0.55x.** The buyer's guide is not just the worst-performing job on this page, it is published in
+the worst-performing shape available to it.
+
+Two cautions. These are descriptions, not instructions: the engagement column says nothing about
+whether the post did commercial work, and this page has already shown those two ranks to be near
+opposites. And the "best" column is often a small sample — ten to twenty posts — so treat it as a
+thing to try rather than a thing to believe.
+
+---
+
+## Design: what is actually on the image
+
+Format tells you an image was posted. It says nothing about what was on it, and the brief this
+study answers asked about design. Two things are measurable here, and they are measurable to very
+different standards.
+
+### Aspect ratio, measured on all 1,277 image posts
+
+The feed is a fixed-width column, so the only thing a creative controls is how much vertical space
+it claims. This is in the scrape metadata, so it is measured on everything rather than sampled:
+
+| Shape | Share | Engagement | Doubles the median |
+|---|---:|---:|---:|
+| **wide 16:9** | **39.0%** | 1.08x | 21% |
+| square 1:1 | 32.3% | 1.00x | 20% |
+| **portrait 4:5** | 19.0% | **1.16x** | **28%** |
+| landscape 4:3 | 8.1% | **1.47x** | 32% |
+| tall 9:16+ | 1.6% | 1.31x | 15% |
+
+**The most-used aspect ratio is 16:9, and it is the one that claims the least screen.** Portrait
+4:5 occupies roughly twice the vertical space of 16:9 in the same column, earns 1.16x against
+1.08x, and doubles its company's median 28% of the time against 21%.
+
+The per-job table is where it gets sharper:
+
+| Job | 16:9 | 1:1 | 4:5 |
+|---|---|---|---|
+| **selection** | 33% at **2.10x** | 42% at 1.45x | 17% at **4.18x** |
+| validation | 33% at 1.00x | 40% at 1.00x | 19% at **1.33x** |
+| event | 37% at 1.00x | 37% at 0.82x | 18% at **1.28x** |
+| culture | 30% at 2.45x | 26% at 1.42x | 29% at 1.39x |
+| exploration | 50% at 0.95x | 24% at 0.96x | 18% at 0.90x |
+| product-news | 50% at 1.16x | 35% at 1.02x | 10% at 0.89x |
+| problem | 32% at **0.88x** | 29% at 0.66x | 27% at 0.67x |
+
+**An awards post in portrait earns 4.18x; the same post in 16:9 earns 2.10x**, and only 17% of
+them are portrait. For `selection`, `validation` and `event`, portrait is the best shape and the
+least used. For `exploration`, `product-news` and `problem` it is not — those three do better wide,
+which is worth knowing before anyone issues a blanket "always post portrait".
+
+**16:9 is where a repurposed asset lands.** A blog header, a webinar slide, a YouTube thumbnail
+are all 16:9 already. The 39% share is not a design decision; it is the absence of one.
+
+### What is on the strong creatives and what is on the weak ones
+
+The rest of design cannot be measured from metadata, so it was sampled and looked at. The sample
+is paired: for each job, the images from that job's best-performing posts against the images from
+its worst-performing posts, at the same company-normalised scale, so content is held roughly
+constant and what differs is the design (`research/sample_creative.py`). **36 images were pulled;
+eight were coded, across four jobs.** That is a small sample and is reported as one — it generates
+hypotheses to test against your own feed, not benchmarks.
+
+**Evidence beats assertion, and the gap is enormous.** The strongest `validation` creative in the
+sample (6.54x) is a screenshot of a third-party benchmark leaderboard with the vendor at rank one,
+competitors named and visible, and the number — 90.9% — legible at feed size without zooming. The
+weakest (0.08x) is a quote card: a customer's endorsement set in large display type, correctly
+attributed, with no number on it at all. One shows the thing working. The other shows somebody
+saying it works.
+
+**The asset cover is the weakest recurring creative.** The weak `requirements` example (0.34x) is
+a 16:9 dark cover with a rendered mockup of the PDF floating on it. A picture of a document is a
+picture of homework, and it is exactly what a buyer's guide gets published as.
+
+**The strongest creatives carry the brand system; the weakest carry none.** The two weakest images
+in the sample were a stock meme template with white caption text and visible compression artefacts,
+and a retail-style sale banner with a discount badge and a deadline. Neither used the company's
+own colour system, type or logo in any load-bearing way. Both would have looked identical with
+another company's name on them.
+
+**Type on its own is fine, and often better.** The strongest `selection` creative (16.29x) is a
+portrait card carrying the logo and the award line and nothing else: no photograph, no product, no
+mockup. The message *is* the image. This runs against the instinct to add a visual; where the claim
+is short and strong, setting it large and getting out of the way outperformed every decorated
+alternative in the sample.
+
+**A person at scale works where a document does not.** The strong `requirements` creative (2.20x)
+was a full-bleed cut-out of one named employee, treated like a sports card. Round one's format
+table already showed video and carousels beating static images; this sample suggests part of what
+those formats buy is a human being at a size the feed cannot ignore.
+
+---
+
 ## What was removed from the corpus, and what was deliberately kept
 
-An audit after the first analysis removed **487 posts, 12.6% of the corpus**
-(`research/audit_corpus.py`, exclusions listed in `research/excluded.json`, nothing deleted from
-`raw/`).
+An audit removes **506 posts, 10.1% of the corpus** (`research/audit_corpus.py`, exclusions
+listed in `research/excluded.json`, nothing deleted from `raw/`).
 
 | Reason | Posts |
 |---|---:|
 | predates the window the page corpus covers | 366 |
 | person not employed by the company they were paired to | 58 |
-| no text at all | 41 |
-| exact duplicate of an earlier post by the same account | 22 |
+| no text at all | 44 |
+| exact duplicate of an earlier post by the same account | 24 |
+| generated by LinkedIn's job widget, not written by the company | 14 |
 
-The page corpus lost **0.9%**. The person corpus lost **22.5%**, and the count of usable people
-fell from 43 to 33. Two of those reasons were defects in how this study was built:
+The page corpus loses **1.2%**. The person corpus loses **25.7%**, and the count of usable people
+fell from 43 to 33. Three of those reasons were defects in how this study was built:
 
 **The two corpora did not cover the same window.** Company pages were pulled as one recent slice
 and span twelve months. Person feeds were pulled to the same post cap and reach back to **2014**.
@@ -674,6 +982,14 @@ people in the sample did not work at the company they were paired to — an inde
 reshared by Raspberry Pi, a founder of a different company reshared by Airtable, a designer
 reshared by Notion, and a FedEx executive reshared by a FedEx *supplier*. A paired comparison
 asking "does this company's person beat this company's page" is meaningless for them.
+
+**A post LinkedIn wrote is not a post the company wrote.** Cognism's feed carries 14 posts in the
+format "We're #hiring a new {title} in {city}. Apply today or share this post with your network."
+— **28% of its feed**. LinkedIn's job widget renders those from a requisition; nobody at the
+company chose a word of them. They are short, they open on "we", they carry a CTA verb and a
+hashtag, and every one of those is a trait this study reports on. That a page gives a third of its
+feed to them is a real finding and stays in; the text is not evidence about how the company writes
+and leaves the analysis.
 
 **The pruning strengthened the main finding rather than weakening it.** Founders went from 3.06x
 to **3.17x** and the overall win rate from 69% to 74%, because some of what was removed was
@@ -696,34 +1012,44 @@ historic posts from people who have since stopped posting.
 
 ## Using this
 
-**0. Read the median and the tail as two different jobs.** The top 1% of posts carry 30% of all
+**0. Read the median and the tail as two different jobs.** The top 1% of posts carry 26% of all
 engagement, and the spread inside one company's own feed is larger than anything measured between
 companies. Nothing on this page is a target to converge on; it is a map of what your cell does and
 does not do.
 
-**1. Find your row, then look at what it is missing.** The tables describe what companies like
-yours *do*, not what works. `requirements` and `consensus` are 5.1% of the entire corpus, so
+**1. Find your industry row first, then your cell.** Industry has the widest spread of any axis
+here — 12% to 46% TOFU — and it was the axis this study was missing for its entire first round.
+The cell tables are still useful; they are just not the first cut any more.
+
+**2. Look at what your row is missing, not what it has.** The tables describe what companies like
+yours *do*, not what works. `requirements` and `consensus` are 3.9% of the entire corpus, so
 almost every row understates them. Treat the grid as a baseline to deviate from deliberately.
 
-**2. Set the split from Fit, never from Lift.** The ten-row table at the top is the reason. If you
-let engagement choose, you will publish awards and team photos, because that is what the feed
+**3. Set the split from Fit, never from Lift.** The eleven-row table at the top is the reason. If
+you let engagement choose, you will publish awards and team photos, because that is what the feed
 pays for.
 
-**3. Fix format before you touch anything else.** It is the largest measured effect. Specifically:
-move comparison and business-case content out of link posts and into carousels. That is a
-0.68x-to-1.58x move on the two categories that matter most at the decision stage, and almost
-nobody in this sample is doing it.
+**4. Fix format and shape before you touch the words.** It is the largest measured effect.
+Specifically: move comparison and business-case content out of link posts and into carousels
+(0.70x to 1.61x), move event posts out of static images and into carousels (0.92x to 1.63x), and
+stop shipping creatives at 16:9 by default. Every one of those is a decision made once, in a
+template, not per post.
 
-**4. Declare your buyer.** It splits behaviour harder than offering, motion or stage. A profile
+**5. Declare your buyer.** It splits behaviour harder than offering, motion or stage. A profile
 that declares `buyer: practitioner` and one that declares `buyer: procurement` should not get the
 same calendar.
 
-**5. Check whether the page is even your channel.** If your founder outperforms the page, the page
+**6. Check whether the page is even your channel.** If your founder outperforms the page, the page
 is an amplifier and the benchmarks above do not apply to it.
+
+**7. Believe two findings and test the rest.** Recomputed company by company, only `selection`
+beats a company's own median reliably and only `problem` loses to it reliably. Everything else on
+this page is a corpus median hiding disagreement between companies, including yours.
 
 `engine/decision/company_type.py` turns the offering and motion declarations into constraints and
 cautions. **It deliberately returns no score multipliers** — the numbers above are a description
-of an industry, and an industry is not a target.
+of an industry, and an industry is not a target. That is truer after round two than before it: the
+one thing a doubled corpus reliably did was demote findings from "consistent" to "mixed".
 
 ---
 
@@ -736,20 +1062,35 @@ original author, so the corpus already named 155 people these pages choose to am
 alone would have answered the wrong question** — the pages that reshare heavily are early PLG and
 founder-led companies, so a sample drawn only from it measures founders at startups and would have
 reported "named people post informally" as a fact about people rather than about that cell. Tier B
-filled the enterprise, service and industrial cells. 43 people cleared a 15-post floor; the four
-below it are named in the output. Seniority is read off the LinkedIn headline the scrape returns
+filled the enterprise, service and industrial cells. **33 people clear a 15-post floor after the
+audit; the 14 below it are named in the output**, and the floor counts usable posts rather than
+pulled ones -- counting the raw pull let an account whose every post was excluded still appear in
+the headcount while contributing nothing. Seniority is read off the LinkedIn headline the scrape returns
 on every post.
 
-**Sample.** 49 companies chosen to populate an offering x motion x stage grid, defined in
-[`research/sample-frame.yaml`](../research/sample-frame.yaml) with a stated reason for every
-company. 46 cleared the threshold. Pulled September 2026 via Apify, up to 50 posts each,
-2,298 posts. Raw JSON is kept so classification can be re-run without paying to scrape again.
+**Sample, round one.** 49 companies chosen to populate an offering x motion x stage grid,
+defined in [`research/sample-frame.yaml`](../research/sample-frame.yaml) with a stated reason for
+every company. Pulled September 2026 via Apify, up to 50 posts each, 2,298 posts.
+
+**Sample, round two.** 28 further companies, chosen on one rule stated before any credit was
+spent: **a company enters because its vertical is missing, not because its content is good.**
+Picking well-known good publishers would have produced a flattering corpus and a useless one — the
+question is what a vertical does, not what its best account does. Where a vertical offered a
+choice, the tie went to whatever also thickened a thin cell: service, early stage and PLS. 1,299
+further posts, $2.00 of Apify credit. **10 of the 28 came back empty on the first pull and every
+one was a wrong slug** — Mercury is `mercuryhq`, project44 is `project-44`, Bluebeam is
+`bluebeam-software`. Same failure mode as round one, same fix.
+
+**73 of the 77 companies clear the 20-original threshold**, and the four that do not are named in
+the output. Raw JSON is kept so classification can be re-run without paying to scrape again, and
+company attributes are joined from the frame at analysis time rather than from the scrape
+snapshot — otherwise adding an axis silently gives every previously-scraped company a null for it.
 
 **Labelling.** Every post was **read** and assigned exactly one of twelve labels defined in
 [`research/CLASSIFICATION-PROTOCOL.md`](../research/CLASSIFICATION-PROTOCOL.md). An earlier
 regex pass left 95% of the corpus unclassified and was abandoned: buying jobs are semantic, and
 patterns only find the posts that announce themselves, which biases the result toward companies
-with a house style of labelling their own content. **1.6% of posts ended as `unclear`**, against a
+with a house style of labelling their own content. **1.4% of posts ended as `unclear`**, against a
 15% ceiling above which this project treats a distribution as a statement about the instrument
 rather than the corpus.
 
@@ -790,6 +1131,19 @@ labelled person posts against a company corpus read in full. That is comfortable
 splits and thin everywhere else: `requirements` is 1.1% of it, which is five posts, and the
 C-suite row is 49 posts from three people.
 
+**The design section is 8 coded images.** The aspect-ratio table rests on all 1,277 image posts
+and is as solid as anything here. Everything after it in that section rests on eight images across
+four jobs, paired strong against weak within the same job. It is a hypothesis generator. It is
+written as one and should be read as one.
+
+**Two labelling decisions in round two are judgement calls worth disclosing.** Deel ran a
+recruitment campaign for a customer's job — a real, paid, advertised role — as a product
+demonstration of borderless hiring; those posts are labelled `validation` where they make the
+product point and `culture` where they are pure stunt, not `recruitment`, because nobody was being
+recruited to Deel. Juro's weekly listings of *other companies'* legal vacancies are labelled
+`recruitment`, because they are job listings, even though Juro is not hiring. A different reader
+could defend the opposite on either. Both are large enough to move their company's row.
+
 **One reader.** Every label is one person's judgement applied consistently. The protocol exists so
 a second reader can label the same batches independently and the two files can be compared post by
 post — which is the only way to find out whether these labels are stable or one reader's opinion.
@@ -808,7 +1162,20 @@ python research/analyse_format.py research/findings.json
 ```
 
 **An empty dataset is what a wrong slug and an exhausted actor quota both look like**, and neither
-is the finding "they post nothing". 14 of the first 47 companies came back empty and every one was
-a bad slug or a flaky run: Retool is `tryretool`, Outreach is `outreach-saas`, and ABB Robotics
-publishes from a LinkedIn **showcase** page that `/company/` does not reach. Resolve before
+is the finding "they post nothing". 14 of the first 47 companies came back empty, and 10 of the
+next 28; every one was a bad slug or a flaky run. Retool is `tryretool`, Outreach is
+`outreach-saas`, Ironclad is `ironclad-inc-`, Sylvera is `sylveracarbon`, and ABB Robotics
+publishes from a LinkedIn **showcase** page that `/company/` does not reach. **Roughly a third of
+slugs guessed from a company name are wrong**, across two independent rounds. Resolve before
 concluding.
+
+For the two parts of this page that are newer than the rest:
+
+```bash
+python research/analyse_templates.py          # the shape library
+python research/sample_creative.py --measure-only   # aspect ratio, all image posts
+python research/sample_creative.py --out <scratch dir outside the repo>
+```
+
+The creative sampler refuses to write inside the repository. The images are other companies'
+copyrighted work; the coded attributes are the deliverable and the files are not kept.

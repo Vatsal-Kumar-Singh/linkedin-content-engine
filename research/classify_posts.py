@@ -23,6 +23,11 @@ They are excluded from the job distribution, and the excluded fraction is report
 because a page that is 77% reshares is running a **person-led channel with an organisation-shaped
 amplifier**, which is a strategy, not an absence of one.
 
+**Industry is reported at three companies or more, and never below.** It was added in a
+second round precisely because the first round's 49 companies were, without anybody choosing it,
+almost all developer tooling, robotics, industrial hardware, revenue software and consulting. A
+vertical with one or two pages in it tells you about those pages.
+
 **Engagement is normalised per company, always.** Figma has two million followers and a
 four-person startup has four thousand. A median pooled across them measures audience, not method,
 so every post is scored against its own company's median before anything is aggregated.
@@ -92,19 +97,39 @@ def engagement_of(post):
     return float((e.get("likes") or 0) + (e.get("comments") or 0) + (e.get("shares") or 0))
 
 
+def frame_by_slug():
+    """The frame is the study design; the raw file only holds a copy of it from scrape day.
+
+    Adding an axis to the frame must not require re-scraping, and a company recoded after review
+    must be recoded everywhere at once. Anything the frame does not name falls back to the
+    snapshot, so a company pulled outside the frame still reports."""
+    import yaml
+    path = os.path.join(HERE, "sample-frame.yaml")
+    if not os.path.exists(path):
+        return {}
+    doc = yaml.safe_load(open(path, encoding="utf-8")) or {}
+    return {str(c.get("slug", "")).lower(): c for c in (doc.get("companies") or [])}
+
+
 def load(labels):
     drop, _ = excluded_ids()
+    frame = frame_by_slug()
+    missing_industry = set()
     rows, companies = [], {}
     for path in sorted(glob.glob(os.path.join(HERE, "raw", "*.json"))):
         d = json.load(open(path, encoding="utf-8"))
-        c = d["company"]
+        c = dict(d["company"])
+        c.update({k: v for k, v in frame.get(str(c.get("slug", "")).lower(), {}).items()
+                  if v is not None})
+        if not c.get("industry"):
+            missing_industry.add(c["name"])
         posts = d.get("posts") or []
         reshares = [p for p in posts if (p.get("header") or {}).get("linkedinUrl")]
         originals = [p for p in posts if not (p.get("header") or {}).get("linkedinUrl")]
         companies[c["name"]] = {
             "slug": c["slug"], "raw": len(posts), "originals": len(originals),
             "reshares": len(reshares),
-            **{k: c[k] for k in ("offering", "motion", "stage", "buyer", "market", "regulated")},
+            **{k: c.get(k) for k in ("offering", "motion", "stage", "buyer", "market", "regulated", "industry")},
         }
         for p in originals:
             pid = str(p.get("id") or "")
@@ -116,8 +141,8 @@ def load(labels):
             text = p.get("content") or ""
             rows.append({
                 "id": pid, "name": c["name"],
-                **{k: c[k] for k in ("offering", "motion", "stage", "buyer", "market",
-                                     "regulated")},
+                **{k: c.get(k) for k in ("offering", "motion", "stage", "buyer", "market",
+                                         "regulated", "industry")},
                 "cell": "%s x %s" % (c["offering"], c["motion"]),
                 "label": lab,
                 "job": lab if lab in JOBS else None,
@@ -125,6 +150,9 @@ def load(labels):
                 "fmt": fmt_of(p), "words": len(text.split()), "eng": engagement_of(p),
                 "date": ((p.get("postedAt") or {}).get("date") or "")[:10],
             })
+    if missing_industry:
+        print("**%d companies carry no industry and are excluded from that table only:** %s"
+              % (len(missing_industry), ", ".join(sorted(missing_industry))))
     return rows, companies
 
 
@@ -144,10 +172,17 @@ def pct(part, whole):
     return (100.0 * part / whole) if whole else 0.0
 
 
-def report_split(rows, keys, title=None):
+def report_split(rows, keys, title=None, min_companies=1):
+    """A cell is printed only if `min_companies` distinct companies occupy it.
+
+    Without this an industry with one page in it prints a row that looks exactly like a row
+    backed by eight, and nothing on the page says which is which."""
     groups = defaultdict(list)
     for r in rows:
         groups[tuple(str(r[k]) for k in keys)].append(r)
+    thin = {g: rs for g, rs in groups.items()
+            if len({r["name"] for r in rs}) < min_companies}
+    groups = {g: rs for g, rs in groups.items() if g not in thin}
     print("\n%-30s %5s %6s %6s %6s %7s %7s" %
           (title or " x ".join(keys), "n", "TOFU", "MOFU", "BOFU", "non-buy", "unclear"))
     print("-" * 76)
@@ -159,6 +194,9 @@ def report_split(rows, keys, title=None):
         print("%-30s %5d %5.0f%% %5.0f%% %5.0f%% %6.0f%% %6.0f%%"
               % (" / ".join(g)[:30], n, pct(t["TOFU"], n), pct(t["MOFU"], n),
                  pct(t["BOFU"], n), pct(oth, n), pct(unc, n)))
+    for g, rs in sorted(thin.items()):
+        print("%-30s %5d   below %d companies, reported not counted"
+              % (" / ".join(g)[:30], len(rs), min_companies))
 
 
 def main():
@@ -232,8 +270,9 @@ def main():
         bucket = "buying job" if k in JOBS else ("unclear" if k == "unclear" else "other")
         print("   %-14s %5d %5.1f%%   %s" % (k, v, pct(v, n), bucket))
 
-    for keys in (a.by and [a.by] or [["offering"], ["motion"], ["stage"], ["cell"]]):
-        report_split(kept, keys)
+    for keys in (a.by and [a.by] or
+                 [["offering"], ["motion"], ["stage"], ["industry"], ["cell"]]):
+        report_split(kept, keys, min_companies=3 if keys == ["industry"] else 1)
 
     if a.dump:
         json.dump({"posts": kept, "companies": companies, "thin": sorted(thin)},

@@ -4,6 +4,7 @@
     python research/make_batches.py                 # default 80 posts a batch
     python research/make_batches.py --size 60
     python research/make_batches.py --check         # what is labelled, what is left
+    python research/make_batches.py --remaining     # only the unlabelled, into batches_todo/
 
 `research/CLASSIFICATION-PROTOCOL.md` defines the labels. This script only prepares the reading
 and never decides anything.
@@ -22,6 +23,12 @@ marked with an ellipsis, and the word count is always shown so the reader knows 
 
 **Order is deterministic**: by company slug, then by post id. Re-running produces identical
 batches, which is what makes a second independent labelling pass comparable to the first.
+
+**`--remaining` is for growing the corpus, and writes somewhere else on purpose.** Adding
+companies renumbers every batch, because the ordering is by slug and a new slug interleaves. A
+reader handed the regenerated set would be handed everything already read. `--remaining` writes
+only unlabelled posts, to `batches_todo/`, and leaves `batches/` alone so the full pass stays
+reproducible.
 """
 
 from __future__ import annotations
@@ -37,6 +44,7 @@ from pathlib import Path
 HERE = Path(__file__).resolve().parent
 RAW = HERE / "raw"
 BATCHES = HERE / "batches"
+TODO = HERE / "batches_todo"
 LABELS = HERE / "labels"
 
 HEAD_WORDS = 60
@@ -110,6 +118,8 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--size", type=int, default=80)
     ap.add_argument("--check", action="store_true")
+    ap.add_argument("--remaining", action="store_true",
+                    help="write only unlabelled posts, to batches_todo/, leaving batches/ intact")
     a = ap.parse_args()
 
     posts = load_posts()
@@ -135,26 +145,34 @@ def main():
             print("unfinished batches: %s" % ", ".join(f.name for f in sorted(first)[:12]))
         return 0
 
-    BATCHES.mkdir(exist_ok=True)
-    for f in BATCHES.glob("*.txt"):
+    out_dir = TODO if a.remaining else BATCHES
+    if a.remaining:
+        posts = [x for x in posts if x["id"] not in done]
+        if not posts:
+            print("nothing left to label")
+            return 0
+        print("%d unlabelled posts -> %s/" % (len(posts), out_dir.name))
+    out_dir.mkdir(exist_ok=True)
+    for f in out_dir.glob("*.txt"):
         f.unlink()
     n = 0
     for i in range(0, len(posts), a.size):
         chunk = posts[i:i + a.size]
         n += 1
+        stem = ("r2_%03d" % n) if a.remaining else ("%03d" % n)
         lines = [
             "# batch %03d  -  %d posts  -  label per research/CLASSIFICATION-PROTOCOL.md" % (n, len(chunk)),
             "# labels: problem exploration requirements selection validation consensus",
             "#         recruitment culture event product-news csr unclear",
-            "# write research/labels/%03d.tsv as: <id><TAB><label>" % n,
+            "# write research/labels/%s.tsv as: <id><TAB><label>" % stem,
             "",
         ]
         for p in chunk:
             lines.append("%s | %s | %s | %dw" % (p["id"], p["name"], p["fmt"], p["words"]))
             lines.append("    %s" % p["text"])
             lines.append("")
-        (BATCHES / ("%03d.txt" % n)).write_text("\n".join(lines), encoding="utf-8")
-    print("%d posts -> %d batches of %d in research/batches/" % (len(posts), n, a.size))
+        (out_dir / ("%s.txt" % stem)).write_text("\n".join(lines), encoding="utf-8")
+    print("%d posts -> %d batches of %d in research/%s/" % (len(posts), n, a.size, out_dir.name))
     print("%d already labelled" % sum(1 for p in posts if p["id"] in done))
     return 0
 

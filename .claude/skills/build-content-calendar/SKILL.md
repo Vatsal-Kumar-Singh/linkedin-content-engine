@@ -65,29 +65,41 @@ covers the profile, the intake and the method for eliciting objectives.
 
 ## The mix: start from what your cell actually does
 
-`docs/BENCHMARKS.md` measured 2,026 hand-read posts from 46 companies. Find the row
+`docs/BENCHMARKS.md` measured 3,114 hand-read posts from 73 companies across 15
+industries. **Read the industry row before the cell row** — industry has the widest
+spread of any axis measured, 12% to 46% TOFU. Then find the cell row
 that matches what the company sells and how it sells, and start there rather than
 from a remembered ratio:
 
 | Cell | TOFU | MOFU | BOFU | non-buying |
 |---|---:|---:|---:|---:|
-| service x slg | 50% | 9% | 2% | 37% |
-| service x enterprise | 49% | 16% | 13% | 22% |
-| saas x slg | 36% | 9% | 6% | 48% |
-| saas x enterprise | 33% | 13% | 20% | 33% |
-| product x enterprise | 30% | 17% | 13% | 38% |
-| product x slg | 29% | 8% | **29%** | 35% |
-| saas x pls | 29% | 7% | 14% | 50% |
-| saas x plg | 23% | 4% | 7% | 61% |
+| service x enterprise | 49% | 14% | 10% | 26% |
+| service x slg | 44% | 6% | 7% | 41% |
+| saas x enterprise | 32% | 11% | 18% | 39% |
+| saas x pls | 30% | 8% | 12% | 49% |
+| product x enterprise | 29% | 17% | 14% | 39% |
+| saas x slg | 29% | 9% | 10% | 51% |
+| product x slg | 26% | 9% | **25%** | 41% |
+| saas x plg | 22% | 4% | 6% | 65% |
 | product x plg | 15% | 13% | 2% | 69% |
 
-**Non-buying content is 45% of the whole corpus** — events, launches, culture,
+And the industry rows at the extremes, because they move further than the cells do:
+
+| Industry | TOFU | MOFU | BOFU | non-buying |
+|---|---:|---:|---:|---:|
+| professional services | **46%** | 10% | 10% | 33% |
+| healthcare & life sciences | 22% | 10% | **24%** | 43% |
+| cybersecurity | 34% | 8% | **5%** | 50% |
+| developer infrastructure | 19% | 5% | 9% | **68%** |
+| legal & compliance | **12%** | 5% | 8% | **73%** |
+
+**Non-buying content is 48% of the whole corpus** — events, launches, culture,
 hiring, CSR. If your calendar is 100% buying jobs you have built something no
 company in the sample publishes, and the slots you have not planned will get
 filled reactively by whoever has a conference next week.
 
 **Who signs splits behaviour harder than what you sell.** Practitioner-buyer pages
-are 60% non-buying; procurement-buyer pages are 32%. That gap is wider than the gap
+are 58% non-buying; procurement-buyer pages are 34%. That gap is wider than the gap
 between any two offerings. Read the buyer off the profile before the offering.
 
 **TOFU is still the only tier that reaches non-followers**, which is why small
@@ -136,22 +148,24 @@ The same corpus, scored against each company's own median:
 
 | | Engagement | |
 |---|---:|---|
-| selection — awards, funding, customer counts | **1.59x** | |
-| culture | 1.32x | |
-| product news | 1.20x | |
-| validation | 1.00x | |
-| exploration | 0.95x | |
-| consensus — ROI, security, procurement | **0.80x** | |
-| problem | **0.77x** | |
-| requirements — comparisons, buyer's guides | **0.68x** | |
+| selection — awards, funding, customer counts | **1.84x** | |
+| culture | 1.35x | |
+| product news | 1.23x | |
+| validation | 0.97x | |
+| exploration | 0.92x | |
+| consensus — ROI, security, procurement | **0.82x** | |
+| problem | **0.75x** | |
+| requirements — comparisons, buyer's guides | **0.70x** | |
 
 **The three worst-performing categories are the three an active evaluation needs.**
 A calendar tuned on engagement converges on trophies and team photos. This is
 exactly why Gate, Lift and Fit are scored separately and never blended — Lift ranks
 that table almost perfectly upside down from Fit.
 
-And note what is scarce: **requirements and consensus together are 5.1% of
-everything those 46 companies published.** The middle and the end of the funnel are
+And note what is scarce: **requirements and consensus together are 3.9% of
+everything those 73 companies published** — a smaller share than when the corpus was
+46 companies, because round two found more companies not publishing it rather than
+the missing content. The middle and the end of the funnel are
 an industry-wide hole. Do not aim at the median there.
 
 ## Narrowing the message means MORE posts per pain, not fewer
@@ -191,14 +205,14 @@ the carousel — 74% — ran on two slide layouts. A seventh card layout would h
 changed two or three posts; a second carousel slide type changes sixty.
 
 **And check what you are not using at all.** In the measured corpus, multi-image
-posts earn **1.58x** their company's median — the best of any format — and are
-**7.1%** of what gets published. Ten of the 46 companies published none. Where
+posts earn **1.61x** their company's median — the best of any format — and are
+**7.9%** of what gets published. Fourteen of the 73 companies published none. Where
 carousels do get used they carry team photos (2.38x), while `requirements`, the
 worst-performing category, ships as a **link post 34%** of the time and a carousel
 **2%** of the time.
 
 **The comparison table that belongs in a carousel is being posted as a link to a
-blog.** Link posts are the worst-performing format in the dataset (0.75x). If a
+blog.** Link posts are the worst-performing format in the dataset (0.78x). If a
 calendar puts decision-stage content behind a link, that is the first thing to fix.
 
 Length is close to noise by comparison: 0.91x to 1.08x across every word band.

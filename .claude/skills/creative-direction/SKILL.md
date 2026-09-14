@@ -11,20 +11,65 @@ particular shapes do not.
 ## 0. Know which format you are designing for, and whether it is worth designing
 
 Before any of the craft below, the largest measured effect on a post is its format,
-not its execution. From 2,026 hand-read posts in `docs/BENCHMARKS.md`, scored
+not its execution. From 3,114 hand-read posts in `docs/BENCHMARKS.md`, scored
 against each company's own median:
 
 | Format | Share of posts | Engagement |
 |---|---:|---:|
-| multi-image / carousel | **7.1%** | **1.58x** |
+| multi-image / carousel | **7.9%** | **1.61x** |
 | video | 33.6% | 1.13x |
 | single image | 30.5% | 1.00x |
 | text only | 14.9% | 0.78x |
-| link post | 13.9% | **0.75x** |
+| link post | 13.2% | **0.78x** |
 
 Three things follow for a designer.
 
-**The best format is the least used, by a factor of four.** Ten of 46 companies
+### Aspect ratio is the design decision nobody makes
+
+Measured on all 1,277 image posts in the corpus, not sampled:
+
+| Shape | Share | Engagement | Doubles the median |
+|---|---:|---:|---:|
+| **wide 16:9** | **39.0%** | 1.08x | 21% |
+| square 1:1 | 32.3% | 1.00x | 20% |
+| **portrait 4:5** | 19.0% | **1.16x** | **28%** |
+| landscape 4:3 | 8.1% | **1.47x** | 32% |
+
+**The most-used ratio is the one that claims the least screen.** The feed is a
+fixed-width column, so 4:5 occupies roughly twice the height of 16:9 for the same
+post. 16:9 is where a repurposed asset lands — a blog header, a webinar slide, a
+YouTube thumbnail are all 16:9 already. That 39% is not a design decision, it is
+the absence of one.
+
+**It is not a blanket rule.** Portrait is the best shape for `selection` (4.18x
+against 2.10x for 16:9), `validation` and `event`. It is the *worst* for
+`exploration`, `product-news` and `problem`, all three of which do better wide.
+Set the ratio per job in the template, not per post.
+
+### What separates a strong creative from a weak one
+
+Eight images were pulled from the corpus and coded, paired strong-against-weak
+within the same buying job (`research/sample_creative.py`). Small sample, stated
+as one — these are things to try, not benchmarks.
+
+**Evidence beats assertion, by a lot.** The strongest `validation` creative (6.54x)
+is a third-party benchmark leaderboard with the vendor at rank one, competitors
+named, and the number legible at feed size. The weakest (0.08x) is a quote card:
+a customer endorsement in large display type with no number on it. One shows the
+thing working; the other shows somebody saying it works.
+
+**A picture of a PDF is a picture of homework.** The weak `requirements` creative
+is a 16:9 cover with a rendered mockup of the document floating on it — which is
+exactly what a buyer's guide gets published as.
+
+**The weakest creatives carried no brand system at all.** A stock meme template
+with visible compression, and a retail-style sale banner with a discount badge.
+Both would have looked identical with another company's name on them.
+
+**Type alone is fine, and often better.** The strongest `selection` creative
+(16.29x) is a portrait card carrying the logo and the award line and nothing else.
+
+**The best format is the least used, by a factor of four.** Fourteen of 73 companies
 published no carousel at all. A carousel is more design work than a card, which is
 presumably why — and it is the work with the highest measured return.
 
@@ -63,7 +108,7 @@ give an executive channel the full brand system is the instinct that produces th
 0.54x VP row in the benchmarks: a page post with a face on it.
 
 Where design does earn its place on a person channel, it is the same multi-image
-gap as everywhere else — 5.7% of person posts, against the 1.58x it earns.
+gap as everywhere else — 5.8% of person posts, against the 1.61x it earns.
 
 **And the carousel advantage is not a culture-post artefact.** Tested inside each
 job, multi-image beats the other formats in five of six: validation 1.38x against

@@ -168,21 +168,21 @@ offerings. If the profile declares only one axis, declare this one.
 ## Phase 3 — Decide what to publish
 
 **Start from the measured split for your cell, then decide where to deviate.**
-[`docs/BENCHMARKS.md`](BENCHMARKS.md) is 2,026 hand-read posts from 46 companies cut by offering,
+[`docs/BENCHMARKS.md`](BENCHMARKS.md) is 3,114 hand-read posts from 73 companies cut by offering,
 motion, stage and buyer, plus 1,289 from 33 named people paired to them. Find your row. It tells you what is normal, which is useful mainly for
 seeing where you are an outlier and whether you meant to be.
 
 **Two things from that data change how you build a calendar, and both are counter-intuitive.**
 
 **The content that earns reach and the content that does commercial work are close to opposites.**
-Awards and milestones run at 1.59x their company's median engagement, culture at 1.32x, launches
-at 1.20x. Buyer's guides run at 0.68x, problem framing at 0.77x, business-case content at 0.80x —
+Awards and milestones run at 1.84x their company's median engagement, culture at 1.35x, launches
+at 1.23x. Buyer's guides run at 0.70x, problem framing at 0.75x, business-case content at 0.82x —
 and those last three are what somebody in an active evaluation actually needs. **This is why Gate,
 Lift and Fit are scored separately and never blended**: Lift ranks that list almost exactly upside
 down from Fit. A calendar built on engagement converges on trophies and team photos.
 
 **The whole industry under-publishes the middle and the end.** Requirements and consensus content
-together are **5.1%** of everything those 46 companies published. Whatever the benchmark row for
+together are **3.9%** of everything those 73 companies published. Whatever the benchmark row for
 your cell says, it is describing an industry-wide hole. Do not aim at the median here; aim past it.
 
 **Generate the calendar, do not write it.** `.claude/skills/build-content-calendar` has the
@@ -206,10 +206,10 @@ reviewed.
 photo album is photographs; no renderer takes one.
 
 **Two format facts worth acting on before anything else, because format is the largest measured
-effect in the corpus.** Multi-image posts earn **1.58x** their company's median and are **7.1%** of
-what gets published; ten of the 46 companies published none at all. Where carousels are used they
+effect in the corpus.** Multi-image posts earn **1.61x** their company's median and are **7.9%** of
+what gets published; fourteen of the 73 companies published none at all. Where carousels are used they
 go on team photos (2.38x) rather than on buying work. Meanwhile `requirements` — comparisons and
-buyer's guides, the *worst*-performing category at 0.68x — ships as a **link post 34%** of the time
+buyer's guides, the *worst*-performing category at 0.70x — ships as a **link post 30%** of the time
 and as a carousel **2%** of the time. **The comparison table that belongs in a carousel is being
 posted as a link to a blog.** Link posts are the worst-performing format in the dataset.
 
@@ -273,7 +273,7 @@ account to model, which archetype was strongest, and copy length. Every time, th
 real and measured on somebody else's audience. **Measure before you believe.**
 
 That applies to [`docs/BENCHMARKS.md`](BENCHMARKS.md) with force, because it is easy to mistake it
-for a target. It is a description of what 46 companies did in one window, its only outcome signal
+for a target. It is a description of what 73 companies did in one window, its only outcome signal
 is engagement, and **engagement is not pipeline** — nothing in it observed a deal. Use it to set a
 starting split and to find the formats nobody is using. Replace it with your own corpus the moment
 you have one, which is what `scripts/measure_corpus.py` is for.
