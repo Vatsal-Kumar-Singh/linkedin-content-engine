@@ -1,0 +1,214 @@
+# batch 006  -  70 posts  -  label per research/CLASSIFICATION-PROTOCOL.md
+# labels: problem exploration requirements selection validation consensus
+#         recruitment culture event product-news csr unclear
+# write research/labels/r2_006.tsv as: <id><TAB><label>
+
+7501310487532560384 | Ironclad | video | 63w
+    Before a bottle reaches a stadium bar, before a campaign launches in a new market, before grain crosses an ocean, someone has already agreed on the terms. For a company operating across 45+ countries and 160 years, that's a staggering amount of fine print holding the business together. Read more about how The HEINEKEN Company runs its global contracting on Ironclad 👉 https://lnkd.in/e7yU8u2u
+
+7501663151655104512 | Ironclad | link | 40w
+    Make your next role the one that shapes the future of AI work. We're looking for curious, ambitious builders to join our growing teams across engineering, customer value, people, and more. Check out all of our open roles 👉 https://bit.ly/3NUklc4
+
+7501727976196263936 | Ironclad | text | 30w
+    Behind every great beer is a lot of great coordination 🍻 Go behind the scenes of our latest customer story and see how contracts help keep business (and beer) moving.
+
+7503133572493529088 | Ironclad | video | 75w
+    Nobody warned us the lawyers would be the most enthusiastic people in the room. We captured some of it at our Contracts & Connections LA event—redlines, playbooks, getting legal review off the bottleneck list. We're bringing this conversation to 5 more cities this fall 👇 📍 Philadelphia | Sept 16 📍 Durham | Sept 23 📍 London | Oct 14 📍 Denver | Oct 20 📍 Miami | Dec 10 Grab your spot → https://lnkd.in/ew7tBPpA
+
+7503485672406749184 | Ironclad | image | 107w
+    Becoming an Ironclad admin takes work. Now there's a credential to show for it 🏅 Announcing the Ironclad Core Admin Certification. It's a professional designation that validates the real, hands-on product knowledge admins use every day—from building and publishing workflows to managing data, dashboards, and migrations. Here's what to know: ✅ 60-question, 90-minute, AI-proctored exam ✅ Shareable Credly digital badge  [...]  milestone. Ready to get started? Visit Ironclad Academy to learn more and schedule your exam through Certiverse: https://lnkd.in/eNsEE4Ms
+
+7503556371796279296 | Ironclad | image | 21w
+    Ok so what's the gameplan for this situation? (Asking for a friend who is definitely not at the ballpark right now)
+
+7503872731197644800 | Ironclad | text | 5w
+    Bestowing some words of wisdom.
+
+7504214656920641537 | Ironclad | image | 8w
+    Whoa, anyone else catch this during the event??
+
+7434365960641429504 | Juro | multi-image(2) | 204w
+    London 🤝 Boston Two cities. Two dinners. One clear theme: in-house legal is redefining its role at scale. Last week, we brought senior legal leaders together to talk candidly about what it takes to operate in high-growth, high-pressure environments. Huge thanks to our wonderful partners at Emerald Technology for their support with this! 🇬🇧 In London, the focus was hyper-scaling  [...]  join one of our upcoming events, keep an eye on our events page - link in the comments.
+
+7434929423134502912 | Juro | image | 74w
+    TWO WEEKS TO GO 📣 We're showing our complete solution for AI contract redlining LIVE for the first time. ❌ If reviewing counterparty redlines still means: ❌ Checking every change line-by-line ❌ Cross-referencing playbooks ❌ Drafting responses manually You'll want to see this. Join us on 18 March for a live walkthrough of AI Contract Review - instantly handling redlines end-to-end in your contracting workflow. Sign up via the link in the comments 👇
+
+7436806447570702336 | Juro | image | 149w
+    Get yourself a NEW JOB!* *only if you don't like your current one - Now hiring - Legal Counsel, Philips | Amsterdam, Netherlands Senior Paralegal, OLIPOP PBC | Remote, US Corporate Counsel, Okta | Dublin, Ireland Corporate Counsel, Proofpoint | Munich, Germany Senior Legal Counsel, Databricks | Paris, France Legal Operations Manager, Qonto | Paris, France Corporate Paralegal, Stripe |  [...]  Hit the link in the comments to find your dream role! (Unless you already have it 🥰 )
+
+7438241572191850497 | Juro | image | 97w
+    We wanted to do something a bit special for this year's Scaleup GC, so we're bringing the legal team at the most exciting company in the world. We should write more copy here but I think we've said enough 💅 Scaleup GC is FREE to attend for in-house legal and legal ops teams thanks to the generosity of our wonderful  [...]  May 2026, all day - be there! Sign up and browse the full agenda in the comments 👇
+
+7440817506425933825 | Juro | text | 119w
+    If AI worked 24/7 in your team, what tasks would you give it? This is the Operator Era - and we're bringing it to Scaleup GC. Join us on 7 May in London for our annual conference by and for legal teams at fast-growth companies. This year's sessions include: ▪️ ANTHROPIC: the legal team at one of the world's fastest-growing  [...]  cyber incidents, what top-tier VCs are looking for in 2026 and more! Learn more and sign up below.
+
+7442638955503607808 | Juro | video | 85w
+    “If I was to do anything differently, I would bring Juro on three years ago.” Hearing that from a General Counsel means a lot to us. In a recent webinar with Jeffery Haigh, VP & GC at Chase Corporation, we discussed moving contracts from spreadsheets to an automated workflow that gives legal and sales one shared source of truth. In  [...]  out. Watch the full webinar or get in touch with our team via the links in the comments.
+
+7442901945930911745 | Juro | multi-image(5) | 149w
+    600 scaleup lawyers walk into County Hall… 42 days to go until Scaleup GC. Here's what's waiting for them: 🤖 Anthropic's legal team sharing what it's really like inside the world's hottest startup 💡 'Prompted' author Antti Innanen with a live, interactive prompting masterclass 🧠 A keynote from Mary O'Carroll on why scaleup GCs will define the future of legal  [...]  In-person only. 7 May, County Hall London. Spots go quickly. Register now - link in the comments below.
+
+7443247398040043520 | Juro | image | 117w
+    It's a Friday and you're scrolling LinkedIn. We're not judging. We're not judging at all. Since you're here anyway - some great people are hiring. Legal Counsel, Figma | London, UK Senior Legal Counsel, Kong | London, UK Senior Legal Counsel, LSEG | London, UK Product Counsel, ClassPass | Remote, US Commercial Counsel (Procurement), Asana | Chicago, US General Counsel,  [...]  comments). Get them in your inbox every Monday by joining the Scaleup GC community - same link below.
+
+7445154541504757760 | Juro | image | 98w
+    If you're an in-house lawyer in New York - this event is for you. AI isn't speeding up legal work anymore. It's doing it. Which raises interesting questions: - What do you delegate to AI? - Who's running the system behind it? - Hire external counsel, or bet on AI? Richard Mabey, CEO of Juro, is bringing together a small  [...]  | 6:30 - 9:00pm 📍 BLACKBARN, New York Seats are limited. Link to register in the comments 👇
+
+7445546676192210945 | Juro | text | 54w
+    Antti Innanen runs 'vibe-code' sessions for lawyers. Teaches jiu-jitsu on weekends. Writes books on AI prompting. On 7 May, he's bringing all of it to Scaleup GC by Juro. A live, hands-on AI prompting masterclass. 600 GCs in London. Free to attend for in-house legal teams. Sign up with the link in the comments!
+
+7450146964488376320 | Juro | video | 82w
+    Are you ready for this? 👀 The one thing on every legal team's wishlist - more insight from your contracts. it's here. Introducing Operator by Juro. Operator is Juro's contract intelligence layer. Ask your contracts anything using its chat interface - it has direct, secure access to your contracts and data, and gives you a cited answer in seconds. No  [...]  waiting. This is a big one, and we couldn't be prouder of the team for making it happen.
+
+7453102181496422400 | Juro | image | 377w
+    🚨 TWO WEEKS TO GO Are you as excited for Scaleup GC as we are?! We'll take the 90% of tickets already gone as a yes. If you haven't grabbed yours yet, here's what's waiting for you on 7 May 👇 (oh, and its free - get a ticket in the comments) 🤖 Anthropic: inside legal at the world's hottest  [...]  a look at the future waiting for those ready to embrace it Last tickets in the comments 👇
+
+7457806971803602944 | Juro | image | 99w
+    One day to go to Scaleup GC and we're all sold out! We can't wait to see all our speakers and attendees tomorrow. The lineup is pretty special - Anthropic's legal team on one stage, a live AI prompting masterclass, top investors sharing what it takes to break out from the pack, and so much more! It's Europe's only full-day  [...]  the team (not just a tool) change your day to day? Those attending will find out tomorrow 👀
+
+7458066828783849472 | Juro | text | 96w
+    The doors are open at Scaleup GC 2026. 🎉 500+ in-house lawyers. One day. One question: how do lawyers and AI work productively and safely together in the Operator Era? This event started five years ago with 80 people in a room. Today we're at County Hall with more than 500 of the best in-house legal minds in Europe. A  [...]  LexisNexis, Capsule Insurance, Flex Legal, LegalEdge, JHB & Partners, Fry & Brown, and NomosFIT. Let's go! #ScaleupGC26 💚
+
+7458072414518837249 | Juro | text | 90w
+    We're kicking off the main stage at Scaleup GC with The Creative GC: how to build your commercial edge. 🧠 Emma Dickin (Head of Lexis+® In-House Guidance, LexisNexis UK) is chairing a brilliant panel exploring what it really takes to sharpen your commercial instincts as an in-house lawyer. On stage: ⭐ Rebecca Wint, Legal Director, Lenovo ⭐ Beatrice Bonaita (née  [...]  GC isn't a nice-to-have. It's the competitive edge that separates good legal teams from great ones. #ScaleupGC26 💚
+
+7458097205200138240 | Juro | image | 106w
+    Ever sat through a legal tech demo thinking "this feels too good to be true"? 🚩 We're playing red flag bingo on the main stage right now - John Bennett (Founder, Melius Law) and Michael Haynes (General Counsel, Juro) are calling out every vendor tactic in the book. And coming up next - the breakouts go live. Three sessions running  [...]  as an in-house legal leader. Turns out the answer isn't just "bill fewer hours". Who knew. #ScaleupGC26 💚
+
+7458131476950392832 | Juro | text | 102w
+    The world's hottest startup is on stage at Scaleup GC. 🔥 How's life as a lawyer at Anthropic right now? How do they use Claude for legal tasks? And what does it take to scale from $0 to $30 billion at breakneck speed? Their team is on stage right now offering a glimpse behind the curtain - and sharing practical  [...]  Broc Cocoman Cocoman, Head of International Commercial, Anthropic ⭐ Moderated by Barath Chari, Partner, Wilson Sonsini #ScaleupGC26 💚
+
+7458162183953350656 | Juro | image | 85w
+    From prompting to operating - a live AI masterclass is on the main stage. ⚡ Antti Innanen (CEO, Dot) literally wrote the book on prompting for legal - and he's showing the room exactly how it's done, live, in real time. This is what it looks like when a lawyer starts using AI as an extra team member offloading parts  [...]  expertise. Innovative lawyers have never had more options when it comes to creating their own solutions. #ScaleupGC26 💚
+
+7458182245976092672 | Juro | multi-image(6) | 164w
+    That's a wrap on Scaleup GC 2026. 🎉 We closed out the day in style - Mary O'Carroll, CEO of LegalEng Consulting Group and former President of CLOC, took the main stage for our closing keynote: The innovation lab - why Scaleup GCs will define the future of legal. A legal ops icon. And the perfect note to end on:  [...]  networking - link in the comments. 1,500 in-house lawyers and growing. See you next time. 👋 #ScaleupGC26 💚
+
+7460989086367956992 | Juro | multi-image(6) | 271w
+    It's been a week since Scaleup GC 2026 and we're still buzzing. 🤩 We captured all the key takeaways that lawyers navigating the Operator Era need to know - and there was plenty. From surviving a cyber attack war room to the secret behind the world's hottest startup - and why we're the problem with our own AI prompts. It's  [...]  made the day what it was. Scaleup GC 2027 is already in planning. Same time next year? 👀
+
+7462487150010220544 | Juro | image | 130w
+    Last week, Operator went live for every single Juro customer. ✨ And it's been a game-changer. The Operator era is officially here - talk to your contracts and let AI do the heavy lifting. We know how painful it can be to search through your contracts to find a change of control clause, or understand what's renewing next month, or  [...]  your chance! 📅 1 June | 4:00 - 4:45pm BST | Virtual Link to register in the comments.
+
+7463169159217074176 | Juro | image | 92w
+    Turns out 'just browsing' is how most people find their next role. We've just added a fresh batch of in-house legal roles from some great companies to our jobs board (link in the comments) - go check them out! ✉️ Commercial Counsel, Outreach | Seattle, US 📦 Senior Legal Counsel, Shippo | Remote, US 📉 Corporate Counsel, Tilt | Remote,  [...]  | Helsinki, Finland 💳 Commercial Counsel, finmid | Berlin, Germany 📈 Legal Operations Manager, Nscale | London, UK
+
+7467173957754945536 | Juro | image | 99w
+    Today we're hosting our Ask your contracts anything with Operator webinar - 45 minutes that could change how your team works with contracts forever. Hear directly from Juro CEO Richard Mabey and two customers - Willem van Hooft, Head of Legal at SurePay, and Maninder M., Lead Commercial Counsel at Diagnexia - on how Operator is transforming the way they  [...]  knew was in there somewhere - this one's for you. Sign up with the link in the comments.
+
+7467649630898524161 | Juro | image | 137w
+    Yesterday, Juro CEO Richard Mabey was joined by two customers - Maninder Mann, Lead Commercial Counsel at Diagnexia, and Willem van Hooft, Head of Legal at SurePay - to walk through the use cases where Operator is adding the most value to their work. Operator is Juro's contract intelligence layer. It understands your contracts and lets you query any aspect  [...]  And to everyone who joined live. Recording is ready. Watch it via the link in the comments. 👇
+
+7467925774684135424 | Juro | image | 49w
+    Less than an hour to go until you can quiz our GC Michael Haynes on how he's using Operator 👀 Operator by Juro is changing the game for in-house legal teams who need faster, smarter answers from their contracts. Sign up for the group demo in the comments below!
+
+7470833864966340608 | Juro | image | 113w
+    The World Cup kicks off today - and yes, we're very excited ⚽ Something else worth watching this week are our latest in-house legal roles! Check some of the below and get all the details on the board - link in the comments. 🐆 Senior Corporate Counsel, Panther | Remote, US 🧱 Senior Commercial Counsel, Databricks | Washington, US 🧭  [...]  Metro Bank (UK) | London, UK Want them in your inbox every Monday? Join the Scaleup GC community.
+
+7472971149401018368 | Juro | multi-image(2) | 50w
+    Are you at LegalTechTalk today?! Michael Haynes Juro's GC just took to the stage to showcase how Operator by Juro gives you fast, accurate answers from your contracts - without waiting for legal. Come visit us at our stand to learn more! Our team would love to meet you 👋
+
+7475511886390730752 | Juro | video | 86w
+    The Scaleup GC attendee highlights video is officially here! 🔥 Hear what makes the event unmissable - in their own words. For the full takeaways, read our blog - link in the comments. Discover what in-house lawyers just like you are doing to stay ahead with AI, think differently, and build legal teams fit for the Operator era. A huge  [...]  on camera and sharing 💚 Michele Romano (Dr. iur.) Matthew Goddard Elynn Basil (LLM) Emmanuelle Recoules Tori Corser-Sproson
+
+7475879233513299969 | Juro | image | 77w
+    The best in-house legal teams are building with AI. Come join us at our webinar on 29 July to find out how! We'll have Michael Haynes (GC, Juro) speaking with Naomi Pavie (Senior Legal Counsel, Speechmatics) on how you can do less, but better. AI handles the routine. The business self-serves. Lawyers focus on what only lawyers can do. Sign up (link in comments) for practical tips and learnings you can apply to your own team immediately.
+
+7476207488158187523 | Juro | image | 143w
+    JOB BOARD UPDATE 📋 Some seriously good in-house legal roles on the market this week: 👟 Senior Lead Legal Counsel, On | New York, US 🧠 Senior Legal Counsel, Rula | Remote, US 🏠 Legal Counsel, EliseAI | New York, US 🌴 Senior Legal Counsel, Linktree | Los Angeles, US 📈 Head of Legal, Ledgy | London, UK 🛍️ Head  [...]  we need someone who gets why that's a good thing. Find all the open roles in the comments!
+
+7478125290515435522 | Juro | image | 106w
+    "Self-serve" and "legal stays in control" don't usually sit in the same sentence. But that's the model the best legal teams are building. There's less than a month to go until our webinar with Naomi Pavie (Senior Legal Counsel, Speechmatics) and Michael Haynes (GC, Juro). They'll share how they're: ⚡ Letting AI handle routine work ⚡ Empowering the business to  [...]  value of AI Register now (link in the comments) to bring AI into your team the right way.
+
+7478501439112318976 | Juro | video | 47w
+    We could tell you why the Scaleup GC community by Juro is worth joining. Or we could just let our customers say it better than we ever could. 👇 A huge thank you to them for sharing 💚 Join 1,500+ in-house legal leaders - link in comments.
+
+7478734361455054848 | Juro | image | 92w
+    This week's round-up of some of the best in-house legal roles on the market is here 🔥. Check them out below and get all the details on our jobs board (link in the comments). 🏥 Director of Legal, Courier Health | New York, US 💄 Senior Legal Counsel, Charlotte Tilbury Beauty | London, UK 🔒 Corporate Counsel, Drata | London,  [...]  Berlin, Germany 🏦 Commercial Counsel, Array | Remote, US 🎟️ Legal Operations Manager, GumGum | Santa Monica, US
+
+7480181104109559808 | Juro | image | 71w
+    Plot twist: the scariest part of a cyber breach isn't the attack itself. It's finding out you had no plan for it. 😬 That was the focus of one of our standout Scaleup GC 2026 sessions on what every scale-up GC needs to know before a breach hits, hosted by our amazing partners Capsule Insurance 💚. Missed it? Kit Lewin turned it into a practical playbook, find it in the comments.
+
+7480583498823778304 | Juro | image | 69w
+    LegalTechTalk is coming to the USA! It's a great pleasure to be their launch partner. Fancy a trip to Miami or lucky enough to live there already? 🌴 Join us on 13-15 December 2027 for LegalTechTalk USA's debut in Miami. Bringing together 3,000 attendees and 300+ speakers, it's a new global meeting place for legal transformation. Find more info and reserve your spot with the link in the comments.
+
+7480689220374691841 | Juro | image | 96w
+    This week's new job opportunities for in-house lawyers doesn't disappoint. Check them out below and get the details with the link in the comments. 💛 Legal Counsel, Rusta | Stockholm, Sweden 💰 Legal Counsel, Qonto | Amsterdam, Netherlands 📁 Commercial Counsel, Middesk | New York, US 🔒 Commercial Legal Counsel, Darktrace | New York, US 🍕 Senior Counsel, Slice |  [...]  | Plymouth, UK 📈 Legal Counsel, Bondaval | London, UK 🤖 Contracts Manager, ComplyAdvantage | New York, US
+
+7483532888651714560 | Juro | video | 156w
+    Juro now connects to Claude! The latest models from Anthropic can now work across your whole contract repository. You know the drill. You're mid-flow in Claude, you need to check a renewal date or a liability cap, and suddenly you're five tabs deep in a folder somewhere. Those days are done. The Juro connector gives you secure access to your  [...]  your team already does. Link in the comments if you want to see it on your own contracts.
+
+7483846077289480192 | Juro | image | 91w
+    This week's list of new in-house legal roles is a treat! Here's who's hiring: 🌻 Legal Counsel, Flower | Stockholm, Sweden 🐼 Legal Counsel (Data Protection), Bitpanda | Barcelona, Spain ✈️ Legal Counsel, Ryanair | Dublin, Ireland 📱 Head of Legal, Codeway | Barcelona, Spain 🚑 Commercial Contracts Manager, HealthHero | London, UK 🛍️ Legal Counsel, ASOS.com | London, UK  [...]  full details in the comments. Want them in your inbox every Monday? Sign up with the same link.
+
+7485991079687745536 | Juro | image | 85w
+    LESS THAN A WEEK until our Legal Redesigned webinar 🚀 There's no shortage of AI hot takes in legal right now. Far fewer people have built with it. What our panel will cover: - The AI workflows they've built - Making the business case for AI - Getting other teams to self-serve, safely - What hasn't gone to plan Joining  [...]  Speechmatics), Andy Hodgson (CFO, Goalhanger) and Michael Haynes (GC, Juro). Sign up with the link in the comments.
+
+7486344686962524160 | Juro | image | 99w
+    NEW jobs added to the board! Not looking? No, of course not. Have a scroll anyway - purely for research purposes. Here's who's hiring (full details in the comments): ❤️ Commercial Counsel, Lovable | Stockholm, Sweden 🤖 Legal Counsel, Nebius | Amsterdam, Netherlands 💊 Legal Counsel, Johnson & Johnson | Madrid, Spain 📈 Contracts Manager, Fluidstack | Various, US 💰Commercial  [...]  US 🔒Legal Counsel, Airalo | Remote, Various 💻 Senior Director - Legal & Compliance, GetGround | London, UK
+
+7488263025129406464 | Juro | image | 100w
+    RECORDING'S LIVE 🎥 Just wrapped Legal Redesigned - our webinar on how in-house teams are building legal with AI. A few takeaways: - Use AI tools (e.g. Claude skills) for repetitive work incl. first-pass review, NDAs, DPAs - Let the business self-serve. AI does the execution, legal quantifies the risk and sets the guardrails - Tie your AI pitch to  [...]  at Speechmatics, Andy Hodgson, CFO at Goalhanger, and our own GC Michael Haynes. Watch it back below 👇
+
+7488893362289328128 | Juro | image | 155w
+    Ten new in-house legal roles added to the Scaleup GC jobs board this week - including one where you'd own a Juro rollout. Oner Active are hiring a Legal Counsel in London - the role covers building out templates, configuring workflows and getting the wider team confident with Juro as their contract management system. Here's the full list - some  [...]  | Amsterdam, Netherlands 🎧 Legal & Business Affairs Counsel, Deezer | Paris, France More details in the comments.
+
+7491160181830078464 | Juro | image | 91w
+    Check out this week's roundup of in-house legal roles below. Full details are in the comments, and if you fancy being the first to get these updates in your inbox every Monday, sign up with the same link! 🛍️ Legal Counsel, LYKO | Stockholm, Sweden ✈️ Legal Counsel, Brussels Airlines | Diegem, Belgium 🌬️Junior Legal Counsel, AFS Energy | Amsterdam,  [...]  | Remote, US ✏️ Head of Legal, Pencil | Remote, UK 🏦 Legal Counsel, Codat | London, UK
+
+7494077393310187520 | Juro | image | 89w
+    Nothing says 'it's the weekend' quite like a sneaky scroll through job listings. Here's what's live on the in-house legal jobs board this week: 💳 Legal Counsel, Starling | London, UK 💄Senior Legal Counsel, Charlotte Tilbury Beauty | London, UK 🚗 Legal Counsel, BlaBlaCar | Paris, France 📦 Head of Legal, sennder | Berlin, Germany ❤️ Product Corporate Counsel, Hinge  [...]  details on our jobs board (link in comments). Want them every Monday? Join the Scaleup GC community 👇
+
+7495883818848157697 | Juro | multi-image(2) | 77w
+    📣 Juro is now in Claude - join our webinar on 9 Sept to see it in action. Richard Mabey (CEO, Juro) and Kaveesha T. (Product Manager, Juro) will show how the new connector puts your contract intelligence safely into Claude - search, analyse and edit contracts, without leaving the chat. 📅 9 September | 🕐 11 am EDT | 4 pm BST | 45 mins | 📍 Online Sign up with the link in the comments!
+
+7496144563552686080 | Juro | image | 90w
+    Jobs board update! We've added a whole bunch of new and exciting in-house legal roles. Full details in the comments. ⚡Chief Legal Officer, Sync Neural Genesis AG | London, UK 🔶 General Counsel, Accrete | New York, US 🤖 General Counsel, Standard Bots | New York, US 🔍 Head of Legal, Zinc | London, UK ☁️ Senior Legal Counsel, Nebius  [...]  Senior Legal Counsel - Product, Just Eat Takeaway.com | Amsterdam, Netherlands 🚗 Contracts Manager, Tesla | California, US
+
+7496530724582416384 | Juro | video | 47w
+    Which companies survive the AI era? Our CEO Richard Mabey has a clear view: small teams, high talent density, low management overhead, and founders who lead by example. Catch the full conversation with Katy Trost on the Pera CEO Network Podcast on Spotify 🎙️ Link in comments.
+
+7498741404685484033 | Juro | image | 163w
+    New G2 BADGES ‼️ Only one company can win this badge. Contracting is a team sport. If two lawyers love your contract software but the entire sales org has never logged in... what's the point? We've spent a decade helping companies close contracts faster. And here's what we've learned: contract software only improves outcomes when the whole business can use  [...]  this would not be possible. Want to see how Juro could power your contracting? Get in touch 👇
+
+7499160902248603648 | Juro | image | 96w
+    To the lucky ones in the UK who have already clocked off for the bank holiday: see you Tuesday. Still at your desk? Then this is for you - find this week's new in-house legal roles below! Full details in the comments. 🏺 Legal Operations & Innovation, Clay | New York, US 🎵 Legal Operations Manager, TikTok | California, US  [...]  group | UK & Ireland 💻 Head of Legal - Service Development & Management, Lenovo | Farnborough, UK
+
+7504216413776146432 | Juro | image | 103w
+    Amsterdam, London, New York. Pick a city for your next in-house legal role. This week's new roles: ☁️ Commercial Counsel, Wiz | Amsterdam, Netherlands 📺 Legal Counsel - Connectivity, Sky | London, UK 💰 Legal Counsel, Ravio | London, UK 🐝 Senior Legal Counsel, Bumble Inc. | Austin or New York, US 📱 Legal Counsel, Cape | Arlington, US 🥸  [...]  GC jobs board (link in the comments). Want them in your inbox every Monday? Join the community 👇
+
+7470579681642209280 | Komodo Health | image | 91w
+    This June, we honor the more than 18 million cancer survivors in the United States and the researchers, clinicians, and advocates who support them. At Komodo Health, our mission is to reduce the burden of disease. For survivors, that means understanding the full arc of care: what treatments work, where gaps persist, and how to improve long-term outcomes at scale.  [...]  are proud to support the work that makes survival not just possible, but meaningful. #CancerSurvivorsMonth #ReduceTheBurdenOfDisease #HealthcareAI #Oncology
+
+7470841267854327809 | Komodo Health | image | 128w
+    We're hiring a Senior Data Engineer to help shape the foundation of the Healthcare Map at Komodo Health. This role sits at the intersection of large-scale data engineering, healthcare innovation, and AI — transforming massive healthcare datasets into trusted, production-grade data products that power analytics, applications, and AI-driven insights across the industry. You'll work on: → Building and optimizing large-scale  [...]  disease, we'd love to hear from you. Remote across the U.S. or hybrid in SF/NYC. Apply here: https://lnkd.in/gaTqgRCZ
+
+7471257034743652352 | Komodo Health | link | 78w
+    On June 25, join Alnylam Pharmaceuticals' Alex Trouteaud and Komodo's Arif Nathoo for “Marmot, Leveled-Up: The Launch That Clears a New Bar for Healthcare AI.” See Marmot's newest capabilities in action, hear how Alnylam is using the platform to accelerate research and decision-making, and get Alex's perspective on what's next for AI in Life Sciences. The moment to #LevelUp is now. 📅 June 25, 2026 ⏰ 1–2 PM ET/10-11 AM PT 👉 Register: https://lnkd.in/gpVP56sj #Marmot #HealthcareAI #LifeSciencesAI #AIinHealthcare
+
+7472634604357660673 | Komodo Health | image | 136w
+    Healthcare and Life Sciences organizations are not just adopting AI. They are using it to transform how they operate. To meet this moment, we are evolving our leadership structure. We're excited to announce that Miles Ennis has been appointed President, and Web Sun is assuming the role of Co-Chief Executive Officer alongside Co-Founder Arif Nathoo. The next era of healthcare  [...]  to investing in our platform, our people, and our partners as we continue to scale. Learn more: https://lnkd.in/eEmFsCq2
+
+7472676379499618304 | Komodo Health | link | 79w
+    ICYMI: Komodo CTO Amit Sangani recently sat down with SiliconANGLE & theCUBE to discuss why trustworthy AI is essential as healthcare and Life Sciences organizations move beyond pilots and into production. The conversation explores a core challenge facing the industry: trust doesn't come from AI models alone. It requires a strong data foundation with complete patient journey visibility, and transparent  [...]  that allow users to inspect, validate, and reproduce every answer. Read the full piece: https://lnkd.in/gD8n9HCw #HealthcareAI #LifeSciences #ArtificialIntelligence
+
+7473064714583896064 | Komodo Health | image | 110w
+    Everyone says their AI is transformative. On June 25, we're bringing together the people actually putting it to work. Join Alex Trouteaud, Senior Director of Advanced Analytics and Data Strategy at Alnylam Pharmaceuticals, alongside Arif Nathoo and Daniel Cohen, for a live conversation on how AI is reshaping Life Sciences, what teams are unlocking with Marmot today, and what's next  [...]  an exclusive live demonstration of Marmot's latest capabilities from Daniel. 👉 Register: https://lnkd.in/gpVP56sj #Marmot #HealthcareAI #LifeSciencesAI #AIinHealthcare #LevelUp
+
+7473104411582455808 | Komodo Health | multi-image(4) | 94w
+    🏢✨ A new home for innovation. We're proud to celebrate the opening of Komodo Health's Silicon Valley Hub — a space designed to bring teammates together, foster collaboration, and support the incredible work happening across our Engineering, Product, and broader Komodo teams. Silicon Valley has long been a hub for transformative ideas. We're excited to deepen our presence in the  [...]  of reducing the global burden of disease. Here's to innovation, collaboration, and reducing the global burden of disease.
+
+7473434003597893632 | Komodo Health | image | 91w
+    Congratulations to Miles Ennis 🎉 Recently, Nasdaq helped us celebrate his appointment as Komodo Health's President! Miles has been instrumental in driving some of the strongest growth in Komodo's history and leading the commercialization and market adoption of Marmot across healthcare and Life Sciences. As President, he will continue driving the operational excellence and strategic alignment that positions Komodo as  [...]  leading the way as demand for Marmot accelerates and we scale into this next chapter. Learn more: https://lnkd.in/eEmFsCq2
+
+7473516524599939073 | Komodo Health | image | 84w
+    We are thrilled to celebrate Curtis Bouman's promotion to Head of Sales at Komodo Health! Curtis has been a driving force behind our sales organization through one of the most transformative periods in Komodo's history, and his leadership, dedication, and impact have contributed significantly to the growth and success we are seeing today. Curtis is a great example of what  [...]  like. Interested in being part of what we are building? Look for your next career with Komodo: https://lnkd.in/gCqzzM_Q
+
+7474853817067524097 | Komodo Health | multi-image(3) | 141w
+    At Komodo Health, we believe meaningful impact extends beyond healthcare. During Komodo Health's Presales Solutions Offsite in New York City, team members partnered with Open Hearts Initiative to assemble 100 hygiene kits for individuals experiencing homelessness in the local community. In addition to packing kits, the team heard firsthand about the challenges many New Yorkers face and the work being  [...]  this meaningful partnership and for creating an opportunity for our team to give back to the local community.
+
+7475205918771544065 | Komodo Health | video | 138w
+    Six months to three days. That's the impact Christopher Blanchette, PhD, MBA, VP of Clinical Data Science & Evidence at Novo Nordisk, has seen as his team incorporates AI into real-world evidence generation. At Komodo Summit, Chris shared how Marmot, Komodo's AI-powered healthcare analytics platform, is helping his team accelerate analytics, generate evidence faster, and dramatically reduce the time it  [...]  now to see how we're raising the bar for reproducible intelligence in healthcare: https://lnkd.in/gpVP56sj Watch the conversation 🎥👇
+
+7475622322637332480 | Komodo Health | image | 86w
+    The future of healthcare AI isn't next year. It's happening tomorrow. Join Alex Trouteaud, Senior Director of Advanced Analytics and Data Strategy at Alnylam Pharmaceuticals, alongside Komodo Health CEO Arif Nathoo, for a live conversation on how AI is transforming Life Sciences and what leading teams are unlocking with Marmot today. You'll hear firsthand how Alnylam is using Marmot, gain  [...]  get an exclusive first look at Marmot's newest capabilities. 👉 Register now: https://lnkd.in/gpVP56sj #Marmot #HealthcareAI #AIinHealthcare #LifeSciencesAI #LevelUp

@@ -1,0 +1,169 @@
+# person batch 005  -  55 posts  -  research/CLASSIFICATION-PROTOCOL.md
+# labels: problem exploration requirements selection validation consensus
+#         recruitment culture event product-news csr unclear
+# write research/labels_people/005.tsv as: <id><TAB><label>
+
+7100271687820079104 | John Lawrie | text | 36w
+    I'm looking forward to reconnecting with industry colleagues at this year's NA Summit to be held in Boston on September 12-14th. If you want to learn more, please check out the details below from Christina Kim!
+
+7194713812552286208 | John Lawrie | link | 57w
+    I can't wait to reconnect with colleagues and friends at our Summit in Madrid in just a few weeks! We're very excited to have Rinat Lifshitz-Shovali from Teva Pharmaceuticals as our Safety Zone keynote speaker, and are honored to have our entire lineup of presenters who will share their stories and perspectives on advancing patient safety! https://lnkd.in/eDVwc87p?
+
+7237783101832146944 | John Lawrie | image | 42w
+    We're so honored to have Angie Pufko and Tracey Boone, MBA, speaking in our safety zone keynote at #VeevaSummit in Boston! They'll be discussing how #Merck and #AbbVie are transforming how they operate in PV. Hope to see you next week! https://bit.ly/3AQwZlu
+
+7274909043742150658 | John Lawrie | image | 37w
+    Connected data is fundamental for safety process improvement. In 2025, there will be greater investments in a data foundation leveraging standard connections across functional areas to accelerate automation and AI innovation. Read more 2025 predictions here: https://bit.ly/3VKhnrl
+
+7337870133123571712 | John Lawrie | image | 174w
+    What an inspiring and energizing couple of days last week in Madrid at #VeevaSummitEU! ⭐ I'd like to once again congratulate our well-deserving Safety Zone heroes - Rinat Lifshitz-Shovali and Efrat Sabag-Buchnik from Teva Pharmaceuticals and Jeroen van Doorn from MSD. 🙏 I also want to extend a sincere thank you to our speakers for  [...]  and trusted partner to all of our customers. Looking forward to #VeevaSummitUS in Boston in September!
+
+7459541929157074945 | Jon Su | text | 20w
+    I mean - who wouldn't want access to early-bird tickets to one of the biggest analytics events in the calendar...
+
+7459628059852369920 | Jon Su | text | 24w
+    Big shoutout to Craig Redfern Rayner, Jackie Bissell and the rest of the Experimentation Elite team for putting together such an "elite" event 🚀🥰
+
+7465442982595481601 | Jon Su | link | 54w
+    Oops forgot to do the obligatory post but better late than never. I'll be doing a webinar tomorrow for MeasureCamp London on how to measure first-party agent experiences through agent self-tracking 🤖 Heard on the grapevine there may even be a surprise at the end 🤫 Still spots available (I think)... Registration link: https://lnkd.in/dzRey2_B
+
+7466112036423331840 | Jon Su | multi-image(6) | 180w
+    Come for the view, stay for the talks (or is it the other way around?) It's crazy how much King's Cross has changed in < than a year - definitely a vibe in the air with all the new tech companies moving into the area (or maybe its just London summer 🌆) Insightful evening at  [...]  organising and hosting. I even scored a new dragon plushies because clearly I don't have enough.
+
+7467869808768942080 | Jon Su | multi-image(2) | 81w
+    Much to Fabrizio Bianchi's eternal disappointment, I've prepped my session ahead of time for my 3rd MeasureCamp Copenhagen this weekend (sorry not sorry, it's not off-the-cuff, but at least you're spared my messy handwriting). Hopefully the memes land properly with the Danes this year... tough crowd to get a laugh out of 😆 Snowplow is  [...]  Always good to hang out with the MeasureCamp community, let me know if you'll be there!
+
+7469077799887335425 | Jon Su | multi-image(3) | 90w
+    Well that's a wrap for MeasureCamp Copenhagen for another year 🎉 What did I learn about AI? 1. AI frustrates and excites Gunnar Griese at the same time depending on the day…today it was a winner 2. Alexander Kirtzel spends majority of his time trying to untangle and tame the wild LLM cat to be  [...]  Rasmussen, Jomar Reyes (in no order of importance) and the organising team on another great edition!
+
+7488887286365990913 | Jon Su | image | 33w
+    I got an email asking me to brag about attending MeasureCamp London. But because I like to think I have a low-ego, consider this a heads-up I'll be there and so should you!
+
+7492867298266103808 | Jon Su | image | 149w
+    tl;dr - Last Friday was my last day at Snowplow⛷️ A huge thank you to Larry Simmons, Mike Razo and ‎Jordan Peck for their constant support and mentorship in providing me endless opportunities to always stay curious and help solve customer problems of different shapes and sizes as both a Solutions Architect and TAM! Along  [...]  collaboration and great memories over a whirlwind 2 years. Now onwards to the next adventure 🚀
+
+7496193377969881088 | Jon Su | video | 56w
+    Excited to announce I've joined the Forward Deployed Engineering team at PostHog! 🦔 Other than being famous for their up-and-coming lifestyle brand and producing world-class internet comedians, PostHog are best known for making your product self-driving. What does that even mean? Well, if only someone had made an 83-second video explaining it. Let's get building!! 🚀🧑‍💻💪
+
+7500277566444912640 | Jon Su | text | 23w
+    Rumour on the interwebs is that PostHog is making products so self-driving that even an aubergine (eggplant) can get itself into the air…
+
+7500924062827978753 | Jon Su | text | 4w
+    More aubergine shenanigans... 🍆
+
+7501319213416947712 | Jon Su | text | 17w
+    PostHog has officially decided to pivot into the film industry - expect some red carpet appearances soon!
+
+7503369937638395904 | Jon Su | text | 9w
+    Missed the audition call...still a wicked video regardless... 🦔🦔🦔
+
+7503428535546454016 | Jon Su | text | 6w
+    How many 0's is 26.3 million?!
+
+7503747676358746112 | Jon Su | text | 31w
+    If you're interested in what an FDE @ PostHog does, you can print this out and read it while finishing your 🚽 business, or while waiting for your prompt to finish
+
+7191826865563607040 | Josef Průša | text | 9w
+    Where do you get your industrial 3D printing news?
+
+7214028767202029569 | Josef Průša | image | 422w
+    Story time! 📖 Let's talk about the history behind the now legendary Prusa3D t-shirt design - Everyone is a maker, only I am a printer PRUSA I have already been working on the RepRap 💚 3D printers for some time (RepRap is an open-source 3D printer project), Prusa Mendel (https://lnkd.in/eJtfu8n3) was still the latest and  [...]  about it, the "Print USA" cases might soon increase in frequency again 😉🇺🇸 Happy printing 🧡💚
+
+7265342278729097216 | Josef Průša | image | 44w
+    Let me introduce you to our brand new Prusa CORE Design Concept for your living room, made out of sustainable materials and sleek design! Come check it out at our Formnext booth G39 in hall 12.1! Should we make this concept into reality? https://lnkd.in/eajt9V8s
+
+7286112921540018177 | Josef Průša | image | 200w
+    Quite scary where the 3DP industry is moving - control of your data 🕵️‍♂️ In this case especially as one of their investors is IDG Capital - which was on US Dept. of Defense - Chinese military companies list 😳 and Article 7 of National Intelligence Law kinda trumps all the good intentions defense. Disconnected  [...]  the plentiful public information and help people/companies make informed decisions when buying 3D printers 🙏 https://lnkd.in/e2hxuBDb
+
+7306329821523947520 | Josef Průša | video | 42w
+    It's Friday! And I need your feedback, should I put these non-FDM tools for XL Toolchanger into production? We've also been working with ZHAW University in Zurich behind the scenes for some time to get more tools out there 🚀 🚀 https://lnkd.in/eewXkBDR
+
+7360290179355451392 | Josef Průša | link | 180w
+    Since I posted my “Open hardware desktop 3D printing is dead - you just don't know it yet” article, you've been asking me about “that patent” 🤔 I didn't want you to miss the forest (thousands of filings since 2020) just because of one tree. But let's take a look now. In this case: the  [...]  industry, what is your protocol to protect your new IP when using your 3D printer❓ https://lnkd.in/egh2mhWF
+
+7393666062300499968 | Josef Průša | image | 211w
+    First customer CORE One L printers are arriving today to you! Thank you! 🧡 Let me do a quick refresher why you should use only CORE One L CORE One L Security Architecture: - Embedded platform - custom firmware, no exploitable OS - Open-source firmware - audit every line of code, no proprietary blobs -  [...]  already qualified for production. Wear-resistant nozzle included for abrasive materials. Here's to secure, reliable production 💚
+
+7394726497829232640 | Josef Průša | image | 137w
+    Core One L ships with 🇸🇪 Bondtech CHT nozzles! ~Doubles the flow - with YOUR material. nd does faster printing - with any material. No tricks with specialty modified materials. PA, PC, PETG, ASA, ABS, whatever you've already qualified for your production. The Bondtech CHT (Core Heating Technology) nozzle splits the filament path into multiple  [...]  for abrasive materials. Contact our team to discuss your requirements. Here's to secure, reliable production 💚🧡
+
+7397662408879697920 | Josef Průša | image | 231w
+    I had a great discussion at the Formnext - Where ideas take shape roundtable on the “democratisation” of Additive Manufacturing. My key message was simple: democratisation isn't just about low prices - it's about data control, supplier diversity, and keeping our ability to manufacture locally. With more than 90% of the desktop 3D printer market  [...]  this debate happening at Formnext - and I hope more will follow. Prusa Research Deutsche Bahn
+
+7437844998617722881 | Josef Průša | image | 317w
+    Our game. But their rules? Last week in New York, not even a historic blizzard was going to keep me off the stage at Additive Manufacturing Strategies. The stakes were too high to stay home. I went to NYC to talk about a critical shift in our industry: The 3D printing market as we knew  [...]  complete summary of the New York event in the comments below. 👇 #3DPrinting #AdditiveManufacturing #Reshoring #SupplyChain
+
+7449487367037489153 | Josef Průša | image | 188w
+    This week I'm in Boston! 👋 And honestly, I don't know what I'm most excited about because there's so much happening. RAPID + TCT is in town, and Prusa Research is bringing, for the first time ever, our Prusa Pro SLX and Prusa Pro AFS to the US! But more importantly, I get to meet  [...]  are in the comments below. Let me know if you're coming and see you there! 👇
+
+7453684775418183680 | Josef Průša | multi-image(2) | 188w
+    Virtually no waste? That was the real endgame. 🤔 #PRUSAxINDX For years, multi-material desktop 3D printing had one unavoidable tax: purge waste. Unload, load, wipe, build a tower, throw material away, repeat. With PRUSA × INDX for CORE One, we are finally attacking that problem at the source. 🐜 Only 13 milligrams / 0.013 g  [...]  the waste problem in multi-material desktop 3D printing. More info below ⤵️ #3DPrinting #AdditiveManufacturing #Prusa #INDX
+
+7460329522752569345 | Josef Průša | multi-image(4) | 298w
+    If we are serious about bringing manufacturing back to the West 🏭, we have to rethink how things are made. One of the most practical ways to do that is by adopting true multi-material 3D printing. And please, do not confuse this with multi-color printing, that's for toys and statues. I'm talking about combining a  [...]  part today, what would you build? Let me know below. 👇 #3Dprinting #AdditiveManufacturing #Reshoring #MultiMaterial #Prusa
+
+7468330954638614530 | Josef Průša | multi-image(4) | 338w
+    I'm in the mood to break some manufacturing myths today. 🛠️ There is one rule people treat as absolute law: start with 3D printing, and once your volume gets high enough, switch to injection molding because it's cheaper per unit. It makes perfect sense on a spreadsheet. But on the factory floor, the math is  [...]  of both? And why? What metric do you apply? 👇 #Manufacturing #3DPrinting #InjectionMolding #Engineering #Prusa #HybridManufacturing
+
+7498316904072130561 | Josef Průša | multi-image(4) | 219w
+    Most people spend the summer vacationing. We were busy… 😅 Say hello to the Prusa XL+, CORE One L+, and CORE One+ (Gen 2)! If there's one core principle we stick to, it's this: tech shouldn't become obsolete after a couple of years. That's why all three refreshed machines have full upgrade paths available for  [...]  are you grabbing first? Let me know below! 👇 #3DPrinting #Prusa #PrusaXL #COREOne #INDX #Manufacturing #Hardware
+
+7463619752603795457 | Kelly Hopping | text | 226w
+    Every CMO I talk to right now is asking the same question. Not "are we targeting the right accounts," but the harder one: "Do we actually understand how buyers are moving right now?" Bruno Bertini, CMO of 8x8, brought that question to life at our company all-hands yesterday. I met Bruno a couple years ago  [...]  in front of the whole company is the kind of partnership that truly makes us better.
+
+7466116428866260992 | Kelly Hopping | multi-image(3) | 496w
+    I've read that by the time our children turn 18, we've already spent about 90% of the time we'll ever spend with them in our lifetime. I'm not sure if that's exactly true, but standing at my son Vann's high school graduation last Friday night, it certainly felt that way. I have this pit in  [...]  I'd be lying if I said I wasn't already counting the days until you come home.
+
+7470501063641661440 | Kelly Hopping | image | 88w
+    Five years of BDR data. One finding that keeps showing up: >> BDRs who feel supported hit quota at nearly 100%. Those who don't land at 77%. Most people read that and think: more training, better tools, smarter signals. All true. But there's a piece of the support equation that never shows up as a  [...]  brand is what makes pipeline more efficient, and why that's now a CMO problem to own.
+
+7475185575189180416 | Kelly Hopping | image | 44w
+    Excited to join my friend Jon Miller for a fireside chat during the Agent-to-Agent GTM AI Summit today at 11:30am CT. Jon always bring the big ideas and forward thinking about where this crazy GTM landscape is going. Join us. Link in the comments.
+
+7475186025640665088 | Kelly Hopping | video | 0w
+    
+
+7481356580261699584 | Kelly Hopping | text | 0w
+    
+
+7484937141613993984 | Kelly Hopping | multi-image(2) | 525w
+    Last week, I finally made it to India. Working with so many people in India over the years, I had been wanting to make that trip for a long time, so I am grateful that I finally had the time and company support to go. I posted a couple days ago about the entirety of  [...]  grace and kindness at all hours of their night. And thank you for the lovely gifts.❤️
+
+7486037161834848256 | Kelly Hopping | multi-image(2) | 66w
+    I aspire to have the heart of Theo of Golden when I grow up. If you haven't read it, I highly encourage you to pick it up. It's fiction, but so beautifully told about this saintly man named Theo who changes the lives of everyone he comes in contact with. I loved every single word of it. This one will stick with you for a while…
+
+7487912801240502272 | Kelly Hopping | image | 134w
+    Last-touch attribution answers a narrow question: What happened right before the meeting? It does not tell you what actually shaped the buying journey. Paid search, events, webinars, thought leadership, and brand often influence buyers long before they convert. A last-touch model can make those investments look ineffective. Worse, it can lead marketers to cut the  [...]  Give it a listen and let me know what you think. Link to episode in comments.
+
+7488986923231842304 | Kelly Hopping | image | 187w
+    Recognition is meaningful when it reflects where the market is actually going. Frost & Sullivan just named 6sense the 2026 Global Company of the Year in GTM Orchestration and Revenue Intelligence Platforms. That's a big deal in itself, but what I appreciated most was that the analysis recognized an important industry shift: from simply surfacing  [...]  customers who keep pushing us to make intelligence more useful, more transparent, and easier to operationalize.
+
+7492664222548688896 | Kelly Hopping | image | 137w
+    Look what just arrived in my mailbox!!! I LOVE the title of this book — and I love the person behind it even more. ❤️ I had the privilege of working with Cris Farrell in a previous life, and she is, in fact, a lot — a lot of talent, a lot of heart, a  [...]  the world. I can't wait to read it — and I'm cheering you on BIG! 🙌
+
+7493690362209923072 | Kelly Hopping | text | 149w
+    Bad contact data used to create a lot of cleanup. With agentic AI, it's more consequential. It can now shape decisions before anyone realizes the information was wrong. A weak CRM match can put the wrong person in a buying group. That buying group can influence seller outreach, campaign audiences, account recommendations, and the instructions  [...]  system can make, the more confidence you need in what it is making those decisions from.
+
+7493707583124566016 | Kelly Hopping | multi-image(2) | 203w
+    I got to spend time last week with the BDR team in Madison, Wisconsin. I have to say, I left genuinely energized. There's something they call the Madison Mentality there, and after one visit, I get it. It's a culture of grit, hustle, and genuine care for each other that you can feel the moment  [...]  for letting me hang out and break some bread. I'll be back. #6sense #BDR #TeamCulture #MadisonMentality
+
+7498196966301106176 | Kelly Hopping | image | 257w
+    Our BDRs are crushing it! I get so many questions from CMOs asking me if we are replacing BDRs with AI, and I respond with an enthusiastic NO! The BDRs at 6sense are currently driving 64% of our pipeline, and I am not about to rock that boat. They are simply the lifeblood of our  [...]  real deal! Thank you for taking a break from the grind to spend time with me.
+
+7501401228401332224 | Kelly Hopping | image | 177w
+    Excited to join four incredible CMOs for a roundtable conversation at the Hard Skill Exchange | Agentic Harness AI Summit. I'm pumped, because I've been wanting to have this discussion for a while. The New Marketing Moat — and no, it's not your tech stack. When AI can replicate content, campaigns, positioning, and GTM execution  [...]  advantage actually lives in an AI-native world, come hang. #ainativegtm #aiarchitecture Registration link in the comments.
+
+6761957930414702593 | Kenzo Fong | text | 27w
+    Our team is super excited to share Rock with the Product Hunt community. Show them some support and share your feedback: producthunt.com/posts/rock! 🎸🎸🎸 #startups #remotework #distributedfirst #letsrock
+
+6775199795117092864 | Kenzo Fong | text | 57w
+    This is one of the many reasons why communication should be asynchronous by default and synchronous when you need it. Let's save Zoom calls for the discussions that really require you to discuss things face-to-face and let's stop doing the meetings that could have easily been an email (or a task/message on Rock 🤘🤘🤘). #distributedwork #futureofwork #zoom
+
+6778822682118123520 | Kenzo Fong | link | 119w
+    When we moved to the US over a decade ago and settled in San Francisco, it finally felt like home. A place full of diverse ideas, ideals and people. As someone of Asian descent who grew up in places where Asians were always one of the tiniest of minorities, it was eye-opening to see Asians  [...]  cities. As a nation of immigrants -- hate and racism have no place here. #stopasianhate https://lnkd.in/g3KPN4S
+
+6797713684144771072 | Kenzo Fong | text | 40w
+    New ways of working require new ways of thinking. Shifting towards an asynchronous way of working is not only really useful for distributed teams but can also be beneficial to everyone's well-being. Read my article on Forbes 👇 #remotework #futureofwork
+
+6812811772588912640 | Kenzo Fong | text | 48w
+    Great chat with Salvador Rodriguez at CNBC about how I run Rock from my sprinter van. With all the freedom and flexibility you get when you can work from anywhere, I think it will be difficult to force people back to the office anytime soon. #vanlife #remotework #futureofwork

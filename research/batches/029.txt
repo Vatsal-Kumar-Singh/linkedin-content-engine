@@ -1,0 +1,169 @@
+# batch 029  -  55 posts  -  label per research/CLASSIFICATION-PROTOCOL.md
+# labels: problem exploration requirements selection validation consensus
+#         recruitment culture event product-news csr unclear
+# write research/labels/029.tsv as: <id><TAB><label>
+
+7502651965789884417 | Rockwell Automation | image | 145w
+    Please join us in welcoming a new Bronze System Integrator to our ever-expanding PartnerNetwork. Glensol, a subsidiary of Nobel Energy Group, has been a trusted services provider in the Oil & Gas, Power and Water industries since 2012. They will be working closely with our Distributor AB International in Azerbaijan, as they offer their services to optimize the performance and  [...]  Manager (International Operations) Curious to learn more on how we can be #BetterTogether? Discover our PartnerNetwork here: https://rok.auto/3y7RNkU
+
+7502682181908058112 | Rockwell Automation | image | 24w
+    The future of energy requires more than efficiency. It demands resilience. Discover how Rockwell Automation is helping drive sustainable energy production at #ADIPEC. https://rok.auto/4gPvghF
+
+7503062114392051712 | Rockwell Automation | video | 61w
+    Introducing VisionLink for FactoryTalk Analytics VisionAI. The new capability allows manufacturers to add AI-powered inspection to existing vision cameras and systems. By connecting third-party cameras to Rockwell Automation edge hardware, manufacturers can: - Enhance inspection performance - Access advanced analytics - Enable cloud-based backup and management capabilities - Extend the lifecycle of installed vision assets To learn more, visit: https://rok.auto/3UvaL2p #factorytalk
+
+7503090775770058754 | Rockwell Automation | video | 58w
+    La tecnología genera potencial, el conocimiento genera resultados. Learning+ Training de Rockwell Automation fue diseñado para ayudar a las organizaciones a reducir la brecha de habilidades, acelerar la adopción tecnológica y asegurar que las personas de la industria conectada. Capacitación continua para una operación más eficiente, productiva y resiliente. ► Conozca más sobre la solución. Más información: https://rok.auto/3T1Am2p
+
+7503122150250356736 | Rockwell Automation | video | 38w
+    What if you can streamline operations without compromising performance? Learn how PointMax I/O helps optimize system design through simplified installation, plug-and-play connectivity and integrated digital tools for faster configuration and project deployment. Watch the on-demand webinar: https://rok.auto/4qZ7jJx #NewProductsROK
+
+7503328388883890176 | Rockwell Automation | link | 97w
+    Smart manufacturing is changing the nature of how industrial workers do their jobs. https://rok.auto/468P1fg According to our 11th Annual State of Smart Manufacturing Report: ➡️ 93% of organizations expect their workforce to evolve as smart manufacturing advances ➡️ 40% have reskilled employees in the past year As operations become more connected and data-driven, leading manufacturers are redesigning work to help  [...]  and human oversight are helping organizations harness the full potential of their workforce. #smartmanufacturing #digitaltransformation #futureofindustrialoperations #AI #industrialautomation
+
+7503437154400944128 | Rockwell Automation | video | 46w
+    Production bottlenecks, inconsistent material flow, and workforce constraints are limiting output in dynamic manufacturing environments. Join OTTO by Rockwell Automation on September 16 at 12pm CT to learn how autonomous material handling solutions can help optimize production output and improve material flow. Save your seat: https://rok.auto/4xfZWyG
+
+7503511346764775424 | Rockwell Automation | link | 59w
+    🔐 IEC 62443 is the best of both worlds since it provides the OT-focused detail while also mapping to broader frameworks like the NIST Cybersecurity Framework and ISO/IEC 27001. Discover key benefits and applications, how to get started and more with this blog: https://rok.auto/3Tkl7BR Stay up to date by following along on Cybersecurity from Rockwell Automation #IEC62443 #OTCybersecurity #SecureOT
+
+7503514847561748480 | Rockwell Automation | video | 74w
+    Excited for PACK EXPO International? Join Rockwell Automation at Booth S2450 to explore FactoryTalk Orchestration software and see how it helps coordinate workflows and material movement across operations. Experience live demonstrations and connect with our experts to learn how manufacturers are modernizing operations and progressing toward autonomous production. Register now at https://rok.auto/3XvLzXj and follow our industry showcase page, Food & Beverage Solutions from Rockwell Automation, for more updates on PACK EXPO. #PACKEXPO #FoodandBeverage #IndustrialAutomation
+
+7503549083681456130 | Rockwell Automation | link | 52w
+    Mining leaders are under pressure to improve performance while navigating market volatility, workforce challenges, and increasing operational complexity. A more connected mine can help bring systems, people, and data together to improve visibility across the operation. Connect with Rockwell Automation to explore practical approaches for your mining operation: https://rok.auto/4yrbcJJ #Mining #MiningOperations #IndustrialAutomation
+
+7503836975280549888 | Rockwell Automation | video | 30w
+    Manufacturers can embrace #AI-driven operations to transform their processes, empower teams, and unlock exponential value. Check out our latest article for insights on making the shift to autonomous solutions: https://rok.auto/4ypYYRn.
+
+7503841262400122880 | Rockwell Automation | image | 49w
+    Unplanned downtime in food and beverage manufacturing runs, on average, tens of thousands of dollars per hour, and for large-scale operations, that number can climb into six figures. This is where ThinManager comes in... Read the blog: https://rok.auto/3STPkHB Learn more about ThinManager Orchestrate: https://rok.auto/4cC4ckF #ThinManager, #Orchestrate, #Visualization, #Security, #IndustrialAutomation
+
+7504278161711554560 | Rockwell Automation | link | 42w
+    Inside TechConnectIQ: Smarter Support for Manufacturers Tune in as Rockwell Automation experts discuss how TechConnectIQ is simplifying support with AI-enabled tools, digital self-service and direct access to technical expertise. Learn more about TechConnectIQ Support, available now for North American customers. https://rok.auto/4iWBM8T #NewProductsROK
+
+7478100888499355648 | Slalom | image | 79w
+    We're excited to welcome Nicole Michaels to Slalom as our Global Insurance Leader. Nicole brings more than 30 years of insurance industry leadership experience, helping organizations accelerate business and technology transformation across property & casualty, commercial and specialty lines, and life, retirement, and employee benefits. As insurers navigate rapid change and new opportunities, Nicole's leadership and deep industry expertise will  [...]  Slalom continue delivering meaningful outcomes for clients around the world. Welcome to the team, Nicole! Learn more: https://lnkd.in/eK-ZX8Rr
+
+7478169636266618880 | Slalom | video | 66w
+    "The technology isn't the hard part." That's one of the biggest themes emerging from conversations at Cannes Lions. As AI moves from experimentation to enterprise adoption, organizations are asking a different question, not "Can we use AI?" but "Are we ready to transform how work gets done?" Hear Sangeeta Prasad's perspective on why organizational readiness is becoming one of the biggest differentiators for successful AI adoption.
+
+7478447498471292930 | Slalom | text | 72w
+    The traditional marketing funnel wasn't built for today's customer. People move fluidly across channels, expect personalized experiences, and engage on their own terms. In this newsletter, we explore why leading organizations are rethinking marketing as a connected growth system, bringing together strategy, data, technology, AI, and customer experience to create more meaningful customer moments. Dive into this edition to see why marketing is becoming an intelligent growth engine for the AI era.
+
+7479956114474741761 | Slalom | image | 31w
+    Slalom and Scheidt & Bachmann Energy Retail Solutions are reimagining what charging parks can be: connected, data-driven ecosystems built for reliability and scale. See how intelligence is transforming EV infrastructure: https://slalom.ws/4cn5IGt
+
+7480153652553338882 | Slalom | text | 87w
+    AI transformation isn't just a technology challenge. It's a human one. As organisations look to unlock value from AI, it's easy to focus on tools, processes and adoption metrics. But are we giving people the cognitive capacity to adapt to constant change? In this article for HRZone, Samantha Howarth explores why brain health should be a core consideration in AI  [...]  will be better placed to realise the benefits of AI. Read more 👇 #AITransformation #BrainHealth #FutureOfWork #Leadership #AI
+
+7480337676424998913 | Slalom | video | 42w
+    Your teams are using AI every day. But using AI isn't the same as running on it. ​ The difference is AI in motion: AI that's built into how the business runs, not added on top. ​ See it in action: https://slalom.ws/4aHNgs9
+
+7480706786489126912 | Slalom | image | 64w
+    AI agents are changing how work gets done, but scaling them successfully requires more than better models. As agents accumulate knowledge over time, organizations need to think differently about how information is retained, refreshed, and applied. In this perspective, Slalom's Eldy Deines explores why designing for the AI knowledge lifecycle is becoming a critical part of enterprise AI strategy. Read the full article: https://lnkd.in/e6NbUdDf
+
+7481018080920477696 | Slalom | link | 42w
+    Performance isn't only about what teams do. It's also about how, when, and where work happens. In collaboration with Knowledge at Wharton, Slalom explored how chronotype can shape creativity and performance. The findings may change how you think about team performance. https://slalom.ws/4tG6aH0
+
+7481462537381720064 | Slalom | image | 31w
+    Transformation doesn't happen through technology alone. Together, Siemens, Slalom, and Microsoft built a culture of learning and innovation—equipping 30,000 developers with AI tools that are changing how work gets done: https://slalom.ws/3PcVIb4
+
+7482433410515308546 | Slalom | text | 112w
+    The biggest lesson from the first half of 2026? AI isn't the transformation. Adaptability is. Across our latest insights, one idea keeps emerging: the organizations creating the most value aren't simply adopting AI, they're rethinking how people, processes, data, and technology work together. Here are five ideas shaping the conversation: 1. Growth starts with connected systems, not more tools. 2.  [...]  it's redesigning how work gets done. Which trend has had the biggest impact on your organization this year?
+
+7482874073849577472 | Slalom | link | 47w
+    AI strategy is business strategy. Looking back at our insights from the first half of 2026, one thing stands out: organizations creating lasting value aren't treating AI as a standalone initiative. They're embedding it into how the business operates. That's where transformation begins. 🔗 Read more: https://slalom.ws/3QLlCU2
+
+7483237719398240256 | Slalom | link | 55w
+    Scaling AI starts with people. As we look back on the first half of 2026, one lesson keeps resurfacing: scaling AI is as much an organizational challenge as a technical one. The organizations making the greatest progress are investing in governance, trust, and the people who bring AI into everyday work. 🔗 Read more: https://slalom.ws/4ryNxU7
+
+7484006274272014336 | Slalom | link | 55w
+    Context is AI's competitive advantage. One of the clearest themes from our first-half 2026 insights is that AI is only as valuable as the context it can access. As organizations move beyond experimentation, connecting AI to the right tools, systems, and information is becoming just as important as the models themselves. 🔗 Read more: https://slalom.ws/4eVnsve
+
+7485047137685266433 | Slalom | link | 47w
+    Better experiences start with inclusion. One lesson that emerged across our first-half 2026 insights: accessibility isn't an add-on. It's the foundation for building digital experiences people can actually use, trust, and benefit from. When inclusion is built in from the start, everyone wins. 🔗 Read more: https://slalom.ws/3LJ42xH
+
+7485410786056699904 | Slalom | link | 52w
+    Growth starts with connected systems. One of the biggest themes to emerge from our insights in the first half of 2026? Organizations are creating growth by connecting data, teams, and customer experiences, not by adding more technology. Sustainable growth isn't about doing more. It's about working smarter, together. 🔗 Read more: https://slalom.ws/3Nu5i8s
+
+7485744387533090817 | Slalom | video | 45w
+    “AI transformation” isn't some stop at the end of the line.​ Evolving your business with AI is a connected journey through strategy, governance, platforms, and people. And the further you go, the more connected it gets.​ Here's how we help navigate all of it: https://slalom.ws/4dEa6Sd
+
+7486042517369503744 | Slalom | text | 51w
+    The next competitive advantage won't come from bigger marketing budgets or the latest AI tools. It will come from organizations that know where to focus—and align strategy, technology, and customer experience to create value in the moments that matter most. That's the central idea behind our next Future of Marketing perspective.
+
+7486542020912545793 | Slalom | video | 91w
+    Our best work has always been about people. People who bring new ideas. People who strengthen their communities. People who show up for one another. Our 2025 Impact Report highlights what's possible when those efforts come together—from more than $26M invested in communities since 2020 to 10,000+ volunteer hours in 2025, nearly $16M in pro bono consulting over the last  [...]  the future. We're excited to share the progress we've made and to keep building what's next, together: https://slalom.ws/44LKfDH
+
+7487503344236847104 | Slalom | image | 70w
+    We're proud to share that Slalom has been named an OpenAI Advanced Partner as part of the newly launched OpenAI Partner Network. This milestone reflects our continued investment in helping organizations turn AI ambition into real business outcomes. For our customers, it means deeper OpenAI expertise, stronger enterprise AI capabilities, and a trusted partner with the scale, experience, and insight to help them confidently build what's next. Learn more: https://lnkd.in/ejMibrzc
+
+7487953057364770819 | Slalom | video | 35w
+    Conservation is an investment in the future we all share. This World Nature Conservation Day, we're proud to support the Forest Stewardship Council's Conservation Facility, helping advance biodiversity, climate resilience, and sustainable forest management: https://slalom.ws/4dN4dnk
+
+7488276690461442048 | Slalom | image | 39w
+    How long does a standard agreement take in your organization? At Udemy, some now take as little as 30 minutes — powered by automation, integration, and clearer process design. See how modern CLM changes the pace of business: https://slalom.ws/49rwfBX
+
+7488631752576643072 | Slalom | text | 97w
+    Security reviews are often treated like the final hurdle before launch. But when proof is created after delivery, momentum slows: • Reviews stretch from days into weeks • Exceptions pile up • Evidence gets recreated across teams • Buyers and stakeholders wait longer for confidence The better question isn't “Did we pass review?” It's “Can we prove trust as we  [...]  that can stand up to scrutiny. What would change if your teams could prove safety in real time?
+
+7489039732505661441 | Slalom | image | 31w
+    Sometimes, the most impactful changes start with alignment. By creating a shared, real-time view across planning, Daikin Comfort made it easier for teams to work together—and make more informed decisions: https://slalom.ws/3SdlzAW
+
+7490489016098902017 | Slalom | image | 37w
+    Turning AI into business value takes more than great technology. It takes the right partners working together to connect strategy, data, and execution.​ See how Slalom, Microsoft, and Databricks are helping organizations put AI into motion: https://slalom.ws/4fF7VQA
+
+7490816792123121664 | Slalom | video | 66w
+    AI is entering a new era where organizations are scaling from experimentation to enterprise-wide transformation. At Google's Partner AI Forum, Slalom East President Kelly Adkisson shared how Slalom is helping clients accelerate agentic operations by delivering context for every action, agents for every process, and intelligence for every person. Watch the full interview and learn how we're building the future together with Google Cloud: https://slalom.ws/4gbskg3 #BuildwithGemini
+
+7491181980517117952 | Slalom | text | 74w
+    Every organization wants to deliver better customer experiences. The challenge isn't vision. It's execution. Customer data, AI, personalization, automation, and measurement all matter. But competitive advantage doesn't come from investing in these capabilities individually. It comes from connecting them. That's why digital experience technology has become the foundation for turning customer intelligence into coordinated action and growth strategies into measurable business outcomes. Our latest newsletter explores what that means for business and technology leaders.
+
+7491564349489250304 | Slalom | image | 70w
+    Today, we're excited to welcome Dan Garrison as Slalom's new Chief AI Officer. AI isn't one size fits all. That's why we're helping customers turn AI ambition into measurable impact, with solutions tailored to their business. Dan brings nearly 30 years of experience leading technology, innovation, and transformation, and he'll help strengthen that approach by advancing Slalom's AI strategy and working alongside our teams, customers, and partners. Learn more: https://slalom.ws/4bCN8un
+
+7492353049001177088 | Slalom | image | 54w
+    On International Day of the World's Indigenous Peoples, we celebrate the rich cultures, traditions, and lasting contributions of Indigenous Peoples around the world. Today is an opportunity to honor their resilience, learn from their perspectives, and recognize the importance of creating spaces where every voice is valued and every community can thrive. #CelebrateAuthenticity #WorldIndigenousPeoplesDay
+
+7492627229810692098 | Slalom | link | 46w
+    Most organizations start with AI for coding. The leaders creating lasting value are applying AI across the entire product development lifecycle.​ Vote in our poll to tell us where your organization is seeing the greatest impact today, then explore our latest perspective on AI- PDLC: https://slalom.ws/4xBsvra
+
+7492979932629880832 | Slalom | image | 77w
+    We are still feeling the momentum from GitHub RKO! It was a great opportunity to connect with GitHub leadership, strengthen relationships across our teams, and align on shared priorities and opportunities ahead. The conversations reinforced the strength of the Slalom + GitHub partnership and our shared focus on helping organizations reimagine how they build and deliver software in the age of AI. We're excited to keep building together and carry this momentum into GitHub Universe this October!
+
+7493708985942908928 | Slalom | image | 66w
+    Ready to see what happens when AI becomes part of how the business actually runs? Dreamforce is only one month away, and we're bringing AI in Motion to San Francisco. Join Slalom to explore how leading organizations are using Agentforce, Data Cloud, and modern customer experiences to drive smarter decisions, better experiences, and measurable business value. Let's connect. Sign up for our Dreamforce events today: https://slalom.ws/4wZkmN2
+
+7494079160303247361 | Slalom | link | 78w
+    Most organizations don't have an AI access problem. They have an AI governance problem. Employees need a clear, easy path to use approved AI tools. Leaders need visibility into what's being used, how it connects to company data, and who is accountable for it. Done well, governance doesn't slow AI adoption. It gives people the confidence to move faster with the right tools. What's the biggest challenge in your organization today: adoption, visibility, or accountability? Read more: https://slalom.ws/45s5ISs
+
+7495150499155968000 | Slalom | image | 62w
+    AI has transformed the way teams build software.​ But what if that's just the beginning?​ The next wave of AI isn't just about accelerating development, it's about helping organizations make better product decisions from discovery and prioritization to delivery and continuous improvement.​ This week, we'll explore why that shift matters, and what it means for the future of product development.​ Stay tuned.​
+
+7495563452577411073 | Slalom | link | 35w
+    Not every AI conversation translates into real progress. This one does.​ Get an inside look at how CRISP Shared Services, Microsoft, and Databricks are putting AI into practice.​ Watch the full session on demand: https://slalom.ws/4wucx0N
+
+7495874265750114304 | Slalom | link | 48w
+    What if AI's biggest impact isn't helping teams build software faster—but helping them make better product decisions?​ AI-PDLC transforms the product development lifecycle by replacing static assumptions with continuous learning.​ Swipe through to explore how organizations can move from delivering products to continuously improving them.​ Read more: https://slalom.ws/4g8vO1T
+
+7496211947382673408 | Slalom | text | 47w
+    The CMO mandate is expanding. Today's marketing leaders are being asked to do more than manage campaigns, channels, and technology. They're helping connect systems, scale AI, build organizational agility, demonstrate business impact, and lead through change. Explore five priorities reshaping the CMO agenda in our latest newsletter.
+
+7496566890568503296 | Slalom | link | 100w
+    Customers are still waiting. Waiting in queues. Waiting for answers. Waiting for brands to recognize what they already know. That friction is more than a customer-experience problem. It shows up in conversion, retention, cost to serve, and trust. A zero-wait journey connects data, AI, and operating models so teams can learn in real time and remove delays where they matter  [...]  leaves. Where does waiting create the most cost in your customer journey? Explore the case for zero-wait: https://slalom.ws/4hI1ihF
+
+7497691955351633920 | Slalom | text | 51w
+    Over the past few weeks, we've explored how AI is changing product development, not just by accelerating delivery, but by improving the decisions teams make along the way.​ That got us thinking:​ What's one product decision you wish AI could help your team make better?​ We'd love to hear your perspective.​
+
+7498460294797627392 | Slalom | video | 61w
+    Transformation looks different for every organization. The constant? Having the right people and expertise alongside you. Slalom has been recognized by Forbes as one of the World's Best Management Consulting Firms, a global recognition of the breadth of expertise we bring to our customers most important challenges. We're grateful to the customers, partners, and teams who make that impact possible. https://slalom.ws/4gm9G5w
+
+7499132483620425728 | Slalom | image | 75w
+    Rights and royalties management is no longer just a back-office function—it's becoming a strategic business capability. As IP becomes more digital, distributed, and complex, organizations need more than manual reconciliation. They need connected rights intelligence: unified data, transparent workflows, explainable calculations, and AI-assisted review. AI isn't replacing rights experts. It's helping them work faster, identify risk earlier, and make more confident decisions. Learn where AI delivers the greatest value in rights and royalties management: https://slalom.ws/3SWUbIc
+
+7500239794908631040 | Slalom | image | 37w
+    AI gets more powerful when it moves from possibility to practice. Together with Google Cloud, we're helping financial services organizations bring AI into the complex workflows where better decisions can drive better outcomes. See what's possible: https://slalom.ws/4qIUuCN
+
+7500616025453928448 | Slalom | video | 30w
+    There's a difference between AI that helps one team and AI that changes how the whole business runs.​ See what it takes to get from one to the other: https://slalom.ws/4dEa6Sd

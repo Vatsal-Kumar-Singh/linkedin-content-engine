@@ -1,0 +1,169 @@
+# batch 015  -  55 posts  -  label per research/CLASSIFICATION-PROTOCOL.md
+# labels: problem exploration requirements selection validation consensus
+#         recruitment culture event product-news csr unclear
+# write research/labels/015.tsv as: <id><TAB><label>
+
+7496974488765489152 | Figma | text | 30w
+    The handoff doesn't have to be a one-way street Try this workflow to connect a codebase to Figma Make, make the changes directly, and bring the whole team into review
+
+7497689142198300672 | Figma | video | 15w
+    Erase your heart out, then fill it back up New vector tools to play with
+
+7498084064982106112 | Figma | video | 39w
+    Introducing Source Material: the weekly series where the designers & creatives shaping culture share the references that shaped them. Our first guest: Thom Bettridge, Editor-in-Chief of i-D Mag and Founder of Content World. Watch the first episode → https://lnkd.in/gsbxCWja
+
+7498145322913701888 | Figma | link | 44w
+    Starting today, we're giving you more credits with our AI add-on across all plans. 2x the credits for Pro, 1.6x more for Org and Ent plans. You will see more credits for new and existing purchases and updated pay-as-you-go pricing. Read more → https://lnkd.in/gk96TN2u
+
+7499207388001026048 | Figma | video | 9w
+    Bringing Shader Town to New York and San Francisco
+
+7499496099884429312 | Figma | text | 12w
+    9 ideas for the future of software, from the people building it
+
+7500253518830792704 | Figma | video | 39w
+    This week's episode of Source Material spotlights Marisa Chentakul aka Meshtimes — where one of the internet's favorite creative technologist shares how her world of code, creativity, and playfulness all collide. Subscribe and never miss an episode → https://bit.ly/Meshtimes
+
+7500602848431374337 | Figma | video | 35w
+    Made a cool shader or plugin? Time to publish it to Community → https://lnkd.in/gnbKHPuB Then try a few from our friends Piers Cowburn, Yan Liu, Anna Zhang, David Szadorski, Crystal T., Adanna O., Tunbosun Tobiloba
+
+7501307626970939392 | Figma | video | 23w
+    Controlling opacity, now at scale (yay) Easily apply and adjust opacity to a linked color in the variables modal without needing to detach.
+
+7501391605296332801 | Figma | image | 0w
+    
+
+7501715908801855488 | Figma | text | 20w
+    When you can build anything, building the right thing gets harder. Three things to remember when you're shipping faster ↓
+
+7502846166326382593 | Figma | video | 22w
+    This week on Source Material: Zach Lieberman, MIT Professor, computational artist and creative coder. Subscribe and never miss an episode → https://lnkd.in/gY3JJWjW
+
+7461354866075127808 | Formlabs | video | 85w
+    From prototyping to end-use parts. All on the same machine. SLS printing combines industrial-grade materials with the design freedom engineers need to create complex products with fewer manufacturing limitations. The team at Palladion Systems developed a print-in-place counter-UAV system manufactured as a single build with deployable arms integrated directly into the design. Manufactured on the Formlabs Fuse Series, this approach  [...]  scalable production. Find more information about the manufacturing process here: https://bit.ly/49uPmLc For more information about Palladion Systems: https://lnkd.in/eAfpfZ4f
+
+7462108371467399168 | Formlabs | video | 54w
+    Behind every reliable part of the Form 4 3D Printer, there are thousands of hours of hidden engineering. This custom pneumatic rig, for example, is the Form 4 Mixer Latch Cycle Tester—built to open and close the mixer latch thousands of times to ensure ultimate long-term reliability. 🛠️🤖 #Form4 #Hardware #QA #3DPrinting #Engineering #Formlabs
+
+7463589724553740290 | Formlabs | video | 36w
+    Silicone watch strap made using a 3D-printed mold. Printed with Clear Resin V5 on a Formlabs Form 4L. For more information, visit formlabs.com Video credits to Karl Eriksson from Addinor. 3D printing experts in the Nordics
+
+7465381508309057536 | Formlabs | video | 38w
+    80+ Formlabs 3D printers. One aerospace facility. One mission: build the future of drone manufacturing in India. Raphe mPhibr is redefining what industrial additive manufacturing looks like at scale — from rapid prototyping to end-use parts, entirely in-house.
+
+7465777159975051264 | Formlabs | video | 51w
+    3D printing enables engineers to prototype metal parts and iterate tool designs in a matter of hours, achieving complex geometries while reducing reliance on outsourced providers. Find a free article on 3D-printed dies here: https://bit.ly/4tUQgbb Video by Karl Eriksson, 3D Printing expert at Addinor and Formlabs Partners for the Nordic region.
+
+7466148957803425792 | Formlabs | video | 43w
+    Freefly Systems builds the world's toughest industrial drones for the harshest conditions. Behind their innovation is Formlabs SLS 3D printing on the Fuse Ecosystem, turning CAD designs into test flights in less than a day. Check out the full story in the comments!
+
+7467256864712437760 | Formlabs | video | 48w
+    Super slow motion 🤝 Fuse Blast. We filmed the Fuse Blast at 1000 FPS with Freefly Systems Ember. What you're seeing is blast media remove excess Nylon 12 powder from a part printed on Formlabs Fuse 1 SLS 3D printer. See more at the link in our comments.
+
+7467963631847100417 | Formlabs | video | 31w
+    Something BIG is coming. Join Formlabs' new product announcement event on June 9, 2026 at 9:00 AM EST. Follow the link & click "notify me" to receive a reminder: https://bit.ly/4abAu4J #Formlabs
+
+7469775538543284225 | Formlabs | video | 30w
+    Primed for launch. New product announcement event tomorrow, June 9, 2026 at 9:00 AM EST. Click the link in the comments to receive a notification when we go live #Formlabs
+
+7470098718575448066 | Formlabs | video | 116w
+    Fuse X1, Formlabs' newest industrial SLS (selective laser sintering) 3D printer. This large format SLS printer delivers huge parts same day, at half the cost and 3x the throughput of the competition. Plus, it's backed by the quality and reliability of Formlabs. Watch how the Fuse X1 preforms at the link in our comments! Fuse X1 features: ⚫️ 330 ×  [...]  dedicated operators ⚫️ Less than half the footprint versus legacy industrial SLS and MJF printers #formlabs #FuseX1 #3DPrinting
+
+7470576109018062849 | Formlabs | video | 103w
+    Missed the Fuse X1 announcement yesterday? Here's the TLDR... 🟧 330 × 330 × 565 mm build volume, with 30%+ packing density 🟧 50% lower part cost versus legacy industrial SLS and MJF printers 🟧 Less than half the floor space versus legacy industrial SLS and MJF printers 🟧 Same day large parts and 3x the throughput of competitors 🟧  [...]  larger than ever before click the link in our comments #3dprinting #additivemanufacturing Fuse X1, what will you print?
+
+7470864223150129153 | Formlabs | video | 48w
+    With 30%+ packing density and a 61.5L build volume, the Fuse X1 fits more parts in a single build than competing industrial SLS and MJF systems, adding up to thousands more parts per week. Find out more about large-format SLS 3D printing at the link in our comments!
+
+7471227156212166657 | Formlabs | video | 21w
+    50m (164 ft) of SLS 3D printed chain. All done in one build chamber on the Fuse X1. #3dprinting #engineering #physics
+
+7472652822275076098 | Formlabs | video | 87w
+    One of the most common causes of print failures in SLS is foreign debris. A single hair can ruin a build and cost thousands of dollars in downtime. Print Intelligence eliminates this problem by detecting part defects in real time and selectively removing the affected part from the following layers. On another printer, a single hair could cause compounding defects  [...]  Intelligence isolates the failure and completes the rest of the build, maximizing part yield. Read more here: https://lnkd.in/gGX7nPcC
+
+7475090882594148352 | Formlabs | video | 77w
+    Strong, Custom Components for Drone Design, Manufacturing, and Piloting with the Formlabs Fuse X1 The Fuse X1 enables next-day delivery of large parts with minimal stitching or gluing requirements and at a lower cost, reducing labor while accelerating innovation. It also offers outstanding cost efficiency per part and industry-leading throughput for end-use production, making SLS 3D printing a competitive alternative to injection molding across an even broader range of applications. Read more about the X1 here: https://lnkd.in/eRKJxHBh
+
+7475720509310078976 | Formlabs | video | 114w
+    We printed this flexible football out of the all new Flexible 80A resin! This is how we did it - After printing on the Form 4L, we wash the build platform in IPA to remove any excess resin. We then remove the supports from the football and wash it again. After that we allow the football to dry completely overnight.  [...]  was then cured again at 80C for 5 minutes, resulting in this final amazing ball. #3dprinting #football #formlabs
+
+7477323002729275392 | Formlabs | video | 38w
+    Fuse X1 makes large-format industrial SLS 3D printing accessible. Deliver same-day production-quality parts at 50% lower cost and 3x the throughput. This intake manifold from Dorman Products was printed on the Formlabs Fuse X1. More info at https://lnkd.in/eRKJxHBh
+
+7478526307631554560 | Formlabs | video | 64w
+    300 parts. 400 hinges. 1 print. 0 supports. 0 assembly. This is a 3D printed Hoberman sphere. Formlabs Director of Hardware, Ian Ferguson, for fun, wrote a custom app using Claude Code to generate parametric Hoberman spheres. He then printed this sphere in Nylon 12 powder on the Fuse X1. Check the link in the comments to see the printer that made it happen.
+
+7480917423773163521 | Formlabs | video | 120w
+    Radio Flyer has been making iconic products for over 100 years. Now their engineers are prototyping their full-size Loop Cargo bike's frame in two days. Before Fuse X1, a single bike frame prototype took two months, 19 separate prints, and days of gluing. With Fuse X1's 330 x 330 x 565 mm build volume, the entire frame fits in two  [...]  3x more often without outsourcing Learn how to prototype like Radio Flyer at the link in our comments.
+
+7480963884648955904 | Formlabs | video | 83w
+    Tesla Gigafactory Nevada's additive manufacturing team delivers parts in under two hours – 10,000–30,000 parts per week. Cody, an Engineering Technician on the Additive Manufacturing team takes us behind the scenes to see how they replaced traditional large-format SLS 3D printing with Fuse X1 to print larger parts faster, cut labor, and scale production without adding floor space. Click the  [...]  see how ‪Tesla‬ Giga Nevada delivers thousands of parts in under 24 hours With Fuse X1 #tesla #3dprinting
+
+7480997873816363008 | Formlabs | video | 58w
+    Join us for a live session with Ian Ferguson, Director of Hardware, and Matt Ewertowski, Head of SLS Product, as they introduce the Fuse X1. They'll provide an overview of the new printer, demonstrate its key features in a live hands-on demo, and wrap up with a live Q&A where you can get answers to all your questions!
+
+7481308138508455936 | Formlabs | video | 132w
+    The rebound performance of flexible 3D printing resins keeps improving year after year. If you've worked with flexible 3D printing materials for a while, you'll probably remember when “flexible” often meant soft but not necessarily functional. Limited rebound, lower durability, and performance that was sometimes not even good enough for prototypes. This is changing with the new Formlabs Flexible 80A  [...]  about the material, feel free to write a comment or have a look at the following link: https://lnkd.in/eUKwmzSw
+
+7482690860187414528 | Formlabs | video | 52w
+    3D printing enables engineers to prototype metal parts and iterate tool designs in a matter of hours, achieving complex geometries while reducing reliance on outsourced providers. Find a free article on 3D-printed dies here: https://lnkd.in/eYYpt6UA Original video from Karl Eriksson, 3D Printing expert at Addinor and Formlabs Partners for the Nordic region.
+
+7482857455421386752 | Formlabs | text | 63w
+    Introducing the new Denture Base Resin, a high-impact, long-term biocompatible material for producing strong, lifelike dentures! The new formulation is tougher, with more lifelike aesthetics and substantially faster processing times than the previous version for less labor and a low cost per part. Dental professionals can print full dentures on Formlabs Form 4B & Form 4BL 3D printers using a streamlined, validated process.
+
+7483426959339827200 | Formlabs | video | 86w
+    Was this already written in the stars? Back in 2007, a charity calendar photo shoot organized with UNICEF captured a special moment: Lionel Messi holding a baby named Lamine Yamal. Nearly two decades later, Messi is one of football's greatest legends, while Lamine Yamal has become one of the sport's brightest young stars. To celebrate this iconic story, we recreated  [...]  Formlabs Form 4L. Some moments become even more meaningful with time. Who will win the World Cup final?
+
+7483830189869854721 | Formlabs | multi-image(4) | 82w
+    Save the date! Join us for a live session to learn everything about the new Fuse X1 large-format SLS 3D printer. 📅 July 22 🕚 11:00 AM ET / 5:00 PM CET Ian Ferguson, Director of Hardware, and Matt Ewertowski, Head of SLS Product, will provide an overview of the new printer, demonstrate its key features in a live hands-on  [...]  with a live Q&A where you can get answers to all your questions! Join the event here: https://lnkd.in/d8Mh8bJE
+
+7484636438114947073 | Formlabs | video | 124w
+    We printed this Airless Ball just in time for today's big game!⚽ SLA resin printing allows us to create incredibly complex structures using even flexible materials. Designs that would be nearly impossible or expensive to produce using traditional manufacturing methods. No molds, no assembly, just one continuous complex geometry. The print stats: Print Time: 16 Hours Touch Point Size: 0.5  [...]  STL File: https://lnkd.in/e2WNiM_m Who is your favorite to win the final today? Let us know in the comments!
+
+7485235523876429826 | Formlabs | video | 61w
+    SLA 3D printing car replacement parts. Flexible 3D printing continues to improve. Together with 3Dmensionals, we replaced a worn-out Porsche speedometer rubber ring using our new Flexible 80A Resin V2 on the Form 4. Engineered for functional parts. Find more info about the new material here: https://lnkd.in/eHEh8j3h Looking for a trusted 3D printing partner in Germany 🇩🇪 ? Check out 3Dmensionals!
+
+7485675067323031552 | Formlabs | text | 18w
+    We are going live soon to answer all your questions about the Fuse X1, we'll see you there!
+
+7486337864738422784 | Formlabs | multi-image(5) | 36w
+    Bring large-format SLS 3D printing in-house. Fuse X1 makes it possible to deliver large prototypes next-day with less stitching or gluing and at a lower cost, minimizing labor and speeding up innovation. Read more here: https://lnkd.in/e9_ff9xV
+
+7487765032991252480 | Formlabs | video | 50w
+    Autotiv is delivering 10,000 3D-printed parts every week, requiring high throughput from every square foot of its facility. Printers need to be fast, reliable, and cost-effective, delivering a low cost per part. Read how the Fuse X1 helped Evan LaBelle, CEO of Autotiv Manufacturing, scale his service bureau business: https://lnkd.in/d-V8K_y4
+
+7488322292146450432 | Formlabs | video | 76w
+    For Jaws' 50th anniversary, the Academy Museum of Motion Pictures asked Greg Nicotero, founder of KNB EFX Group, to rebuild Bruce the Shark in under a month. They 3D scanned the original prop, scaled it down to quarter-size, and ran the sections on Formlabs Form 4L printers. The KNB shop assembled, sanded, and molded the rest. 50 years of movie history. Rebuilt in weeks. 👉 Full story at the link in our comments #SharkWeek #3Dprinting #shark
+
+7488572213588054016 | Formlabs | video | 62w
+    From CAD file to finished metal component in under 60 minutes. This workflow combines SOLIDWORKS design, Formlabs 3D-printed rapid tooling, and automated laser cutting to produce formed sheet metal parts in a single press stroke. Special credit to Karl Eriksson at Addinor for capturing this process. For 3D printing expertise and support across the Nordic region, connect with the team at Addinor.
+
+7491017466169548800 | Formlabs | video | 49w
+    3D printing a fishing reel. It's never too late to learn CAD — great Fusion 360 tutorial by Brad Tallis. The first part was manufactured using a Formlabs Form 4 printer with Clear Resin. The print time was 1 hour and 1 minute. No special surface treatment was done.
+
+7492506531620438016 | Formlabs | video | 89w
+    Safeguarding critical infrastructure and public spaces has never been more complex. As unmanned aerial systems (UAS) evolve, the technologies designed to detect and mitigate them must advance just as rapidly. The team at Palladion Systems developed a print-in-place counter-UAV system using Formlabs SLS 3D printing. Manufactured as a single build with deployable arms integrated directly into the design, this system  [...]  to end-use applications. Relevant information for large-scale SLS 3D Printing: https://lnkd.in/eGjPKCj7 More information related to Palladion Systems: https://lnkd.in/eAfpfZ4f
+
+7493390938669617153 | Formlabs | video | 47w
+    New preform version just dropped. Now including multi build projects, moving parts outside the build volume, and more! Members of the PreForm insider program got access to these features weeks ago, to get early access to the newest features, sign up at the link in our comments.
+
+7494046958245019649 | Formlabs | image | 91w
+    We are excited to announce that Dan Riccio, Former Senior Vice President, Hardware Engineering at Apple, is joining Formlabs as a strategic advisor. Dan led Apple's Product Design and Hardware Engineering Organizations for decades, overseeing the development of all of Apple's hardware products, including the iPhone, iPad, and Mac. In his new role, Riccio will advise Formlabs on product development,  [...]  and professional 3D printing. Welcome to Formlabs, Dan! Click here to read the full press release - https://bit.ly/4fZ96dN
+
+7495478866610712576 | Formlabs | image | 59w
+    Join us at IMTS - International Manufacturing Technology Show! Come see our newest and largest 3D printer, the Fuse X1, our newest materials, and more! Book a pre-event virtual sales meeting with our team and secure your time with our experts, and we will provide you with a complimentary IMTS 2026 Expo Pass https://bit.ly/4xMOJGB. We'll see you in Chicago!
+
+7496126715870646274 | Formlabs | video | 113w
+    Battleship, but the ships EXPLODE 💥 This is Capsized, a hackathon project by Formlabs mechanical engineering intern Nathan.The game is built from custom PCBs, a polycarbonate shield, a few capacitors, and a lot of 3D printed parts. Nathan and his team used the weekend to print, test, assemble, and blow up capacitors to create this awesome game The Form 4  [...]  on the Form 4 🛡️ Knobs and shield handles - printed from Formlabs Tough 1500 Resin #3dprinting #gaming
+
+7497993887450443776 | Formlabs | video | 84w
+    The math on large-scale 3D printing just changed. Fuse X1 now lets you run thousands of identical parts, print large single components, or mix and match, giving you real freedom and flexibility of choice on the production floor. Want to see it in person? We'll have the Fuse X1 running at IMTS 2026. 📍 South Building, Level 3 Booth 338260  [...]  with our team, secure time with our experts, and we'll provide a complimentary IMTS 2026 Expo Pass: bit.ly/4xMOJGB
+
+7498878304683479040 | Formlabs | video | 245w
+    We made an 1800s lighthouse lantern, and it works. This is a functional 6th-order Fresnel lens replica, the smallest size used in real 19th and 20th century lighthouses. The entire design was 3D printed on the Formlabs Form 4 print ecosystem. The lenses and catadioptric prisms are printed in Formlabs Clear V5. To get the optical clarity required to properly  [...]  and compresses it into a highly focused horizontal beam, creating that classic lighthouse "loom" sweeping across the room.
+
+7499136633175265280 | Formlabs | video | 91w
+    To address debilitating thumb cramps in a swimmer, Ot Supply GmbH designed this custom aquatic orthosis. Fabricated from BioMed Durable resin, the device maintains a specific anatomical arch in the hand, successfully preventing muscle spasms and pain during training. This showcases the power of additive manufacturing and biocompatible materials in delivering targeted, functional medical devices. Formlabs offers a broad range  [...]  High Stiffness, Temperature Resistant, Elastomeric, Specialty, Casting, Dental, and Medical. #Orthotics #AdditiveManufacturing #BioMedDurable #OtSupplyGmbH #MedTech #3DPrinting #Formlabs #SportsMedicine
+
+7501162578732126209 | Formlabs | video | 125w
+    3D printing of a patient-specific aortic dissection model to investigate blood flow dynamics using MRI, with a particular focus on 4D Flow MRI sequences. The model will be reconstructed from medical imaging data and manufactured using the Formlabs Form 4L with the new Flexible 80A Resin V2. This project is part of the PhD research of a vascular surgeon, @Florent  [...]  development of this innovative patient-specific 3D printing approach. Leave a like if you want to see Part II!

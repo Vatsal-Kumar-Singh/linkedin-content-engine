@@ -1,0 +1,169 @@
+# batch 014  -  55 posts  -  label per research/CLASSIFICATION-PROTOCOL.md
+# labels: problem exploration requirements selection validation consensus
+#         recruitment culture event product-news csr unclear
+# write research/labels/014.tsv as: <id><TAB><label>
+
+7494022527191502848 | Directive Consulting | video | 116w
+    After the IPO, he looked back at everything he built and asked one question. What was it all for? Matt Schatz spent ten years at Rackspace. Helped take it public. Then walked away. Gave his money away. Started a nonprofit in Southeast Asia. And started over. He's restarted six times now. And every single time, the decision wasn't just his  [...]  both? Being there physically means nothing if you're not there mentally. Watch the clip. Link in comments. ⬇️
+
+7495472089899020289 | Directive Consulting | video | 135w
+    A deal sitting in your pipeline for 120 days has a 5% chance of closing. Most sales teams are still chasing it. Matt Schatz has built six sales organizations from scratch. And the pattern he sees every single time is the same. Teams are obsessed with the output. The average sales cycle. The total pipeline number. None of that tells  [...]  a deal deserves to stay in the pipeline is worth 120 seconds. Full episode link in comments. ⬇️
+
+7495861731072684032 | Directive Consulting | multi-image(2) | 190w
+    Our latest Player of the Week is Christy Carroll ! 🌟 Christy went into action mode when it mattered most. Facing a wave of new reqs without a full TA team, she helped hire 18 people in a single month, all while never compromising on candidate quality or experience. She is a mentor, a trusted partner to hiring managers, and  [...]  this team don't go unnoticed. Thank you for being exactly the kind of person Directive is built on.
+
+7496196876686319617 | Directive Consulting | image | 205w
+    Most B2B marketing teams will tell you influencer programs matter. Ask them to show you their program architecture and you'll get a slide deck from 2024 and a spreadsheet with 15 names in it. The gap has never been awareness. Every CMO knows buyers trust practitioners more than brand content. The gap is structure. Who qualifies as the right partner  [...]  420+ B2B brands. Thursday, August 27 | 1 PM EST | 45 minutes. Link in comments to register.
+
+7498059943976042497 | Directive Consulting | video | 146w
+    B2B influence has evolved far beyond social media creators. Your buyers are being influenced by customers, practitioners, analysts, and executives across LinkedIn, podcasts, YouTube, newsletters, and communities. The question is whether your brand is part of those conversations. Kimberly Deese, APR (Head of PR & Communications) shares a practical framework for building and scaling a B2B influencer program that creates  [...]  (Managing Director, Communications) on Thursday, August 27 at 1 PM EST. 45 minutes. Link in comments to register.
+
+7503833064540917761 | Directive Consulting | image | 218w
+    Q4 is when ecommerce marketing teams feel the most pressure. Budgets face more scrutiny. Timelines shrink. And the instinct is to protect what's already working rather than try something new. The problem? Your buyers are already in a shopping mindset. They're actively comparing options, responding to timely offers, and expecting brands to bring more energy to the experience. Many B2B  [...]  out the year Wednesday, September 16 | 12:30 PM EST | 45 minutes Link in comments to register.
+
+7504173228626513920 | Directive Consulting | video | 52w
+    What GEO actually is, and what everyone's getting wrong about it. You cannot succeed by bucketing in your GEO and AI optimizations with traditional SEO. They can be part of the same strategy, but dominating AI generated answers requires a holistic approach to content which is often lost by chasing individual keywords.
+
+7440065853200670721 | Dub | video | 17w
+    Introducing Stablecoin Payouts. Receive payouts in USDC – in minutes, not days. Now available on Dub Partners.
+
+7442620795866165248 | Dub | video | 66w
+    Today marks 1 year since Framer moved their Creator program to Dub.co. Since then, they've grown partner payouts from $249K/mo → $900K+/mo, a >3x increase 📈 As a small token of gratitude, we're sending some high-quality Dub swag to the top 25 Framer creators on Dub 🎁 If you're a top Framer creator – keep an eye out on your inbox, we'll be reaching out soon!
+
+7462186885549899776 | Dub | video | 41w
+    Today, we're launching Partner Referrals. Reward your partners for referring other influencers, affiliates, and publishers to join your Dub partner program. Bonus: new Application Analytics dashboard to see where your partners are coming from 📈 Learn more about Partner Referrals: d.to/referrals
+
+7462551183732228096 | Dub | video | 49w
+    Today, we're introducing Partner Tags. It's a new primitive for you to segment your partners with, and measure success of your program at a more granular level. Examples: ✦ partner types – Influencers, Creators, Publishers ✦ custom campaigns – Black Friday, Webinar cohort Learn more about Partner Tags: d.to/tags
+
+7462907573139038208 | Dub | video | 31w
+    Introducing Commission Analytics. You can now see a real-time analytics dashboard of your partner commissions to measure your return on ad spend (ROAS) on Dub. Learn more about commission analytics: d.to/commissions
+
+7463275497167151104 | Dub | video | 38w
+    Introducing the Dub MCP Server. Manage your partner program with Claude, Perplexity, Codex, or the AI agent of your choice using our new MCP server. Bonus: We're also adding a Logs page for end-to-end observability. Learn more: https://d.to/mcp
+
+7463649071312953344 | Dub | video | 44w
+    Introducing the Dub Network Referral Bonus. Refer other partners to join the Dub Partner Network and earn 50% of their payout fees for their first 12 months. Bonus: Unlock premium Dub swag when you cross $10K in network referral earnings 🥳 Learn more: https://lnkd.in/g_TsSfpS
+
+7470881378092470272 | Dub | video | 36w
+    You can now attach images and PDF files to your messages on Dub. This is helpful for providing additional context when communicating with your partners – and vice versa. Here's a demo of how it works:
+
+7474873755517923330 | Dub | video | 43w
+    You can now integrate your Dub Messaging Center with your Intercom/Fin Inbox in 1-click. This lets you receive partner messages directly inside Intercom, and vice versa, giving your support team full visibility into partner comms. Install the Dub + Intercom integration here: https://d.to/intercom
+
+7488652803729694721 | Dub | image | 43w
+    You can now customize partner rewards based on any arbitrary metadata you attach to your tracking events / Stripe metadata. Examples: ✦ higher rewards for annual vs monthly plans ✦ different reward % based on sale type (trade vs deposit) Learn more: d.to/reward-metadata
+
+7495534586366423040 | Dub | image | 51w
+    We just shipped several powerful improvements to bounties & email campaigns: ✅ Scoping bounties/emails by partner tags ✅ Bounties with dynamic start dates (starts after your partner joins) ✅ Combining conditions for transactional emails (e.g. send an email when partner enrolled for 30 days AND has 0 leads) Learn more: d.to/aug18
+
+7495892353195442178 | Dub | image | 28w
+    You can now connect your custom domain to Dub in 1 click via Domain Connect. Featuring direct integrations with both Vercel & Cloudflare. Read the changelog → d.to/domain-connect
+
+7503870542815342592 | Dub | text | 11w
+    Our Startup Program is now live 🥳 Apply here → dub.co/startups
+
+7504234820953075712 | Dub | image | 43w
+    You can now pay your partners a fixed amount on a regular cadence: ✦ $100 daily ✦ $500 weekly ✦ $1,500 monthly ✦ $5,000 quarterly This is ideal for retainer-style agreements, where you've negotiated a set fee with your partners. Learn more: https://lnkd.in/gZuQK5M4
+
+7475590916544651264 | Figma | video | 32w
+    Generative plugins, built by you and the Figma agent Describe the tool you need: behaviors, controls, parameters and get exactly what you want for your workflow. Now available in beta → https://lnkd.in/geAatG34
+
+7475594023878041600 | Figma | video | 18w
+    FIGMA MOTION IS HERE FIGMA MOTION IS HERE FIGMA MOTION IS HERE Available now in beta → https://lnkd.in/gh5Mk6TF
+
+7475628769597095936 | Figma | video | 28w
+    Everything we announced at Config, all in the canvas → https://lnkd.in/gqyTByHD → Figma Motion → Code Layers → Weave tools → Generative plugins → Shader effects and fills
+
+7475941345963114498 | Figma | image | 7w
+    Introducing MCP connectors for the Figma agent
+
+7476665662329982978 | Figma | text | 9w
+    Config 2026: all about limitless expression on the canvas.
+
+7477516389155614720 | Figma | image | 1w
+    shaders.figma.com
+
+7477813889238409216 | Figma | video | 14w
+    Ways to use Figma Motion, with product designer Kelly Hu and researcher Priscilla Choi
+
+7478116598503907328 | Figma | multi-image(4) | 69w
+    Color is tied to our emotions and how we interpret the world. This year at Config, we partnered with Pantone to match the Colors of Config. From the Pantone Lounge to Config Commons to our main keynote stage, we created a community experience rooted in color psychology to inspire creativity with every step you took. More about how we partnered to bring this color story to life → https://lnkd.in/gYGPEThT
+
+7478184652533354496 | Figma | video | 15w
+    /no-skill-issue-with-figma-agent Product Manager Sachi Shah shares how the team at Figma uses skills → https://lnkd.in/gh_fvbaa
+
+7478462575177801730 | Figma | link | 15w
+    SZN 5: meet the 8 artists from around the world Shop the looks → https://figma.bot/SZN5
+
+7478554944350908416 | Figma | video | 5w
+    Figma Motion in Figma Motion
+
+7479906260050522113 | Figma | video | 17w
+    20+ Figma Weave tools in your design canvas Access directly from the design left panel → https://lnkd.in/gw5DrwU8
+
+7480282140492840960 | Figma | link | 52w
+    Designers → coding Developers → designing In the last year, the number of designers participating in development doubled to 41%, and the number of developers doing design work rose from 44% to 60%. Today, 76% of people do at least half their work on the canvas. Our 2026 AI report → https://figma.bot/4gqD378
+
+7481038680258674689 | Figma | image | 29w
+    GPT-5.6 from OpenAI for Business is available in Figma Make starting today → https://lnkd.in/gYab8_Yj Early test results show → Stronger outputs building from existing designs → Greater token efficiency
+
+7481361630430339072 | Figma | video | 14w
+    Welcome to the generative plugins and Shaders Town demo with software engineer, Yassir Solomah
+
+7483181725737545729 | Figma | image | 24w
+    Les nouveautés de Config, un livestream en français animé par Alexia Danton. Jeudi 23 juillet · Midi (heure de Paris) → Inscription : https://figma.bot/3RcANGm
+
+7483957234930987008 | Figma | text | 17w
+    wyd? Nerding out about motion design with Figma motion designers Chad Colby, Ben Hill and Gilles Desmadrille
+
+7485401667950047232 | Figma | image | 5w
+    "I design with a trackpad"
+
+7485740456752947200 | Figma | video | 14w
+    Brazil to the world: our new São Paulo hub is officially open Vamos comemorar!
+
+7486476942716583936 | Figma | image | 8w
+    When you finish exporting and spot the typo
+
+7487174947417763840 | Figma | text | 25w
+    As the boundary between code and canvas dissolves, workflows aren't just changing—they're converging. How Alexander Kern and ✌️ Gui Seiz are shaping it at Figma
+
+7487712697493417984 | Figma | video | 15w
+    Got somewhere to be October 15? Applications for Config India are now open → https://lnkd.in/g78ADPpS
+
+7488679454139928576 | Figma | video | 33w
+    Introducing: a new properties panel and annotations in Figma Make Directly edit your designs and prototypes built in code. Rolling out this week for *new* Make files (existing Makes coming soon) → https://figma.bot/4xcUUn3
+
+7489084145005076480 | Figma | text | 39w
+    Figma MCP server workflows to try with Figma Slides → from designer advocate, Mallory Dean FigJam → from product manager, Prasant Lokinendi Figma Make → from product designer, Iris Lin Figma agent → from product manager, Yarden Chanel Katz
+
+7490076065118318592 | Figma | video | 25w
+    🗂️ Projects └🗂️ Are now └🗂️ Folders └🗂️ (We won) └🗂️ Rolling out over the next few weeks Behind the rebuilding of folders → https://lnkd.in/gEP3_2wz
+
+7490499474566520833 | Figma | image | 4w
+    Q2 earnings tomorrow. $FIG
+
+7491608312829112320 | Figma | text | 21w
+    You think you know but you have no idea: behind the visual identity of Config 2026 with our Brand Studio team
+
+7493019130820898816 | Figma | image | 10w
+    Multi-edit watching me change “Sign up” to “Continue” 37 times
+
+7493710842517929984 | Figma | video | 35w
+    /You-can-now-create-and-use-skills-without-leaving-Figma → Create a skill with Figma agent → Publish a skill to Community → Save other skills from Community and try them using the “/” command Try 10 of our favorite skills → https://lnkd.in/gtFx6xdR
+
+7493796908512129024 | Figma | video | 5w
+    Turned 14 years old today
+
+7494061359819595777 | Figma | video | 25w
+    When we say wrap it up, we mean Pretty and Balance (available now) → Pretty: avoids a single stranded word → Balance: distributes text evenly
+
+7494136194901987328 | Figma | text | 14w
+    Class is in session with Laurie Pressman, Vice President of the Pantone Color Institute
+
+7496310429502029825 | Figma | video | 21w
+    How to create a kinetic type plugin with product designer, Jamie Haberman Watch the full Show Your Work episode → https://figma.bot/SYWJamie
+
+7496660583795290113 | Figma | text | 8w
+    Mind if we drop some silly little thoughts

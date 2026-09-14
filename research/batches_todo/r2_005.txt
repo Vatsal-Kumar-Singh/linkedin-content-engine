@@ -1,0 +1,214 @@
+# batch 005  -  70 posts  -  label per research/CLASSIFICATION-PROTOCOL.md
+# labels: problem exploration requirements selection validation consensus
+#         recruitment culture event product-news csr unclear
+# write research/labels/r2_005.tsv as: <id><TAB><label>
+
+7384334983966011392 | Gorilla 76 | image | 40w
+    Two hours into a three-hour workshop at MTForecast, and Director of Accounts Brendon Forrest looks happy. This guy loves positioning. Thanks for hosting Gorilla at #MTForecast this week, AMT - The Association For Manufacturing Technology! -- Joe Sullivan #industrialmarketing #positioningframeworks
+
+7386767047625621504 | Gorilla 76 | text | 0w
+    
+
+7386818744552972288 | Gorilla 76 | text | 30w
+    Looking good, Joe Sullivan! Thanks to the AMT - The Association For Manufacturing Technology crew for allowing us to be take the stage at this event for two years running.
+
+7388601644235616257 | Gorilla 76 | video | 73w
+    We think the best design work comes from out of collective inspiration. At Gorilla 76, @Randall Zaitz and his team of creatives lean in. "Working with writers, developers and strategists, pushing you in different directions, and allowing for that influence to happen leads to better work." And it's the type of work we love doing. Check out Randall's bio video and get a glimpse of how he's shaped Gorilla over his 11-year tenure.
+
+7389396987261095937 | Gorilla 76 | text | 34w
+    It's true. We call it the book benefit. The Slack channel where Gorillas share their takeaways gets a lot of love already, but we're always open to recommendations on what we should read next!
+
+7394399841625333761 | Gorilla 76 | video | 54w
+    Congratulations to Allen Fennewald on his recent promotion to associate content director! From client work to leadership to his regular hosting spot on Industrial Marketing Collective Live, Allen puts in the work. He embodies Gorilla's core values day in and day out. Check out his bio video to get to know him better. 👇
+
+7396551509766877185 | Gorilla 76 | link | 56w
+    We're adding a strategist to our team! 👇 This position is responsible for developing modern marketing programs that deliver meaningful business outcomes for our clients in the B2B manufacturing space. If you or someone you know would enjoy in a role like this: 1. connect with Jon Franko 2. dive into the job description ➡️ https://lnkd.in/g9Kh_Ams
+
+7396925216259678208 | Gorilla 76 | text | 106w
+    Most manufacturers do have some level of thoughtful positioning; unfortunately for most, it's collecting dust. Tomorrow at 10 a.m. CDT on IMC Live, Gorilla's own Brendon Forrest 🪖🦍, Allen Fennewald and Peyton Warren will unpack why your message might not be landing (and what to do about it). You'll learn: ✅ The two types of positioning problems: undefined vs. unimplemented  [...]  define your positioning — use it. Find the registration link in the comments below. Industrial Marketing Collective #imclive
+
+7399142370220548096 | Gorilla 76 | image | 51w
+    Even as a distributed team, we're always looking for opportunities to gather together. Shout out to the Gorilla behind the camera, Jenny, whose recent visit to STL sparked this one. Grateful for a team that enjoys each other's company. Grateful for our clients that make it all possible. Happy Thanksgiving 🦃
+
+7401266338217848832 | Gorilla 76 | video | 111w
+    It's pretty incredible how much can unfold in four years. Today we're celebrating Director of Accounts Brendon Forrest 🪖🦍 and his impact on this team. Since we made this video back in 2022, Brendon has earned promotions (at Gorilla and with the Minnesota Army National Guard), deployed to the Middle East for a second time, and watched his kids grow  [...]  for doing it here at Gorilla. Happy 4th #Gorillaversary! P.S. You can read Brendon's full bio here: https://lnkd.in/gG33hNts
+
+7402076366198013953 | Gorilla 76 | text | 189w
+    Industrial marketers are under pressure to “use AI,” but the real challenge isn't adoption. It's using it well. On this week's IMC Live, we're sharing how our team approaches generative AI with strategy, ethics and practical structure. Not templates. Not shortcuts. A framework. Here's what we'll unpack: 𝐖𝐡𝐲 “𝐬𝐡𝐨𝐰 𝐦𝐞 𝐬𝐨𝐦𝐞𝐨𝐧𝐞 𝐞𝐥𝐬𝐞'𝐬 𝐰𝐨𝐫𝐤𝐟𝐥𝐨𝐰” 𝐢𝐬 𝐭𝐡𝐞 𝐰𝐫𝐨𝐧𝐠 𝐬𝐭𝐚𝐫𝐭𝐢𝐧𝐠 𝐩𝐨𝐢𝐧𝐭 Copy/paste AI  [...]  Marketing Collective Peyton Warren Allen Fennewald Brendon Forrest 🪖🦍 Maya Harrington Stephanie Daniels Kevin McClary #generativeai #industrialmarketing #IMCLive
+
+7404576405843542019 | Gorilla 76 | multi-image(3) | 73w
+    A few of us are in Connecticut this week for our second shoot of the year with Northwood Machine. The last one turned into a case study with one of their Michigan customers. This time, we're making a product video for the Raptor 32, a CNC sawjet that cuts with both a stone saw and a water jet. Pretty slick. Thanks for having us out, Northwood team. 📷: Wes Temple 🎥: Nick Tacony
+
+7407890779009945600 | Gorilla 76 | image | 69w
+    We love hitting launch on a client's new website, especially when they're as wonderful to work with as SDMS Robotics. From the copy and the design all the way through the development, alignment on the vision from the SDMS team shined here. Now it's time to put this asset to work. 👏 Design: TJ Sheridan Copy: Grace Halverson Development: Rui Huang Strategy: Wes Temple Project management: Annie Dohle DeMartino
+
+7413629043809615872 | Gorilla 76 | link | 90w
+    We're proud that we've been able to call Sarah Olson a Gorilla for two years now. As a content strategist and writer, she's produced podcasts, drafted countless articles, penned case studies and pushed us all to lean into a well-placed infographic. Beyond client work, Sarah went the extra mile to support #IMCLive's continuous production, ran the main stage at Industrial  [...]  force. Thanks for all you do, Sarah. Gorilla is better because you're here. Read Sarah's bio here: https://lnkd.in/gz4aezCt
+
+7417988618008539136 | Gorilla 76 | image | 66w
+    Today marks two years since Maya Harrington joined the Gorilla crew. From day one, she's worked closely with our projects and client teams to support our agency-wide shift to agile methodology. She's helped launch multiple products and countless campaigns, all while driving measurable revenue for her clients. And she recently earned a well-deserved promotion to senior strategist. Congrats, Maya! Here's to the growth still ahead. 🦍
+
+7419403908424425472 | Gorilla 76 | multi-image(2) | 67w
+    Over the weekend, Peyton Warren crossed over five years with the Gorilla team. From client success to strategy to leading our own marketing efforts and organizing the Industrial Marketing Summit, she has worn many hats and worn them all well. Happy Gorillaversary, Peyton. 🦍 Photo from vault: This was Peyton's first client visit back in 2023 with Atmos Technologies to capture their Atmos Foam alternative daily cover.
+
+7427746137626968064 | Gorilla 76 | image | 52w
+    Happy second Gorillaversary to our people and business manager Jennifer Dhar. Jen, we say it often — and it's the absolute truth — we'd be lost without you. From tiny details like pre-stamping envelopes to big agency initiatives like protecting and strengthening our culture, she takes ownership and leads with kindness. #gorillaversary
+
+7429924636857073664 | Gorilla 76 | image | 38w
+    Say hello to the Gorilla 76 strategy department. 🦍 Like many of the manufacturers we work with, we run on #EOS. This screenshot is from the team's L10 last week. What do you think they rated the meeting?
+
+7432520760776331264 | Gorilla 76 | image | 58w
+    Nothing like being the first session of the day at the Midwest Manufacturers Trade Show and Conference. It's been an honor to take the stage for this event's marketing track for three years running. If you're in Branson this week, be sure to say hi to Jon Franko, Allen Fennewald and Erik Schlosser! #MAMstrong Missouri Association of Manufacturers
+
+7443398660589170688 | Gorilla 76 | video | 79w
+    Annie Dohle DeMartino has helped shape how we deliver client success — bringing structure, accountability and a focus on business outcomes to everything she touches. She's grown a lot since joining the team. And as director of accounts, so has her impact. Want a look at how she thinks about client success? Watch this video from earlier in her Gorilla  [...]  career, when she walks through her approach as a client success executive. Congrats on six years, Annie. 🦍
+
+7448406251220246528 | Gorilla 76 | video | 39w
+    Congratulations to the Hayden Industrial team on their new website! Thank you for trusting the Gorilla team to bring it to life. Design: Randall Zaitz Copy: Grace Halverson Development: Rui Huang Strategy: Aren Buresh Project management: Annie Dohle DeMartino
+
+7449471513885454336 | Gorilla 76 | image | 69w
+    March marked Wes Temple's first Gorillaversary — and he's made an impact. In just 12 months, Wes has carved out a key role in our Road Map process, working closely with Joe to improve how we kick off new client engagements. Along the way, he's delivered thoughtful strategy for his clients and earned a well-deserved promotion to senior strategist. Congrats on year one, Wes. We're glad you're here. 🦍
+
+7450539768066768896 | Gorilla 76 | multi-image(2) | 73w
+    We have two more milestones to celebrate this week: Graphic designer TJ Sheridan hit his two-year anniversary on March 18, and performance marketer Brandan Davis hit one year on March 17. Both have made their mark on Gorilla. Brandan through serious R&D in AI search and AEO. TJ by elevating our branding capabilities — including leading the new look for Industrial Marketing Summit that debuted in 2025. Team players. 🦍 Happy Gorillaversary, fellas.
+
+7495452712420061185 | Gorilla 76 | text | 161w
+    Most buyers who land on a manufacturer's website leave without filling anything out. Google retargeting is one of the cheapest ways to get back in front of them. But it can also be an easy place to blow your budget — if you're not careful. This Thursday on Industrial Marketing Collective Live, Gorilla 76 Performance Marketer Brad Litwin walks the  [...]  the room: Using Google retargeting to expand your reach" Thursday at 10 a.m. CT. #IMCL #B2Bmarketing #industrialmarketing #marketingtips
+
+7499123392504270848 | Gorilla 76 | link | 98w
+    IMC LIVE ALERT: New registration link (delete your old calendar events)! Due to technical issues, we've created a new Zoom room and registration link for all future Industrial Marketing Collective Live webinars. Everyone in the collective and newcomers who would like to attend future events, please use this new registration link: https://lnkd.in/grCqJ83f. If you're already registered, you'll first need to  [...]  and patience. We look forward to seeing everyone for our next webinar on Sept. 3! #IMCL #IMCLive #IndustrialMarketingCollectiveLive
+
+7500238121247133698 | Gorilla 76 | text | 242w
+    A new product launch is no small thing, and neither is the sales training. You know the usual drill. The product team walks the sales team through every button and every spec. Thorough and detailed. But too often, that's where it ends. That's where marketing needs to explain the who and why behind the what and how. Knowing a product  [...]  table. Just ask Stu! Join the Collective for "Developing sales trainings that actually sell." #B2BMarketing #industrialmarketing #IndustrialMarketingCollectiveLive #salestraining
+
+7501279622593036288 | Gorilla 76 | image | 62w
+    To the IMCL webinar attendees, please don't forget to register with our new link if you haven't already, and most of you probably haven't. Everyone should have received an email in the past day or two with the new registration link. We'll also post it below in the comments, just in case. Only one more hour until the next episode... #IMCL #Industrialmarketingcollectivelive
+
+7503830515595042816 | Gorilla 76 | video | 142w
+    Your sales team can know a new product inside and out and still not know how to sell it. That's where too many product launches fall short. In the latest episode of IMC LIVE, Stu Accola of Marmon Holdings, Inc. breaks down what sales training should actually cover, including: 🎯 Who to target 💬 What questions to ask 🛑 How  [...]  here: https://lnkd.in/gpv-C6Fi Or listen to the Manufacturing Marketer wherever you get your podcasts. #IndustrialMarketing #SalesEnablement #ProductMarketing #IMCLive #ManufacturingMarketing
+
+7483585769832427520 | Ironclad | video | 19w
+    Hot take: Everyone has an AI opinion Especially members of the Ironclad team. Drop yours in the comments 👇
+
+7483913421424513025 | Ironclad | image | 55w
+    Did someone say agent? 👀 42% of AI engineers at AI Engineers World Fair did. We asked 100+ engineers what they're actually working on, and agents won by a mile. Then we asked what they wanted most in their next role, and suddenly the room was divided. By the way, we're hiring engineers 👉 https://bit.ly/3NUklc4
+
+7485002953402036224 | Ironclad | image | 125w
+    July 20, 1969: A human being stepped onto the surface of the moon. The world remembers the boot print, the crackle of a radio signal, and the words that echoed across 238,000 miles of silence. We're more interested in what the world doesn't talk about. The thousands of engineers, lawyers, and logistics teams who made it possible—the people behind the  [...]  nobody puts on a plaque. There's a couple of people we'd like to introduce you to. Stay tuned.
+
+7485368515433156608 | Ironclad | image | 45w
+    The race is on 🏃💨 Divya Kalra from Intuit shared her thoughts on where enterprise AI is headed. The companies moving fastest aren't cutting corners. They're refusing to let the slowest, most manual parts of the business stay slow. Listen to the full conversation: https://bit.ly/4yzRNat
+
+7485738938339545088 | Ironclad | link | 394w
+    The best interview answer Andrew Harrison hears often starts with a project that didn't work. For Andrew, Senior Director of Engineering, technical ability is the price of entry. What moves a candidate from maybe to yes is the ability to explain a hard technical idea accurately, persuasively, and without burning 20 minutes doing it. Read his full answers: What's a  [...]  I'm always looking for candidates with a track record of meaningful ownership." And join his team 👉 https://bit.ly/3NUklc4
+
+7485801592349335552 | Ironclad | video | 23w
+    Part legal thriller, part slow-burn tragedy 🎥 The 43-comment contract has earned its limited series, and honestly the villain is the reply-all thread.
+
+7486117243794223104 | Ironclad | multi-image(8) | 44w
+    Nothing bonds a room of legal professionals quite like redlining before 10am 🙌 We took the Jurist Brunch & Learn on the road this year, and every city gave us sharp questions and real contract comments. Plus a pastry or two or eight 🥐
+
+7486482451704311810 | Ironclad | multi-image(5) | 138w
+    Meet Shivani Wadhwa, AI Intern, who's spending her summer helping build the AI contracting stack. Her day starts with an outfit check and a matcha run with the team before heading into the office. The morning is a mix of team meetings and focused time on individual projects, learning by doing alongside the engineers building Ironclad's AI products. By lunchtime,  [...]  build, grow, and contribute to the future of AI. Interested in building with us? We're hiring 👉 https://bit.ly/3NUklc4
+
+7487548153861242881 | Ironclad | image | 30w
+    Happy Monday to everyone but the redlines that didn't magically resolve themselves over the weekend. Wouldn't it be great if there was an agent for those? Oh wait. . .
+
+7487930419359813632 | Ironclad | link | 36w
+    Good news if you want to work somewhere that actually has its contracts together. Our customers are hiring—and yes, the legal and procurement teams are thriving. Check out more open roles in our community 👉 https://bit.ly/3TpkCWW
+
+7487976593638969344 | Ironclad | video | 30w
+    Procurement + legal shouldn't be a tug of war. With the right contract intelligence, it isn't. Root Inc.'s Sören Petsch on what it looks like when both teams actually win.
+
+7488262095407550464 | Ironclad | video | 47w
+    Getting to the moon took guts, brilliance, ingenuity—and Mitch 🚀 As the procurement lead who negotiated every contract, he made sure the team made it to space. Meet the man behind the mission, and Ironclad AI built for teams like his. Contracts get you there 👉 https://bit.ly/4fwW2dS
+
+7488586724751704064 | Ironclad | image | 69w
+    Introducing OpenAI x Ironclad We're connecting to the AI tools your team already uses. No matter where you work, your contract data is right there with you. With our new MCP integration, legal, sales, and procurement can ask ChatGPT natural-language questions about contracts—and get answers powered by Ironclad, the system of record where contract intelligence actually lives. ChatGPT finds it. Ironclad knows it. Learn more about the partnership: https://bit.ly/4w379Sd
+
+7488683827473760256 | Ironclad | multi-image(6) | 57w
+    Things our interns did this summer: 💻 Shipped code 🤝 Presented to leadership 🧠 Processed data ☕ Not our coffee runs Turns out when you hand smart people a hard problem instead of busywork, they run with it. Happy National Intern Day to the group making this summer a lot more fun and a lot more productive.
+
+7489005716129726464 | Ironclad | multi-image(6) | 137w
+    Meet Samuel Steinmetz, an intern on our RED team, spending the summer building alongside the team in our New York office. The day starts with coffee from the kitchen before settling in for a mix of focused work and phone booth meetings. Between coding sessions and collaborating with teammates, you'll often find Sam working from one of the office's favorite  [...]  who make the experience memorable, every day is a chance to learn, build, and grow. We're hiring 👉https://bit.ly/3NUklc4
+
+7490076186287534081 | Ironclad | image | 12w
+    When you've routed for signature 4 times and it's still not signed
+
+7490157434372771840 | Ironclad | link | 34w
+    Everyone is talking about legal tech these days—join the movement. We're hiring across engineering, product, finance, and marketing to help build AI that enterprises trust. Check out all of our open roles 👉 https://bit.ly/3NUklc4
+
+7490450708387876866 | Ironclad | video | 14w
+    When the news is this good, it's hard to get the words out. Tomorrow.
+
+7490768668205793280 | Ironclad | video | 79w
+    Your vendor contract renewed itself, but you didn't find out until three days later. Again. Every discount you negotiated, every rebate you earned, every SLA you fought for—sitting in a PDF nobody opens until the renewal alarm goes off. Ironclad for Procurement is the AI contracting solution that turns vendor contracts into commercial context, so procurement, legal, and finance can  [...]  what was agreed, where value is at stake, and what to do next. Find out more 👉 https://bit.ly/4xf3Yb2
+
+7491180806493782016 | Ironclad | image | 66w
+    It's time to start thinking of vendor contracts as a source of realized value—not static documents. Join us in conversation with Toby Yu from KPMG and and Richard Gardner from The Hackett Group Inc. for a candid conversation on turning vendor contracts into realized savings, supplier leverage, and risk you can see coming. August 13th at 10 AM PT / 1 PM ET Register now: https://bit.ly/4bA2cZJ
+
+7491534439970217985 | Ironclad | image | 28w
+    Every giant leap needed a contract first. Or two, or 10,000. Because we believe a well-written clause leads to those great moments. Contracts get you there 👉 https://bit.ly/4fwW2dS
+
+7492634779620806656 | Ironclad | video | 61w
+    History remembers the astronauts, we remember Bernice. She and her team reviewed and approved the contracts that made all systems go. No signed paperwork —> no launch. No launch —> no "one small step." Turns out the moon landing had a contracting team. Yours now has AI Contracting. Behind every great leap is a contract 🚀 Find out more 👉 https://bit.ly/4fwW2dS
+
+7492958093857783808 | Ironclad | image | 55w
+    Some milestones deserve a press release. Others deserve cake. 🎂 We're honored to be named an Inc. Magazine Inc 5000 fastest-growing private companies in America winner for 2026. Thanks to everyone who's been part of the journey—our customers, partners, and team. We couldn't have done it without you. Now, dibs on the first slice 😇
+
+7493032724153307136 | Ironclad | image | 57w
+    Introducing our Legal AI Library, where your GC's FYIs meet your actual reading list. We curated AI resources for legal teams all in one place. That means you can finally delete those 47 tabs, find exactly what you were looking for, and what you didn't know you needed to look for. Bookmark it for yourself 👉 https://bit.ly/45v9bjc
+
+7493343066322300928 | Ironclad | video | 49w
+    Root Inc. prices insurance on how people actually drive. They bring that same data-driven rigor to procurement. Since moving to Ironclad, Sören Petsch and his team have lifted procurement throughput by about 20%. Same contract, same time, same information for everyone involved. Now they're putting AI Playbooks to work.
+
+7493706663632388097 | Ironclad | image | 47w
+    Sleepmaxxers have their magnesium stack. Procuremaxxers have us. If your contracts are actually working for you—surfacing renewals early, tracking what vendors owe you, moving vendor paper at the speed of business—congrats! You're doing it. If not, that's why we built Ironclad for Procurement. Read more 👉 https://bit.ly/4xf3Yb2
+
+7493777310349840384 | Ironclad | image | 16w
+    Somewhere out there, a lawyer just moved 14 versions to trash and felt nothing but peace.
+
+7494063425887719424 | Ironclad | image | 67w
+    Procurement leaders—this one's for you. We've been hearing the same thing from teams everywhere: the savings intel is in the contracts, but actually acting on it before deadlines pass is a whole other challenge. So we teamed up with Epiq to make it easier. A practical checklist + white paper on connecting CLM to the ERP, sourcing, and AP systems your team already relies on. → https://bit.ly/4xDyfAs
+
+7495158261491560448 | Ironclad | video | 20w
+    Please, we're begging you, we can't discuss the same redline for the 17th time, we have an agent for that.
+
+7495523994666835968 | Ironclad | image | 21w
+    Now's not the time to realize you forgot to renew your jet fuel vendor's contract Contracts get you there 👉 https://bit.ly/4fwW2dS
+
+7495904877718614016 | Ironclad | video | 76w
+    Signing the contract is the easy part. It's everything that comes after, like actively managing supplier performance, enforcing the terms you negotiated, and capturing the savings you committed to, that determines whether your procurement team delivers real ROI. Toby Yu from KPMG explains to Herman Man and Richard Gardner from The Hackett Group Inc. in our latest webinar exactly how Ironclad helps build the discipline to get there. Watch the full session on demand 👉 https://bit.ly/4g3bfFg
+
+7496255814433857537 | Ironclad | image | 156w
+    Bring your stack into the proactive procurement mindset 🧘 The best contracting systems are connected to the rest of your work, saving your team from the manual processes that should've been automated yesterday—chasing approvals, re-entering vendor data, catching compliance issues too late. We built Ironclad's AI contracting to meet procurement teams where they already work. Here are 4 integrations making  [...]  to take days takes minutes. 🔗 Learn more: https://lnkd.in/eNkFXufQ Your contracts should work for you—everywhere you already work.
+
+7496633526638010368 | Ironclad | image | 55w
+    Space exploration is more than equations, data, and a whole lot of fuel. It's also every carefully negotiated step before liftoff—the vendor agreements that locked in the right partners, the contracts that managed liability, and the legal groundwork that cleared the launchpad. That countdown starts at the first clause. Contracts get you there 👉 https://bit.ly/4fwW2dS
+
+7497689266077118464 | Ironclad | text | 16w
+    One sentence horror story: you forgot to renegotiate the terms before the $300 million agreement autorenewed.
+
+7498050873491755008 | Ironclad | image | 107w
+    The best communities are built by the people in them, and Ironclad Community is proof of exactly that. Customers share what they've learned, ask questions that lead to great conversations, and offer feedback that shapes the product—that's what makes it valuable. Today we're recognizing the customers who give back. Introducing Ironclad Community Champions👇 ⭐ Rising Star: Get started, build your  [...]  programs, product roadmap access, and more. Every great community has champions. We're excited to celebrate ours. 👉 https://bit.ly/4ghO0r9
+
+7498156520409530368 | Ironclad | image | 80w
+    Paying our respects to Dolly Parton, the queen of contract negotiations—and we will always love you. When Dolly left The Porter Wagoner Show in 1974 to pursue her solo career, her exit came with a contract dispute that eventually led to a $3 million lawsuit from Wagoner. Dolly settled the dispute out of court and, in the ultimate power move,  [...]  whole experience into one of the most iconic breakup songs of all time: I Will Always Love You.
+
+7498434000106020864 | Ironclad | image | 14w
+    When all parties have finally agreed to the contract you've been negotiating for months
+
+7498798594162991104 | Ironclad | image | 93w
+    No championship team takes the field without a playbook. In-house legal shouldn't either 🏈 That's why playbook quality matters more than ever: vague or inconsistent language creates vague, inconsistent redlines. But most teams don't have a working example to build from. So we built one for you. Our Mutual NDA Playbook Example is designed with the kind of specificity that  [...]  looks like so you can build your contract playbook with ease. Get the free example playbook → https://bit.ly/3T2SOYt
+
+7499141254706819072 | Ironclad | multi-image(5) | 182w
+    Meet Jasmine Singh, General Counsel here at Ironclad, and the person making sure the legal foundation of an AI company is as strong as its product. The day starts with the commute—a rare stretch of quiet before the pace picks up. When she makes it to the office, it's time for a quick cup of tea (caffeine-free of course) before  [...]  looks like: grounded, strategic, and always a step ahead. We're hiring! Check out our open positions 👉 https://bit.ly/3NUklc4
+
+7500254766770462720 | Ironclad | multi-image(11) | 122w
+    Last week, Cladiators showed up for our first-ever Ironclad Cares Week of Service 💚 We gardened in the Presidio and the Lower East Side. We cuddled shelter animals at the Humane Society. We saved art supplies from landfill with SCRAP. We assembled hygiene kits and decorated journals for survivors at La Casa de las Madres. We packed snack kits for  [...]  made across the environment, education, food security, and animal welfare, every Cladiator brought their whole heart with them.
+
+7500593994922409984 | Ironclad | text | 19w
+    Are your contracts feeling chopped & unc? We've got agents for that so you can legalmog on the counterparty.
+
+7500961538506145793 | Ironclad | link | 168w
+    Dreamforce is almost here and we will be everywhere. If you're heading to San Francisco Sept 15–17, here's where to find us: 📍 Booth #206 at Moscone Center—swing by for live demos, swag (yes, there's a claw machine), and a pin swap worth stopping for. 🎤 Session: "Close deals faster with AI Contracting”—join Paul Edwards, Ria Montenegro, and Mike Cohen  [...]  15, 5–7 PM. See you in SF. Book a 1:1 or RSVP for the happy hour 👉 https://bit.ly/4zRmCaZ

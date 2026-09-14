@@ -1,0 +1,169 @@
+# batch 002  -  55 posts  -  label per research/CLASSIFICATION-PROTOCOL.md
+# labels: problem exploration requirements selection validation consensus
+#         recruitment culture event product-news csr unclear
+# write research/labels/002.tsv as: <id><TAB><label>
+
+7493939709690331136 | ABB Robotics | link | 20w
+    Discover how collaborative robots are helping automotive manufacturers address some of today's key production challenges. Download the ebook now: https://lnkd.in/guqmzege
+
+7494087028087738368 | ABB Robotics | video | 72w
+    Strong partnerships are built through shared experiences At this year's ABB Robotics Value Provider Conference Americas, we brought together partners from across the region to exchange ideas, strengthen relationships, and explore new opportunities for growth. Hear from Don Davis, Minuteman | Empire Automation Systems, as he shares his experience and the value of connecting with the ABB Robotics partner community. Together, we're building stronger partnerships and helping customers solve tomorrow's automation challenges.
+
+7494271756971663360 | ABB Robotics | video | 28w
+    Automation doesn't just belong in the future. It's happening now. Take a look inside our US Headquarters during the Cobot Automation Summit and see what's next in manufacturing.
+
+7494634097701621760 | ABB Robotics | video | 66w
+    … some breakthroughs start with everyday interactions. The PSYONIC Ability Hand was originally developed for prosthetic users. Today, touch and motion data generated through its real-world use is helping our researchers explore new approaches to robotic dexterity. Together with PSYONIC, we're investigating how robots can better grip, touch and adapt in dynamic environments, bringing us closer to a new generation of more versatile and capable robotics.
+
+7494981388492865539 | ABB Robotics | video | 25w
+    Looking for an easy and efficient way to search and compare the best robotics solutions for your needs? Get to it with Robotics One. https://lnkd.in/g3DAtX9d
+
+7495175203346436096 | ABB Robotics | video | 26w
+    Smarter vision. Smarter picking. 🤖 Blake Bradley from KEYENCE shares how advanced vision systems are enabling flexible small-part bin picking, including solutions using our collaborative robots.
+
+7495383880246534144 | ABB Robotics | video | 62w
+    Building the future of construction, one layer at a time! Collaborating with STAIKOS 3D GmbH from Georgios Staikos to support the construction of Germany's first 3D-printed non-residential building—the new German Red Cross (Deutsche Rote Kreuz) headquarters. Powered by the IRB 6700 robot, this milestone project showcases how advanced robotics bring unprecedented speed, flexibility, and sustainability to modern architecture. Find out more: https://lnkd.in/d4yqHFw4
+
+7495891413986074624 | ABB Robotics | video | 56w
+    At the US Cobot Summit, Tom Fuhlbrigge , Co-founder and CEO of Scalable Robotics, showcased how its user-friendly programming platform helps customers quickly create complex robotic paths for ABB robots, making advanced automation more accessible and efficient. Watch the video to learn how ecosystem collaboration is helping manufacturers solve challenging applications with greater speed and simplicity.
+
+7495923629852049408 | ABB Robotics | video | 35w
+    Automotive automation accelerates! 🏭🤖 Our survey shows: • 31% increasing robotics investment • 33% prioritize cost control • 34% cite energy costs Smart factories are now essential, not future ambitions. Download the survey results: https://lnkd.in/gv_SMcGR
+
+7496069089656791040 | ABB Robotics | video | 35w
+    What does 200% productivity growth look like? Manual picking --> 625 automated orders/hour 99.9% accuracy guaranteed This is what happens when you rethink fulfillment from the ground up, with smart robotics! Find out more: https://lnkd.in/g9hjmJE6
+
+7496525357844439040 | ABB Robotics | video | 72w
+    Some of the most promising advances in robotics can start with something remarkably human: interaction. Together with PSYONIC, we're exploring how touch and motion data generated through real-world use of the Ability Hand can inform new approaches to robotic dexterity. By translating insights from human-object interaction into robotics research, we're investigating how machines can grip, sense and adapt with greater precision — helping bridge the gap between human capability and industrial innovation.
+
+7497253813972701185 | ABB Robotics | link | 43w
+    Maximize uptime, minimize downtime. ⚙️ With our OptiFact™ and its new Robot Diagnosis dashboard, you can monitor factory health in real time, make proactive maintenance choices, and increase production time by up to 20%. Keep your automated lines performing at their best: https://lnkd.in/gbMxww6E
+
+7497570973085417472 | ABB Robotics | video | 91w
+    Beach, sauna, gym, hiking trail... where would you put an ABB robot? 👀 With the free RobotStudio® AR Viewer app, you can place our robots anywhere using augmented reality and bring it into your world. How to join: ✅ Download the RobotStudio® AR Viewer app: iOS 👉 https://lnkd.in/eWYhiv-r or Android 👉 https://lnkd.in/em5PDBPJ ✅ Open AR Mode and choose a robot  [...]  in the comments or via DM 📸 The more unexpected, the better. Where will your robot show up?
+
+7497646498143191040 | ABB Robotics | video | 29w
+    Hypertherm Ventures showcases from cutting to gouging and beveling, with our one cobot platform can support multiple plasma applications. Precision, flexibility and ease of use, all in one solution.
+
+7497672833813155840 | ABB Robotics | text | 43w
+    The future of travel catering lies in the seamless convergence of robotics, AI vision, and real-time operational data. Through our strategic collaboration with gategroup and Swiss Engineering Partners AG, we are driving the transition from traditional catering operations to fully automated, high-precision environments.
+
+7497970660124786688 | ABB Robotics | text | 44w
+    For decades, industrial automation has focused on repeatability. The next chapter is adaptability. Together with PSYONIC we explore the potential of advanced robotic dexterity, leveraging our robotics expertise with AI and human-generated data to unlock a new era of more capable and adaptable automation.
+
+7498248115880194049 | ABB Robotics | video | 69w
+    The best insights come from those driving automation every day What makes the ABB Robotics Value Provider Conference Americas so valuable? It's the opportunity to connect, exchange ideas, and learn from one another. In this testimonial, Robert Battaglia from NūMove Robotics & Vision, shares his experience at the conference and why collaborating with fellow partners and the ABB Robotics team helps create new opportunities for customers and business growth.
+
+7498378941737426944 | ABB Robotics | link | 68w
+    Vision accuracy alone is not enough in high precision manufacturing. Reflection, low texture and frequent changeovers can disrupt how vision results translate into robot targets, paths and cycle-time requirements. With RobotStudio® HyperReality, these execution risks can be validated earlier, before they reach the production line. Explore how ABB Robotics and NVIDIA Robotics are advancing deployment readiness for Industrial Physical AI in our joint white paper: https://lnkd.in/drxQKP-N SKAIIntelligence 亚信科技
+
+7498709992615624704 | ABB Robotics | video | 49w
+    Everyday actions carry extraordinary complexity. For PSYONIC Ability Hand users, every grip, touch and movement generates valuable touch and motion data. Together with PSYONIC, we're exploring how these insights can help robots better handle delicate, irregular and variable objects. Let's tackle one of the biggest challenges in robotics today.
+
+7498738141080522752 | ABB Robotics | video | 175w
+    Inspiring the next generation of engineers and roboticists 🤖 We are proud to be collaborating with Detroit-based charity SAY Detroit helping bring robotics and automation into the hands of young people who could one day shape the future of our industry. SAY Detroit does incredible work creating pathways to success for children across the city, providing after-school programs and motivational  [...]  at SAY Detroit. We can't wait to show you what we've been working on! Watch this space. 👀🤖
+
+7499090018544726016 | ABB Robotics | video | 62w
+    A strategic global collaboration with Roche Diagnostics USA to integrate physical AI and autonomous robotics into clinical laboratories worldwide. By automating routine sample prep, intralogistics, and pathology slide handling, this collaboration addresses critical industry workforce shortages and elevates operational throughput. Automating repetitive tasks enables laboratory professionals to dedicate their expertise to high-value diagnostic analysis, ultimately accelerating medical decision-making and patient care outcomes.
+
+7499337556212256770 | ABB Robotics | text | 13w
+    Never stopped and still on going. 🚀 Are you part of the journey?
+
+7500160226403459072 | ABB Robotics | link | 58w
+    Can the AMR F712 be both highly productive and exceptionally safe? Absolutely. Our F712 is equipped with: 🔹 Integrated safety features 🔹 360° coverage through advanced laser scanners 🔹 Adaptive operation in dynamic environments 🔹 Compliance with global safety standards Discover how the AMR F712 deliver the confidence to automate safely while protecting people, assets, and operations. https://lnkd.in/dAyPs4k8
+
+7500502368715792384 | ABB Robotics | image | 135w
+    By 2030, one in five jobs is expected to undergo significant change as technology and automation capabilities advance*. And preparing students that future will require more than theory. They need hands-on training with tech tools that are used at work. The RobotStudio® for Education license is the student and teacher-friendly version of our popular robotics programming software. With access to  [...]  accessible. Click on the link below to get your free RobotStudio for Education license today! 👉 https://lnkd.in/e5DQ6KTT *https://lnkd.in/eXRQi6zk
+
+7500568169653248000 | ABB Robotics | video | 65w
+    What happens when repetitive tasks in Automotive industry are automated? Operators gain the freedom to oversee the entire production line, focus on optimization, and create more value. With our GoFa™ cobot, Brimind - a leading sensor manufacturer reached up to 97% productivity while delivering stable quality and near-zero scrap in AC sensor assembly. Discover how safe, flexible automation is empowering both people and production. https://lnkd.in/eFpHMuWT
+
+7500882284020002817 | ABB Robotics | image | 61w
+    🏎️ The best robots don't retire. They modernize. In racing, even the fastest car needs a pit stop to stay ahead. Robotics is no different. Modernization can help you: 🔧 Extend asset life ⚡ Boost performance 🛡️ Reduce obsolescence risk 🏁 Adapt to what's next Plan the pit stop. Stay ahead of the race. 📥 Download our Robotics Modernization Playbook: https://lnkd.in/e6CDTy4x
+
+7501253717187371008 | ABB Robotics | video | 163w
+    We've all seen self-driving cars But have you heard of a self-driving lab? Meet Dunia Innovations, a Berlin-based company using AI and ABB robots to accelerate materials discovery. At Dunia's self-driving lab in Berlin, AI acts like the scientist's co-pilot, learning from every trial in the experiment and proposing new formulations or protocols to follow. While AI is the brain  [...]  are putting their thoughts into action. Watch the video below to learn more. https://lnkd.in/ecqFQhJj Find out more: https://lnkd.in/eEg6B-t2
+
+7501524765485031424 | ABB Robotics | image | 29w
+    Whether it's changing demand, workforce gaps, or a customized cell, use our new interactive guide to find the right machine tending solution for your scenario. Access our Guidebook https://lnkd.in/eUkfHmni
+
+7501599404164894720 | ABB Robotics | text | 62w
+    Cybersecurity at the top of the manufacturing agenda, a documentary rethinking how we build homes, GoFa™ helping BMW Group Plant Steyr keep things moving, and 625 automated orders an hour at Nespresso. August was a busy one. Oh, and an ABB robot that's ready for a change of scenery. 🤖 Catch up on everything in the latest edition of Robotics Insider. 👇
+
+7501655424518033408 | ABB Robotics | image | 124w
+    🏁 In racing, the fastest car doesn't stay competitive by standing still. Neither does a robot. A robot may still be mechanically productive years after installation, but the technology around it can quickly move on. Changing production demands, shorter product cycles, cybersecurity, connectivity, new regulations and emerging technologies like AI all put new demands on existing automation. That's where modernization  [...]  you already have continues to deliver business value. 🏎️ Keep the robots in the race. Keep improving. https://lnkd.in/eTHRtM5t
+
+7502682821866708992 | ABB Robotics | link | 34w
+    Great welds come from expertise, but consistent welds come from expertise powered by automation. By integrating our GoFa cobot, Mesekon is improving weld quality, boosting productivity, and keeping pace with rising customer demand. https://lnkd.in/gmk5FDGX
+
+7502732545986494464 | ABB Robotics | video | 75w
+    The Mercedes-Maybach SL 680 Monogram Series is the first model to be finished with our award-winning PixelPaint technology, now running at the Mercedes-Benz AG plant in Sindelfingen. PixelPaint applies paint through a print head instead of spraying it. There is no overspray, so every drop lands on the car. No masking, no rework, no paint lost to the air. That precision is what makes individual finishes like the Monogram Series possible on a production line.
+
+7503104823517532161 | ABB Robotics | video | 72w
+    A mistake in simulation costs you an afternoon, but the same mistake on the line will cost you a full shift. RobotStudio® is where you teach robots their jobs even before turning them on. Program, test and validate an entire cell virtually, then deploy with absolute confidence of it working work. From welding cars to constructing buildings - everything can be virtually programmed on RobotStudio®. Try it free for 30 days https://lnkd.in/gJdNZCEt
+
+7503346516770619392 | ABB Robotics | link | 42w
+    Is your collaborative robot application ready for what's next? ISO 10218:2025 introduces important updates that make safety, cybersecurity, and deployment processes more structured for modern robotic systems. Download the E-book for a deep dive into requirements, implications and recommended next steps. https://lnkd.in/eWaHt9Qz
+
+7503372898355724288 | ABB Robotics | image | 194w
+    🤖 Your Questions Answered LIVE! Join us on September 22nd for an interactive webinar on Robotics Modernization – hosted by Vanessa Loiola with expert insights from Jan Šindler, Global Product Manager Upgrades and Remanufacturing. Discover flexible, affordable strategies to modernize your aging robotic systems and extend their lifecycle. Learn real-world use cases, boost efficiency, and unlock new capabilities! But here's  [...]  9:00 AM / India 7:30 PM / China 10:00 PM / Japan 11:00 PM Register: https://lnkd.in/eTUFixSH #ABBRobotics #Modernization
+
+7503443003336753152 | ABB Robotics | video | 36w
+    Building the future of housing. ABB Robotics and Horizon Legacy have completed Canada's first neighbourhood of homes built using onsite robotic 3D concrete printing, helping make construction faster, smarter, and more sustainable. Find out more: https://lnkd.in/ew5v6R5Q
+
+7503773229233201152 | ABB Robotics | video | 41w
+    One question. Many perspectives. 🎤 We asked what Physical AI means to them, and their answers paint a fascinating picture of where robotics and AI are headed. What would your answer be? Andie Zhang Maja Hadžiselimović Karović Laura Crompton Stefan Weirich
+
+7504102194695020544 | ABB Robotics | video | 69w
+    Speed up dispensing without compromising quality. Unlike conventional dispensing systems, our Integrated Dispensing Function Package (IDFP) maintains consistent bead quality regardless of process speed. Automotive OEMs and Tier1 suppliers can increase throughput while ensuring accurate, repeatable, and high-quality dispensing for gluing, sealing, coating and precise battery assembly applications. ✅ Faster production ✅ Consistent bead quality at any speed ✅ Less material waste ✅ Reliable process performance Learn more: https://lnkd.in/eAVU-MXZ
+
+7376269174362505216 | Accenture Song | video | 298w
+    Digital isn't going anywhere—but people are seeking something more. They're rediscovering the depth of real-world connection. Accenture's Life Trends 2025 explores how brands can show up in more grounded, human ways—and what it takes to lead the shift. Read the full report: https://accntu.re/4mBvBFz [Video Description: The video opens with a dog running splashing through a lake with copy at the  [...]  in real life. How about you? Let us know the best moment of YOUR week in the comments.”]
+
+7379138017174712321 | Accenture Song | link | 56w
+    Our research shows that long wait times, ineffective tech, and companies prioritizing cost over quality support are common pain points. In fact, 87% of customers say one bad experience can make them leave a brand for good! But companies can turn things around. Learn 3 key actions to improve customer service and build lasting loyalty. https://accntu.re/4gT7lgW
+
+7382467284688224256 | Accenture Song | link | 307w
+    Creativity is no longer a department, it's a growth engine. 🚀 And AI isn't replacing it. It's rewiring what it's for. 🤯 At SXSW Sydney, our CEO Ndidiamaka Oteh will explore how AI is challenging long-held assumptions about creativity, innovation, and leadership. In a world where silos are breaking and expectations are rising, she'll reflect on what it takes to  [...]  14 October at 08:00 in Room C 3.2, Accenture Innovation Gallery, ICC. The background features purple glowing visuals]
+
+7384611191886610434 | Accenture Song | video | 139w
+    Agentic AI is redefining how enterprises sell, market, and serve. At #Dreamforce 2025, our CEO, Ndidiamaka Oteh, and Sara Porter discussed how it enables sales reinvention by aligning teams, data, and goals to drive more connected, enterprise-wide growth. Learn more: https://accntu.re/4hcI9SR #DF25 [Video Description: Two women, Sara Porter and Ndidi Oteh, are having a conversation outdoors at a busy event.  [...]  Porter – Sales Excellence and Client Success – Global Lead, Ndidi Oteh – Accenture Song Global – CEO.]
+
+7387130248582111232 | Accenture Song | link | 405w
+    Customer service is broken. And your customers know it. 😐 They're tired of waiting. Tired of repeating themselves. Tired of wondering why a brand that knows everything about them still can't get it right. The result? 87% will leave after just one bad experience. Fixing this isn't just about better tech or faster response times. It's about rethinking customer service  [...]  of service in the full report. Read now.” A white forward arrow appears in the top right corner.]
+
+7387499509758464000 | Accenture Song | image | 156w
+    It's official: Accenture Song is Red Dot Design Award: Agency of the Year 2025. 🏆 This award isn't won; it's earned. And we share it with every client, partner, and teammate who believes in the power of bold ideas, connected thinking, and purposeful design. It's a recognition of how we help brands grow: by aligning business readiness with customer relevance.  [...]  made of red and white swirling ribbons, positioned above the text “reddot award 2025 agency of the year.”]
+
+7389311947185504256 | Accenture Song | video | 339w
+    Choice was meant to empower beauty shoppers. Instead, it became overwhelming... too many promises, too little trust. 💔 Enter Noli, the AI-powered, multi-brand beauty marketplace founded and backed by L'Oréal Groupe. In collaboration with Accenture, Noli is turbocharging its growth and optimization while pioneering the next generation of AI-driven consumer experiences in beauty. And it's working. 92% of users walk  [...]  soft light against a beige background, then fading into a white screen displaying the full black Noli wordmark.]
+
+7393684184940220417 | Accenture Song | video | 258w
+    What if your brand could make high-impact, on-brand content before your morning coffee gets cold? ☕️😎 At #AdobeMAX 2025, our CEO Ndidiamaka Oteh joined Adobe and a global community of creatives to explore how generative AI is changing the way we create. Tools like Adobe Firefly Foundry, along with integrations with Google and OpenAI, are helping brands bring ideas to  [...]  a 3D sea turtle breaks through the wall, followed by a closing frame with the Adobe Firefly logo.]
+
+7394411597869260801 | Accenture Song | video | 316w
+    Did you know more than 1 million tons of plastic enter Indonesia's oceans each year? Project STOP, co-founded by Borealis and Systemiq Ltd. in partnership with the Indonesian government—is tackling this challenge by helping establish sustainable, circular waste management systems that protect the environment and create green jobs. Together, we developed the Project STOP Banyuwangi Hijau App, a digital solution  [...]  the word "STOP" spelled out in trash and a logo for Project STOP, and co-founders Borealis and Systemiq]
+
+7395133307195121664 | Accenture Song | multi-image(4) | 226w
+    What happens to creativity when technology learns to imagine? At #Intersections2025, Nick Law, our Global Creative Strategy and Experience Lead, offered a perspective that challenged easy answers. AI, isn't a replacement for human creativity, it's a reflection of it. Culture creates technology, and technology, in turn, reshapes culture. The dialogue between the two is where growth truly happens. Growth isn't  [...]  showing a curve linking two black-and-white portraits labeled “systematic” on the left and “empathetic” on the right. ]
+
+7398711211258716160 | Accenture Song | multi-image(4) | 108w
+    This holiday season, customer confidence is taking a hit, but why are shoppers hesitant to purchase? Our research found many consumers feel overwhelmed by the amount of product choices out there, making 85% of shoppers more likely walk away from their shopping carts due to indecision. The 2025 Holiday Shopping Survey shows how Gen AI is helping retailers bring back  [...]  2025 Holiday Shopping Survey. Stats appear beneath colorful paper patterns highlighting spending, in-store trends, and Gen AI use.​]
+
+7416878089370144768 | Accenture Song | link | 133w
+    The model broke when we stopped charging for the one thing machines can't learn: creativity. 🤯, Read what's next 👇 - Ndidiamaka Oteh on how CMOs must reclaim their seat as growth engines, not costs. https://accntu.re/4pGMUXo - Nick Law on why creativity is the only asset AI can't automate. Stop giving it away. https://accntu.re/4pvQvat - Dan Garrison on why the  [...]  Engine" theme, four diverse leaders, executive quotes, media publication logos, and a call to action to read more.]
+
+7417551132685881345 | Accenture Song | video | 138w
+    AI reflects what we feed it. For 20 years, Dove has fed the world a different idea of beauty: real, diverse, imperfectly human. 🕊️ Now, that legacy is teaching machines to see women differently too. The Dove Code, created by our Droga5 São Paulo team, won nine Effies and a three Lions at Cannes, including a GP in Media, for  [...]  other brands' idealized standards. The #KeepBeautyReal campaign reached 5 billion impressions and influenced companies to update AI policies.]
+
+7421919567461011456 | Accenture Song | link | 152w
+    How do you sell a material that transforms invisible light into heat? 🌞 Sumitomo Metal Mining Co., Ltd. faced exactly that with SOLAMENT™ : a near-infrared absorbing material with real applications, but no way for people to grasp what it actually does. Droga5, part of Accenture Song, made one move: build a jacket that proves it. No down insulation. Just  [...]  to heat. Lifestyle and product shots with purple Accenture Song branding and text about innovation and prototype impact.]
+
+7429882632173428738 | Accenture Song | video | 121w
+    If your watchlist needs a jolt, Hawkins is calling. 🔥🔥 For Stranger Things' final season, our VFX team augmented the WSQK radio station, built full-CG corridors, and delivered driving comps that fuse live action with digital environments. With streaming racing toward $330B by 2030, invisible VFX isn't just craft; it's the brand promise audiences expect at home. Every flame, every  [...]  bus, suburban chase sequences, and tense nighttime moments around a vehicle marked "Hawkins Hitmaker," demonstrating visual effects capabilities.]
+
+7432771473192353792 | Accenture Song | link | 124w
+    61% of global banking customers have stayed with their main bank for +7 years. Not always out of enthusiasm, often out of habit. ⏳ Gen AI lowers the effort to compare, manage and switch across banking products and processes, accelerating disruption across every banking journey. The banks that see this coming are redesigning experience from the “outside‑in,” centered on customer  [...]  65% statistic about customer openness to GPT-like financial assistants, ending with a call to explore the full report.]
+
+7434630707873734656 | Accenture Song | video | 118w
+    🌊 Every year, 75,000 km of ghost nets are lost to our oceans, killing hundreds of thousands of marine animals. Finding them has been the hard part; until now. Sonar data that could locate ghost nets already exists, buried in archives from pipeline surveys, research expeditions, naval scans. Reviewing it manually takes too long. So, we partnered with WWF Deutschland  [...]  don't always demand new technology. They demand we connect what we already have. Read the full story: https://accntu.re/408o9sH

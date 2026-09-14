@@ -1,0 +1,214 @@
+# batch 012  -  70 posts  -  label per research/CLASSIFICATION-PROTOCOL.md
+# labels: problem exploration requirements selection validation consensus
+#         recruitment culture event product-news csr unclear
+# write research/labels/r2_012.tsv as: <id><TAB><label>
+
+7487862211168727040 | Ramp | video | 46w
+    BREAKING: Any business headquartered in Canada can now use Ramp to manage spend, pay bills, and close the books with ~lightning speed~ CAD and USD spend. Provincial tax coding. Cross-border bills. All on one platform. Just as our finance and accounting ancestors foretold. Learn more: https://lnkd.in/gerTwmZx
+
+7488624482916556802 | Ramp | video | 49w
+    Integrations lovers rejoice: today we're relaunching the ✨Ramp Technology Partner Program ✨ 3 ways in: - Refer customers and earn when they choose Ramp - Build an integration and get discovered by 70,000+ businesses - Use Ramp's APIs to bring financial automation into your product Explore the program: https://lnkd.in/d8vz-ufz
+
+7490103599071465473 | Ramp | video | 111w
+    Ramp is now available in ChatGPT Work 🤌 with 100+ new tools to help you get real finance work done from the AI workspace you already use. You can *deep breath* analyze spend, review approvals, track bills, payments, and procurement, manage cards, funds, and budgets, and even fix expenses missing receipts, memos, or accounting details. Some lil prompts to get  [...]  The Rainbow Goblins 46 times last night and I can barely open my eyes.” Get the plugin: https://lnkd.in/ezYYE_nj
+
+7490425082033553408 | Ramp | video | 144w
+    Infinity Home Services runs 20+ local construction companies across the US and Canada. On a busy day its flagship, Infinity Exteriors, makes around 200 purchases across more than 40 job sites, on margins that run 3–7%. So IHS moved the accounting to the field. Crews code spend to the job at the point of purchase, it syncs to Acumatica, and  [...]  savings insights See how they built it and the three decisions any construction finance team can borrow: https://lnkd.in/ejDjwiwt
+
+7490447716586795009 | Ramp | image | 54w
+    BREAKING: the one and only Scott Galloway is officially joining our OnRamp 2026 speaker lineup. On September 29, the NYU Stern professor, serial entrepreneur, and iconic host of Prof G will share his mid-year predictions, his read on the social and economic forces shaping business, and what to watch out for. Register now: https://lnkd.in/eYfz8siP
+
+7490470371251544064 | Ramp | link | 54w
+    Swipe to see what customers are saying about our new Token Spend Management product 🥹 Huge thanks to Christy Schwartz (Opendoor), Greg Cooley (AngelList), Cody Norton (Daxko), Lilja Gylfadottir (Salient), and Neusha Sayadian (Sansa Services) for sharing how your teams are saving time & money. Get started for free (no Ramp card required): https://lnkd.in/eN3N6J7B
+
+7490592476626571264 | Ramp | text | 35w
+    Receipts that get thrown away without being scanned by Ramp are sent to expense report purgatory There they remain, crumpled and confused for all of eternity Do the right thing. Let us set them free
+
+7492682688588554240 | Ramp | video | 74w
+    Boris Cherny, the Creator and Head of Claude Code at Anthropic, dove headfirst into the AI sauce with our CTO Rahul Sengottuvelu and Staff Engineer Austin Ray. We're talkin' ~ building for the models that are coming, not those that already exist ~ giving every engineer uncapped access to intelligence + guardrails that make it work ~ comparing notes on Claude Code setups It's a treasure trove of insights. Enjoy the full convo: https://lnkd.in/dNvXFHsR
+
+7492693775698382849 | Ramp | video | 2w
+    8.11. ElevenLabs
+
+7492777352947539969 | Ramp | video | 29w
+    What Is Ramp Labs? Who are the mad lads behind it? What does all this mean for the future of finance? Redpoint has answers. Enjoy the full video: https://lnkd.in/eEfiZFFk
+
+7492960778455781376 | Ramp | video | 25w
+    ElevenLabs scaled to an $11B company with a 10-person finance team by keeping spend, payments, and control in one place. This is their story: https://lnkd.in/eXyU-k5P
+
+7493025971164389377 | Ramp | image | 30w
+    Ramp and Gusto are bringing the people + spend sides of business closer together, so small teams can spend less time stitching disparate systems together. More on the partnership: https://lnkd.in/emPXg7Aw
+
+7493301554159206400 | Ramp | image | 31w
+    Xerocon here we XeroCOME 😮‍💨 It's all going down at booth #EP1 because it's episode 1 of your life's new season. One filled with AI finance magic. SEE YOU SOON, DENVER!
+
+7493330030681366528 | Ramp | video | 50w
+    This is your opportunity to win half a million dollars. Yes, you read that right. It's a beautiful August day. You're scrolling the best social media platform on earth (LinkedIn). So why not open up a Ramp Checking Account for a chance to win $500k? Enter the sweepstakes today: https://lnkd.in/e2aFcp8j
+
+7493776921433038848 | Ramp | video | 3w
+    DROPPING TOMORROW 🤘
+
+7494040855356391424 | Ramp | video | 34w
+    Today is Financial Awareness Day. So we made some hardcore shirts for all the hardcore fans of finance out there 🤘 😎 🤘 SPREAD THE WORD And snag yours at ramp.com/lovefinance 📷 Cian Moore
+
+7494890746873942016 | Ramp | video | 31w
+    We teamed up with Revelio Labs to study how AI adoption is *actually* impacting the job market. The results were... unexpected. Enjoy the full vid: https://lnkd.in/eTCcSYtG Ara Kharazian | Michael Pasternock
+
+7495155354994135040 | Ramp | video | 9w
+    Kumar has risen. His Method is now available: ramp.com/thekumarmethod
+
+7495487210708893697 | Ramp | link | 20w
+    Introducing the Love Finance collection. An ode to finance lovers who are hard to the core. Procure the swag: https://lnkd.in/dHhcA4Md
+
+7495509921891794944 | Ramp | video | 94w
+    Your team finds what they need on a supplier website in two minutes, then spends twenty more re-typing that cart into a request form. That pain ends today. Introducing Punchouts, now available in early access for Amazon Business and CDW. Employees shop on the supplier's own site, with your negotiated rates. The cart comes back to Ramp as a finished  [...]  already shipped. Buy from suppliers up to 4x faster. Every purchase pre-approved and auditable. 💥 Learn more: https://lnkd.in/dyWyc8zt
+
+7495683502496174080 | Ramp | text | 11w
+    Heavy is the company card that swipes the team offsite dinner
+
+7495913735715426304 | Ramp | video | 140w
+    Introducing Router.com. Built for CTOs. Loved by CFOs. People in those two roles rarely want the same thing. Engineering wants the best model for every workload, and the best model changes almost every week. Finance wants the AI bill to stop endlessly climbing. Usually you're forced to pick a side. Ramp Router is built so you don't have to. One  [...]  it's open to everyone: router.com - two lines of code, free through 2026 for everyone to get started.
+
+7496208173318672384 | Ramp | video | 17w
+    Next 5 chapters of The Kumar Method are out now. Peace and love to our opps. ramp.com/thekumarmethod
+
+7496243118707589120 | Ramp | video | 26w
+    AI spending is up 21x on Ramp. But are companies getting a return on that spend? Ramp CEO Eric Glyman gets into it on Bloomberg: https://lnkd.in/dN255s5X
+
+7496301031639851008 | Ramp | video | 32w
+    We teamed up with OpenAI: GPT-5.6 Sol is now 50% off on Router through September 18th. Route every request through whatever model is best fit for the task. Start saving at router.com
+
+7498041304627503104 | Ramp | text | 14w
+    Ramp Drops Volume 3 is out now. Enjoy the memes. And some crab rangoon.
+
+7498756268820467712 | Ramp | video | 84w
+    Daxko had 1,000+ AI licenses, but all that data lived in a separate admin console. Ramp gave them a unified view of spend, broken down by model, user, team, and API key. After just one weekly briefing, 20% of Claude spend shifted to a lower-cost model. Turns out not every task needs the most expensive model in the room. Now  [...]  and can make informed decisions with full visibility. Here's how they did it: https://lnkd.in/eXzBZ3Bi Daxko | Cody Nutt
+
+7499134957622251520 | Ramp | video | 26w
+    6 months ago Derek threw his back out at the paddle ball summit and despite auto-Ubing an XL on the company card... he's never quite recovered.
+
+7501640219822227456 | Ramp | image | 41w
+    AWS Marketplace is great, but ya know what it was missing?? That's right. Now AWS customers can use committed cloud spend to bring Ramp's AI-powered controls, invoice processing, expense coding, and more into their finance operations. Enjoy the time back. ramp.com/aws
+
+7503818381918244865 | Ramp | text | 8w
+    September 25. There will be Bills to pay.
+
+7485371636024676353 | Rippling | video | 24w
+    Is he cold blooded... or calculated? 😈 Pull real-time workforce insights and take action instantly. It's time to rule your business with Rippling AI.
+
+7485749240162463744 | Rippling | video | 74w
+    CookUnity connects world-class chefs with millions of customers. They know what it takes to create great food. But scaling a nearly 2,000-person workforce with a lean HR team? That takes an AI-first operation and the right tools to run it. With Rippling AI, their team moves faster, makes smarter decisions, and saves 2–4 hours per business partner every week without losing the human touch. Chef-crafted. AI-powered. See how CookUnity runs on Rippling ➡️ https://lnkd.in/eX6h5Fpy
+
+7487908687580336128 | Rippling | video | 27w
+    Don't leave your empire (and top talent) up to chance 🎲 Build a full talent retention strategy in a single prompt. Rule your business with Rippling AI.
+
+7488201668719910914 | Rippling | link | 70w
+    Meet Jonathan Coady, Senior Sales Development Representative at Rippling in Dublin. For Jonathan, growth is the goal. He believes that Rippling's speed is our superpower. High standards, incredible teammates, and managers who push you to be better every single day. 🚀 If you're an ambitious seller ready to fast-track your career at one of the fastest growing companies in the world, check out opportunities to join us 👉 https://lnkd.in/gcnNxyX3 #LifeAtRippling
+
+7488238230409015296 | Rippling | video | 4w
+    Overheard at SHRM 🤫😏
+
+7488595917407756288 | Rippling | link | 129w
+    📣 Today, we're introducing Rippling AI for Benefits 📣 Every benefits change an employee makes creates work for someone. Getting married and adding a spouse. Having a child. Choosing a health plan. Enrolling in life insurance. Submitting a Flex claim. All of those updates create manual work for HR. And the bigger the company gets, the more the work piles  [...]  the same employee, plan, and dependent data that already lives in Rippling. 🔗 Check it out → https://lnkd.in/esDnDjw9
+
+7488642339813531648 | Rippling | video | 51w
+    When you want to de-stress, you go to Bathhouse. When Bathhouse wants to de-stress, they come to Rippling. With Rippling AI, BATHHOUSE's HR team can onboard new hourly employees 5x faster and scale into new cities without adding headcount, freeing up their people from admin and time-consuming busywork. Learn more: https://lnkd.in/emJtiMKK
+
+7490431802923307008 | Rippling | video | 148w
+    Today, we're launching Rippling Procurement, an AI procurement platform that allows businesses to buy everything they need, from software to professional services, up to 5x faster while maximizing savings and minimizing risk on every purchase. Paired with Rippling AI, a team of AI agents can now help do the manual work most teams don't have time for: reviewing contracts for  [...]  helps you and your teams make better buying decisions with complete context of your business. Learn more: https://lnkd.in/e-r2Aih4
+
+7491055474381869056 | Rippling | image | 59w
+    Growth is great 📈 Growing pains? Not so much. As LPI Group Ireland expanded across borders, managing people became more complex. So they swapped disconnected systems for one platform that keeps HR and payroll in sync—and gave their team time back. 3 hours per new hire, to be exact ⏳ Want the full story? Read the case study: https://lnkd.in/gvBBnM8d
+
+7491161776898629632 | Rippling | video | 174w
+    Is AI spend shredding your budget? Now, you can see (and control) where it's going with AI Spend Console. Every company is adopting AI, but they lack the infrastructure to get a clear view of their AI spend and connect it back to business outcomes. By integrating usage data from OpenAI, Anthropic, and Cursor with employee data in Rippling, CFOs  [...]  ask them to redo work in code reviews? Get started for free. No Rippling subscription required → https://lnkd.in/gZ3eFM2U
+
+7492596593184038912 | Rippling | image | 185w
+    We were on pace to burn 40% of our R&D headcount budget on AI tokens, with spend growing 80% month-over-month. So we built AI Spend Console to solve our AI spending problem. In this TechCrunch article, our Chief Product Officer Matt MacInnis breaks down what we found when we actually looked: roughly 10-15% of employees were driving 60% of total  [...]  don't have to. Get started on AI Spend Console today. ➡️ Read the full TechCrunch article here: https://lnkd.in/gHU_8z_Y
+
+7492655504628961280 | Rippling | link | 4w
+    ICYMI 💸 ➡️ https://lnkd.in/ds3antr9
+
+7493214748004466688 | Rippling | link | 78w
+    Meet Daniel Boudjakdji, Sales Manager for France and Iberia at Rippling in Dublin. For Daniel, the best part is the trust to move fast and build. At Rippling, he's had the autonomy to shape go-to-market strategy, respond to the market in real time, and lead through hypergrowth. 🚀 We're hiring in Sales. If you're energized by learning constantly, room to grow, and being part of a team that wants you to succeed, read Daniel's story 👉 https://lnkd.in/g_sAgPMY #LifeAtRippling
+
+7493323283812147200 | Rippling | video | 135w
+    “We hit a breaking point. We went from a staff of 100 to 300 employees overnight. Our HR system could not handle it, and that was when we realized it was time for a new system." - Alex Pestone, Head of HR at BATHHOUSE Thanks to Rippling, Bathhouse can easily run a 400+ person workforce and continue expanding into multiple  [...]  because we're on it, I feel confident it's going to be smooth." ➡️ Read the full story: https://lnkd.in/emJtiMKK
+
+7493653256477364224 | Rippling | video | 40w
+    💥 LIMITED TIME ONLY 💥 We've collected some of the most compelling AI prompts we've seen from 20+ Rippling users and broken them down, recipe-style, so you can get cookin' 🧑‍🍳 ➡️ Grab your Rippling AI Prompt Cookbook today: https://lnkd.in/eiDPvjBE
+
+7495087067564040192 | Rippling | video | 45w
+    Yes, the rumors are true 😏 🥤If you get Berry Ripped at Corgi Cafe and spread the word, we'll get you back! https://lnkd.in/e2yzAjSv 📍 Locations: -Month of August: 9 Claude Ln, San Francisco, CA 94108 -Month of Sept: 121 E 27th St, New York, NY
+
+7495148040803201024 | Rippling | video | 32w
+    Implementing new spend policies shouldn't slow you down 🏎️ From dashboards to workflows and approval policies, just describe what you need, and Rippling AI builds it instantly. Rule your business with Rippling.
+
+7495832491522678784 | Rippling | video | 45w
+    Don't you hate it when you want your ManJones to go underwater, stack on top of each other, and make a whole wall? But you can't? Because the scuba suits weren't approved by Finance? Yeah, us too. Keep expense approvals running smoothly with Rippling 💪
+
+7496222270823055361 | Rippling | image | 158w
+    Today we're launching Rippling AI Governance. AI has quickly become a core part of how companies operate, forcing leaders to ask a slew of questions that are harder to answer than they should be: - What AI tools are our employees actually using? - What data and systems can those tools reach? - What is that costing us? - Is  [...]  usage to the employee context companies need to act. Get your AI house in order. Start here: https://lnkd.in/eRwMx9gT
+
+7496292495144738817 | Rippling | text | 45w
+    We made the Champions Quadrant, all thanks to our customers! Grateful to be named a 2026 Payroll Champion by Info-Tech SoftwareReviews. This one's built entirely on real customer feedback, so thank you to everyone who shared their Rippling stories. It means the world to us!
+
+7496590261716967424 | Rippling | video | 8w
+    Dude... did you hear what Rippling can do?
+
+7497638947427127296 | Rippling | video | 73w
+    At Rippling, growing careers starts by spotting the moments where employees and leaders are at their best, then scaling those practices across our global team - because people learn best from their leaders, their peers, and the everyday examples around them 🤝 Watch as Tahlia Spiegel, Rekha Nair, and Sarah Cannistra discuss how our "glocal" approach empowers Ripplers to do the best work of their careers 🚀 Ready to join us? https://lnkd.in/efVk_vBW #LifeAtRippling
+
+7497728678009929729 | Rippling | video | 5w
+    Someone cooked here 🧑‍🍳 🤌
+
+7498046659998912512 | Rippling | multi-image(2) | 123w
+    Rippling AI is #1 in G2's first-ever AI Agent for HR report, based entirely on customer reviews from people actually using it every day. With a 98/100 satisfaction score from 650+ reviews, customers said it better than we could: AI must be grounded in trusted data governed by existing permissions and designed to take accountable actions. Rippling had a dominant  [...]  and told G2 about it. This ranking is because of you. Test Rippling AI for your business: https://lnkd.in/dy_CpTk9
+
+7498348582123556864 | Rippling | link | 84w
+    Building at Rippling means solving problems that rarely fit inside a single workflow. For Sarthak D, Staff Software Engineer in India, that means working across live company data, permissions, integrations, automation, and native AI — and turning that foundation into products customers rely on every day. It's fast-moving, high-ownership work for engineers who want to keep learning, stretch into bigger  [...]  what they ship. 🚀 We're hiring in Engineering. Read Sarthak's story and explore open roles 👉 https://lnkd.in/g-Mq7k_D #LifeAtRippling
+
+7498434327614058496 | Rippling | video | 10w
+    AI Spend Console: The babysitter you didn't know you needed.
+
+7498729739168264192 | Rippling | image | 79w
+    📣 Spotted: Rippling on The Lenny 100 🌟 The list highlights the top companies Lenny would most want to join today: companies with exceptional talent density, ambitious problems to solve, and meaningful upside. At Rippling we're building for a massive opportunity: unifying the systems businesses rely on to manage their workforce, and bringing AI into the workflows where work actually  [...]  If that sounds like the kind of challenge you want to take on, join us 🚀 https://lnkd.in/grrSSwTm #LifeAtRippling
+
+7498771832930742273 | Rippling | video | 152w
+    Today, we're making it easy to access Rippling everywhere you work. Introducing the Rippling MCP and Rippling AI in Slack. Users can connect to the Rippling MCP from their favorite AI tool, like Claude or ChatGPT, to get instant answers from live org data, like comparing headcount and comp against budget, planning a reorg, or flagging coverage risk from an  [...]  to what that person can see and do. No separate permission layer to configure. Learn more → https://lnkd.in/ex2VR88U
+
+7499133960271233025 | Rippling | video | 105w
+    It's that time of year again! Rippling was ranked #1 in several categories in G2's Fall 2026 Reports, including: 🥇 AI Agents for HR 🥇 Benefits Administration 🥇 Employee Scheduling 🥇 HR Compliance 🥇 PEO Providers 🥇 Training Management Systems 🥇 Workforce Planning 🥇 Procurement Spend Analysis We were also named a Grid® Leader in 38 categories, and appeared in  [...]  This recognition is just as much yours as it is ours. Read why our customers love Rippling: https://lnkd.in/gXaQAnmi
+
+7499215514796339200 | Rippling | video | 34w
+    Want a cheat code for running your business? 👀 With Rippling AI, get a complete view of your org and instant answers so you can make better decisions... and level up like Corporate Bro.
+
+7500583468209405953 | Rippling | video | 137w
+    Rippling has nearly 7,000 employees and no dedicated IT team. Instead, the product team that builds our IT tools also runs IT support for the whole company. Often, that informs our roadmap. We feel the pain, and then we build. Today's launch is exactly that. Meet Rippling Helpdesk, an IT support agent that resolves tickets before they ever join the  [...]  so useful. You know what's better? When it's part of your IT stack already. See Helpdesk today: https://lnkd.in/gX4AaYDZ
+
+7500940441111072768 | Rippling | video | 85w
+    Winning companies don't run HR, IT, and Finance in silos. That's why we're excited to announce our first ever user conference: XFN XFN will show you how to run a more connected, efficient, and high-growth business. We'll announce new products, exciting platform developments, and success stories from the tens of thousands of companies that succeed on Rippling, every day. 📍  [...]  Sign up now to receive a special discount when we launch registration next month: https://lnkd.in/eiYuE-gU See you there!
+
+7503105206293897216 | Rippling | video | 79w
+    Remarkable growth simply requires remarkable people. Rippling's CPO Matt MacInnis shares the highlight of building through hyper growth: being surrounded by people who want to achieve, push themselves, and raise the bar for everyone around them. It's not an easy place to work. But for people energized by ambition, accountability, and doing the best work of their careers, it can  [...]  seriously rewarding 💪 If you want to build with people who make you better, join us: https://lnkd.in/ghnE75Cf #LifeatRippling
+
+7503152974609723392 | Rippling | image | 110w
+    There are a lot of panels during #SFTechWeek. We decided to host a roast with Tech Roast Show instead 😎 On October 7, Rippling is taking over the Herbst Theatre with Tech Roast Show: live comedy about startups, AI, tech culture, and the people building it. 800+ founders, operators, engineers & investors. Live founder roasts. Robots. Giveaways. A packed theater.  [...]  by Rippling 📍 Herbst Theatre, San Francisco 📆 October 7 RSVP → https://lnkd.in/ggDSUsDP #SFTechWeek TECH WEEK by a16z
+
+7503422067946442752 | Rippling | link | 77w
+    On this Sales team, high ownership meets real opportunity. For Ciara Buckley, that's meant growing into leadership as Sales Manager on our Global Payroll team in Dublin — and she's just getting started. From owning her territory strategy to selling a compound platform with native AI, Ciara shares why building a Sales career here is unlike anywhere else. If you're energized by autonomy, fast learning, and big opportunities to grow, you'll love Ciara's story 👉 https://lnkd.in/gHNXy2e8 #LifeAtRippling
+
+7503467672571940864 | Rippling | video | 120w
+    IT support is not for the faint of heart. It's tough out there, folks. (Matt Lombardo 👨🏻‍💻 can confirm.) Hence the name, Rippling Helpdesk is here to help. AI purpose-built for IT. That ticket queue hanging over your head? It's smaller now. Much smaller. Because all those password resets, app access requests, and device issues you were going to have  [...]  maintain. It's agentic IT support that just works. Shrink your queue right on cue. See Helpdesk today: https://lnkd.in/gX4AaYDZ
+
+7503536652804411394 | Rippling | video | 76w
+    “If Trevor planned to blow up your whole headcount model, you'd want to know, right?” With headcount planning season around the corner, stop playing phone tag and get finance and HR on the same page. On Thursday, September 17th, Kara Lehman (Talent at Town), Megg Meneguzzi (Strategic Finance at Figma), Eric Greenwood (People Ops at Rippling) and Adi Asali (Finance at Rippling) share how to align on headcount planning in the age of AI. ➡️ https://lnkd.in/gH9NAY3N
+
+7503830165207080961 | Rippling | link | 141w
+    Ah, yes. Open enrollment. Every year, benefits teams turn into part-time therapists, part-time actuaries, and full-time helpdesks for questions like "Wait, what's a deductible again?" Today that changes. Rippling is re-introducing our open enrollment experience with three new features that make the most stressful season of running benefits easier on everyone. No more rebuilding plans from scratch. Eligibility rules, coverage  [...]  reminds employees to finish enrolling.* (Again. You know who you are.) Check it out: https://lnkd.in/g_kKiSu3 *Available in October
+
+7504207881785921536 | Rippling | multi-image(7) | 57w
+    Every week, we're dropping new Rippling AI prompts to help you do better work ⚡ These 5 are used by real HR, IT, and Finance leaders to tackle everything from turnover analysis and headcount planning to checking recruiting pipeline updates in Slack. Want the exact prompts plus 100+ more ideas? 👉 Explore our AI Builders Library: https://lnkd.in/eT8QEBJD
+
+7483547952087592961 | Samsara | video | 58w
+    When a piece of equipment disappears from a job site, the ripple effect is immediate: idle crews, emergency rentals, missed deadlines, lost bids, and more. Our latest State of Connected Operations Report surveyed 1,500+ financial executives to quantify the true cost of asset shrinkage and the benefits of tracking assets of all sizes. Explore the full report: https://lnkd.in/g_5zYKcg

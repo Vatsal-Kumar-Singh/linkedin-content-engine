@@ -1,0 +1,169 @@
+# batch 005  -  55 posts  -  label per research/CLASSIFICATION-PROTOCOL.md
+# labels: problem exploration requirements selection validation consensus
+#         recruitment culture event product-news csr unclear
+# write research/labels/005.tsv as: <id><TAB><label>
+
+7495558900109168641 | Agility Robotics | image | 34w
+    Our CFO, Michael Beer, sat down with CFO Brew on what it takes to scale for the next chapter of a humanoid robotics company already at work in the field. Worth a read: https://lnkd.in/gqPCx-HT
+
+7495866063084023808 | Agility Robotics | image | 81w
+    Mapping the floor. Connecting to the network. Accounting for every button Digit has to push and every obstacle it has to route around. Training the on-site team. Handling change management before the robot ever arrives. The devil of actual deployments is in the messy details — and our Customer Acceleration Program is built around them: proof-of-technology, on-site validation, and 90  [...]  data before anyone talks about scaling. Read our full process at the link in the comments. #Agility #DigitRobot
+
+7496235733846794241 | Agility Robotics | image | 167w
+    Anyone can build a robot that looks like a person. Building one that moves like a person—that makes contact with the world and keeps its balance when the floor drops away—is a much harder problem. And it's a hardware problem. That's the throughline of a Science Magazine / American Association for the Advancement of Science paper from our co-founder and  [...]  read in full, no paywall, on our site. Read the full paper. Link in comments. #PhysicalAI #HumanoidRobotics #Agility
+
+7497689498730954752 | Agility Robotics | image | 88w
+    The technology is moving fast. The standards have to keep up. Humanoid robotics is being built at the same time as the rules for deploying it responsibly. That means the work isn't just happening in hardware and software. It's happening in standards bodies, safety architectures, customer facilities, and years of real-world deployment. Pras Velagapudi and Kevin R. explain how those  [...]  environments matters for everywhere humanoids go next. Read their perspective, Built for the Real World: https://lnkd.in/gmQUNN_w #Agility #HumanoidRobotics
+
+7497779252973563905 | Agility Robotics | text | 34w
+    Our CBO, Daniel Diez, on the labor number behind the automation debate: the problem isn't too few jobs; it's too few people for the jobs that already exist. Read more of his perspective ⬇️
+
+7498075349621227520 | Agility Robotics | image | 67w
+    We're hiring a Senior AI Software Engineer, Reinforcement Learning to help build the AI that brings Digit to life. Join our AI Controls team to develop and deploy reinforcement learning policies that enable robust, dynamic movement across locomotion, whole-body control, and manipulation. Come work on real problems in humanoid robotics and help turn what's possible into what's deployed. Apply via the link in the comments. #Agility #FutureOfWork
+
+7498102847507652608 | Agility Robotics | image | 124w
+    Humanoid robotics is moving from possibility to practical application. Agility CEO Peggy Johnson joined Bloomberg to talk about the growing demand for physical AI and what that looks like inside real industrial facilities. For Digit, that starts with straightforward, repetitive work: moving materials, handling pallets, and taking on physically demanding tasks that are difficult to staff, while people focus on  [...]  Manufacturing Canada, and Mercado Libre Watch Peggy's conversation with Romaine Bostick, CFA, and Sally Bakewell: https://lnkd.in/gGbDceGz #Agility #DigitRobot
+
+7498470267158192128 | Agility Robotics | video | 56w
+    Every joint moving at once — timing, velocity, balance compensation — is one of the harder control problems in humanoid robotics. Stress test for it? A workout class. The coordination that keeps Digit in sync is the same control that lets it handle varied loads and adapt to real conditions on the warehouse floor. #Agility #DigitRobot
+
+7498806852588191744 | Agility Robotics | image | 40w
+    What we're learning from putting robots to work — and the industry reads worth your time — in your inbox and feed every month. New to The Actuator? Start with last month's edition, then subscribe. Subscribe: https://lnkd.in/g7fFRuBk #Agility #DigitRobot #TheActuator
+
+7500229311992467456 | Agility Robotics | video | 75w
+    "There's so much hype and so much storytelling that is not connected to reality." Our co-founder and Chief Robot Officer Jonathan Hurst told Mike Rogoway at OregonLive why humanoid robotics needs to cut through the noise. The clips that go viral—backflips, dancing, races—aren't the work that pays. Digit is built for the unglamorous jobs customers actually need done, in real facilities. That's what we're focused on. Read more at the link in comments. #Agility #DigitRobot
+
+7500570183414185984 | Agility Robotics | text | 66w
+    Deployment isn't the step after the technology is finished—it is the technology. That's the argument our CTO, Pras Velagapudi, makes in this month's edition of #TheActuator. Also inside: why physical AI depends on mechanical hardware, the labor gap widening across the energy sector, and what it takes to move robots from the lab to the floor. Read the latest edition and subscribe ⬇️ #Agility #DigitRobot #FutureOfWork
+
+7500596652936744961 | Agility Robotics | image | 56w
+    We're hiring a Senior Systems Engineer to own system-level architecture and integration for Digit—requirements, interfaces, and cross-functional structure across mechanical, electrical, firmware, and software domains. 5+ years in systems engineering in robotics, aerospace, automotive, or a comparable multidisciplinary environment. Functional safety experience required. Hybrid in Fremont, CA. Apply via the link in the comments. #Agility #FutureOfWork
+
+7500931048260894720 | Agility Robotics | video | 37w
+    Every object a different size, weight, and grip. Rearranging a full room's worth of stuff is the same generalized manipulation Digit uses to take on mixed loads and changing layouts on a real warehouse floor. #Agility #DigitRobot
+
+7500993788908142592 | Agility Robotics | image | 112w
+    The hardest problem on a factory floor isn't any single station. It's the work connecting them. Between every welding cell, conveyor, and mobile robot sits a manual step: someone lifting a tote and setting it down where a fixed machine can't reach. Our CTO, Pras Velagapudi, calls these the islands of automation, and bridging them is exactly what a human-centric  [...]  right proving ground for humanoids. Read the full conversation at the link in the comments. #Agility #DigitRobot #FutureOfWork
+
+7501322520831197184 | Agility Robotics | image | 85w
+    Worth a read: A clear-eyed look from Kai Williams on where humanoid robotics really stands. Its central point is one we'd underline: a viral demo and a working robot are not the same thing. Dancing, sprinting, serving drinks—great video; none of it is the hard part. The hard part is real work on a real floor, done the same way  [...]  but it's the part that matters, and it's the problem we chose. Read the article: https://lnkd.in/gitfUjj2 #Agility #DigitRobot
+
+7503184974838194176 | Agility Robotics | image | 56w
+    We're hiring a Senior Manager, Learning from Demonstration, to tackle one of the hardest problems in humanoid robotics: teaching Digit new manipulation skills from human demonstrations. You'll drive core model development, applied AI research, and the deployment of learning-based systems on robots already operating in production facilities. Apply via the link in the comments. #Agility #FutureOfWork
+
+7503893409175097345 | Agility Robotics | image | 66w
+    Safety engineering doesn't happen in one step. Each generation of Digit has added new layers to its safety architecture, informed by what we've learned deploying robots in real industrial environments. From emergency stops and external controllers to onboard safety systems and controlled-stop functionality, Built for the Real World looks at how that work has evolved—and where it goes next. Read the full piece: https://lnkd.in/gmQUNN_w #Agility #DigitRobot
+
+7490095438952427520 | Airtable | image | 63w
+    Charlotte Pichereau's two-person ops team was drowning in Discord and Slack DMs — duplicated requests, no prioritization, no visibility into who was doing what. She replaced all of it with a ticketing system built entirely in Airtable: workload-based routing, automated email notifications, real-time progress tracking, and a built-in evaluation step before any ticket closes. Read how this Community Change Maker did it: https://lnkd.in/g9WMgn8m
+
+7490164878503247873 | Airtable | image | 68w
+    Ever feel like your team's "system" is really just five spreadsheets, a Slack thread, and a prayer? Join Connect, San Diego's 40-year-old innovation nonprofit, and fellow Airtable builders for “From Scattered to Streamlined: How to Build One Source of Truth for Your Team,” a lunch and learn for operators, team leads, builders, and anyone juggling projects, people, or workflows. 🗓️ Thursday, August 6 📍 Kiln RSVP → https://lnkd.in/gzHbQ5a9
+
+7491410335489458176 | Airtable | image | 65w
+    AI is moving from answering questions to doing actual work. But where do you start? 💡 Join our beginner-friendly session on AI in Airtable to learn how to: → Build apps using Omni and natural language → Automate analysis and content with Field Agents → Connect AI agents and MCP to your Airtable workflows 🗓 August 13 @ 10:00 AM BST, save your spot: https://bit.ly/4q1Hwjt
+
+7491436821667569664 | Airtable | video | 39w
+    The future is in the room at Airspace London, 21 Oct. Keynotes, a hands-on agentic masterclass, real customer stories, and a demo floor built for the people deciding what AI looks like inside their organization. Reserve your seat: https://bit.ly/3SiFC1h
+
+7491539925784285184 | Airtable | image | 56w
+    🏕️ Camp is almost in session. Join us for Airtable Summer Camp as our Product Managers serve as your camp counselors, guiding you through the latest features, product updates, and new ways to build with Airtable. Whether you're just getting started or you're an experienced builder, there's something for everyone. It's happening August 10–14: https://bit.ly/4fKcdpG #AirtableSummerCamp
+
+7492627591971917824 | Airtable | text | 8w
+    🏕️ Airtable Summer Camp is in session. 🏕️
+
+7492883770321162241 | Airtable | image | 71w
+    Airspace Berlin is one month out, and seats are going. 10 September at Humboldt Carré: a full day of building with the people running agents at real scale. Bring your laptop and one workflow you've been meaning to fix. Leave with something your team can run on Monday. New to Airtable? Still for you. You'll create a free account at registration and build alongside everyone else. Stop planning. Start building: https://lnkd.in/euJQRSiy
+
+7493044660064571392 | Airtable | link | 36w
+    Ready to get more out of Omni? Join us live on Aug. 18 for practical tips on better prompts, AI-powered workflows, and using Omni + Field Agents to automate your work. Register here or below: https://lnkd.in/gJ_Q42zg
+
+7493071265315004416 | Airtable | text | 32w
+    Day 1 of #AirtableSummerCamp shipped the MCP server. Vykintas Glodenis already used it to build his whole curriculum into a base, and posted the highest AI training score in Mindvalley history. 👏
+
+7493388435358027776 | Airtable | link | 73w
+    Claude is a great thinking partner. Thinking partners don't own deadlines. Ideas need owners. Analysis needs somewhere your whole team can find it. Agents need to know what data they can touch and where a human signs off. That's what a system of record does. Connect Claude to Airtable and a brainstorm becomes 10 records with owners, deadlines, and status before you've closed the browser tab. Stop copying and pasting. Start building: https://lnkd.in/erqp4u4q
+
+7493433658167681024 | Airtable | text | 16w
+    Four minutes, one Airtable base, a real app. This is exactly what Canvas is for. #AirtableSummerCamp
+
+7493762068265807872 | Airtable | image | 111w
+    A great Center of Excellence is designed with intention. On Aug. 25, join the Airtable Admin Crew for a virtual session on building a COE that scales with your organization and empowers builders across every team: ▶️ When the time is right to launch a formal COE ▶️ Admin-led models vs. champion networks, and how to choose the right fit  [...]  or evolving an existing champion network, this session will give you a clear path forward. Register here: https://lnkd.in/ej3fR7ak
+
+7494011230714503168 | Airtable | image | 48w
+    Scaling Airtable from one team to the whole company is an IT problem before it's a product problem. Join us on Thursday, Aug. 20 · 9:00 am PT / 12 pm ET, as we break down governance, operating models, and AI readiness for enterprise Airtable. Register today: https://lnkd.in/eY3Z3NjS
+
+7494068970547834880 | Airtable | link | 21w
+    That's a wrap on Airtable Summer Camp ☀️ Day 5 recap below and the full series is available here: https://lnkd.in/esSVG3s8 #AirtableSummerCamp
+
+7495133650481647617 | Airtable | link | 37w
+    10,000 certifications, all of them earned. 🎓 Every course and certification in Airtable Academy is included in your plan. Swipe to see what people did with theirs. Start your AI learning journey today with Airtable Academy: https://lnkd.in/euvPYgaF
+
+7495426802480353280 | Airtable | image | 33w
+    Come early. Build something. Airspace London opens with an optional AI Masterclass. Three hours of hands-on build time before the keynote starts. Bring a problem and leave with something running. Register today: https://lnkd.in/eptPhxKM
+
+7495566484123938817 | Airtable | video | 56w
+    We're partnering with Turing on the Frontier Fellows program — a four-month fellowship for senior leaders and domain experts (5+ years in software, medicine, law, finance, and more) who want to go deep on how AI actually gets built. Applications for the founding cohort close this Friday. Learn more about the fellowship and apply here: https://lnkd.in/eaKqm4na
+
+7495819420775333889 | Airtable | link | 34w
+    Camp's over. The good stuff isn't. Swipe through five days of Airtable Summer Camp: the MCP server, Canvas, new governance controls, and the quality-of-life upgrades you asked for. Catch up on everything: https://lnkd.in/ehvan53c #AirtableSummerCamp
+
+7496186788168974336 | Airtable | multi-image(2) | 29w
+    New in Airtable: nested timelines, auto-scheduling from dependencies, and date-dependency metadata in the API. One date change, the whole plan updates itself. Read more in the Airtable Community: https://lnkd.in/eGcFBX4P
+
+7496511952819568640 | Airtable | image | 79w
+    The hardest part of Airtable is not the advanced stuff. It is the first hour. Our "Getting Started in Airtable" on-demand webinar covers the parts that actually slow people down at the beginning: → Getting your data in and building something usable in minutes → Inviting your team with the right permissions from the start → Where to find training  [...]  you want to go deeper Under an hour, no prep required. Watch whenever you have the time: https://lnkd.in/eSm_JxFv
+
+7496555476835360768 | Airtable | image | 46w
+    Ask someone who actually shipped it. Anne Marie Rützou Bruntse runs content operations for Airtable Academy on an Airtable app she built, with a fleet of 11 agents handling triage, sprint planning, drafting, and publishing. Bring your questions and join the r/Airtable AMA next week: https://lnkd.in/ePJRQSAk
+
+7497586024554852352 | Airtable | text | 18w
+    We're excited to host our first ever Airtable Community event in Benelux! Register today to secure your spot.
+
+7497633846805450752 | Airtable | image | 38w
+    Ready to build a Center of Excellence that empowers your team? Join the Airtable Admin Crew tomorrow (Aug. 25) for a virtual session on scaling your COE, choosing the right operating model, and setting up effective governance: https://lnkd.in/ej3fR7ak
+
+7497948419320233984 | Airtable | image | 68w
+    Plenty is changing across our industry right now. What isn't changing is how our customers keep pushing us to build. On 21 October, Airspace London brings that into one room. Hear directly from our leadership team on where the product goes next, spend the morning building with Airtable and Claude, and see what other teams are shipping. What you build today will define tomorrow. Save your spot: https://lnkd.in/eptPhxKM
+
+7498140823490842626 | Airtable | video | 27w
+    Agents are only as good as the data they can act on. Join Airtable experts for a beginner-friendly intro to Omni, Field Agents, and agent-powered workflows. https://lnkd.in/gx66-X-d
+
+7498670673414762497 | Airtable | image | 28w
+    Airspace Berlin is for builders and leaders putting agents to work. 10 September, Humboldt Carré. One day to build, learn, connect. Don't wait to request your seat: https://lnkd.in/gSTmuWqg
+
+7498723523482296320 | Airtable | image | 71w
+    Omni is only as good as the base underneath it. Our latest Let's Build Live aired last week and is now on demand. We walk through the unglamorous part: naming fields so intent is obvious, structuring tables so results stay consistent, then layering Field Agents on top to automate the workflow end to end. If you have tried Omni and gotten uneven results, this is the session. Watch on demand: https://lnkd.in/gj_jRwXq
+
+7499090950451785728 | Airtable | image | 51w
+    This month's Airtable Effect newsletter covers Summer Camp's launch week, new automations you can build entirely through Slack or your AI assistant, a Change Maker who built an RPG to onboard new users, and what's coming to Airspace London in October. Read the full roundup from Airtable's Kevin Dunn, PMP®: https://lnkd.in/gbpswC5C
+
+7500172046371422209 | Airtable | image | 70w
+    Summer's ending. Airtable Summer Camp isn't. Everything we shipped is still up: 🏕️ An MCP server that builds interfaces and automations from Claude, ChatGPT, or Gemini 🏕️ Canvas: presentations, dashboards, and apps built on data you already have 🏕️ Permission sets, SSO controls, and an audit log that covers agent activity 🏕️ Staged edit forms, autoschedule, and Omni on mobile Grab a s'more and see what you missed: https://lnkd.in/eyqPtqkp #AirtableSummerCamp
+
+7500535725340250113 | Airtable | image | 66w
+    57% of enterprises have traced a wrong agent answer back to missing business context. Most agents build their own picture of a company from emails, docs, and Slack threads. That's a dozen people describing the business a dozen different ways, none of it reconciled. Cait K., our Chief Customer Officer, on four companies doing it differently: they built the system before they deployed the agent: https://lnkd.in/e45XU2gd
+
+7500590768634544128 | Airtable | link | 14w
+    Catch our livestream today! Join us on LinkedIn or watch the recording here: https://lnkd.in/gx66-X-d
+
+7500856373388148737 | Airtable | video | 55w
+    Next week, Berlin builds. Airspace Berlin lands 10 Sept. at Humboldt Carré — one day with the people actually running agents in production. Build alongside Airtable experts in the agentic masterclass. Leave with workflows your team can run on Monday. Bring your laptop and a workflow you want to fix. Spots are going fast: https://lnkd.in/gSTmuWqg
+
+7500904152714084352 | Airtable | image | 80w
+    Ever built a base to run a podcast about beans? 🫘 Airtable's Kyra Tan-Tiongco has. She's our Senior Base Optimization Specialist, and she's gone from Ask an Expert calls to end-to-end enterprise implementations to helping teams turn "How do I fix this?" into "Here's what I want to build next." She's answering your Airtable questions live on Reddit next week.  [...]  questions ready, or just come see how a bean podcast turns into a career in base architecture: https://lnkd.in/eD6MAFkh
+
+7501252691596050432 | Airtable | image | 44w
+    We migrated Airtable's realtime system onto our new multi-threaded backend. Our engineers break down the challenges of moving from a sequential to a multi-threaded model, and the next-generation database features we built to support it. Get the details in our latest engineering blog: https://lnkd.in/eZq_mwHW
+
+7501628176205488128 | Airtable | link | 30w
+    Airtable is now part of Bending Spoons. Bending Spoons' long-term approach, product expertise, and investment capacity make it a strong partner for Airtable's next phase of growth. Read more: https://lnkd.in/gFTQubAj
+
+7502709792185061376 | Airtable | image | 57w
+    Agents are only as good as the data underneath them. Wondery is a good example of why. They started with a central production database, then pointed agents at it. A 45-minute build now generates 20-30 metadata fields per episode, and Field Agents surface organic brand mentions their sales team can actually sell against. Read the story: https://lnkd.in/g3kygSE3
+
+7503068404761645056 | Airtable | link | 53w
+    AI agents don't fail because the model isn't smart enough. They fail because there's no system of record underneath them. Our new Agentic Systems Design certification teaches you to build that system: Airtable apps that work for AI agents and human users, not one at the expense of the other. Get certified: https://lnkd.in/gCRNHbHh
+
+7503403105397477378 | Airtable | image | 98w
+    We're bringing the Media & Entertainment Forum to Paris on 29 Sept. One day with the people running content pipelines, release plans, and newsrooms at scale — and a look at what it actually takes to move AI from pilot to daily operations. On the agenda: a global newsroom running editorial agents live. A world-leading agency group rebuilding its operations  [...]  a room of peers solving the same problems you are. Space is limited — reserve your seat: https://lnkd.in/gsmuy2A2

@@ -1,0 +1,169 @@
+# batch 028  -  55 posts  -  label per research/CLASSIFICATION-PROTOCOL.md
+# labels: problem exploration requirements selection validation consensus
+#         recruitment culture event product-news csr unclear
+# write research/labels/028.tsv as: <id><TAB><label>
+
+7427005189758382081 | RightHand Robotics | multi-image(2) | 78w
+    Breaking News: 10 European countries. RightHand Robotics has doubled the footprint in Europe. 🇪🇺 🌍 Our co-founder Yaro Tenzer and Head of Customer Operations Brian Campbell just got back from our annual tradition of visiting partners and customers across Europe. Nothing replaces showing up in person. We didn't get to see everyone this time. If we missed you -- let's fix that at LogiMAT in Stuttgart this March. #Hello #Hallo #Hej #Ciao #Ahoj #Hola #Bonjour #GutenTag #Hei ❤️
+
+7429551048920477696 | RightHand Robotics | image | 163w
+    Join us in welcoming Michael Gilbert, our first team member based in the UK. Michael joins us with deep experience from the customer side, where he played a key role in designing and delivering large-scale warehouse automation programs, including ASRS and other advanced e-commerce technologies. Now, he's bringing that expertise to RightHand — helping organizations automate and optimize their operations  [...]  to be a part of the journey.” Welcome to the team, Michael! 🎉 🇪🇺 🌍 🤖 #righthandrobotics #rightpick
+
+7432125249602609152 | RightHand Robotics | text | 139w
+    50% more installations year over year. More than tripled our bookings. And our partners are deploying systems on their own, no RightHanders required. Piece picking automation is accelerating, and last November we celebrated by hosting RightHand Robotics Open House. The turnout reflected the excitement in the industry, and we were thrilled to welcome so many customers, partners, and friends to  [...]  sooner, our HQ is just 15 minutes from Logan Airport in Boston, and we always love having visitors.
+
+7437862701869019136 | RightHand Robotics | image | 16w
+    Meet RHR leadership and our European team at Logimat2026 Book time here: https://lnkd.in/ebtM7sp6 LogiMAT Trade Show
+
+7439322555964100609 | RightHand Robotics | text | 52w
+    We're thrilled to team up with CMC Packaging Automation for Pick2Pack! Our AI-powered RightPick system pairs perfectly with CMC's automated packaging solutions to deliver a seamless, end-to-end piece-picking and right-sized packaging workflow. Come see it in action at LogiMAT (Booth ES55) and MODEX 2026 (Booth B8904)! #Pick2Pack #LogiMAT #MODEX2026 #Robotics #Fulfillment #Automation
+
+7439488493703053312 | RightHand Robotics | image | 23w
+    Birmingham this week. Stuttgart next week. Two shows. Back to back. Want to meet the robots? the team? Book time with us: https://lnkd.in/ebtM7sp6
+
+7447037628090200064 | RightHand Robotics | image | 50w
+    One week to MODEX! We're heading to MODEX 2026 next week (April 13-16, Atlanta). Meet the RHR team and see what's new. Book time with us here: https://lnkd.in/ebtM7sp6 And see RightPick picking in action: CMC Packaging Automation -- Booth B8904 Universal Robots -- Booth C11965 #MODEX2026 #RightHandRobotics #SupplyChain #WarehouseAutomation #Atlanta
+
+7447323766868598785 | RightHand Robotics | video | 112w
+    6 days to MODEX! Can you believe it's already been almost two weeks since LogiMAT wrapped up in Stuttgart? Time flies when you're getting ready to do it all over again. Here's Ryan McAdam, our Head of Solutions for Europe, live from the CMC Packaging Automation booth at LogiMAT -- where RightHand Robotics and CMC showcased Pick2Pack with the Genesis  [...]  is in German -- English captions included for our global community!) #LogiMAT2026 #MODEX2026 #RightHandRobotics #CMC #WarehouseAutomation #Intralogistics #Pick2Pack
+
+7447786456242241536 | RightHand Robotics | image | 79w
+    5 days to MODEX! Behind every great demo is a great team. If you stopped to talk to us at ProMat last year, you might recognize a few of these faces: Yaro Tenzer, Kevin Downing, Annie Bowlby, Brian Campbell, Jack Donahoe, Caleb Cox This year we're bringing a few new faces along, too. Come say "Hi" next week. We'll be  [...]  CMC Packaging Automation (B8904) and Universal Robots (C11965) Book time with us: https://lnkd.in/ebtM7sp6 #MODEX2026 #RightHandRobotics #TeamRHR #WarehouseAutomation #Atlanta
+
+7448129940685950977 | RightHand Robotics | video | 77w
+    What does end-to-end fulfillment automation actually look like? At LogiMAT, Yaro Tenzer walked through the Pick2Pack demo with CMC Packaging Automation. RightPick picks items from a fulfillment tote and places them into CMC's packaging machine, which builds a custom-fit box around the items. If you missed it in Stuttgart, come see it live at MODEX next week! CMC -- Booth B8904 Universal Robots -- Booth C11965 Book time with us: https://lnkd.in/ebtM7sp6 #MODEX2026 #RightHandRobotics #CMC #Pick2Pack #WarehouseAutomation #Fulfillment
+
+7448503756473856000 | RightHand Robotics | video | 89w
+    3 days to MODEX! At LogiMAT, Yaro Tenzer met with Francesco Ponti, CEO of CMC Packaging Automation, to talk about how logistics has evolved over the last decade. Francesco is a pioneer of Box on Demand packaging, and his perspective on where the industry is headed is worth hearing. His take: zero-touch fulfillment is where the industry is heading (robots  [...]  13-16, Atlanta) CMC -- Booth B8904 Universal Robots -- Booth C11965 #MODEX2026 #LogiMAT2026 #RightHandRobotics #CMC #WarehouseAutomation #Fulfillment #Intralogistics
+
+7450199607764094976 | RightHand Robotics | text | 32w
+    Pickle Robot Company consider this an official challenge. High noon at your pickle ball court. 2v2. Send your best. We're bringing ours. Anyone else want to take a shot at us? #battleofbostonrobotics
+
+7450534236866076672 | RightHand Robotics | text | 29w
+    We hope everyone has had a great week of Modex! Today is your last day to check out the Pick2Pack workflow at CMC Packaging Automation. We'll see you there!
+
+7465029800412459009 | RightHand Robotics | image | 0w
+    
+
+7467622477863657472 | RightHand Robotics | link | 53w
+    Curious about robotic piece-picking? Come learn about the real use cases, how data is shaping what's possible, and what still needs to happen for the technology to go further. Our own Annie Bowlby joins panelists from Locus Robotics and Nomagic for Automated Warehouse's free webinar tomorrow. Don't miss it: https://lnkd.in/eKJjZFP7 #robotics #warehouseautomation #piecepicking
+
+7474831984066981888 | RightHand Robotics | link | 94w
+    Physical AI is already reshaping logistics, and on July 1 we're opening our doors to the people building what comes next. Join RightHand Robotics in Charlestown for an evening with startups and investors shaping how the warehouse gets automated. We'll dig into the real debates and what's genuinely hard about physical AI in logistics, see the technology up close, and  [...]  Let us know when you register. Space is limited, so register early: https://luma.com/gd1pbw19 #PhysicalAI #Logistics #Robotics #WarehouseAutomation #Startups
+
+7478936757606957056 | RightHand Robotics | video | 66w
+    Happy 250th, America 🇺🇸 ! This Fourth of July, we asked our piece-picking robot to handle the cookout essentials — hot dogs, Cracker Jack, and (of course) a Sam Adams. Soft bags, odd shapes, a glass bottle… and they were packed gently and fully autonomously. From all of us at RightHand Robotics: here's to 250 years of American innovation! #July4th #Robotics #Automation #Warehouse #PiecePicking #MadeInAmerica #BostonTech
+
+7485951882901762048 | RightHand Robotics | video | 75w
+    You've been asking about the Apotea expansion, so here are the details. This is Apotea's new fulfillment center in Varberg, Sweden, our second site together. RightPick is helping Apotea delivering fast and predictable, reliable fulfillment as Sweden's largest online pharmacy continues to scale. One site is a project. Two is a partnership. Thank you Pär Svärdson, Sarah Ahnström and the whole apotea.se team for the continued trust and collaboration. #RightPick #warehouseautomation #roboticpicking #ecommerce #logistics #robotics
+
+7498119799416311808 | Rockwell Automation | video | 60w
+    WEFTEC is almost here, and we can't wait to connect with water professionals from across the industry! From innovative technologies and automation solutions to conversations about the future of water infrastructure, WEFTEC is where big ideas become real-world results. Stop by and see how we're helping utilities and facilities improve efficiency, reliability, and operational performance. See you at #WEFTEC: https://rok.auto/4gfne2C
+
+7498434377144631297 | Rockwell Automation | video | 101w
+    AI can help turn sustainability goals into measurable business outcomes. In our recent article with Reuters, we discuss how manufacturers are using connected data, AI, and digital technologies to drive both sustainability and operational performance, such as: ➡ Turning energy from a fixed overhead cost into an asset ➡ Using AI and machine learning to optimize resource consumption ➡ Leveraging  [...]  article to learn how manufacturers are putting these concepts into practice. https://rok.auto/4x0XGvm #industrialsustainability #AI #digitaltwin #sustainablemanufacturing #energyefficiency #resourceoptimization
+
+7498439454018236417 | Rockwell Automation | video | 61w
+    We can't wait for PACK EXPO International 2026! Visit the Rockwell Automation booth S2450 to see how manufacturers are modernizing operations, optimizing performance, and advancing toward autonomous manufacturing. This is a can't-miss opportunity to explore connected technologies across control, software, analytics, AI, digital twins, and autonomous production logistics. Learn more and register today on our event page: rok.auto/packexpo #PACKEXPOInternational #PACKEXPO2026 #consumerpackagedgoods
+
+7498734347412422657 | Rockwell Automation | video | 38w
+    Attackers often find their way into organizations through overlooked vulnerabilities, specifically unprotected endpoints. Discover the five common OT security myths and how to safeguard your environment with this blog from Cybersecurity from Rockwell Automation: https://rok.auto/4qE2Mfm #OTCybersecurity #EndpointSecurity #CriticalInfrastructure
+
+7498760565310316545 | Rockwell Automation | video | 81w
+    Scaling #MES across the enterprise is no small feat, but the rewards are transformative. Join our upcoming webinar on September 9, 2026 at 10am CT to dive into the critical role of integration, the path to AI-ready manufacturing, and real-world success stories from industry leaders. Learn how to standardize systems, activate real-time data, and build resilient, connected operations that drive  [...]  inventory accuracy. Don't miss this opportunity to future-proof your manufacturing strategy. Register now to save your spot: https://rok.auto/4gyrPM6
+
+7498782176130338816 | Rockwell Automation | link | 134w
+    We're excited to introduce TechConnectIQ℠ Support: a modern, connected support experience designed to make support easier to understand, manage and access. TechConnectIQ Support brings together digital tools, technical expertise, software maintenance and workforce enablement in a single support experience. With greater visibility into software, entitlements and support activity, organizations can spend less time navigating support and more time focusing on  [...]  issues faster, improve workforce effectiveness and gain a more connected, streamlined support experience. Learn more https://rok.auto/4i3fL8d #NewProductsROK #SmartManufacturing
+
+7498838630887542784 | Rockwell Automation | text | 45w
+    The countdown is on for Automation Fair 2026! Join us in Boston, November 16-19th and get ready to put your future in focus. In the meantime, take a few minutes to read all about the learning opportunities available to you at Automation Fair. rok.auto/4hMVi7j #ROKevents
+
+7498863696786509824 | Rockwell Automation | video | 34w
+    Learn about implementing CISA's zero trust for OT guidance in the manufacturing environment and more with Ahmik Hindman from Cybersecurity from Rockwell Automation and Insight Publications. Give it a listen: https://rok.auto/3UfISv5 #CISA #ZeroTrust #OTCybersecurity
+
+7499079875673272320 | Rockwell Automation | link | 67w
+    What's driving the future of automotive and tire manufacturing? Find out at Automation Fair. The Automotive & Tire Track is live, featuring customer voices, industry viewpoints, keynotes, summits, and technical sessions focused on the innovations shaping our industry. 👇Check it out! 🔗 https://rok.auto/4y6ZYd7 Stay tuned to the Automotive, Tire and Advanced Mobility Solutions from Rockwell Automation page for updates on the Automotive & Tire Industry Track. #ROKevents
+
+7499088816146751489 | Rockwell Automation | video | 100w
+    La transformación digital ha dejado de ser un desafío tecnológico para convertirse en un desafío de talento. El verdadero diferenciador competitivo radica en la capacidad de las organizaciones para desarrollar las habilidades necesarias para adoptar, operar y maximizar el valor de las nuevas tecnologías. Learning+ Training de Rockwell Automation ofrece una plataforma integral para el desarrollo de competencias en automatización  [...]  el video y explore cómo fortalecer su fuerza laboral a través de la capacitación continua. Más información: https://rok.auto/3T1Am2p
+
+7499107559321010181 | Rockwell Automation | video | 43w
+    When every second counts, visibility matters. The Allen Bradley Lifeline 5 Electronic E stop combines emergency stop functionality with embedded GuardLink technology, providing device-specific status and diagnostic information to help simplify installation, wiring complexity and support faster troubleshooting. Learn more: https://rok.auto/4zFcfqG #IndustrialAutomation #AllenBradley
+
+7499122155561861120 | Rockwell Automation | video | 49w
+    🔄CIS Critical Security Control Version 8.1 maintains the Top 18 structure, but with a few new enhancements to align with the modern threat and global landscape. Learn what they are, the benefits, and how to implement them with this blog from Cybersecurity from Rockwell Automation: https://rok.auto/4xs0vqc #OTCybersecurity #CISControls #RiskManagement
+
+7499179097932099584 | Rockwell Automation | video | 51w
+    Discover key insights on the future of MES! Join the discussion in our upcoming webinar to explore why integration has emerged as the critical foundation for scaling #MES and find out best practices for building resilient, connected operations that are ready for the future. Register now to save your spot: https://rok.auto/4govEVv
+
+7500153444163346432 | Rockwell Automation | video | 51w
+    Discover key insights on the future of MES! Join the discussion in our upcoming webinar to explore why integration has emerged as the critical foundation for scaling #MES and find out best practices for building resilient, connected operations that are ready for the future. Register now to save your spot: https://rok.auto/4govEVv
+
+7500252349706280960 | Rockwell Automation | video | 56w
+    The future of water and wastewater operations is being built today. Join Rockwell Automation at WEFTEC 2026 to explore solutions that help utilities improve reliability, optimize performance, strengthen cybersecurity, and gain greater visibility across their operations. Stop by booth 1317 and discover what's possible when automation, digital transformation, and operational expertise come together. Register today: https://rok.auto/4gfne2C
+
+7500267455546675200 | Rockwell Automation | video | 70w
+    🌍 OEMs, we have a webinar for you. Join us on September 22 at 13:00 - 14:00 BST | 8:00 - 9:00 AM EST and learn how you can shift from reactive to proactive when it comes to the Cyber Resilience Act with Cybersecurity from Rockwell Automation. Learn more or register: https://rok.auto/4i5e8qp #CRA #OEM #OTCybersecurity Stay tuned for other OEM updates from OEM and Machine Builder Solutions from Rockwell Automation
+
+7500290142717419521 | Rockwell Automation | video | 77w
+    When a major ERP launch is on the line, “wait and see” isn't an option, especially in a highly regulated environment. CooperSurgical strengthened product and regulatory control by partnering with Rockwell Automation and Kalypso to implement a unified PLM and RIM approach. This approach helped the team avoid ERP redeployment and launch on time in North America, while improving visibility, control, and compliance across critical data. View the full case study: https://rok.auto/4xAH928 #DigitalTransformation #ERP #PLM #EnterpriseResourcePlanning #ProductLifecycleManagement
+
+7500312777627000833 | Rockwell Automation | link | 51w
+    What time is it? It's time to register and plan your trip to Automation Fair, taking place Nov. 16-18 in Boston, MA! Learn best practices and exclusive strategies for your operations in the water/wastewater industry through sessions, summits, and off-site tours! Check out the water/wastewater track today: https://rok.auto/4qJ5DU9 #ROKEvents #WaterWastewater #DigitalTransformation
+
+7500332627460046848 | Rockwell Automation | video | 81w
+    Is it possible for manufacturers to adapt to changing customer demands, market conditions, and production requirements, without replacing existing investments? Yes, through software-defined automation. This approach helps organizations increase flexibility, simplify operations, and respond to change faster while building on what they already have. Our free eBook teaches you how software-defined automation can help you: https://rok.auto/4zPpm8Y ✅ Adapt to change  [...]  without starting over ✅ Increase efficiency through more flexible deployment models and virtual testing #softwaredefinedautomation #futureofindustrialoperations #digitaltransformation #smartmanufacturing
+
+7500415675845287936 | Rockwell Automation | link | 100w
+    Have you explored the Food and Beverage Track at this year's Automation Fair event? This industry track features immersive sessions and event experiences curated for F&B professionals. Explore the solutions and strategies helping producers improve efficiency and minimize total cost of ownership — like Agentic AI, E3D Digital Twins, and FactoryTalk Optix software. This is a valuable opportunity to explore  [...]  all things #FoodandBev, follow our industry showcase page Food & Beverage Solutions from Rockwell Automation. #ROKevents #FoodandBeverage #ConsumerPackagedGoods
+
+7500560129264885760 | Rockwell Automation | image | 63w
+    What if getting technical support was faster, smarter and more connected? Our new TechConnectIQ™ Support experience, available now for single-site customers in North America, combines AI-assisted search, digital support tools, and access to technical support engineers in one streamlined experience. Hear more from Bill Prather, Rockwell Automation's lead global product manager for production optimization, in this interview with Packaging OEM's Sarah Wynn. https://rok.auto/4ybkrxk
+
+7500579226543230977 | Rockwell Automation | link | 73w
+    Join Rockwell Automation technical experts at this year's IEEE PCIC as they share ideas that help shape the future of industrial operations. Topics include: ✅ Open architectures and OPC UA ✅ Unified power and process control ✅ Practical predictive maintenance Join us in Philadelphia to connect and learn more about these application-focused topics. Learn more about the topics Rockwell will be presenting at IEEE PCIC here: https://rok.auto/4qLuPJM #IEEEPCIC #IndustrialAutomation #DigitalTransformation #OPCUA #ProcessControl #PredictiveMaintenance
+
+7500601648910598146 | Rockwell Automation | image | 42w
+    Manufacturers like you are accelerating toward smarter, more autonomous operations in the face of growing complexity and cost pressures. Download the Gartner® CIO's Map to the Factory of the Future to see how flexibility, scalability, and resilience will shape tomorrow's factories https://rok.auto/46yeChH
+
+7500630633023455233 | Rockwell Automation | video | 52w
+    The "Visualization Deep Dive: Intelligent HMI" webinar series continues, focusing on FactoryTalk Optix architectures. In Part Two of this series, learn how FactoryTalk Optix leverages open standards for data exchange, and integrates with Allen-Bradley hardware such as PanelView Pro, OptixPanel Pro, and ASEM 6300 for a purpose built edge deployment solution. https://rok.auto/4fRfUbZ
+
+7500637642133315584 | Rockwell Automation | video | 43w
+    We're excited to be exhibiting at WEFTEC 2026 and connecting with utility leaders, engineers, operators, and industry experts from around the world. Stop by our booth to see the latest advancements from Rockwell Automation and discuss your toughest operational challenges. Register today: https://rok.auto/4gfne2C
+
+7500638121168924672 | Rockwell Automation | text | 22w
+    August flew by but brought a lot of exciting moments along the way. Check out this month's newsletter for the latest updates!
+
+7500987628079579136 | Rockwell Automation | video | 91w
+    Climate challenges require collaboration, innovation, and action. Soon, global leaders will gather for Climate Week NYC 2026, organized by leading non-profit, @The Climate Group. Rockwell Automation is proud to be part of the conversations shaping a more sustainable future for the industrial automation sector. Through advanced automation, digital transformation, and data-driven insights, we're helping organizations optimize resources, improve resilience, and  [...]  meaningful progress toward a more sustainable future. See you in NYC! https://rok.auto/4orsceB #ROKevents #ClimateWeekNYC #Sustainability #IndustrialSustainability #DigitalTransformation #FutureOfIndustrialOperations
+
+7500994771390283776 | Rockwell Automation | link | 34w
+    🚀 T-minus 2 months until we're at Automation Fair! Here's a sneak preview of the track from Cybersecurity from Rockwell Automation. Learn more about this event or register now: https://rok.auto/4iKepiJ #ROKevents #AutomationFair #OTCybersecurity #SecureOT
+
+7501031235767435265 | Rockwell Automation | video | 92w
+    In food and beverage manufacturing, every decision impacts quality and efficiency. As AI moves from pilot programs to daily operations, manufacturers are using it to turn production data into actionable insights that help teams improve quality and optimize processes. ➡️ This blog explores how manufacturers are entering the "execution era" of AI — and why trusted, contextualized data is a  [...]  our industry showcase page, Food & Beverage Solutions from Rockwell Automationge, for more F&B resources. #FoodandBeverage #SmartManufacturing #IndustrialAutomation
+
+7501057907610828800 | Rockwell Automation | video | 57w
+    Increase uptime and streamline project modifications with the Run Mode Change feature in FactoryTalk Design Workbench software version 1.01. This tutorial shows how to activate Run Mode Change, make online logic edits and update variables while the controller remains in operation. Learn how you can improve engineering efficiency by leveraging the software capabilities. Watch now: https://rok.auto/4yk221G #NewProductsROK
+
+7501262948582182913 | Rockwell Automation | video | 100w
+    El desempeño operativo sostenible comienza con el desarrollo del talento. Las organizaciones que invierten en la capacitación continua de sus equipos están mejor preparadas para afrontar desafíos, reducir tiempos de inactividad y optimizar la productividad de sus operaciones. La combinación de conocimiento técnico y acceso a tecnologías avanzadas permite transformar la eficiencia operativa en una ventaja competitiva sostenible. Con Learning+  [...]  y acelerar sus resultados. ► Conozca la solución que transforma el conocimiento en resultados reales. Más información: https://rok.auto/3T1Am2p
+
+7501277102353268736 | Rockwell Automation | video | 54w
+    Aging infrastructure. Workforce shortages. Rising energy costs. Increasing compliance demands. Water and wastewater operators face more challenges than ever, and we're ready to help. Visit Rockwell Automation at WEFTEC 2026 to see technologies and services designed to improve efficiency, reduce risk, and support more resilient operations. See you at the show! Register now: https://rok.auto/4gfne2C
+
+7501308170779426816 | Rockwell Automation | video | 37w
+    Struggling with complex I/O setups and system integration? Watch or on demand webinar to learn how the enhanced ArmorBlock 5000 I/O platform can help save engineering time, boost scalability and deliver real cost savings. Register now. https://rok.auto/4rHQodk
+
+7501362646361976832 | Rockwell Automation | link | 42w
+    We're excited to showcase the 2nd annual Automation Fair hackathon event at Automation Fair 2026! 15 teams will come together to put their problem-solving skills to the test. Stay tuned for more ROKathon updates and register for Automation Fair here: https://lnkd.in/eqXfnxxY #ROKevents
+
+7501663905182789632 | Rockwell Automation | video | 46w
+    👀 Want to stay up to date on what's affecting industrial cybersecurity? Give Cybersecurity from Rockwell Automation a follow to remain current on regulations and compliance frameworks, plus relevant solutions to help your organization stay resilient and more. Learn more about our capabilities: https://rok.auto/4xGMV2g #OTCybersecurity #SecureOT
+
+7501686803830288385 | Rockwell Automation | video | 117w
+    46% of manufacturers experienced a cyber incident in the past year, while 36% cite risk reduction as a top outcome of digital transformation, according to the 2026 State of Smart Manufacturing Report. That's why cybersecurity must be treated as an operational capability, not just a technical function. https://rok.auto/4cqk2ip In our latest blog, we explore: ➡️ Why OT cybersecurity is the  [...]  the blog to learn how manufacturers are building more secure, resilient operations. #Cybersecurity #OT #OperationalTechnology #SmartManufacturing #DigitalTransformation #IndustrialAutomation
+
+7501715807152996352 | Rockwell Automation | text | 58w
+    Sustainability is a key driver of performance, resilience, and competitive advantage across industrial operations. At Automation Fair this year, explore our sessions covering the most important topics in sustainability: AI, resource efficiency, sustainable product design, traceability, and end-to-end architectures that help manufacturers turn sustainability into measurable business outcomes. Learn more and register today: rok.auto/AutomationFair #ROKevents #sustainablemanufacturing #sustainability #AI

@@ -1,0 +1,169 @@
+# batch 016  -  55 posts  -  label per research/CLASSIFICATION-PROTOCOL.md
+# labels: problem exploration requirements selection validation consensus
+#         recruitment culture event product-news csr unclear
+# write research/labels/016.tsv as: <id><TAB><label>
+
+7501294670757408780 | Formlabs | link | 44w
+    Just 10 days until IMTS - International Manufacturing Technology Show. Book a pre-event virtual sales meeting with our team and secure your time with our experts, and we will provide you with a complimentary IMTS 2026 Expo Pass https://bit.ly/4xMOJGB. We'll see you in Chicago!
+
+7503433445264498688 | Formlabs | video | 49w
+    Big parts, bigger muscles 💪 Our sales team are getting ready for IMTS - International Manufacturing Technology Show! Book a pre-event virtual sales meeting with our team and we'll provide you with a free IMTS 2026 Expo Pass https://bit.ly/4xMOJGB - Can't wait to see you in Chicago next week!
+
+7503550475980451840 | Formlabs | image | 30w
+    Did you spot Form 4 in today's @apple Keynote? Form 4 could be seen in the background of the hardware sections of the iPhone 18 Pro and iPhone Duo announcements!
+
+7477432160283602945 | Freshworks | multi-image(4) | 56w
+    What's possible when one platform connects every team? 🤔 Instead of service being a bunch of shared inboxes and guesswork, service accelerates throughout the whole business. According to Daniel McMaster, an IT service management analyst at Amerisure Insurance, “Freshservice makes it easy to prioritize the customer experience." Here's how Amerisure Insurance did it with Freshservice: https://lnkd.in/eV3SGmbg
+
+7477780103834386432 | Freshworks | text | 66w
+    Foundation-first is how leading organizations get AI right. A CTO who mapped every initiative before touching a single workflow. Manufacturers who rebuilt from scratch instead of patching. An IT team that traded 90+ tools for one source of truth. This issue of The Works breaks down what that discipline looks like in practice, and why it's the difference between AI that performs and AI that stalls.
+
+7477804225599823872 | Freshworks | video | 78w
+    Your incident management migration just went from months to minutes. The new Signals Migrator is live! It imports your existing on-call configuration—including teams, schedules, escalation policies, and support hours into FireHydrant, a Freshworks Company. Everything lands in a migration state so you can review it before activating on your timeline. No Terraform. No risky cutover. Migrate a single team or your entire organization. Qlik, Backblaze, and Optro have already made the switch. See it in action → https://lnkd.in/gKutcFjF
+
+7478805584465608704 | Freshworks | video | 84w
+    This weekend, our customer and partner, the McLaren Mastercard Formula 1® Team, races at home at the #BritishGP. IT operations in Formula 1 aren't back office. They're on the pit wall, in the garage, and embedded in every decision made at race pace. When IT just works, the team can just focus on going racing. We're in Silverstone this week,  [...]  to see it up close. 🧡 Learn more about how McLaren Racing uses Freshservice: https://lnkd.in/evQf3DYc #Freshworks #McLaren #F1
+
+7479545442813485056 | Freshworks | multi-image(5) | 61w
+    The circuit that hosted the first Formula 1 race in 1950. 🧡 At Silverstone, our customers are getting a behind-the-scenes look at what high-performance operations really look like, from the garage to the pit wall. The McLaren Formula 1 Team makes it look effortless. Behind every seamless performance is a team, technology, and processes working in sync. McLaren Racing #BritishGP #F1
+
+7479952134998798336 | Freshworks | image | 77w
+    Meet the ghost shift: employees working outside of traditional 9-to-5 hours. New Freshservice customer data shows 47% of IT tickets arrive outside business hours. By Sunday night, the Monday queue is already full with requests for password resets, MFA unlocks, and access requests that IT teams handle every day. For a workforce that doesn't stop, AI-powered self-service handles requests and automation gives companies a way to support them. Full article on The Works via the comments 👇
+
+7480259512826802177 | Freshworks | image | 78w
+    Congratulations to our CMO, Kady Srinivasan, named to the HotTopics Global B2B CMO 100 for 2026 🎉 The list recognizes the marketing leaders shaping their organizations and the marketing profession overall - with winners nominated by their peers and judged independently. Under Kady's leadership, Freshworks Marketing has sharpened our story around our AI-powered, unified service software and quickly built brand and pipeline momentum. This recognition reflects her vision, energy, and the team she's built. Congratulations, Kady, richly deserved!
+
+7480357489201364992 | Freshworks | multi-image(7) | 70w
+    What a weekend at Silverstone 🧡 We had the opportunity to give some of our customers a front-row look at high-performance IT operations inside the McLaren Mastercard Formula 1® Team's home Grand Prix. Freshservice keeps race-weekend operations consistent, so the team can stay focused on racing. Different industries, same pressure to get IT right. Grateful to the customers and colleagues who joined us this weekend. McLaren Racing #McLarenF1 #F1 #BritishGP
+
+7480686651703468032 | Freshworks | video | 108w
+    Engel & Völkers discovered their ticket backlog wasn't a technology problem, it was a communication problem. At the Hamburg-based global real estate brokerage, a 27-person service desk handled more than 67,000 routine requests a year for a global operation, and handled them well. But when tickets required a handoff to the software development team, something broke. About 1,200 of those  [...]  handle the handoffs, and Freshservice is expanding into HR, finance, and marketing. Read the full story below 👇
+
+7480744055610658816 | Freshworks | image | 46w
+    Service Health Monitoring in Freshservice gives a unified, real-time view of business service reliability with health statuses that update automatically based on active alerts, incidents, and changes. So your IT team is one step ahead—resolving issues before the Slack messages even begin. 🔧 Learn more: https://lnkd.in/ezQiuUAK
+
+7480984231746326529 | Freshworks | video | 77w
+    Every roadmap tells a story—but the best ones are written with customers. Our European Customer Advisory Board was an incredible opportunity to connect with customers, exchange ideas, and learn from one another. The result? A deeper understanding of where service management is headed, the opportunities AI is creating, and even stronger partnerships with the people shaping the future of their organizations. Here's what they shared.👇 Dennis Woodside Ian Tickle Kady Srinivasan Murali Swaminathan Srinivasan Raghavan Sahil Sethi
+
+7481071227546107906 | Freshworks | image | 68w
+    In a recent interview with The CapTable, our CEO Dennis Woodside shared his view on software's enduring resilience, and what it will take for the industry to deliver a return on the trillions of dollars in investment. “We're seeing customers come to us for AI capability, looking for a trusted source they're already using to run their business,” he said. Catch the full conversation with The CapTable: https://lnkd.in/ehGct8PA
+
+7482456035178455041 | Freshworks | video | 54w
+    Meet Freddy AI Copilot's field auto-fill, a built-in assistant for your IT service desk! Freddy analyzes historical patterns, making recommendations to auto-suggest and populate ticket fields from priority to category directly within the workflow. Now your team doesn't have to keep chasing down context to manually fill form fields. See it in action. 👇
+
+7482865331032653824 | Freshworks | text | 64w
+    Introducing our first-ever The Works Magazine that takes on the stories shaping business performance today. The premiere issue, "The Performance Issue", goes inside a Formula 1 team's trackside IT rebuilds, a $10 billion sneaker brand's global infrastructure overhaul, and a factory floor where automations keep the supply chain moving. Plus original research on AI's "complexity tax." Download the digital version, link in the comments.
+
+7482931953927712769 | Freshworks | video | 78w
+    iQor, a global business process outsourcer, needed a solution that could: ✅ Handle high ticket volumes ✅ Integrate with their in-house systems ✅ Be AI-powered iQor implemented Freshservice and built Jenny, a conversational AI agent that handles password resets and account unlocks right inside their workflows. Fast forward: their monthly ticket volume dropped 39%. “Freshworks has provided us a platform that unifies to scale,” says Martha P., VP of IT operations excellence. Here's the full customer story: https://lnkd.in/ekDbxZRv
+
+7483521025213845505 | Freshworks | video | 75w
+    Say hello to the all-new freshworks.com 👋 The way people buy software has changed. Freshworks.com has too. Whether you're streamlining IT and employee service management or unifying your customer experience, you'll land on a view built for you. From a new homepage and product pages to dedicated AI content, refreshed pricing, streamlined trial signups, and improved demo experiences, every touchpoint has been thoughtfully designed with our customers in mind. See what's new → ➡️ http://freshworks.com
+
+7483652088183529472 | Freshworks | multi-image(2) | 76w
+    Congratulations to our CMO, Kady Srinivasan, on being named one of Analytics India Magazine's Top 24 Women Enterprise AI Leaders in India. 🎉 At Freshworks, Kady is a driving force behind our AI-era transformation. She advocates for a model where marketers “orchestrate humans and AI into one GTM organism,” bringing together parallel and interconnected workflows to deliver compounding outcomes. We're proud to see that her innovation and leadership are being recognized by AIM! Read more: https://lnkd.in/e5A7GfDC
+
+7483903566244524032 | Freshworks | text | 85w
+    This weekend, our customer and partner, the McLaren Mastercard Formula 1® Team, races at Belgium. Most IT leaders build their infrastructure once and refine it for years. An F1 team rebuilds theirs on location, in a new country, almost every week of the season. Home race or not, the standard never moves. That kind of agility – adapting fast, every  [...]  built to support: automating the race-weekend checks so the team can rebuild and go racing anywhere. McLaren Racing
+
+7484963792448266240 | Freshworks | video | 75w
+    You can modernize every system in your business, but if employees don't find it easy to use, adoption stalls before impact begins. Financial services organization Leeds Building Society focused on both. With Freshservice they achieved 70+ automated workflows, 3x faster resolution times, and 96% SLA adherence. Today, the team works smarter and faster, describing the new experience with Freshservice as intuitive and easy, with issues resolved the same day. Full story in the comments. 👇
+
+7485766016736780288 | Freshworks | text | 70w
+    This CTO who got AI right… didn't start with AI 👀 Robert Lyons of Katz Media Group cleaned his data first. Got infrastructure and governance in place. Then mapped every AI initiative by value against effort and only moved when the foundation was ready. Before deploying anything, his team defined success with a single KPI—ticket deflection—then built toward it. Check out the full interview in the link in the comments.
+
+7487581146755747840 | Freshworks | multi-image(3) | 63w
+    The network was live before the drivers arrived. The data was moving before the strategy calls started. By the time the McLaren Mastercard Formula 1 Team lined up on the grid at Hungaroring, the IT team had already done its job with Freshservice. Congratulations to the team on a phenomenal P1 result. 🧡 Proud to be the official ITSM partner. McLaren Racing #HungarianGP
+
+7488262241591468032 | Freshworks | video | 72w
+    Freshworks has been recognized as a Leader in the 2026 Gartner® Magic QuadrantTM for IT Service Management Platforms. We believe this recognition reflects our product investment, innovation shaped directly by customer feedback, and growing trust among IT leaders. Thank you to our 20,000+ Freshservice customers! As we keep building on your feedback, we're committed to giving you the visibility and control to grow with confidence. Get complimentary access to the report: https://lnkd.in/ebVfNqhM
+
+7488680824213561344 | Freshworks | text | 42w
+    Cloud, BYOD, WFH, RTO, and now AI. Each time, IT is at the forefront, absorbing the shock and leading the business through it. In this week's issue, we talk to the leaders who've lived—and thrived—through earlier periods of big change. Read more.
+
+7490394892482015232 | Freshworks | video | 37w
+    Agents shouldn't have to reinvent the wheel on every ticket. Freshservice's AI surfaces similar tickets the moment a new one comes in, so agents get context right away instead of digging through history. Take a look 👇
+
+7490836617058914304 | Freshworks | video | 88w
+    Refresh Virtual Summit is back! 🎉 Mark your calendars for Thursday, October 8 and join IT leaders from around the world for a conversation about what's next in AI-powered service operations. As organizations race to adopt AI, many are discovering that layering it onto fragmented systems only creates more operational drag. At Refresh Virtual Summit, you'll hear directly from CIOs  [...]  they've redesigned the way work moves. Register for free and join us from wherever you work best: https://lnkd.in/eEYUgz35
+
+7491181477653790720 | Freshworks | video | 89w
+    ICYMI: Freshworks has been named a Leader in the 2026 Gartner® Magic Quadrant™ for IT Service Management Platforms! For us, this recognition reinforces a clear market need. Enterprises want the depth, governance, and scale required for modern IT without the complexity and operational drag of legacy platforms. That is what we are building with Freshservice, an AI-powered, unified service operations  [...]  and scale with confidence. See what's next for IT at the Refresh Virtual Summit on October 8: https://lnkd.in/eAJtjT3V
+
+7492613287780524033 | Freshworks | image | 83w
+    We're excited to welcome Ryan Manning to Freshworks today as our new Chief Product and Technology Officer 🎉 Ryan brings deep experience building industry-leading service management products at global software companies, helping organizations navigate pivotal periods of growth and transformation. In this role, he'll lead the next phase of our product and technology strategy across AI, IT, and customer experience—advancing  [...]  that's fast to deploy, intuitive to use, and empowers every employee to be more productive. Read more: https://lnkd.in/emZ4iQPF
+
+7492829565090701312 | Freshworks | video | 115w
+    When change management goes wrong, it can impact the entire business. Picture a common IT moment: a server is running low on storage, and it needs to change, fast. That one change now needs a manager, a risk assessment, and a clear picture of everything else it touches. At Refresh NYC, Patrick Rhoads showed how Freshservice handles it in one  [...]  goes deeper into how Freshservice handles moments like this live. Grab your spot now. Link in comments 👇
+
+7492999597154344962 | Freshworks | video | 76w
+    Every company adopting AI thinks the risk is moving too slow. Wendy Turner-Williams says the opposite. “The biggest mistake isn't adopting AI too fast. It's failing to lead people through the change.” She's led AI initiatives at Microsoft and Tableau, and is now an AI transformation strategist at Brighton Jones. Her point is too many organizations are focused on tools without addressing the human and organizational shifts that come with them. Read the full conversation: https://lnkd.in/ejPiw_W2
+
+7493067535311949824 | Freshworks | text | 31w
+    IT teams have spent decades optimizing the break-fix loop. This week on The Works, we look at what it takes to close the loop and rethink what resolution means. Read more.
+
+7493281580631740416 | Freshworks | video | 73w
+    Live Oak Bank is proving that tech innovation belongs in the hands of every team, not just IT. To deliver world-class service to small business owners, Live Oak empowers its own people to solve operational challenges directly. The impact: ✅ Employees build and run their own AI agents ✅ 12 business units—including Fraud, Compliance, and Loan Ops—automate their daily workflows ✅ 3–4 hours saved per day with automated workflows Hear their story. https://lnkd.in/eacVACzB
+
+7493674227980578816 | Freshworks | text | 104w
+    Here's an AI paradox ☝️ While financial services is one of the most AI-bullish sectors around, it's also the most overwhelmed by it. Our survey of 12,000 IT leaders found that in financial services, 90% are actively using AI, yet 40% call AI-related complexity "very significant. The highest of any sector surveyed. “The organizations struggling most aren't the ones that  [...]  and governance models without a clear operating layer to connect it all.” Full story in the comments. 👇
+
+7494138187683069952 | Freshworks | video | 89w
+    AI is only as reliable as the systems and context behind it, and in sales, that affects everything from relationships to deals. "If your systems aren't talking to each other, AI can end up creating a shadow RevOps organization.” ⬅️ That's Freshworks CRO Ian Tickle on The Revenue Leadership Podcast with Kyle Norton. Don't miss Ian's full conversation with Kyle.  [...]  one go-to-market org spanning sales, customer success, and customer experience. Check out the full episode on Spotify: https://lnkd.in/eknX_QVF
+
+7495098375659323394 | Freshworks | link | 72w
+    The Manchester Metropolitan University serves 45,000 students and staff across 90 service teams, each running its own way of working. Freshservice gave them a single platform to align around, allowing every team to keep its own workflow while sharing the same visibility and metrics across the university. Martina Holubcova explains how this has changed how they work, engage, and show up for the students they serve. Read the full customer story: https://lnkd.in/ea7fN_DK
+
+7495506627962249216 | Freshworks | image | 79w
+    At a cancer clinic, the time between a system alert and a clinician losing access matters more than any SLA metric. American Oncology Network's 40-person IT team supports 140+ locations, and they can't spend that time managing their platform. With Freshservice, one administrator handles the entire environment in under two hours a week. The time they're not spending on platform  [...]  is time they have for everything else. William Keeney shares how AON's IT team manages it all. https://lnkd.in/eaFvVpUf
+
+7495894598993485825 | Freshworks | video | 78w
+    In customer support, it's rarely the complex, unique issues slowing your team down. It's the hundreds or thousands of smaller, repetitive ones. With Freshdesk's Email AI Agent, email conversations are handled automatically around the clock and built to understand what customers are asking, to carry on the conversation. Your team can: ✅ Customize AI agent tone and behavior ✅ Connect knowledge sources ✅ Set escalation and human handover rules See how Freddy AI Agent handles the busywork. https://lnkd.in/eUeQ5C3M
+
+7497621768807903232 | Freshworks | video | 59w
+    Unplanned ticket spikes shouldn't mean endless troubleshooting. 📈 With Freddy AI Insights in Freshservice, service teams can automatically surface anomalies across the service desk and drill down into the root cause in seconds. Need a custom metric or report on the fly? Just ask. Freddy AI generates real-time analytics on demand so you can focus on resolving issues faster.
+
+7498097529301966848 | Freshworks | text | 43w
+    Every enterprise needs a front door. Most don't have one, or only one. This week on The Works, we look at what happens when IT service, employee training, and AI governance all point to the same fix: one clear way in. Read more.
+
+7498364944241868800 | Freshworks | image | 52w
+    Huge congratulations to our CMO Kady Srinivasan on being named one of the Top 25 CMOs of 2026 by TechDogs 🎉 This award celebrates the visionaries redefining how homegrown and global brands alike grow, connect, and endure with Indian audiences. We're proud to see Kady's innovation and leadership recognized by Tech Dogs!
+
+7498486471864176640 | Freshworks | video | 116w
+    How do you unify IT operations after 16 businesses come together? For Northern European IT leader Fellowmind, a series of acquisitions brought significant scale, along with the challenge of integrating teams, processes, and 18 legacy systems. For the IT team, it was an opportunity to flex new muscle: unifying service delivery across regions. In the three years since consolidating numerous  [...]  one coherent platform with one data model,” says Chief of Staff Gorm Priem. Read Fellowmind's full story: https://lnkd.in/e-kWmV-5
+
+7498783731487350784 | Freshworks | video | 64w
+    What if your HR team could spend more time on people and less on repetitive tasks? With AI-powered HR service delivery. Organizations can launch custom AI agents to resolve routine requests and streamline complex employee moments. ✅ Guide agents with pre-built checklists to ensure compliance ✅ Streamline onboarding, transfers, and relocations across teams ✅ Enable self-serve documentation, e-signing, and secure storage Learn more: https://lnkd.in/e4HCDZYJ
+
+7501315560249610240 | Freshworks | video | 86w
+    What does gold-standard customer support look like in the age of AI? 🤔 We analyzed 1.2 billion support tickets across 63 industries. And here's our clearest finding: 📈 AI has moved past experimentation. 43.6% of customer support teams now use AI across their core service workflows (up from 32% last year.) 🔍 Inside: what the top 20% are doing differently  [...]  size, and region. ➡️ Consider this your cheat code to the new rules of modern customer support. https://lnkd.in/eJuNBAPG
+
+7501421370266865664 | Freshworks | video | 87w
+    From Melbourne dreams to Formula 1 speed. 🇦🇺 🏁 Oscar Piastri knows performance starts with the right team, the right technology and systems that keep everything moving at race speed. That's why McLaren Mastercard Formula 1 Team chose Freshworks as its official ITSM partner. This September, Freshworks will be at Gartner IT Symposium/Xpo™ on the Gold Coast. Come see race-speed  [...]  there, you could even take home a McLaren cap signed by Oscar Piastri 👀 McLaren Racing #F1 #OscarPiastri
+
+7502762300366360576 | Freshworks | multi-image(2) | 115w
+    We're proud to share that Freshworks has won the 2026 TrustRadius Tech Cares Award! This recognition celebrates technology companies that demonstrate a strong commitment to corporate social responsibility. For us, this award is a testament to the incredible impact of the Freshworks STS Software Academy (FSSA) program. FSSA is dedicated to empowering students from underserved backgrounds by equipping them with  [...]  day. We are committed to building a brighter, more inclusive future for the next generation of tech talent.
+
+7503111785978241026 | Freshworks | text | 126w
+    2026 AI spend: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 Tools (93%) 🟧 Training (7%) Companies are buying the tools faster than they're learning them 😳 The truth is that upskilling can't be a one-and-done line item. The AI tools change too fast for a single training session to be enough. Companies that want real returns will budget training as a standing capability, not a launch  [...]  CEO Dennis Woodside says training, not tooling, is what gets AI onto the P&L. Link in comments 👇
+
+7503552359189495809 | Freshworks | text | 75w
+    Across Europe, IT teams are overcoming centuries of institutionalized silos to create a single experience for students and staff. What they've learned is that IT can provide one front door for a consistent service experience, regardless of which team is doing the work behind the scenes. In the latest from The Works, read how The Manchester Metropolitan University, University of Aberdeen, and others are unifying IT despite centuries of institutional autonomy. Link in comments ⬇️
+
+7503933222515421184 | Freshworks | text | 28w
+    Freshworks analyzed data from 1.2 billion tickets across 33,000 anonymized accounts and identified the factors that separate CX leaders from laggards. Dive into the findings on The Works.
+
+7504239734869909504 | Freshworks | multi-image(4) | 98w
+    Cloud ✅. Mobile ✅. Remote work ✅. Return to office ✅. Now AI 🤔 Each time, IT has absorbed the shock, rewritten the playbook, and quietly taught the rest of the business how to change. As IT leaders' responsibilities have steadily increased, so has their role in driving the organization forward. Freshworks CIO Ashwin Ballal, iQor's Ryan Ferguson, MBA, PMP,  [...]  before it: prove the work, then hand over the keys. Read the full story on The Works. 👇
+
+7483551152039546880 | Gong | link | 129w
+    EVERYTHING SELLERS NEED In. One. Place. Your revenue tech stack should make selling faster and easier. That's why Gong now has 400+ integrations in the Gong Collective, plus MCP support that lets Gong reason across your tech stack. With the Gong Collective, sellers can: 🎯 Access account data and buying signals from LinkedIn Sales Navigator, Demandbase, ZoomInfo, 6sense, and MadKudu  [...]  what to do next. Less searching. Less tab switching. More selling. Learn more about the Gong Collective: https://lnkd.in/gfK-crwj
+
+7483929932193234944 | Gong | image | 132w
+    THE BEST SALES COACHING DOESN'T HAPPEN AFTER THE CALL 🗣️ It happens before the conversation ever starts. In fact, sellers are 63% more likely to be top performers when they have an effective manager, regular coaching, and effective training (RAIN Group). TL;DR: Top-performing reps don't just wing high-stakes meetings. They practice them. But most managers don't have time to build  [...]  customer conversations. Check out how leading teams are using AI to scale coaching and improve rep readiness: https://lnkd.in/gEEyMuhp
+
+7483973830336729089 | Gong | image | 7w
+    Watching The Odyssey the way Nolan intended
+
+7485007316493213696 | Gong | link | 117w
+    FEELING LUCKY? Join us at our upcoming Build vs. Buy webinar for a chance to win a ticket to Celebrate '26 in Las Vegas. ✨ Everyone's talking about whether to build AI or buy it ... Building sounds faster. Buying sounds simpler. But the wrong decision can cost your team far more than you think. Join leaders from Gong, HubSpot,  [...]  you won't want to miss this conversation. 🎟️ Save your seat here: https://lnkd.in/ge9CercQ Terms and conditions apply: https://lnkd.in/gfWCyZbq

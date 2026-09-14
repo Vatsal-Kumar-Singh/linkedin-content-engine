@@ -1,0 +1,169 @@
+# person batch 012  -  55 posts  -  research/CLASSIFICATION-PROTOCOL.md
+# labels: problem exploration requirements selection validation consensus
+#         recruitment culture event product-news csr unclear
+# write research/labels_people/012.tsv as: <id><TAB><label>
+
+7483802252093169664 | Tarun Mehta | video | 316w
+    The fourth edition of Ather Community Day is here! The idea behind these community days actually goes back to 2016. Back then, we were a startup without a product. We started Community Meetups to tell our stories and, just as importantly, learn from our owners. Those conversations shaped not just how we talked about Ather  [...]  our engineering and R&D teams. Look forward to meeting you all in Bengaluru on 29th August!
+
+7493192682215985152 | Tarun Mehta | video | 114w
+    Every year, Ather Community Day feels a little different. The first one was just a small group of Ather owners getting together. Last year, nearly 5,000 people joined us. What hasn't changed is why we do it: bringing the community together, us spending time with our riders, storytelling, showcasing the experiences and the tech our  [...]  engineering teams. On 29 August in Bengaluru. Looking forward to seeing you all there! Ather Energy
+
+7496098345527218176 | Tarun Mehta | video | 34w
+    Knock knock, Kon? We've been working on a few things differently with Konarc. Here's a little sneak peek of one of them. Volume up! Launching on 29th August at Ather Community Day. Ather Energy
+
+6810462838008635392 | Thijs Speet | link | 120w
+    DIGITALE TRANSFORMATIE: de grootste buzzterm van de laatste jaren! Nog steeds zijn we er met zijn allen nog niet over uit wat het precies betekent. Leuk om door mijn goede vriend Lodi van der Mark 馬洛迪 uitgenodigd te worden om hierover een paneldiscussie te leiden. Digitaal bij zijn? Check de ShoppingTomorrow - Pitstop op 23  [...]  Beek Neem ook deel aan de paneldiscussie(s), meld je aan via: https://lnkd.in/dPC93D6 #shoppingtomorrow #pitstop #ecommerce #paneldiscussie
+
+6815930727599767552 | Thijs Speet | text | 57w
+    The digital economy is changing faster than ever before. Interestingly enough, the firms that are supposed to help organisations adapt (aka consultants) are lagging. Dentists with decayed teeth. We think we can do better, starting with a business model that actually makes sense. No more pyramids and no more rigid models based on hourly rates. #Digital #Consultingdonedifferent
+
+6839112421961981952 | Thijs Speet | link | 88w
+    So many great insights in this episode of The Scale Lab podcast with Robert Vis (Messagebird). Some very strong opinions about the Dutch startup scene, specifically on the mentality of the founders. Even though I don't agree on every one of them (who doesn't enjoy a good "borrel" without talking business every now and then),  [...]  has proven he's right. Right? Great work: Joe Wilson Constantijn Van Oranje-Nassau Robert Vis Techleapnl https://lnkd.in/eExA76zk
+
+6846787282020655104 | Thijs Speet | text | 34w
+    De man met credo "Let succes make the noise" staat ineens op het podium. Of ja, met een kop koffie achter de microfoon. Wij van WC Eend adviseren je deze zeker eens te beluisteren!
+
+6852188777738211328 | Thijs Speet | video | 92w
+    BOOOM - After rain comes golf! After our last week #9OUT9IN round with Helen Blom, this week we managed to sneak one in with Matthijs Wardenier. Great opportunity to catch up and talk Carribbean digital, golf and get feedback on our new Golf apparel brand 9OUT9IN. Thanks Matthijs; your input and ideas are very much  [...]  the golf course, but not mandatory ;-). Who's keen to help us out? Enjoy the weekend!
+
+6915302985736552448 | Thijs Speet | text | 115w
+    I don't know about you, but I'm so keen to attend live Meetups again. Don't get me wrong; webinars were fine for a while. Sure they were very informative. Most of the time anyway. But for me, the best part of going to events has always beent the networking. Meeting new people and catching up  [...]  are considering organising live events at the ONBRDNG office ;-) #networking #webinar #events #fun #letsgooutside #ONBRDNG
+
+6959777897758760960 | Thijs Speet | link | 277w
+    BI-WEEKLY HR EVENTS COMING UP! 🎡 Happy to share that we are bringing the Dutch HR community together in Amsterdam. Last week we have launched a new Meetup group The HR Crunch - Powered by Personio. The success of any business depends on people, which is why HR is critical to business success. That's why  [...]  Iteke Koster Anita Bax Eugene-Gerard Dieteren Gabriel Martis Lukas Borsboom Quinten Lookamp Tessa Boer Toon D'Hoore
+
+6968171510515564544 | Thijs Speet | link | 102w
+    Our International Marketing team is looking for a Regional Marketing Manager to help lead our growth in the Dutch market! Is this you? This high impact role reporting to the brilliant Hollie Lemos will align with the Netherlands team on business plan goals, marketing campaigns, and lead generation. There is huge development potential for this  [...]  Reach out if you're interested. Or tag someone you think that would be interested 😃 https://lnkd.in/ef7n_wwW
+
+6987792608953540608 | Thijs Speet | link | 88w
+    "What are you going to do with the time you get back when you automate your HR processes?" EMPLOYER BRANDING! This is the answer I hear all the time when asking this question to HR managers. Employer branding is a hot topic for many companies. If you have time: Personio is organising a webinar/live discussion,  [...]  time? Maybe consider to automate your HR processes: it's time 😉 https://lnkd.in/eM2ifd_9 #hr #webinar #employerbranding #time
+
+7018904880979300352 | Thijs Speet | link | 102w
+    My team is looking for people that want to kick-start their SALES career in a fast growing international scale up. Join our Benelux Sales team! 🎉 From my experience, the biggest learnings in the beginning of your career come from: - getting responsibilities and the opportunity to make an impact - the possibility to make  [...]  to me if you are up for the job 🚀 https://lnkd.in/efr9WHsU #career #sales #team #job #opportunity
+
+7065226861437444096 | Thijs Speet | link | 10w
+    Let's talk about EVENTS baby! 🎶 https://lnkd.in/ejb5ZgPw #events #HR #Personio
+
+7189188832192274432 | Thijs Speet | text | 18w
+    Help us help our 🇳🇱 customers! What do you know about HR, Payroll and Time & Attendance compliancy?🤓
+
+7298613365524844544 | Thijs Speet | text | 3w
+    Yes please! 🙌
+
+7330244633899188225 | Thijs Speet | image | 118w
+    🎉 Got an HR superstar in your life? Time to show them some love! On August 28, we're teaming up with 7people ✨ for round two of the People & Culture IMPACT Awards — happening at the always-awesome Strand Zuid in Amsterdam. It's going to be an unforgettable evening celebrating the HR heroes who are  [...]  deserves the spotlight (yes, nominating yourself is totally acceptable)? Let's give them the recognition they've earned!
+
+7471117982296043521 | Thijs Speet | link | 167w
+    OPEN POSITION --> Solution Engineer Some roles need a person who can operate at two different altitudes. In the weeds with a prospect — fielding hard questions on security, data flows, and technical fit. Then back at 10,000 feet — shaping how the region approaches the next wave of deals and can win even more.  [...]  📍 Amsterdam (Benelux focus) | 🗣️ Dutch + English | 🧩 Solutions Engineer / Consultant https://lnkd.in/eRtaXGEZ
+
+7264940441664380928 | Tom Schwenger | image | 45w
+    Big thanks to Raimond Jaehn from BioNTech Uday Bose from Boehringer and Kieron Scrutton from GSK for sharing their approaches to #customercentricity and the key role #VaultCRM will play in their journeys. Momentum is growing! #VaultCRM #VeevaSummit Chris Moore Laura Moran Arno Sosna Matt Farrell
+
+7265390125147197440 | Tom Schwenger | image | 51w
+    That's a wrap! Much appreciation to Marco Scatigna Monzino Erica Taylor, Ph.D. Genentech Kieron Scrutton GSK for the call to action around upping our game in clinical marketing and medical collaboration. Let's get to work! Arno Sosna Pooja L. Laura Moran Avril England Dr. Christoph Bug, MD, PhD, MBA Chris Moore
+
+7303037363406929921 | Tom Schwenger | image | 38w
+    Yo Philly friends - we opened our new #VeevaRadnor office today! Stop by and say hi, grab a coffee and chat! We are now located in the 555 Lancaster Ave building next to the Radnor hotel. #innovate #collaborate
+
+7336017449483468802 | Tom Schwenger | image | 36w
+    Inspiring keynote speakers and customer panel to kick off Veeva's 2025 R&D and Quality Europe Summit. Sincere thanks to Stephanie Bova from Novo Nordisk and Vanessa Nardolillo from Recipharm. Avril England Rik Van Mol Jim Reilly
+
+7355643035445075968 | Tom Schwenger | text | 47w
+    The below post from Peter gives some great perspective on the current CRM landscape in Biopharma. Earlier today, our second Top-20 customer went live in the US market, reinforcing the speed at which the market is moving to the #VaultCRM platform. Please reach out with any questions!
+
+7366823990809559040 | Tom Schwenger | text | 34w
+    Excited to be collaborating with Amgen to enhance the overall #Clinical experience for patients. Looking forward to great discussions in Boston next week on this and many other timely #DevelopmentCloud and #QualityCloud topics. #VeevaSummit
+
+7373717361620574208 | Tom Schwenger | text | 41w
+    Sharing an update from Arno on Veeva AI in #VaultCRM. Great to see how AI use cases deeply embedded at the platform level can dramatically improve user experience and significantly increase field productivity. Click below for details! Matt Farrell Laura Moran
+
+7384592019693764608 | Tom Schwenger | link | 31w
+    Excited to announce a partnership with OpenEvidence focused on increasing patient access to clinical trials, accelerating drug discovery, and improving patient outcomes for existing treatments. Learn more here: https://lnkd.in/dY9qCtst #Veeva #OpenVista
+
+7392593146444017664 | Tom Schwenger | video | 65w
+    A sincere "thank you" to the many hundreds of life sciences commercial and medical leaders and #Veeva partners that convened in Madrid this week to learn from each other and share their experiences. I'm energized about the path ahead and look forward to many more opportunities to collaborate as we enter the next generation of the CRM journey, together. #Veeva #VaultCRM To learn more: https://lnkd.in/gJTa6CGd
+
+7404940737898868736 | Tom Schwenger | link | 48w
+    Are you interested in what the industry is saying about Veeva's newest AI agents? Please see below and click through to the quotes from #lifesciences leaders from Bristol Myers Squibb, Moderna, Novo Nordisk and others. Reach out if you have questions or want to learn more! #VeevaAI https://lnkd.in/dEHNAVs7
+
+7422635786187112448 | Tom Schwenger | text | 42w
+    Eliminating paper entry and source data verification in clinical trials has been aspirational but elusive for such a long time. Our eSource ambition is to revolutionize this process for sponsors, sites, and patients. #eSource #SiteVault #VeevaVault Jim Reilly Avril England Nick Frenzer
+
+7437165017558573056 | Tom Schwenger | text | 32w
+    Welcome Chase Feiger, M.D. and the entire Ostro team to Veeva! Excited to add new channels of #AI-driven brand engagment for patients and doctors to our Commercial Cloud. #AI #Veeva #Omnichannel #CustomerEngagement
+
+7464868393708453888 | Tom Schwenger | image | 49w
+    Philly crew ready to board our flight to R&D and Quality #VeevaSummit Europe at our new location in #Copenhagen! Looking forward to seeing many of you this week, let me know if you want to meet up. #Clinical #Regulatory #Pharmacovigilance #Quality Dave Christina John David Dana (Sisti) Sook Deb
+
+7465406111920357376 | Tom Schwenger | text | 35w
+    Announcing our next major AI innovation - agentic labor specific to #LifeSciences coming later this year. Making R&D operations more efficient, and evolving #VeevaVault to be “dual-mode”. Reach out with questions! Steve Harper #Veeva #VeevaFalcon
+
+7492905036600037377 | Tom Schwenger | image | 50w
+    Proud to announce that Eli Lilly and Company has selected Vault CRM globally to support their vision to unite caring with discovery to create medicines that make life better for people around the world. Now the work begins – patients are waiting! Announcement here: https://lnkd.in/gy9tZMaD #CRM #VaultCRM #AgenticCommercial #AI #LifeSciences
+
+7481362304656195585 | Welcome Read | image | 153w
+    Most teams set targets by guessing at the top of the funnel. There's a better way, and it starts at the other end. Start with the revenue number you actually need to hit. Then work backward through every stage between that number and today. Close rate, show rate, meeting rate, all the way up. That  [...]  guess. Have you actually run your funnel backward from the number that matters? https://lnkd.in/erx6nPZg #B2BMarketing #GTMStrategy
+
+7483174233666220032 | Welcome Read | image | 161w
+    Most B2B teams treat referrals like a nice surprise instead of a channel they run on purpose. That's backwards. Referrals convert better than almost anything else you'll run, because you're borrowing trust that already exists. Stop waiting for them to show up. Ask directly. "Do you know anyone else who'd get value from this?" is  [...]  you. Have you built a formal referral incentive, or does it stay informal? https://lnkd.in/ewGzNKUy #B2BSaaS #CustomerReferrals
+
+7484986056984018944 | Welcome Read | image | 137w
+    Stop reshooting your whole ad every time you want to test something new. Here's the shortcut nobody tells you about creative testing. Film your core ad once. The offer, the proof, the CTA, all of it. Then before you wrap the shoot, grab five or six different hooks. Different angles, different first lines, different scroll-stops.  [...]  attention. What's the last hook that surprised you with how well it performed? https://lnkd.in/epmgVrz6 #B2BMarketing #PaidSocial
+
+7486073257306198017 | Welcome Read | image | 135w
+    Rough drafts are cheap. Final builds are not. Quick prototypes and low-fidelity mockups exist for one reason. They let you get direction and make decisions while changes are still cheap. Once you commit to the final output, a website build, a video, a campaign, every change gets slower and more expensive. Feedback on a finished  [...]  usually skip the prototype step, and does it come back to bite you? https://lnkd.in/ek8gNdue #ProductMarketing #GTM
+
+7488247625775923200 | Welcome Read | image | 148w
+    You don't need a script for your next ad. Founder-led video is one of the most effective formats in advertising right now, and it's not because of production value. People respond to genuine storytelling. The problem you saw first. The moment you decided to build something about it. The messy version that barely worked. The  [...]  Has a founder video ever worked better for you than a polished one? https://lnkd.in/erpeTc-c #FounderLed #B2BMarketing
+
+7490059545633882112 | Welcome Read | image | 126w
+    One video can do what fifty static ads can't. Static ads are great for testing. You can throw ten variations up in a day and see which headline or image gets a click. But each one can only carry one idea. A stat, a claim, a single visual hook. Video is different. You get thirty  [...]  deep. What's your current mix between static and video in your ad account? https://lnkd.in/eawXfWve #B2BMarketing #PaidSocial
+
+7491146643136925696 | Welcome Read | image | 125w
+    Ecommerce figured this out years ago. B2B SaaS is just catching up. Influencer marketing isn't new. It's just new to software. And the reason it works has nothing to do with follower count. People trust people they already like. A micro-influencer with a small, engaged audience can say "I use this and it works" and  [...]  Reach doesn't convert on its own. Have you tested a micro-influencer partnership yet? https://lnkd.in/edbCtiiq #B2BMarketing #InfluencerMarketing
+
+7492958731496919040 | Welcome Read | image | 134w
+    Run your next Meta campaign from someone else's account. Meta is quietly pushing partnership ads hard right now, letting you run paid media through a creator or affiliate's profile instead of your own brand page. That means every ad borrows the trust that person already built with their audience. Meta's algorithm is favoring these placements  [...]  competitor catches on and it gets expensive. Have you tested partnership ads yet? https://lnkd.in/eFkCwZQS #B2BMarketing #PaidSocial
+
+7495132874736623617 | Welcome Read | image | 147w
+    Every point of Quality Score in Google Ads is a discount on what you pay per click. I used to treat it like a vanity metric buried in a report. It's not. Google ranks your ad by bid times Quality Score, then charges you based on the score of the advertiser ranked below you. Raise  [...]  your bids again this week. What's been your biggest lever for raising it? https://lnkd.in/ebGe3sey #GoogleAds #PPC
+
+7496220091097874432 | Welcome Read | image | 149w
+    You don't have to pick between Meta and LinkedIn ads. They're built for different jobs, and using the wrong one for your use case is where the budget gets wasted. Going after a narrow list of high value accounts with long sales cycles? LinkedIn is still the only place to hit those people again and  [...]  reach them yet. Which platform is carrying more of your pipeline right now? https://lnkd.in/etb5y2k3 #PaidSocial #B2BMarketing
+
+7498383835089256448 | Welcome Read | image | 132w
+    Fix your landing page before you touch your ad budget again. Most conversion problems get blamed on targeting or budget. Half the time the real issue is sitting right there on the page. Someone should understand your offer and the problem it solves within two seconds of landing. Not after scrolling. Page speed matters more  [...]  page. Which one of these is missing from your landing page right now? https://lnkd.in/eM-b9UU2 #CRO #B2BMarketing
+
+7499119213148594176 | Welcome Read | image | 143w
+    Stop pitching the demo on message one. Most cold outreach tries to get a full yes right out of the gate. Book a call. See a demo. That's not how relationships work anywhere else in life, and B2B buyers can smell it coming from a mile away. Treat outbound like meeting a colleague for the  [...]  would your outreach sound like if you removed every sales word from it? https://lnkd.in/eUM_wgZc #ABM #B2BSales
+
+7501661678233866240 | Welcome Read | image | 153w
+    You can lose money on every new customer and still be right, if the lifetime value math backs it up. Unless you're sitting on more funding than you know what to do with, every funnel needs to earn its keep. That means looking at the conversion rate at each stage, not just the top-line spend  [...]  you ever killed a channel because the LTV math just didn't hold up? https://lnkd.in/eWzyKJXq #UnitEconomics #B2BMarketing
+
+7502742823574806528 | Welcome Read | link | 144w
+    Your next customer might already be one connection away. Before you build a cold outreach list, check the network you already have. Every founder and early hire walks in with years of LinkedIn connections, and most of that network sits completely untouched. For one early-stage client, we ran the whole team's connections through a simple  [...]  you mined your own team's network before building an outbound list from scratch? https://lnkd.in/eMTKqqqP #B2BMarketing #Prospecting
+
+7503476863311478785 | Welcome Read | video | 17w
+    The framework leading SaaS teams are using to take work off their plates with AI. #SaaS #GTM
+
+7480669025505718272 | Charles C. | text | 4w
+    but what about roi???
+
+7482739332324257792 | Charles C. | image | 1w
+    https://lnkd.in/eBb-55zr
+
+7483442168678920192 | Charles C. | image | 53w
+    we've just relaunched PostHog's newsletter as _build mode_ (80k subscribers, you should check it out 🦔) we used to write exclusively for product engineers, but AI has changed who is shipping and building stuff. so if you are an engineer, product manager, marketer, salesperson etc. using AI to build - it's for you!
+
+7485416688117649408 | Charles C. | image | 24w
+    PostHog Code is now PostHog Desktop. because it now does a lot more than just write code. follow us for more product naming tips.
+
+7486377201517494272 | Charles C. | image | 160w
+    we just repositioned PostHog around self-driving product in 6 weeks. i wrote about what we did, and how and why we did it. lots of hard work is still ahead of us to now repeat the message consistently, but there is no reason why the initial phase should take 6-12 months of committees and planning  [...]  what customers think - keep refining based on what users say but don't make wholesale changes
+
+7488165678512807938 | Charles C. | image | 45w
+    if the work is a) easy to check, and b) cheap to undo, let your agent write and merge on its own (i cannot emphasise enough how much this post is about software, not childcare) check out PostHog's latest newsletter from Jina Yoon for moar
+
+7490093659762167808 | Charles C. | image | 59w
+    launching TODAY, you can now ask PostHog to watch your session replays for you and tell you what's going on. if you: - have lots of recordings - don't have time to watch them and/or don't have one trillion eyeballs then you are realllllyyy going to like this (if you do have one trillion eyeballs, I have more questions)

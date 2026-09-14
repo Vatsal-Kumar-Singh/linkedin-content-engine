@@ -1,0 +1,169 @@
+# batch 037  -  55 posts  -  label per research/CLASSIFICATION-PROTOCOL.md
+# labels: problem exploration requirements selection validation consensus
+#         recruitment culture event product-news csr unclear
+# write research/labels/037.tsv as: <id><TAB><label>
+
+7459965609276231680 | Zebra Technologies | video | 113w
+    We achieved strong Q1 results, and we are seeing continued momentum that supports our increased Outlook for the full year. Our performance reflects our industry leadership and our unique value proposition backed by our integrated portfolio of solutions that combines hardware, software and services to solve our customers' complex challenges. We are executing a clear strategy to create long-term shareholder  [...]  happening across their operations in real time and then act on that information to drive better outcomes. https://lnkd.in/gAANrmwT
+
+7463287533712371712 | Zebra Technologies | text | 131w
+    Stay ahead so you can improve your everyday operations with our monthly newsletter. Discover how top companies are proactively transforming operations and meeting customer needs right now. Subscribe for the latest insights and innovations and share if you find it valuable. Manténgase un paso adelante para mejorar sus operaciones diarias con nuestro newsletter mensual. Descubra cómo las principales empresas están  [...]  proativa às necessidades dos clientes. Inscreva-se para receber as últimas tendências e inovações e compartilhe se achar valioso.
+
+7463612186482106368 | Zebra Technologies | image | 177w
+    It is with profound sadness that we share the news of the passing of Rob Armstrong, our Chief Marketing Officer. For nearly 22 years at Zebra, Rob was a trusted colleague, a thoughtful leader, and a mentor to so many, touching the lives of our employees, customers, and partners alike. He challenged us to think bigger, stay curious, and approach  [...]  time. Rob will be sincerely missed by all who had the privilege of knowing and working with him.
+
+7465197712523644928 | Zebra Technologies | video | 95w
+    Elevating the shopper experience requires more than just great hardware, it takes a unified approach and a powerful partner ecosystem to help your retail operations run better every day. Join us for a LinkedIn Live discussion direct from #NRFAPAC2026 to hear from Tom Christodoulou, Sales Vice President for ANZ & Southeast Asia, Zebra Technologies. He'll discuss the critical role of  [...]  an unmatched shopper experience. 📅 June 3, 2026 ⏰ 9:00 AM SGT 📍 Live from NRF APAC 2026
+
+7465461971035897856 | Zebra Technologies | video | 75w
+    Frontline productivity happens when business leaders move beyond the AI buzz and put actionable intelligence directly into the hands of their workforce. Live from ZONE in Nashville, our experts are breaking down the “Blueprint for the Modern Frontline” to highlight how tools like Workcloud and the new “superapp” experience help businesses achieve quick, measurable payback. Register now for a conversation with Yogesh Kulkarni, Suresh Menon, and James Poulton that you won't want to miss! #ZONE2026
+
+7465748717778649088 | Zebra Technologies | video | 69w
+    Empowering clinicians to focus on patient care is the ultimate goal. For CHEC, a leading UK healthcare provider, achieving this meant eliminating a massive administrative hurdle: the 290 hours their staff spent manually counting medical stock every month. Alongside our partners, TEC-RFID: RFID Asset Management & RFID Solutions and TagworX: RFID Inventory & Asset Management, the organization implemented our RFID technology to automate inventory tracking across dozens of hospitals.
+
+7465824249514106880 | Zebra Technologies | text | 41w
+    Stay ahead so you can improve your everyday operations with our monthly newsletter. Discover how top companies are proactively transforming operations and meeting customer needs right now. Subscribe for the latest insights and innovations and share if you find it valuable.
+
+7467371034422476800 | Zebra Technologies | video | 101w
+    Today's retail tech is evolving faster than ever, but how do these shifts translate into a seamless shopper experience, helping your business run better every day? Join us for a LinkedIn Live discussion direct from #NRF2026. Hear from a leader who has had a front-row seat to these industry shifts: Raghu Ram, our Vice President and General Manager for Enterprise  [...]  APAC, and how we're positioning retail leaders for long-term success. You won't want to miss this insightful discussion!
+
+7469807890652934145 | Zebra Technologies | video | 127w
+    If you want to know where the supply chain is heading, you need to look at the technology driving it right now. At #Automate2026, we're giving you an up-close look at how AI and 3D vision are breaking bottlenecks and accelerating workflows on the warehouse floor. Join us LIVE on LinkedIn right from the show to hear from two incredible  [...]  we're helping to position warehouse leaders for long-term success. Be sure to tune in for this insightful discussion!
+
+7470491509352673280 | Zebra Technologies | text | 68w
+    Is AI being treated just like another tech platform? 📉 Over 80% of companies report no meaningful productivity impact from their AI investments because they neglect the most critical ingredient: their people. AI fails when treated as a stand-alone tool. It only succeeds when supported by a "people-first" culture, total asset visibility, and a drive to create entirely new ways of working instead of simply automating old ones.
+
+7472290624646443009 | Zebra Technologies | text | 102w
+    AI isn't about the technology itself – it's about what the technology can do for your business. We're investing in AI to help our customers: ✅ Remove daily roadblocks ✅ Bring clarity to complex operations ✅ Empower frontline teams to do their best work We're honored to be named a Top 10 AI leader by the The Wall Street Journal.  [...]  on our customers. Swipe through for a quick look at how AI workflows impact the future of business.
+
+7472732478764666881 | Zebra Technologies | video | 90w
+    Knowing where your inventory is at all times used to be the end goal when integrating RFID into everyday workflows - now it's just the starting point. Live from Automate 2026, our Vice President of Sales for Intelligent Automation, Tyler Austin, and Xemelgo's Senior Director of Growth, Garrett Gross ⚙️, will team up to discuss how RFID can be applied  [...]  better every day for our frontline. Register now for a conversation you won't want to miss out on!
+
+7473019194171756544 | Zebra Technologies | video | 96w
+    What makes a strong company culture? It's not just the work we do, but how we adapt and grow while doing it. It's found in the moments that happen between meetings when colleagues reach out to help, managers encourage ideas, and teams come together to create something special. Every day, our employees place their best foot forward, show respect for  [...]  herd that we have been recognized by Newsweek as one of the Top 100 Most Loved Global Workplaces.
+
+7473436153287962624 | Zebra Technologies | video | 124w
+    Navigating new technologies can feel like a lot to take on, but you don't have to figure it out alone. We're here to help you cut through the noise and find the clearest, most reliable path forward for your business. LIVE from #Automate2026, join us on LinkedIn to hear from two of our experts: Ritesh Gupta, our Director of Application  [...]  demo you won't want to miss at our booth. Make sure to tune in for this exciting conversation!
+
+7475971118101671937 | Zebra Technologies | text | 131w
+    Stay ahead so you can improve your everyday operations with our monthly newsletter. Discover how top companies are proactively transforming operations and meeting customer needs right now. Subscribe for the latest insights and innovations and share if you find it valuable. Manténgase un paso adelante para mejorar sus operaciones diarias con nuestro newsletter mensual. Descubra cómo las principales empresas están  [...]  proativa às necessidades dos clientes. Inscreva-se para receber as últimas tendências e inovações e compartilhe se achar valioso.
+
+7477752907291987968 | Zebra Technologies | text | 41w
+    Stay ahead so you can improve your everyday operations with our monthly newsletter. Discover how top companies are proactively transforming operations and meeting customer needs right now. Subscribe for the latest insights and innovations and share if you find it valuable.
+
+7478097324679028736 | Zebra Technologies | text | 28w
+    As a global company with American roots, we are honored to share the perspectives of some of the members of Zebra Nation as we mark this historic milestone!
+
+7483519818558742528 | Zebra Technologies | video | 43w
+    Frontline workers aren't sitting at desks typing long AI prompts, they need instant, purpose-built solutions. Our Chief Technology Officer, Tom Bianculli, discussed the future of AI on the frontline in his recent masterclass, and explained why it looks fundamentally different from office-bound tech.
+
+7483868112077963265 | Zebra Technologies | video | 88w
+    What does the future of work look like for your frontline? It involves teams equipped with intuitive solutions and tools that work as partners, not roadblocks. Our Chief Technology Officer, Tom Bianculli, shares how we are building systems that anticipate what needs to be done to execute with precision and make confident decisions. Our recent recognition by The Wall Street  [...]  a reflection of this goal to build practical and intelligent automation tools that make workflows better every day.
+
+7485332762275590145 | Zebra Technologies | video | 66w
+    Modernizing workflows is the best opportunity to help your frontline succeed every day. Our latest study with Oxford Economics shows that equipping your frontline with AI, automation, and data improves profitability and enhances the customer experience. With research highlighting accelerated AI adoption, we are well-positioned to meet this demand, as recognized by The Wall Street Journal ranking us among the Top 10 companies for AI Readiness.
+
+7486012239758569472 | Zebra Technologies | video | 46w
+    The best retail experiences today feel effortless for the shopper. Whether it's checking out right in the aisle or looking up inventory on an interactive kiosk, technology is reshaping the store floor. Behind that seamless experience is a robust strategy for managing and securing those tools.
+
+7486117977604677632 | Zebra Technologies | text | 131w
+    Stay ahead so you can improve your everyday operations with our monthly newsletter. Discover how top companies are proactively transforming operations and meeting customer needs right now. Subscribe for the latest insights and innovations and share if you find it valuable. Manténgase un paso adelante para mejorar sus operaciones diarias con nuestro newsletter mensual. Descubra cómo las principales empresas están  [...]  proativa às necessidades dos clientes. Inscreva-se para receber as últimas tendências e inovações e compartilhe se achar valioso.
+
+7487514686180028418 | Zebra Technologies | text | 113w
+    We put Workcloud Sync to the test, transforming our Heerenveen facility in the Netherlands to improve efficiency and throughput. By turning to our own software, our team achieved 90% less time spent chasing answers on foot, 5x faster task reassignment for order pickers, and a 12x faster pallet throughput to the packing floor. Our Warehouse Supervisor for the Packing Department  [...]  two shifts combined. If our technology can do this for us, imagine what it can do for you!
+
+7488579153785479169 | Zebra Technologies | video | 62w
+    Keep it simple. That is our goal when building technology for your frontline. By bringing communication and collaboration tools together into a single, intuitive interface, we make it easy for teams to work together. Suresh Menon, our Senior Vice President and General Manager of Software Solutions, explains how this approach helps to drive the best possible outcomes for your operations and customers.
+
+7488624455678672896 | Zebra Technologies | text | 41w
+    Stay ahead so you can improve your everyday operations with our monthly newsletter. Discover how top companies are proactively transforming operations and meeting customer needs right now. Subscribe for the latest insights and innovations and share if you find it valuable.
+
+7488956640021458944 | Zebra Technologies | video | 99w
+    At Zebra, giving back is woven into our culture. It is a fundamental part of who we are and how we show up. Our partnership with Troy and Tommi Vincent for the annual Safe Zone Activity Day is just one of the many ways our teams come together to support our communities. We believe that real, lasting impact starts with  [...]  moment in time; it's an ongoing commitment to giving the next generation the foundation they need to thrive.
+
+7490398692697526272 | Zebra Technologies | video | 155w
+    We delivered results exceeding our Outlook, driven by our team's execution and positive demand trends across our portfolio. We had strong performance across all segments and regions, with double-digit growth in our retail, manufacturing and healthcare end-markets. Our solutions capture data at the frontline, turn that data into insights, and enable customers to take action in real time. AI strengthens  [...]  improve productivity, visibility and decision-making and we remain focused on driving long-term profitable growth and shareholder value. https://lnkd.in/eKbgtv6Y
+
+7490768580230234112 | Zebra Technologies | text | 44w
+    We've been spending a lot of time lately thinking about what it takes to be "ready" for AI, a focus that recently landed us a spot on The Wall Street Journal's list of Top 10 AI-ready companies. But AI readiness looks different for everyone.
+
+7491478278625505280 | Zebra Technologies | video | 85w
+    The face of the frontline has changed. That's why we are committed to creating ways of working that keep our frontline moving rather than adding to the strain. Earning a recent recognition from The Wall Street Journal as a Top 10 company for AI readiness is a reflection of how we tackle these challenges. Listen as Scott Drobner, our Vice  [...]  how we continuously think about new ways to digitize our workflows and create environments that support our frontlines.
+
+7495108951471202305 | Zebra Technologies | text | 109w
+    We're modernising operations from the warehouse to the shop floor. Join us at NRF Retail's Big Show Europe to see how. Together with other retail leaders, we are ready to showcase the next era of innovation! Stop by Hall 6, Stand C-062 to explore our cutting-edge solutions: • Empowering frontline workers with GenAI • Achieving real time inventory visibility and  [...]  Link in the comments to reserve your spot. 📍Paris Expo Porte de Versailles, 15-17 September 2026. #NRFEurope #NRFRetailsBigShowEurope
+
+7495479643425337344 | Zebra Technologies | text | 132w
+    A successful shift starts by giving your teams the guidance they need to solve problems, grow their skills, and feel valued for the work they do. Whether in a retail aisle, hospital, or warehouse floor, here is how we are helping your frontline with AI: 🔄 Smarter workflows: Turn complex data into actionable tasks so your teams execute with confidence.  [...]  more than improve operations; it gives your frontline the confidence and capability to handle whatever the day brings.
+
+7495555135599976448 | Zebra Technologies | text | 13w
+    For the frontline that is juggling a dozen tasks at once—we see you.
+
+7495842011472662528 | Zebra Technologies | video | 36w
+    We are driving the future of intelligent operations through asset visibility, a connected frontline, and intelligent automation. Our Vice President of Strategy, Chip Yager, on how these three pillars empower frontline workers and deliver meaningful results.
+
+7496204400290611200 | Zebra Technologies | multi-image(4) | 95w
+    How can you unlock the true potential of your manufacturing data today? The answer lies in empowering your workforce. By connecting your people, your workflows, and your data, you integrate AI that elevates your team's expertise. Rather than replacing your workers, this approach supports them by: 🔹Streamlining complex data into clear, actionable insights 🔹Providing real-time context for on-the-floor decisions 🔹Shifting  [...]  don't just improve efficiency; you build a more resilient, confident workforce capable of solving problems in real time.
+
+7496264814906904576 | Zebra Technologies | text | 131w
+    Stay ahead so you can improve your everyday operations with our monthly newsletter. Discover how top companies are proactively transforming operations and meeting customer needs right now. Subscribe for the latest insights and innovations and share if you find it valuable. Manténgase un paso adelante para mejorar sus operaciones diarias con nuestro newsletter mensual. Descubra cómo las principales empresas están  [...]  proativa às necessidades dos clientes. Inscreva-se para receber as últimas tendências e inovações e compartilhe se achar valioso.
+
+7497998218794962944 | Zebra Technologies | image | 91w
+    We believe that modernising the retail shop floor requires a collaborative approach. Transforming the retail experience takes a combined effort, and we are thrilled to have Hewlett Packard Enterprise, Jabra, TimeSkipper, Smartway, Vusion, Avery Dennison, GreyOrange, and Worldline joining us on stand at NRF 2026: Retail's Big Show Europe. From AI driven communications and advanced robotics to seamless payment processing  [...]  and efficiency for retailers. Join us in Paris from 15 to 17 September at Hall 6, Stand C-062.
+
+7498351291279089664 | Zebra Technologies | text | 32w
+    Celebrating 35 years on Nasdaq and the decades of innovation behind it. We're proud to continue delivering AI-powered solutions that help our customers and partners operate with greater visibility, intelligence and speed.
+
+7498801545614934016 | Zebra Technologies | text | 41w
+    Stay ahead so you can improve your everyday operations with our monthly newsletter. Discover how top companies are proactively transforming operations and meeting customer needs right now. Subscribe for the latest insights and innovations and share if you find it valuable.
+
+7499088401489580032 | Zebra Technologies | video | 49w
+    An environment that speaks to you and works for you is an environment that is efficient and intelligent. Our Chief Technology Officer, Tom Bianculli, highlights how assigning your workflows a “digital voice” can remove friction from your day-to-day and help your frontline focus on the tasks that matter most.
+
+7503796475034943488 | Zebra Technologies | text | 143w
+    At Gina Tricot, speed is the signature. Bringing the latest fashion trends to 140 stores across Europe on the exact same day requires more than just great logistics, it requires flawless in-store execution. To deliver a truly seamless shopping experience, their teams need to know exactly what inventory they have the moment a delivery arrives. By eliminating time-consuming manual box  [...]  technology working quietly behind the scenes that helps Gina Tricot turn inventory visibility into an exceptional shopper experience!
+
+7493177155045228544 | Zoho | image | 61w
+    📣 We are thrilled to be partnering with KPMG India! Our partnership allows enterprises to leverage Zoho's technology stack, including the AI layer built into it, together with KPMG India's advisory expertise to build integrated cloud solutions. This will enable seamless collaboration, intelligent automation, and data-driven decision making–without compromising on privacy, data residency, or governance. Read more here 🔗 👉 https://zurl.co/yMq6o
+
+7493623131106959360 | Zoho | video | 59w
+    What do the British East India Company and today's internet have in common? More than you might think. Our Chief Evangelist, Raju Vegesna, explains the idea of "digital rivers" and why ownership of digital infrastructure is becoming a global conversation. Watch his full conversation with Shashi Bellamkonda, Principal Research Director, Info-Tech Research Group on digital sovereignty here 👉 https://zurl.co/rNSRK
+
+7493949591382319104 | Zoho | text | 21w
+    Introducing Zoho for Nonprofits! ✨ We're happy to support the people and organizations working to make a difference every day. ❤️
+
+7494218873861263360 | Zoho | video | 25w
+    Happy Independence Day! 🇮🇳 May the tricolor always fly high and inspire us to dream big and work together to build a better tomorrow. 🤍
+
+7495049198279602176 | Zoho | multi-image(4) | 105w
+    On 15th August, we celebrated India's 80th Independence Day in New York. 🇮🇳🇺🇸 Together with the Consulate General of India, New York, and the Federation of Indian Associations (FIA), we marked the occasion with a special tribute that brought the community together in celebration. By forming the number “250” with American and Indian flags, we set a new Guinness World  [...]  the values that unite us, and the spirit that continues to shape our story around the world. ✨
+
+7495367872941092864 | Zoho | multi-image(5) | 90w
+    75 offices. 8 states. 18,000+ agents. Nearly 1 million lives covered! ✨ And, behind that rapidly growing business is a distribution platform we helped build and deploy in under three months. Our Enterprise Business Solutions (EBS) team deployed a Zoho CRM-powered distribution platform for Galaxy Health Insurance Company Limited, bringing together agent onboarding, tele-sales, customer support, grievance management, and commission  [...]  one, helping Galaxy move faster without compromising on governance or control. Read the full story 🔗 👉 https://zurl.co/keJjv
+
+7495440727359823872 | Zoho | image | 24w
+    📢 The latest issue of Buzz is here! Catch up on the latest launches, product updates, and other things happening across Zoho 👉 https://zoho.to/Buzz-Aug
+
+7496142553344303104 | Zoho | video | 47w
+    A marketing crisis following you all the way to the beach? Rude. 🏖️ See how Zoho Marketing Plus brings all your marketing into one place, so you can check schedules, make quick changes, and keep things moving—from anywhere. Learn more about Zoho Marketing Plus 👉 https://zurl.co/YBGA1 #RunYourBusinessOnZoho
+
+7496200828186390529 | Zoho | video | 60w
+    Data residency laws can answer where your data lives. But do they answer where your knowledge goes? In this conversation with Holger Mueller, VP and Principal Analyst at Constellation Research, Inc., our Chief Evangelist, Raju Vegesna explores the sovereignty questions every enterprise and government should be asking right now. More on Episode 3 of 'Who Owns the Plug' 👉 zoho.to/WP-Ep03
+
+7496536307784118272 | Zoho | text | 50w
+    We're pleased to partner with the Government of Tripura and Startup Tripura to support the state's growing startup ecosystem. 🚀 Through Zoho for Startups, eligible startups can access Zoho's suite of business applications and up to ₹1.86 lakh in Zoho credits to help them operate smarter and scale sustainably. ✨
+
+7497593044720836608 | Zoho | multi-image(13) | 189w
+    Last Friday, Mumbai came alive for the third edition of the Zoho Enterprise Summit. 🔥 Our Chief Scientist, Sridhar Vembu, opened the evening with firsthand observations from his agentic AI experiments. FYNDNA TechCorp Pvt. Ltd's CEO and Co-Founder, CN Ram followed, talking about why every organization needs to make digital transformation pivots to stay customer-centric and ahead of the curve.  [...]  on top of it. An evening of real questions and perspectives from the people shaping enterprise tech. 🚀
+
+7497950454161723393 | Zoho | image | 104w
+    📣 Your favourite Zoho apps just got a new AI connection. ✨ Connect Zoho CRM, Zoho Mail, Bigin by Zoho CRM, Zoho Desk, and Zoho Projects with Google Gemini to bring your work context into the conversation. Ask Gemini to find stalled deals, catch up on emails, draft support responses, or summarize project progress. You can even bring apps together.  [...]  thread as context.” Here's to less context switching and more getting things done. Read more here 👉 https://zurl.co/5N9cW
+
+7498276492494295040 | Zoho | multi-image(8) | 24w
+    Wishing everyone a wonderful Onam filled with happiness and abundance. 🌸 Here's a look at how we celebrated Onam at our Chennai campus. 😇
+
+7498763876075724800 | Zoho | link | 1w
+    https://lnkd.in/p/d6SYXtKz
+
+7499307887064928256 | Zoho | multi-image(13) | 77w
+    Things can get surprisingly competitive around here. But all in good fun. 😉 Sports has always been woven into life at Zoho. We've seen everything from fierce kabbadi matches to heated table tennis games, and the kind of tug-of-war that leaves you sore for days. And that's the thing about sports—it teaches you to show up, give it your all, and always have each other's backs. On #NationalSportsDay, we're sharing some of our favourite moments. ⛹️‍♀️ 🏏

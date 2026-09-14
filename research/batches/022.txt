@@ -1,0 +1,169 @@
+# batch 022  -  55 posts  -  label per research/CLASSIFICATION-PROTOCOL.md
+# labels: problem exploration requirements selection validation consensus
+#         recruitment culture event product-news csr unclear
+# write research/labels/022.tsv as: <id><TAB><label>
+
+7501741865474486272 | Notion | text | 4w
+    Notion. Ad Astra ✨
+
+7501760139394441216 | Notion | video | 11w
+    GPT-6 Astra is now available in Notion. Give it a try.
+
+7501772925440651265 | Notion | video | 5w
+    The backbone of your dock.
+
+7503216788495708160 | Notion | video | 27w
+    Simon Last on the shift from doing the work to managing agents, why docs and databases still matter, and what it takes to coordinate swarms of AI.
+
+7503487727468740608 | Notion | video | 66w
+    Great creative work takes time. “Where's that brief?” shouldn't. At creative agency Little Plains, meeting notes, proposals, briefs, and projects live in Notion. People and AI agents work from the same context, so everyone's on the same page. Agents help turn client conversations into proposals and manage thousands of job applications. The team gets more time for the creativity, taste, and judgment clients hired them for.
+
+7503533220534263810 | Notion | video | 33w
+    Meetings take enough of your time. Now, AI Meeting Notes can draft an email recap with attendees from your calendar already filled in. Just give it a once-over and send, without leaving Notion.
+
+7503613519184007168 | Notion | video | 29w
+    Switching tools shouldn't mean starting over. Use Notion's MCP to bring your memory with you. Between platforms, across models, and as new agents come along. Notion works with everything.
+
+7503833430053367808 | Notion | text | 51w
+    Notion connects with the tools you already use: Slack Microsoft Teams Discord Gmail Google Calendar Calendly ChatGPT Claude Grok Bot Manus Instinct Cursor Lovable Replit GitHub Figma Miro Linear Jira Asana Confluence Google Drive Dropbox Box Gong Salesforce Ramp Typeform Zapier And more. What's your favorite app to use with Notion?
+
+7503901346555670528 | Notion | link | 68w
+    Looking for your next role in sales? We're hiring around the globe, with open roles including: → Business Development Representative → Commercial Solutions Consultant → Enterprise Solutions Consultant → Forward Deployed Architect → Mid-Market Outcomes Architect → Forward Deployed Engineer Manager → Global Strategic Partner Manager → Outcomes Architect Manager → Regional General Manager → Regional Partner Manager → Solutions Consultant Check out these roles and more: https://lnkd.in/gSaDmYW2
+
+7504290682711412736 | Notion | video | 41w
+    You built a skill around exactly how you want AI to work. Switching tools shouldn't mean starting from scratch. So, keep your skills in Notion and bring them with you. Use any tool you want. Keep the work you've put in.
+
+7504314859845738497 | Notion | image | 0w
+    
+
+7486066369562652673 | Outreach | link | 85w
+    Just got your Outreach account invitation? ✉️ Here's how to get set up in just a few minutes: ✅ Claim your account from the email invitation ✅ Configure your email ✅ Connect your calendar ✅ Download the Outreach Everywhere extension ✅ Set up voice calling And that's it. Once those steps are complete, you're ready to explore Outreach. Need a  [...]  through each step and helps you get the most out of the platform from day one. 🔗: https://okt.to/Sfcu95
+
+7486454103812952064 | Outreach | multi-image(3) | 119w
+    👋 Meet Jeffery A., a Senior Solutions Consultant. His work focuses on partnering with our Enterprise sales team to show prospects and customers what is actually possible with Outreach. Day to day, he's running technical discovery, building tailored demos, and helping some of the largest, most complex sales organizations out there see how the platform solves their real-world workflow problems  [...]  (Fela Kuti and City Pop are his current obsessions), chasing deadlift PRs, and slowly working on his Yoruba.
+
+7487535864936550400 | Outreach | video | 76w
+    For more than a decade, Outreach and Salesforce have worked together to help revenue teams operate more effectively. Last month, Abhijit Mitra, CEO, joined Lisa Eisenberg, SVP of ISV Partnerships, Salesforce, to discuss how agent-to-agent collaboration is transforming the way revenue teams work. From meeting preparation and opportunity management to forecasting and execution, agents can handle repetitive tasks behind the scenes so sellers can spend more time creating value. Watch their conversation to learn more 👇
+
+7487899756288036865 | Outreach | text | 151w
+    Michael Z., a Senior Account Executive, had a choice before going on vacation: 1. Spend hours queuing emails and hoping nothing slipped 2. Accept that his pipeline would slow down 3. Or test something new He chose option 3. Before heading to the Bahamas, he set up AI agents inside Outreach to keep his pipeline. No crossed fingers. Just continuous  [...]  baseline. Because the real question becomes: Why should pipeline ever depend on your availability in the first place?
+
+7488302848900890624 | Outreach | link | 76w
+    The question isn't "which AI tool should we buy?", it's "are we ready to change how we work?" At Unleash 2026, Holly Simmons, CMO, brought together revenue leaders from Renaissance Learning, ServiceNow, and Databricks to discuss what it takes to stay ahead during constant change. One theme surfaced again and again: technology moves fast, but people determine whether transformation succeeds. In her latest blog, Holly reflects on the leadership lessons behind successful AI adoption 👉 https://okt.to/iqOCVU
+
+7488646889207382016 | Outreach | text | 30w
+    📣 July recap is in. This month included the launch of the Outreach AI Maturity Model, our AI Agents Quiz, and more. Your monthly dose of TL;DR is ready 👇
+
+7489033107157827584 | Outreach | video | 31w
+    Pop quiz: How well do you really know Outreach Omni? Chris Hoffman, Senior Customer Experience Manager, is sharing 2 things you probably didn't know about our conversational agent. Watch here 👇
+
+7490096924176363520 | Outreach | text | 159w
+    Monday morning looks different for Jordan Freedman. Before he's even finished his first cup of coffee, AI agents have already gone to work. They've reviewed his accounts, surfaced new opportunities, identified the right contacts to engage, and drafted personalized outreach tailored to each prospect. And after his customer meetings? Follow-up drafts are ready and waiting, helping Jordan move faster while  [...]  The future of selling isn't about doing more work. It's about having the right work done for you.
+
+7490421504493568001 | Outreach | image | 42w
+    Can AI make forecasting more accurate? Finance leaders are putting it to the test. From improving visibility to helping teams adapt faster, AI is becoming an increasingly important part of the forecasting process. See what CFOs should know about the shift: https://okt.to/6DLSuC
+
+7490797552867512320 | Outreach | image | 30w
+    New MCP connector. Real revenue workflow. See how Sendoso is helping teams turn stalled deal signals into personalized buyer engagement, without adding more manual work. Read the playbook here: https://okt.to/wj4xXk
+
+7491146192119173122 | Outreach | link | 86w
+    Most revenue teams don't need a single tool. They need a coordinated approach to the problem keeping them from quota. That's why our AI Agents Quiz doesn't recommend a single agent, it identifies your biggest revenue challenge and maps you to the combination of Outreach AI Agents designed to help solve it. ✅ 5 quick questions ✅ Personalized recommendations ✅  [...]  Take the quiz and discover which AI Agents can have the biggest impact on your revenue org: https://okt.to/MxYr0y
+
+7492671912620523520 | Outreach | video | 90w
+    What does it actually look like when AI becomes part of how a rep works every day? This 🔥 Revenue Brew brought together experienced sellers and leaders actually doing the work for Revenue Rewired: The AI Playbook for Sellers Who Want to Win. It's a tactical look at how individual contributors are using AI to work faster, prioritize smarter, and  [...]  on demand, covering practical use cases, proven tactics, and how teams are turning AI into everyday revenue impact.
+
+7492983868505939968 | Outreach | video | 44w
+    As organizations move upmarket and serve increasingly complex customer needs, AI is proving to be more than a productivity tool. It's becoming a growth engine. Watch Dennis Woodside, CEO of Freshworks, and Abhijit Mitra, CEO of Outreach, discuss how AI is reshaping business performance👇
+
+7493325972914499584 | Outreach | image | 79w
+    When should Legal get involved in your AI journey? Earlier than you think 👀 Heather Wood, Senior Director of Data Privacy and Regulation at Outreach, has built a framework to stay ahead of AI regulatory complexity rather than react to it. Her approach brings legal, privacy, security, and the business together from the start, with agreements built to flex as  [...]  evolve. AI is stress testing every compliance playbook out there. Heather's approach is one worth learning from 💯
+
+7493697161956868096 | Outreach | image | 106w
+    Introducing AI Control Hub: a consistent way to govern agentic AI across revenue teams 👏 AI Control Hub is a self-service governance surface that gives IT and RevOps a way to control which AI agents or features are enabled, manage access by team or role, and set boundaries on what data those capabilities can use. It's built to give both  [...]  of Outreach's continued commitment to building agentic AI that revenue teams can scale with confidence, control, and clarity.
+
+7494062905311584256 | Outreach | multi-image(7) | 15w
+    If our pets worked at Outreach, this is what their LinkedIn profiles would say 🐾
+
+7494407560092041216 | Outreach | text | 99w
+    Big things are happening at Outreach and we need great people to make them happen 🤝 We're a team of passionate people who love winning together, moving fast, and doing right by our customers. If that sounds like your kind of place, we'd love to meet you! Here are a few roles we're actively hiring for: → Senior Director, Growth  [...]  Operations → Account Manager, Commercial And that's just a few! See all open roles at the link below👇
+
+7495124838643208192 | Outreach | image | 123w
+    AI is only as valuable as the work it helps your team get done 💯 Many revenue teams are still juggling disconnected AI tools that answer questions but stop short of taking action. Join Outreach for a behind-the-scenes look at how our own GTM team put agentic AI to work across sales, marketing, revenue operations, and customer success. You'll learn  [...]  Holly Simmons (Chief Marketing Officer), Andrea Tucker (VP, Product Marketing), and Toni Eddleman (Senior Director, Marketing Operations), Outreach
+
+7495536495773073409 | Outreach | multi-image(7) | 20w
+    When Outreachers get together, good things happen. H2 GTMKO was no exception 🔥 Now, as Angela Garinger Bennett says, LGMSFM!
+
+7495875976040431616 | Outreach | image | 76w
+    The Constellation Research, Inc. ShortList™ results are in and Outreach secured three recognitions 🔥 Constellation independently evaluates solutions based on client inquiries, customer references, and real-world research. Here's what we earned: → Revenue Platforms → Sales Engagement Platforms → AI-Powered Virtual SDR Agents Together, the three recognitions span the revenue platform, sales engagement and emerging agentic execution layers of how modern revenue teams operate. We're grateful for the customers and team who made it possible 💜
+
+7496257538368180225 | Outreach | video | 46w
+    We know Angela Garinger Bennett knows her way around AI agents. Turns out, she's pretty good at rapid-fire questions too 😎 We put our VP of AI GTM Transformation in the hot seat for a little Q&A, and she came ready. Take it away, Angela 👀
+
+7496615936439914496 | Outreach | multi-image(4) | 24w
+    Plot twist: our AEs love Kaia almost as much as closing deals 😎 Swipe to hear their favorite ways to use it every day!
+
+7496944319950483456 | Outreach | image | 136w
+    Email open tracking is already changing in EMEA, is your company prepared? 👀 France and Italy have already issued guidance on email tracking pixels. You've been asking us about the recent developments, so we prepared a guide about the open-tracking configurations available in Outreach. This is the perfect opportunity to review with your privacy and legal advisors how you use  [...]  tracking is available across their organization. For step-by-step instructions, you can check our latest guide in the comments.
+
+7497397302987313152 | Outreach | multi-image(2) | 90w
+    There's something special about finally meeting the people you work with every day 💜 Our People & Places team recently got together in person, and for many, it was the first time meeting face-to-face. We shared ideas, explored how AI can improve the employee experience, and, most importantly, got to know each other beyond the screen. Hybrid work looks a  [...]  always be part of how we work together. A few snapshots from a very good few days 📸
+
+7497669185825832960 | Outreach | image | 113w
+    “Forecast confidence shapes almost every planning decision we make” - Drew Laxton, CFO at Outreach Forecasting nowadays shapes every planning decision a finance team makes, from hiring and investment to board commitments. In a new CFO Brew article from MorningBrew, Drew shares his perspective on how AI can make forecasting more useful for finance leaders. “AI earns its place here  [...]  deal activity, conversation intelligence, and pipeline context, leaders can make informed decisions faster and move to key actions.
+
+7498066193107382272 | Outreach | image | 132w
+    We've spent more than a decade learning how revenue teams actually work. Now we're putting that knowledge to work with AI agents 😎 A recent feature on MSN took a closer look at Outreach's bet on agentic AI and why our CEO Abhijit Mitra sees revenue context as such an important part of what comes next. Revenue teams already have  [...]  since day one. AI agents are giving us even more ways to help them get work done 🤝
+
+7498480045930303489 | Outreach | image | 67w
+    How can AI help you hit your quota? We've got the perfect free course for you 👇 ”How Outreach AI helps you sell faster” course is a practical overview all the AI features available in Outreach. Expect practical use cases, a walk through the day of an Outreach power user, and tips on how to improve your day-to-day workflows to sell faster. Register for the course: https://lnkd.in/eGkTwSd8
+
+7498772356602089473 | Outreach | image | 146w
+    Outreach has been recognized as one of the world's top 75 partner ecosystems with the 2026 Ecosystem Compass Award 🏆 The recognition from Partnership Leaders and Bridge Partners celebrates our AI-forward partner strategy and the ecosystem we've built around it. Through apps and integrations, GTM expertise from Services Partners, and the Outreach MCP Suite, customers can connect their systems, data,  [...]  Strategic Partnership Ecosystems at ZoomInfo Thank you to every partner who has been part of this journey 💜
+
+7499103683683450880 | Outreach | multi-image(3) | 111w
+    Say hello to Tristian Thompson, Technical Support Lead at Outreach 👋🏼 Tristian is the Team Lead for the support team, guiding and empowering team members to deliver exceptional customer and technical support while helping customers resolve issues efficiently and effectively each day. "I love Outreach because it lets me share my passion for technology, help others grow, and connect with  [...]  back to the community through career day events. Thanks for helping make Outreach what it is, Tristian 💜
+
+7499843414746804225 | Outreach | image | 121w
+    Omni is the universal conversational agent for revenue teams ✨ We know how frustrating it feels to switch tools to find the right answer and ultimately lose your momentum. We introduced Omni to help you move from insight to action, all in one conversation. Ask a question about your pipeline, accounts, or deals, and Omni pulls from your full revenue  [...]  a prospect, from their goals to the people involved. “This is proper 'picking up the convo' prep.” 💯
+
+7500240782365315072 | Outreach | image | 97w
+    Goodbye, “What time works for you?” 👋 LeanData BookIt is now live in Outreach. Reps can book routed meetings right from the Outreach workflows they're already using, whether they're qualifying a prospect on a call or following up over email. Launch BookIt Handoff from the prospect record to route and book time with the right AE, or add live BookIt  [...]  along the way. Now that's one less thing standing between your buyer interest and the next conversation 😎
+
+7500587561510412290 | Outreach | image | 148w
+    Revenue teams need a growing mix of applications, data sources, workflows, and AI agents to move work forward. That's why we're evolving the Outreach Partner Ecosystem for the agentic AI era. Today, the ecosystem includes more than 100 live Marketplace integrations, Services Partners, APIs, MCP™ connectivity, and our growing Agentic Ecosystem. This is an ecosystem built around making the tools,  [...]  together so that AI can participate in revenue execution rather than simply provide another place to generate information.”
+
+7500962031550767104 | Outreach | image | 89w
+    Do you know what it takes to reach AI-efficient GTM execution? Join Heather Dahmer, Cathlyn Lang and Manisha Marberry to learn all about Outreach's AI Maturity Model and how to apply it to your organization. ✔️ Discover the 4 stages of the model ✔️ Spot your highest-impact gaps before you stall your AI investment ✔️ Explore a practical framework to  [...]  check the on-demand session after. 🗓️ September 10 ⏰ 10 AM PT / 1 PM ET Register: https://okt.to/BMGv2E
+
+7501383689486934016 | Outreach | image | 71w
+    Who's heading to Dreamforce? 👋 We're counting down the days until Dreamforce and we've got something for everyone! ✅ Booth 410 on the Campground to see our platform in action and get some premium swag ✅ Outreach activations everyone will be talking about ✅ 1:1 expert consultations to walk away with a clear plan for AI-powered revenue growth Expect lots of surprises and all the latest updates on our AI innovations!
+
+7501646093013680128 | Outreach | video | 105w
+    “Outreach allows us to deliver more consistent performance across reps.” Jonny Wells, Demand Lifecycle Specialist at SailPoint Scaling a global sales team without adding headcount means the technology has to do more of the heavy lifting. SailPoint used Outreach to help reps eliminate manual work, personalize outreach at scale, and bring more consistency across the sales motion. With AI agents  [...]  50% open rates out of the gate. Congrats to the SailPoint team, excited to see what's next! 👏
+
+7502044135898595328 | Outreach | image | 104w
+    “AI transformation is an opportunity to redesign work and elevate the people doing it” - Leslie Pendergrast 👏 AI is already changing the work of GTM teams, but we also need to think how it impacts our approach to people doing the work. According to our Chief People and Business Officer, Leslie Pendergrast, AI is changing how People leaders should  [...]  say at Outreach, AI is here to help people spend more time where they'll have the greatest impact.
+
+7502395194516971520 | Outreach | image | 100w
+    New to Outreach and managing customer or prospect accounts? 👇 Join our University Live session for an introduction to the tools and workflows that support effective account management. Our training team will walk you through the basics to help you stay organized, follow up consistently, and keep key accounts moving forward. Get real-time answers to questions like: → How do  [...]  across accounts? Can't attend live? All sessions are recorded and shared with registrants after the event. Register: https://lnkd.in/eBpEQyHw
+
+7503095953797574656 | Outreach | link | 87w
+    Heading to Dreamforce? Skip the show-floor line and talk agentic AI with us 💬 Abhijit Mitra, Holly Simmons, Nadia Rashid, Nithya Lakshmanan, and more of the Outreach team will be there with time set aside for 1:1 expert consultations. Tell us what you want to solve, and we'll dig into how Outreach AI agents can put your Salesforce data, customer  [...]  GTM motion. Ready to stop renting software and start hiring agents? Grab some time with the team: https://lnkd.in/eNgTdnhB
+
+7503490698055331841 | Outreach | image | 190w
+    12x AI usage growth, 480% YoY AI ARR growth 🤩 Revenue teams are past AI experimentation, they are now running revenue workflows on it. Today, Outreach shared momentum results from the first half of 2026, led by 12x growth in consumption of AI credits and 480% YoY AI ARR growth in Q2 of its fiscal year. This momentum is driven  [...]  act, build, and extend AI into the tools they already use. Still many more updates to come 😎
+
+7503550301443014656 | Outreach | video | 88w
+    “When you hire AI agents from Outreach, you're essentially augmenting your people, giving them superpowers” - Abhijit Mitra Our CEO, Abhijit Mitra, joined GeekWire to talk about the rise of revenue orchestration and what it means for the future of revenue work. He gets into why connecting the revenue stack matters and how AI agents can help teams build pipeline,  [...]  lot changing in GTM and we're pretty excited about where it's headed 😎 Watch the full chat: https://lnkd.in/eUrjj8ta
+
+7503852065534935040 | Outreach | image | 95w
+    We're all about meeting customers where they already work 🤝 For sellers, that means keeping momentum inside the workflows they use every day. With Sendoso in the Outreach Marketplace, joint customers can trigger a gift or direct mail send directly from an Outreach sequence. Just like that, a simple touchpoint turns into a memorable physical moment and a big reason  [...]  do: connect the tools revenue teams already rely on, so they can move faster without adding more friction.
+
+7504205335927209985 | Outreach | text | 15w
+    Good ideas don't need spin, they need receipts 🧾 Here's the TL;DR from August 👇
+
+7478458650349506560 | Personio | text | 120w
+    Ab Januar 2027 gilt die neue Beitragsverfahrensverordnung (BVV) – und sie stellt klare Anforderungen: Bestimmte sozialversicherungsrelevante Unterlagen müssen dauerhaft digital abrufbar und prüfungsfest archiviert sein. Lohnabrechnungen, Krankenkassenbescheinigungen, Staatsangehörigkeitsnachweise – wer das nicht im Griff hat, riskiert Lücken bei der nächsten Prüfung. Was das konkret für euren HR- und Payroll-Alltag bedeutet? Das klären wir gemeinsam. Am 30. Juli erklären David Gros  [...]  mit Personio - Offene Q&A-Runde mit unseren Expert:innen Sichert euch jetzt euren Platz. #BVV2027 #Lohnabrechnung #HRCompliance #Payroll #Personio
+
+7483083040362098688 | Personio | video | 119w
+    One week. Every non-essential meeting cancelled. The whole company learning AI together. That's what we did at Personio with AI Surge Week. We ran a dedicated week for our employees to invest time in actually understanding the technology, not just hear about it. It started with a shared foundation: making sure everyone, regardless of where they were starting from, had  [...]  explains how we structured it and why it worked. Watch the episode: https://lnkd.in/ebdVXaxF #HRTech #FutureOfWork #AIAdoption #PeopleStrategy #Personio

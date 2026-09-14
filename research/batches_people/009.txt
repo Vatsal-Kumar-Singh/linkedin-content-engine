@@ -1,0 +1,169 @@
+# person batch 009  -  55 posts  -  research/CLASSIFICATION-PROTOCOL.md
+# labels: problem exploration requirements selection validation consensus
+#         recruitment culture event product-news csr unclear
+# write research/labels_people/009.tsv as: <id><TAB><label>
+
+6824403541973708800 | Peter Gassner | video | 28w
+    Converting to a #publicbenefitcorporation was always about doing what's right for our customers, employees, and community. See if joining a PBC might be right for you: www.veeva.com/careers #hiring
+
+6848982400870039552 | Peter Gassner | image | 35w
+    Proud to share that we are partnering with LEO Pharma to enable patient-centric digital trials that work well for patients, sites and sponsors. Learn more about the partnership here: https://bit.ly/LEOVeeva. Veeva Systems Joerg Moeller, MD
+
+6947227370885955585 | Peter Gassner | link | 19w
+    Women should have the basic human right to control decisions about their health, families, and lives. #womensrights #freedomofchoice https://lnkd.in/gcCrbN-G
+
+7021495687984930816 | Peter Gassner | image | 35w
+    We need to ban non-competes. Corporations should not have control over former employees. A national ban on non-competes fuels innovation, entrepreneurship, and job growth to improve the economy. Learn more in my Medium article bit.ly/3iG7Otn
+
+7111001850518147074 | Peter Gassner | image | 113w
+    Thanks to our customers for a great #VeevaSummit in Boston last week with over 2,500 people! The energy and ideas shared at Summit help the industry move forward. Special thanks to Jennifer Trundle at Gilead Sciences and Regina Norelli at Replimune for joining the keynote and the 100+ customer speakers at Summit showcasing how they're  [...]  starting at 3:50) - Improving clinical research with the Veeva Clinical Platform (9 mins at 13:00)
+
+7262845992146804737 | Peter Gassner | image | 110w
+    I am pleased to share Boehringer Ingelheim is standardizing on #VaultCRM, joining top 20 biopharmas Bayer, GSK, and Novo Nordisk in choosing Vault CRM. We are honored to see our long standing partnership expand in this way. We now have 30+ customers live on Vault CRM and many migrations underway. 2025 is going to be  [...]  CRM innovation coming next week at #VeevaSummitEU as well! See the full Boehringer Ingelheim news https://bit.ly/4fMXyr7
+
+7328756497591558145 | Peter Gassner | image | 240w
+    It was a great Summit! Highlights for me - Vault CRM. Whole different vibe this year. Last year a few customers were live. There are 80 now, and on a path to 200 by next year. So the discussions were much more concrete and helpful. Good discussions about connecting sales, marketing, medical, and key Service  [...]  customers can see them on Veeva Connect https://veevaconnect.com/ Thanks to our customers for your partnership! #VeevaSummit
+
+7361745465387704321 | Peter Gassner | text | 292w
+    Based on the feedback I received on my last post, it's clear there is a lot of interest in the Veeva versus Salesforce debate. I wanted to address one big and important misconception I heard, which is “either Salesforce or Veeva will work.” Global biopharma CRM programs are very hard to implement well. They failed  [...]  Salesforce for a while. I will have more next week on Veeva AI for Vault CRM!
+
+7373375892082839553 | Peter Gassner | text | 43w
+    Great to see all the hard work and focus over many years from the outstanding global product, services, and consulting teams result in customer success and rapid adoption of #VaultCRM. Nice job Veeva Systems team and thanks to our customers for the partnership!
+
+7383866248658558976 | Peter Gassner | image | 92w
+    Veeva AI will be ready for general availability sooner than planned! Thanks to the team's excellent progress, Veeva AI for commercial, including #VaultCRM, is planned for release this December followed by all other areas in 2026. With Veeva AI we are adding agentic AI into the Vault Platform, developing deep, specific AI agents in each  [...]  can have a major impact on #lifesciences productivity and innovation. See the news https://lnkd.in/gNH3sMGc Veeva Systems
+
+7398695653557661696 | Peter Gassner | image | 49w
+    Today we announced that Roche Pharmaceuticals is adopting Vault CRM! Thank you Wafaa Mamilli and the Roche team for your continued trust and partnership. We are excited to bring the next generation of AI-enabled CRM to your global field teams. See the news https://lnkd.in/gtuMeggj Veeva Systems #VeevaAI #lifesciences #VaultCRM
+
+7415044017937424386 | Peter Gassner | image | 57w
+    We're pleased to expand our partnership with BioMarin Pharmaceutical Inc. Thank you to Alexander Hardy and the BioMarin team for the important work you do in rare disease. We're excited for what our long-term partnership can do for BioMarin, patients, and the industry by advancing the development and commercialization of innovative therapies. https://lnkd.in/d7mEV-QT Veeva Systems #lifesciences #pharmaceuticals
+
+7444827225448706048 | Peter Gassner | image | 160w
+    Great news! Non-competes are now illegal in Washington State! Thank you Governor Ferguson for having the courage to sign the bill into law last week. The new Washington law is very comprehensive like the long standing non-compete law in California. This is a big win for employee freedom, innovation and the Washington State economy. I  [...]  the next big tech revolution can start in Washington! Congratulations to Washington State! #noncompetes #leadership #innovation
+
+7463538664904634368 | Peter Gassner | image | 115w
+    Huge congratulations to the Veeva Ostro team on their first Commercial Summit! The Ostro booth was always packed! It was great to see Ostro's conversational AI showcased on the big stage and now an integral part of Veeva Commercial Cloud. Nearly three months into the acquisition, we couldn't be happier to have this team as  [...]  love our Ostronauts! Thanks for making Veeva better! #VeevaSummit #CommercialEvidence Chase Feiger, M.D. Ahmed Elsayyad #Ostro
+
+7475191064606310400 | Peter Gassner | text | 115w
+    Congratulations to Jacob Scheel-Bech and the Copli team! Copli is a fantastic startup based in Copenhagen with a successful set of early customers. They are providing Agentic MLR to help solve the MLR bottleneck and get compliant content approved faster and with less expense and hassle. Copli is now Veeva Falcon MLR and part of  [...]  be largely solved by AI and the Falcon MLR team are the people to do it.
+
+6364880269241122816 | Praveer Melwani | text | 17w
+    Its been a great ride so far at Figma. Just raised our $25M series B! We're hiring!
+
+6377204274199293952 | Praveer Melwani | text | 14w
+    Hoping to find someone to join me on the Business Operations team at Figma!
+
+6481603250515775488 | Praveer Melwani | link | 28w
+    We're looking for our first sales strategy and operations hire at Figma! Please feel free to reach out if you or anyone you know might be interested! https://lnkd.in/g5hywMm
+
+6563094459129692160 | Praveer Melwani | link | 43w
+    This summer has been good to Figma. Huge launch yesterday with a ton of great momentum across the business. It feels like we're really picking up steam and hiring across every team. Program Manager, Security Assurance https://lnkd.in/ggAxU7k Financial Reporting & Technical Accountant https://lnkd.in/g62FRMc
+
+6830901442413498368 | Praveer Melwani | link | 67w
+    Surreal to think how quickly Figma has grown and the aspirations we have to continue to evolve an industry and cater to an ever more digital world. Let's keep it going and come join us! We've got roles open across the board and a few on my teams: - Strategic Finance - Contracts Manager - Legal Counsel - Revenue Accounting Manager And a whole bunch more: https://lnkd.in/gT4NMNxx
+
+6968324080609492992 | Praveer Melwani | text | 15w
+    Our team is growing, come join a great group :) cc: Bryan Kate & Emily
+
+7054950449585557504 | Praveer Melwani | text | 51w
+    Looking to bring on a leader who can partner with Nicole Wittlin and I as well as the rest of our Strategic Finance team here at Figma. One of my top priority roles to fill over the next couple months. Please reach out directly if you're interested or know someone great!
+
+7226703409385553920 | Praveer Melwani | link | 75w
+    Thrilled to see Figma featured alongside so many of our partners and customers on this year's Forbes Cloud 100. It's been a busy 2024, between a successful tender offer, stellar business growth and an IRL Config where we announced new AI features, new tools for developers and a new slides product before an audience of  [...]  to our team and the amazing Figma community that's helped make all this all possible! https://lnkd.in/gZ2RDuRA
+
+7325949197889785856 | Praveer Melwani | link | 93w
+    We just announced more new products at #Config2025 than we ever have before and I couldn't be prouder of our team for the incredible work they've done to bring all of it to life. From Figma Sites (for building websites) to Figma Buzz (for marketers creating assets) to Figma Make (powered by Claude), I couldn't  [...]  wait to see how our community puts these tools to work. Check it out here: https://lnkd.in/gzRa-uCs
+
+7389738909095718912 | Praveer Melwani | text | 22w
+    Has been really fun getting to know the Weavy team. What they've built is really special. Thrilled to welcome them to Figma!!
+
+7429995314935377921 | Praveer Melwani | video | 130w
+    We just reported Figma's Q4'25 and FY25 results and it was our strongest quarter and year on record. The business saw accelerated revenue growth of 40% for the quarter, exited Q4 with $304 million in revenue and $1.056 billion for the full year, expanded our Net Dollar Retention rate to 136% while maintaining Gross Dollar  [...]  ARR customers consuming AI credits on a weekly basis. Strong finish, and a big year ahead!
+
+7456029428998066176 | Praveer Melwani | link | 72w
+    Figma has been named a 2026 TIME100 Companies: Industry Leader, alongside some incredible peers, that are "making an extraordinary impact in their industries." This isn't the reflection of just one product launch or quarter. It's the compounding effect of a team that shows up, year after year, to make design and development better for the  [...]  who use our tools. I'm proud of the work, and I'm prouder of our team. https://lnkd.in/g-CDdUpz
+
+7458265309297360896 | Praveer Melwani | image | 58w
+    Config has always been the moment Figma puts its best work in front of the world. I'm convinced this year is going to be the best one yet — 10th Config, 100+ community speakers, and some of the most meaningful product updates we've built. The agenda is live. June 23-25 in San Francisco, or join us online. https://config.figma.com/
+
+7461062994073034752 | Praveer Melwani | image | 154w
+    Our strong numbers got a lot of the attention in yesterday's earnings report, so you might have missed that architects are now designing renderings in Figma Weave and that we closed one of the largest deals in Figma's 14-year history. At NBBJ, one of the world's leading architecture firms, architects are using Figma Weave to  [...]  seeing customers go bigger and broader in Figma as value moves up the stack to design.
+
+7475604320944758784 | Praveer Melwani | link | 194w
+    Incredible day of launches at #Config 2026. New creative materials, agentic tools, and a canvas that just got a lot more powerful. As code gets easier to write, value moves up the stack — to the layer where decisions get made and design happens. That's what Figma is built for. The infinite canvas is where  [...]  exciting new opportunities for Figma. So proud of the team for their hustle and execution. https://figma.bot/3QH7viF
+
+7397693980471238656 | Rachel Laycock | image | 122w
+    Thanksgiving still feels like a new holiday to me as a Brit, but I've come to really value the pause it creates. It's a deliberate reminder to be grateful, and I like that. This year, my daughter picked out a Christmas tree mug for me all on her own. A simple moment, but one that  [...]  is my reason for doing and becoming. Wishing everyone a healthy, joyful and restorative holiday season.
+
+7405306772229554176 | Rachel Laycock | multi-image(2) | 198w
+    It's been just over a week since I was at the NYC CIO Executive Summit, and I've been reflecting on the conversations since. One clear takeaway stood out. The early promises of efficiency gains from GenAI have not materialized for most organizations. What leaders are seeing instead is improvement at the individual and team level,  [...]  - And many leaders aren't sure where to start. Challenging, ambiguous, and consequential. Interesting times indeed.
+
+7415423271040655361 | Rachel Laycock | image | 141w
+    The era of "AI for efficiency" is coming to an end. 📉 📊 Our latest global research at Thoughtworks found a massive structural shift: 77% of business leaders have moved their AI strategy from cost savings to growth and innovation. In large enterprises, that number jumps to a staggering 92%. Leaders are no longer asking  [...]  own AI strategy, is it built for cutting costs or capturing growth ❓ 🔗 👉 https://lnkd.in/eU9D7kEM
+
+7424844017517023232 | Rachel Laycock | video | 154w
+    What an energizing week to be part of this industry. I'm still processing the depth and honesty of the conversations from this week's unconference on the future of software development. One takeaway that really stayed with me: despite all the hype, we're still early. There's a great deal of immaturity in how we'll build, run,  [...]  them yet. We're clearly at an inflection point. More detailed reflections and takeaways coming soon. #TWSoftwaredev26
+
+7429561774640857088 | Rachel Laycock | video | 81w
+    It's hard to believe it's been 25 years since the Agile Manifesto was written. At The Future of Software Development Retreat, I had the opportunity to sit down with Martin Fowler to reflect on what agile has meant for our industry, and what are the implications for agile practices in an AI-native world. We talked  [...]  delivery is evolving in ways we couldn't have imagined back then. Sharing the conversation below. #TWSoftwaredev26
+
+7433173291487387648 | Rachel Laycock | image | 87w
+    Nothing about modern software is static, so why do 90% of organizations still modernize through episodic, one-off projects? It's a mismatch that creates technical debt. And as our new joint research report with IDC will show you, it's actively keeping companies from realizing real AI value. Based on a survey of 500 companies worldwide, the  [...]  so their systems evolve naturally. Great insights for anyone tasked with operationalizing AI this year: https://lnkd.in/g26rUAeB
+
+7437840671744548865 | Rachel Laycock | image | 67w
+    Honored to be named to the Chief in Tech 100 Executives to Watch 2026 list. It's a privilege to stand alongside a cohort of visionary leaders who are actively shaping the future of technology and redefining what modern leadership looks like. This recognition truly reflects the incredible teams I get to work with every day, thank you for pushing boundaries and driving meaningful change together. 👉 https://lnkd.in/gHkSHcJT
+
+7445436175110021120 | Rachel Laycock | video | 125w
+    A few weeks ago I was in India for our Technology Radar face-to-face (next edition out soon!), and had the chance to sit down with Cecilia Geraldo Quijada to reflect on some of the themes emerging from the room. One thing that stood out is just how fast things are evolving in a way that  [...]  our conversation, watch the video below. More from the Radar soon, stay tuned for the release.
+
+7454941568370823169 | Rachel Laycock | multi-image(5) | 184w
+    Last week I was in Barcelona with our Global Management Team, which is always a good opportunity to step back and think clearly about where things are heading. A big focus for us: what it really means to operate in an agent-driven world. Not just building with AI, but building for it. Agentic development and  [...]  physical things you can stand next to. For the technologist in me, that was a highlight.
+
+7460419926114295809 | Rachel Laycock | multi-image(4) | 354w
+    Yesterday at Code Remix Summit I spoke about two sides of the AI transition that are deeply connected, but too often discussed separately. First: the human side of AI with Kiran Rouzie We spend enormous energy talking about model capability, benchmarks, tooling and agentic workflows. What we don't talk about enough is how people's roles  [...]  will come from who can scale quality, trust, engagement and cost control at the same time.
+
+7470849117263454208 | Rachel Laycock | link | 118w
+    If AI can generate more code than humans can realistically review, what happens to software quality, engineering rigor and shared understanding? I recently sat down with Scott Carey on The LeadDev Shift interview series to discuss some of the challenges emerging as AI transforms software engineering. We covered everything from technical debt and cognitive debt  [...]  Thanks to Scott and LeadDev for the conversation! 🎙️ Listen to the full episode here: https://lnkd.in/dAruUB_m
+
+7480266055752409088 | Rachel Laycock | video | 146w
+    Five months ago, many of the conversations about AI and software development still felt broad and uncertain. At our latest Future of Software Development Retreat, the questions felt much more practical. We're now talking about harnesses, team shapes, developer roles, agentic development and what the SDLC needs to become next. There's no single answer yet,  [...]  resilient, adaptable and cost-effective in an AI-native world. Sharing a few reflections from the retreat. #TWSoftwareDev26
+
+7488985014798512128 | Rachel Laycock | link | 218w
+    The second Rachel's Rambling is now live on Martin Fowler's website. Over the last year we've been obsessed with productivity. How well can an LLM write code? How much faster can we build software? How do we verify AI-generated code? How do we ensure it's well designed, secure and resilient? Those are all important questions,  [...]  impact. I'd love to hear whether this resonates. You can read the full ramble here: https://lnkd.in/d5DtCK5h
+
+7496196818939166720 | Rachel Laycock | link | 136w
+    For my third post on Rachel's Ramblings, I've been pondering the growing gap between non-technical people who can now build surprisingly full-featured apps with AI, and their understandable question: why isn't the engineering team suddenly 10x faster, and why can't we just put this thing into production? I think the gap is trust. Production-grade software  [...]  enable anyone to turn an idea into production-grade software. I'd love to hear others thoughts. https://lnkd.in/dXcZ5tMN
+
+7500885851422236674 | Rachel Laycock | multi-image(10) | 163w
+    I've really enjoyed watching our Global Innovation Hackathon unfold over the past few weeks. Seeing people from across Thoughtworks come together, challenge each other's thinking, experiment with AI and turn ideas into things that could solve real problems is exactly the kind of curiosity I want us to keep creating space for. Choosing which ideas  [...]  good luck to our finalists. I'm looking forward to seeing where you take these ideas next.
+
+7454979197627748352 | Rajat Bhageria | video | 144w
+    Physical AI is unlocking the potential of robotics. Before, teaching a robot a new task required robotics + computer vision PhDs. Now, with the advent of imitation learning, we can "teach" a robot with human demonstrations. While still in the research phase, this new approach, using Foundation Models (specifically vision-language-action models, or VLAs) and imitation  [...]  Kartheek Chandu Luis Rayas Tina Kao Nick LaBounty Konstantin Stulov Krishna T. for the incredible work!
+
+7457136719704920064 | Rajat Bhageria | video | 213w
+    What does it actually take for a robot to pick up a chicken breast? Our robots use piece-picking to handle discrete items like chicken breasts, pork chops, oranges, apples, cookies, and burger buns, picking each item individually from a pan and placing it precisely into a tray or packaging container. Here's what's actually happening under  [...]  throughout the pan. No pre-sorting required. This is what it looks like running live in production.
+
+7459678711165079552 | Rajat Bhageria | text | 184w
+    When we started Chef, it wasn't obvious we'd go into food right away. We looked at different industries where robotics should have worked but hadn't. The pattern we kept seeing across industries was high labor dependency, messy environments, and too much variability for traditional automation to handle. Food stood out. It's one of the most  [...]  real production lines. Today. Proud to be part of this with an incredible group of companies!
+
+7460375540370157568 | Rajat Bhageria | text | 30w
+    Proud to represent robotics innovation in the food industry at this year's RBR50 awards. Big thanks to The Robot Report for featuring us for the second year in a row!
+
+7463366426460852225 | Rajat Bhageria | image | 210w
+    One of the hardest problems in physical AI is something that sounds simple: adding a new ingredient. In reality, it's not. Every ingredient behaves differently. Some compress, some stick, some spill, some drip. Choosing the right utensil (and how to move it) can have a big impact on yield, speed, and reliability. Historically, onboarding new  [...]  operate in. Read more about how we built SAGE on our engineering blog (link in comments)!
+
+7465848389000171521 | Rajat Bhageria | video | 218w
+    The fascinating thing about robotics is that no problem is trivial. Scooping a burrito bowl sounds easy until you try to make a robot do it: rice clumps differently in every scoop. Beans sit in liquid. Cheese sticks together. Lettuce shifts around. A tiny motion that feels natural to humans can cause spills, inaccurate portions,  [...]  you to confront incredibly subtle manipulation problems. Our work never gets boring! Full blog in comments.
+
+7467682481845108736 | Rajat Bhageria | image | 314w
+    A lot of the debate in physical AI today focuses on generalist models and embodiments vs. vertical-specific ones. But here's the thing: Our customers don't need a robot that can do every task in the world. They need a robot that can portion food with superhuman consistency, withstand cold storage and daily washdowns with buckets  [...]  enormous. That's the thesis we've been building Chef around. Read the full post (link in comments)!
+
+7470550013094539264 | Rajat Bhageria | text | 2w
+    Welcome, Bennett!
+
+7472725842893246464 | Rajat Bhageria | image | 238w
+    Food manufacturers care deeply about portion consistency. When a meal calls for 50 g of diced chicken, every meal needs to be as close to 50 g as possible—too little and the consumer is shortchanged, too much and the manufacturer is giving away product. Chef robots estimate pick depth geometrically by computing the utensil's cross-sectional  [...]  across all Chef utensils and ingredients in production. More on how we built it—link in comments.
+
+7473787526244175872 | Rajat Bhageria | image | 263w
+    We're grateful to be in the Robots for America industry coalition and excited to see bipartisan momentum behind a proposed National Commission on Robotics. For years, we've talked about AI strategy, but it's time we start talking about robotics strategy too. One thing I'd love to see talked about more is deployment. When people think  [...]  them) will shape this industry. Full article by Eugene Demaitre from The Robot Report in comments!

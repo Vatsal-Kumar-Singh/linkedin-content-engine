@@ -1,0 +1,169 @@
+# batch 018  -  55 posts  -  label per research/CLASSIFICATION-PROTOCOL.md
+# labels: problem exploration requirements selection validation consensus
+#         recruitment culture event product-news csr unclear
+# write research/labels/018.tsv as: <id><TAB><label>
+
+7468340315276476416 | Linear | image | 14w
+    Your team's └ meeting notes └ runbooks └ strategy docs Now available in Linear.
+
+7468431842153611264 | Linear | text | 3w
+    Amplitude 🤝 Linear
+
+7469812383738355712 | Linear | image | 30w
+    You can now turn your best personal skills into shared team workflows. Ask Linear to share a skill with your team, and all members will be able to use it.
+
+7470909980850851840 | Linear | video | 32w
+    Introducing coding sessions. Linear Agent can now triage issues, investigate the cause, write the fix, open a PR, and bring the code back for review. All shared with your team in Linear.
+
+7471238327783038977 | Linear | link | 32w
+    Linear Agent can now write code. We put it to work, automatically fixing bugs as they land in triage. Igor, the engineer behind these automations, shares how he set them up. https://lnkd.in/e45BCNQx
+
+7472695390849642496 | Linear | link | 44w
+    Last week we launched Diffs, a new way to review PRs directly inside Linear. The most common question we've gotten since then is how Linear handles code reviews internally. Maciek Pękala, one of the engineers who built it, breaks down his process here. https://lnkd.in/g45Mams6
+
+7473410921579843584 | Linear | video | 30w
+    New: Agent assisted project updates 1. From an update, click Write with Agent 2. Linear drafts an update based on recent activity and Slack conversations 3. Verify, iterate, and post
+
+7475237587872415744 | Linear | image | 61w
+    We've teamed up with Okta as a launch partner for Cross App Access (XAA), an open protocol that brings identity-based security to AI. Agents can securely access Linear data while your security team gets full visibility and control. More context, less unmanaged risk, and zero repetitive consent prompts. Coming to the Okta Integration Network this August. More from Okta here: https://lnkd.in/gcdNUavJ
+
+7475939906481967105 | Linear | video | 34w
+    Walk through a large PR in the order the code actually flows. Spot a bug, ask Linear Agent to fix it, and watch the diff update live. Code review without the tab-switching or file-sifting.
+
+7477751561457233922 | Linear | video | 30w
+    A bug enters triage. Linear instantly labels it, runs a full code investigation, and opens a PR for your team to review. Automated triage that actually closes the loop. 🔁
+
+7478474077683310592 | Linear | image | 28w
+    New: Initiative properties Initiatives now support priority, labels, and additional statuses. Use priority to stack rank high level work, or group proposed initiatives by product area when planning.
+
+7483215494758576129 | Linear | video | 14w
+    FASTER THAN SOUND (2026) A short film about how Boom Supersonic builds with Linear.
+
+7485003367300087808 | Linear | video | 12w
+    Introducing Loops: Recurring workflows that Linear Agent can run for your team.
+
+7486091829436911617 | Linear | image | 40w
+    You can now use Linear Agent to edit documents and project descriptions, or write loops to keep them up to date automatically. Show author names to see which user or loop made a change, or trace edits through version history.
+
+7487540235975802881 | Linear | image | 21w
+    We're giving Business and Enterprise workspaces $20 per seat in AI credits for Loops, pooled across the team. Expires Aug 20.
+
+7488622111746564097 | Linear | video | 27w
+    New: Coding sessions on mobile Keep work moving from the Linear mobile app. Review code changes, comment on specific lines, and send feedback directly to the agent.
+
+7491167390353809408 | Linear | video | 18w
+    From our engineering dept: How Sean Callahan automated investigation of slow postgres queries using Linear Loops and Datadog.
+
+7492586353054904320 | Linear | link | 17w
+    Our perspective on agent design. Matthijs Wolting on the prompt, tools, and harness behind Linear Agent: https://lnkd.in/e_bxMa68
+
+7492958535723495424 | Linear | video | 17w
+    After the IDE (2026) A short film about Coinbase and the work of building software with agents.
+
+7493349125212692481 | Linear | video | 24w
+    Every product change risks leaving your docs behind. Here's how Alan Doyle on our CX team uses Loops to keep them up to date.
+
+7493730576210812928 | Linear | image | 40w
+    Assign a lead team to initiatives in Linear. Give teams a focused place to plan and track high-level work, while connecting their priorities to broader company goals. Learn more about everything we shipped this week in our changelog → https://lnkd.in/e6uvb4NM
+
+7495171442943225856 | Linear | image | 37w
+    Teams building with coding agents in Linear now ship 6.5x as much as those that don't. That's one stat from a much bigger look at how teams build with AI, from analyzing real usage data in Linear.
+
+7495519685342339073 | Linear | link | 22w
+    Rethinking delta sync at scale with turbopuffer. Engineer Peter Travers on how we made Linear's sync latency predictable as workspaces grow: https://lnkd.in/gQ8vnBy2
+
+7495907323907829760 | Linear | video | 19w
+    How Eitan M. on our Sales team uses Loops to get fast, reliable answers to product questions at scale.
+
+7496251754620014592 | Linear | video | 26w
+    Linear's coding sessions now supports custom environments and browser use for testing and screenshots. Configure runtimes automatically with agent, and setup necessary scripts and env vars.
+
+7498348763757854720 | Linear | link | 37w
+    Today we're announcing our second employee tender offer. We passed $100m ARR earlier this year and now have more than 40,000 paying customers. The tender lets our teammates participate in that success at a $2.5B valuation: https://lnkd.in/e5EDdmcr
+
+7498732301195862018 | Linear | link | 33w
+    Over 1000 PRs later, Linear migrated from styled-components to StyleX. What began as performance optimization gave us better defaults for humans and agents alike. Our engineer Kenneth Skovhus on what we learned: https://lnkd.in/gFhEGz9F
+
+7499134771856293888 | Linear | video | 31w
+    The best product feedback is often buried in sales calls. Our product team uses Loops to automatically capture, synthesize, and review those conversations to surface the ones they care about most.
+
+7500222319563403264 | Linear | video | 18w
+    INSPECT (2026) A short film about Ramp's own coding agent, now writing three out of every four PRs.
+
+7500595474211659776 | Linear | image | 41w
+    As more apps and agents connect to your tools, controlling access to company data matters more than ever. Third-party app approvals are now available on every paid Linear plan, giving workspace admins the final say before an app gains access. https://lnkd.in/gjtNvMZS
+
+7501309308387897344 | Linear | image | 29w
+    New: Priority inbox Not all notifications are created equal. Linear now surfaces your most important updates in a dedicated priority inbox. Quickly unblock your team and keep work progressing.
+
+7501644907040931840 | Linear | video | 12w
+    Quality-of-life update: Loops can now run on specific days of the week.
+
+7503887522159095808 | Linear | link | 24w
+    Not all customer feedback is created equal. Commure's product team uses Customer Requests in Linear to weigh it, by count and by revenue. https://lnkd.in/dQFZW9yB
+
+7474745743598309376 | Locus Robotics | video | 142w
+    Take a look inside VF Europe's high-bay warehouse in Sint-Niklaas and see how Locus Robotics is helping power a smarter, more flexible operation. Featured in the 50th episode of Logistics TV on Trends Z, the video highlights the VF Europe and Locus partnership in action. Since 2022, Locus has partnered with VF Europe to support warehouse automation, starting with order  [...]  below, or see the whole feature here: https://lnkd.in/gWwTaxjz #LocusRobotics #WarehouseAutomation #LogisticsInnovation #SupplyChain #Fulfillment #AMRs #RetailLogistics #LogisticsTV TRANSPORTMEDIA BELGIUM
+
+7474922377580007424 | Locus Robotics | video | 108w
+    APL Logistics needed automation that could keep pace with changing customer needs, shifting product profiles, and same-day fulfillment expectations. By deploying Locus Origin and Locus Vector in key facilities, APL Logistics is improving picking efficiency, reducing travel time, accelerating training, and increasing throughput. At Woodridge, the team expanded from an Origin-only deployment to a mixed fleet of Origin and Vector  [...]  Logistics is using flexible warehouse automation to scale with confidence and deliver stronger outcomes for its customers. https://lnkd.in/gXbk6--N
+
+7475273421304553472 | Locus Robotics | link | 93w
+    Temperature-controlled fulfillment leaves little room for slowdown. HelloFresh needed to expand chilled SKU capacity while keeping fulfillment fast, precise, and trackable. Working with Locus Robotics, the team deployed cold-storage enhancements for Locus Origin, including heated motor and charging modifications designed to support reliable operation inside chilled environments. The results: 5X growth in chilled SKU capacity, from 100 to 500 SKUs  [...]  to drop-off See how HelloFresh scaled chilled fulfillment with Locus Robotics: https://lnkd.in/gW8H9Q9D #LocusRobotics #HelloFresh #WarehouseAutomation #ColdStorage #Fulfillment #SupplyChain
+
+7475611470395883520 | Locus Robotics | link | 134w
+    Prime Day may dominate retail headlines, but demand spikes aren't limited to a single shopping event. Recent consumer research from Locus Robotics suggests that online demand is becoming more frequent, more fragmented, and more difficult to predict: • 72% of consumers make online purchases multiple times per month • 41% shop online weekly or more often • 38% decide whether  [...]  has become increasingly difficult in today's ecommerce environment. Read the blog: https://lnkd.in/g5zfFDVf #PrimeDay #WarehouseOperations #RetailFulfillment #3PL #SupplyChain #Logistics
+
+7475911979623153665 | Locus Robotics | video | 98w
+    We're excited to share that Locus Robotics has been named winner of the Cognitive Robotics Innovation Award in the 2026 AI Breakthrough Awards Program for Locus Array. Selected from more than 5,000 nominations across 20+ countries, this honor is a powerful validation of the innovation behind Locus Array and the team bringing it to life. We're especially proud to be  [...]  others. A huge congratulations to the entire Locus Robotics team, and to the other award winners. #PhysicalAI #WarehouseAutomation
+
+7476332740951293953 | Locus Robotics | image | 113w
+    A new stop has been added to the Automation Advantage Tour in Boston! If you missed our Kimball Midwest stop in Ohio, there is still time to join us in Atlanta on July 15th for the next stop on the tour, focused on Health & Beauty operations. The Automation Advantage Tour gives you a firsthand look at flexible warehouse automation  [...]  to different workflows, order profiles, SKU mixes, and operational needs. Sign up for the Atlanta stop today: https://lnkd.in/eA6YMsa2
+
+7477789397833142272 | Locus Robotics | video | 69w
+    Volume up. Volume down. New customer needs. Different industries. Multiple regions. For APL Logistics, change is part of the job. That means their automation strategy has to be flexible enough to keep up. Hear from APL on how Locus Robotics supports their flexible automation strategy, helping them scale quickly as business needs shift while staying focused on what matters most: the customer. Watch the full video on YouTube: https://lnkd.in/gXbk6--N
+
+7479227213473587200 | Locus Robotics | image | 42w
+    Today, we celebrate the Fourth of July and the spirit of independence that brings us together! At Locus Robotics, we are grateful for the people, communities, and teams who help keep our country moving. Wishing everyone a safe and happy Independence Day!
+
+7479904502012379136 | Locus Robotics | image | 130w
+    The next step in warehouse automation is not just moving faster. It is automating more of the work happening directly in the aisle. Locus Array brings Robots-to-Goods automation into real fulfillment workflows, combining AI-powered perception, real-time decision-making, autonomous movement, and a patented end-effector designed to handle a wide range of SKUs with speed and care. Instead of relying on fixed  [...]  assisted picking, increase SKU coverage, and scale execution without redesigning the operation. Learn more about Locus Array: https://lnkd.in/edc_6reD
+
+7480699777186152448 | Locus Robotics | image | 114w
+    Putaway is often treated as a behind-the-scenes warehouse process, but when inventory does not move efficiently, fulfillment performance feels the impact. For Kimball Midwest, growth created a clear need to move inventory faster without adding unnecessary complexity to the operation. With Locus Robotics, the team improved putaway productivity by 100%+, moving from ~30 to 90+ lines per hour while maintaining  [...]  inventory flowing, support faster replenishment, and scale throughput without redesigning its facilities. Read the full customer story: https://lnkd.in/gFBb63YK
+
+7481052058645594133 | Locus Robotics | image | 96w
+    One week from today, Hamid Montazeri from Locus Robotics will join industry experts for “Orchestrating the Modern Warehouse: Flexible automation, AI and the rise of connected systems.” Moderated by Michael Levans, the roundtable will also feature Suneel Krishnaswamy, George Borza, and James Malley for a discussion on how AI, orchestration platforms, and modular automation are helping warehouse and DC teams  [...]  on Thursday, July 16 at 2:00 PM EDT / 11:00 AM PDT. Register here: https://lnkd.in/g6R29mSp #WarehouseAutomation #Robotics #AI
+
+7482505558969999361 | Locus Robotics | image | 83w
+    Warehouse operations need automation that can improve performance as fulfillment requirements change. Locus Origin is a collaborative mobile robot that works alongside associates to improve productivity by more than 2X while supporting accurate, consistent execution. Powered by LocusONE, Locus Origin supports picking, putaway, and task interleaving across fulfillment workflows. Flexible carry configurations accommodate a range of containers and product types,  [...]  to their specific needs. See how Locus Origin helps fulfillment teams increase throughput and scale with confidence: https://lnkd.in/dsY27YGE
+
+7482879099569537024 | Locus Robotics | image | 90w
+    Apparel fulfillment puts constant pressure on space, labor, SKU coverage, and order accuracy, especially as order profiles shift and peak volumes rise. Join Gina Chung of Locus Robotics to learn how leading apparel and retail brands are building fulfillment operations that can scale through peak, adapt to changing demand, and give teams greater control. The session will also explore how  [...]  to 98% of apparel SKUs with fewer manual touches and greater operational flexibility. Register for the webinar: https://lnkd.in/eZTNHcvG
+
+7483526597791309825 | Locus Robotics | image | 89w
+    Last chance to register for today's webinar!! At 2:00 PM EDT / 11:00 AM PDT, Hamid Montazeri of Locus Robotics will join Suneel Krishnaswamy, George Borza, and James Malley for “Orchestrating the Modern Warehouse: Flexible automation, AI and the rise of connected systems.” Moderated by Michael Levans, the roundtable will explore how AI, orchestration platforms, and modular automation help warehouse  [...]  demand, labor availability, and SKU complexity change. Save your spot and join the discussion today! Register here: https://lnkd.in/g6R29mSp
+
+7483918671795490816 | Locus Robotics | video | 118w
+    100% SKU coverage starts with the right mix of warehouse robots. For operations with diverse inventory and workflows, a mixed fleet can extend automation across more of the warehouse. Locus Array uses AI-powered vision and patented grasping technology to autonomously pick a wide range of real-world products. When an item is larger, heavier, or better suited to another workflow, the  [...]  fulfillment requirements change. Explore how Locus Fleet coordinates the right robot for each task across warehouse workflows: https://lnkd.in/dvpCa4GP
+
+7484987106537193474 | Locus Robotics | video | 115w
+    The best way to understand warehouse automation is to see how it performs in a live operation. At our recent Automation Advantage event at Kimball Midwest, attendees toured a fulfillment operation powered by Locus robots. They saw real workflows, heard from the team behind more than 11 million robotic-assisted picks, and learned how Kimball Midwest increased picking productivity by 45%  [...]  hear directly from the teams using it every day. Sign up for the next Automation Advantage event: https://lnkd.in/eA6YMsa2
+
+7486090276449570817 | Locus Robotics | image | 71w
+    Apparel fulfillment is difficult to automate because SKU counts, order profiles, labor availability, and peak volumes keep changing. Join Gina Chung of Locus Robotics to learn how leading apparel and retail brands are building more flexible operations that can scale through peak, adapt to demand shifts, and reduce manual touches. See how Locus Array brings autonomous fulfillment into the aisle and helps automate up to 98% of apparel SKUs. Register: https://lnkd.in/eZTNHcvG
+
+7486373163358953472 | Locus Robotics | image | 198w
+    Von 1.000 auf 100.000 Sendungen pro Tag – wie skaliert man Logistik, wenn Influencer die Nachfrage innerhalb weniger Stunden verändern können? Hier ist die Geschichte von The Quality Group und Locus Robotics. 🚀 Was passiert, wenn ein Influencer ein Produkt empfiehlt – und die Nachfrage über Nacht explodiert? Für die Logistik von The Quality Group (ESN & MORE Nutrition) ist  [...]  Spotify und allen gängigen Podcast-Plattformen verfügbar. https://lnkd.in/eCVUFKM8 #Logistik #WarehouseAutomation #Robotik #Intralogistik #SupplyChain #Fulfillment #AMR #ECommerce #LocusRobotics #TheQualityGroup #WarehouseManagement
+
+7487476948005314560 | Locus Robotics | image | 162w
+    Wie können Unternehmen KI und Automatisierung heute einsetzen, um ihre Logistik effizienter, skalierbarer und zukunftssicher zu machen? Wenn Sie sich mit den Themen Warehouse Automation, digitale Supply Chains und nachhaltiger ROI beschäftigen, sollten Sie den platbricks Experience Day 2026 von Arvato Systems nicht verpassen. Als Technologiepartner freut sich Locus Robotics, Teil des Programms zu sein. In seiner Session 🎤 „Automatisierung,  [...]  🔗 Jetzt zum platbricks Experience Day 2026 anmelden: https://lnkd.in/dKitqqJj #LocusRobotics #ArvatoSystems #platbricks #WarehouseAutomation #SupplyChain #Logistik #Automatisierung #KI #Digitalisierung
+
+7487937482156556288 | Locus Robotics | image | 108w
+    Which warehouse automation model is right for your operation? The answer depends on more than throughput. Warehouse leaders today are balancing changing demand, labor availability, SKU complexity, and future growth. That means choosing an automation strategy isn't simply about speed. It's about selecting an approach that can adapt as your operation evolves. Our latest guide compares three fulfillment models: •  [...]  you're evaluating warehouse automation, this is a useful resource to help frame the conversation. Read the guide: https://lnkd.in/gYeAMWUW
+
+7488593188279160832 | Locus Robotics | video | 125w
+    Pharmaceutical fulfillment doesn't leave much room for operational friction. Serialization. Lot validation. Expiry-date tracking. High order volumes. As demand grew, German Pharmaceutical leader MSK Pharma Group needed fulfillment infrastructure that could scale across both existing and newly developed facilities, without locking operations into rigid automation constraints. With Locus Robotics, MSK now operates: • 63 robots across two neighboring warehouse sites  [...]  growth across its pharmaceutical operations. 🎥 Watch the full video case study: https://lnkd.in/ggk3KZzG #LocusRobotics #WarehouseAutomation #PharmaceuticalLogistics #SupplyChain #FulfillmentOperations
+
+7488871691197042688 | Locus Robotics | video | 178w
+    What does flexible automation look like in a live operation? Join one of our 2026 Customer Site Tour Experience days to see how facilities across Europe use Locus to build more resilient operations. From Healthcare, to Apparel Retail, to Beauty and Personal Care, each upcoming Site Tour offers a different sector perspective. Each half-day tour will explore: ✅ How operations  [...]  an upcoming tour. 👉 Apply now, to save your space: https://lnkd.in/erawCRm2 #WarehouseAutomation #Fulfillment #SupplyChain #WarehouseOperations #Logistics #Robotics #LocusRobotics

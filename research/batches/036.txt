@@ -1,0 +1,169 @@
+# batch 036  -  55 posts  -  label per research/CLASSIFICATION-PROTOCOL.md
+# labels: problem exploration requirements selection validation consensus
+#         recruitment culture event product-news csr unclear
+# write research/labels/036.tsv as: <id><TAB><label>
+
+7503754295968894977 | Veeva Systems | image | 73w
+    High-quality KOL data unlocks advanced use cases and innovation. Beyond targeting and segmentation, Bayer also utilizes Veeva Link Key People data for highly specific analysis. Daniel Jardanhazi-Kurutz shares how one team relies on this trusted KOL data to accurately evaluate the fair market value of HCPs, ensuring compliant and data-driven incentive planning. Listen to how deep data is fueling new capabilities across the business. Watch the video snippet here: https://lnkd.in/gAcGMVq5 #DataStrategy #LifeSciences #VeevaLink
+
+7503784450548273152 | Veeva Systems | image | 51w
+    Creating a modern, intuitive event management experience for field teams is essential for driving HCP engagement and compliance at scale. Stacy Singer Stone, MS with Pacira BioSciences, Inc. shares how using a connected software and event logistics services solution makes running events quick, compliant, and easy. 🎬 ➡️ https://lnkd.in/g6bEVi9Y #biotech #pharmaceuticals
+
+7474943980284313600 | Vercel | link | 28w
+    Decouple deploy from release. { 𝚒𝚜𝙴𝚗𝚊𝚋𝚕𝚎𝚍 ? <𝙽𝚎𝚠𝙳𝚊𝚜𝚑𝚋𝚘𝚊𝚛𝚍 /> : <𝙾𝚕𝚍𝙳𝚊𝚜𝚑𝚋𝚘𝚊𝚛𝚍 /> } 🔗 Merge code when it's ready. 🎚️ Flip a flag when the feature is. https://lnkd.in/gsgyks8s
+
+7475876829397180416 | Vercel | multi-image(4) | 35w
+    Thanks for joining us at AI Social Club Berlin 🇩🇪 We love seeing what you're building. Malte Ubl takes the stage again today for Ship Berlin, with more announcements to help you build what's next.
+
+7475973505986207746 | Vercel | multi-image(4) | 9w
+    Thank you, Berlin 🇩🇪 See you soon, NYC 🗽
+
+7477716736843198465 | Vercel | link | 24w
+    You can now run any Dockerfile on Vercel. # 𝙳𝚘𝚌𝚔𝚎𝚛𝚏𝚒𝚕𝚎.𝚟𝚎𝚛𝚌𝚎𝚕 𝙵𝚁𝙾𝙼 𝚐𝚘𝚕𝚊𝚗𝚐:𝟷.𝟸𝟺 𝙲𝙾𝙿𝚈 . . 𝚁𝚄𝙽 𝚐𝚘 𝚋𝚞𝚒𝚕𝚍 -𝚘 /𝚜𝚎𝚛𝚟𝚎𝚛 . 𝙲𝙼𝙳 ["/𝚜𝚎𝚛𝚟𝚎𝚛"] https://lnkd.in/gG5UF5T8
+
+7477717374943784960 | Vercel | link | 30w
+    Vercel Services gives your full stack app atomic deployment and rollback, a single preview URL, and a private network between services. One Vercel project for your entire application ↓ https://lnkd.in/gxHQ5Em5
+
+7478078210203754497 | Vercel | video | 76w
+    Formula One is a sport decided by milliseconds, built on relentless engineering and the refusal to accept anything less than the fastest possible. We share the same obsession. Today we're joining the Mercedes-AMG PETRONAS Formula One Team as a multi-year strategic partner. Over the coming seasons we'll bring the technology community trackside through customer experiences, leadership forums, and co-created content — and one of the fastest teams in world sport onto the Vercel platform. Stay tuned.
+
+7480007328738459648 | Vercel | video | 3w
+    Ship 26 NYC
+
+7480296338140725248 | Vercel | link | 35w
+    Better Auth is joining Vercel. Bereket Engida and his team built the auth library that developers have made their own, with 4.6M+ weekly npm downloads and more than 850 contributors. Welcome, Bereket and team! https://lnkd.in/gmt4xBDz
+
+7481458122369171456 | Vercel | link | 9w
+    You can now deploy Lovable apps to Vercel. https://lnkd.in/gt2kBwdY
+
+7482489413042749440 | Vercel | text | 47w
+    GLM 5.2 daily token volume grew 50x in two weeks, helping open-weight models take almost a third of total token share on AI Gateway. Closed-weight frontier models still capture almost all spend, though, and they are getting more expensive. Read the July AI Gateway Production Index ↓
+
+7482932484741939200 | Vercel | link | 28w
+    AI Gateway leaderboard data is now open. Real production usage across models, labs, apps, and providers, updated daily. Download, query, and cite it under CC BY 4.0. https://lnkd.in/gQEKPDJc
+
+7483610811391713280 | Vercel | link | 35w
+    Speechify's infrastructure was a bottleneck. Now they serve dynamic pages to 60 million users on Vercel using Next.js, Cache Components, and Instant Rollbacks. "Without Vercel, we couldn't compete at the speed this market demands." https://lnkd.in/gJWpYH8b
+
+7485366150361554944 | Vercel | video | 9w
+    Drop to deploy. Now also on our homepage. vercel.com/home
+
+7488959210689507329 | Vercel | link | 29w
+    Vercel Passport is now generally available for Enterprise customers. • Protect projects with your native IdP • Use verified identities across apps • Monitor access and create bypasses https://lnkd.in/gRvKfv97
+
+7489062271172714497 | Vercel | multi-image(2) | 21w
+    Thanks for joining us for Ship 2026, Sydney 🇦🇺 See you soon, SF 🌉 Read the full Ship 2026 recap: https://lnkd.in/e2xcW9fj
+
+7490125128987533312 | Vercel | link | 53w
+    Building on Shopify? Join us to see how Vercel gives your team full control over storefront performance, custom design, and developer experience, all powered by Shopify commerce. Matthew Lewis and 🎯Jaime Sorgente from Vercel will walk through what the Vercel <> Shopify partnership unlocks and answer your questions live. Save your spot: https://lnkd.in/gJ-aMysc
+
+7490539305757765632 | Vercel | link | 35w
+    Factory's backend outgrew its original architecture. Now it serves one billion requests per month on Vercel using Next.js, Fluid Compute, and Vercel WAF. "We're growing rapidly, and are trusting Vercel to scale with us." https://lnkd.in/gRDGjgz9
+
+7490784232831909889 | Vercel | link | 25w
+    Next.js 16.3 applications on Vercel send 45% fewer prefetch requests, 17% fewer static assets, and have 2x faster path metadata serving. Learn more ↓ https://lnkd.in/dj26V6Ys
+
+7491173720426897408 | Vercel | link | 31w
+    Introducing Agent Plugins, an open standard for extending agents. Supports Agent Skills and MCP, with more to come. Built in collaboration with Amazon Web Services (AWS), Cursor, Microsoft, and OpenAI. https://lnkd.in/eYYEJYHj
+
+7492706299286089728 | Vercel | link | 35w
+    We're making our Sandbox Egress Firewall free on every plan. Vercel Sandbox goes beyond compute isolation. Recent security research shows why: untrusted code must be contained at the network boundary, not just the runtime. https://lnkd.in/g3623QeH
+
+7493305303610892290 | Vercel | link | 57w
+    As teams build more agents, the hard part becomes getting them to work together. Join this live session to see how Vercel built V, an internal superagent powered by eve, to route work across specialized agents like d0 and v0. See how eve, AI Gateway, Workflows, and Sandbox support routing, execution, visibility, and control in production. https://lnkd.in/gK4-haik
+
+7493314552403685376 | Vercel | link | 36w
+    We migrated the database behind every build at Vercel, one of our most critical services, while it handled 6,000 deployments a minute. The story of how it happened, our philosophy, and what we learned ↓ https://lnkd.in/g2zqCR7Y
+
+7493676170132021249 | Vercel | text | 42w
+    The August AI Gateway Production Index is now available. The average price paid per token on AI Gateway fell 13.6%, after rising almost 20% in May and holding steady in June, and DeepSeek became the second-largest lab by token volume, overtaking Google.
+
+7493678938263810048 | Vercel | link | 45w
+    We built a software factory for AI SDK. Each step is an agent, and humans merge changes. Four weeks in: ▪️ The factory authors up to 35% of merged PRs ▪️ It closed 70% of issues in July ▪️ Open bugs are down 25% https://lnkd.in/e3MUCJaw
+
+7494063850586103808 | Vercel | video | 39w
+    Connect your coding agents to AI Gateway with a single command. • Auto-configure 8 popular coding harnesses • 300+ models from 30+ providers, no markup • Open-weight models with ZDR & US inference ▲ ~/ vercel ai-gateway coding-agents setup
+
+7495145531602563072 | Vercel | link | 22w
+    GPT 5.6 Sol is 50% off on AI Gateway through September 18, 2026. Applies to both standard and fast mode. '𝚘𝚙𝚎𝚗𝚊𝚒/𝚐𝚙𝚝-𝟻.𝟼-𝚜𝚘𝚕' https://lnkd.in/eMNpbTbR
+
+7495181561760432129 | Vercel | link | 32w
+    You can now deploy Cursor Origin repositories with Vercel. ・Connect Origin repos to projects ・PRs & commits deploy Previews ・Merges deploy to Production Available in public beta for Pro & Enterprise. https://lnkd.in/eZjAjk_v
+
+7495189379376877568 | Vercel | link | 49w
+    AI coding tools make it easier for anyone to build. Governance needs to keep pace. Join Staff Product Marketing Manager for Security Karishma Asthana & Field CTO Tony Pulickal to learn how to move apps & agents from experimentation to production with governance and spend controls built in. https://lnkd.in/gB2n-u8M
+
+7495532812234694656 | Vercel | link | 39w
+    Agents can now exploit vulnerable sandbox boundaries, so we are testing ours in the open. $1,000,000 hacker challenge for Vercel Sandbox: • Escape the Firecracker microVM • Defeat the host-side network boundary • Up to $50k/report via HackerOne https://lnkd.in/eWzWXbye
+
+7495938054914867201 | Vercel | video | 35w
+    Vercel Agent can now join Slack with the full production context of your apps and agents. ▪︎ Add @𝚟𝚎𝚛𝚌𝚎𝚕 to any thread ▪︎ Create plans and PRs ▪︎ Roll back deploys and update configs https://lnkd.in/eEMrJS6u
+
+7496636517302583297 | Vercel | video | 37w
+    San Francisco, it's your turn. Join us for Ship SF on October 15 at the Palace of Fine Arts to hear from teams shipping AI agents to production, then build alongside them. Get your ticket today: https://vercel.fyi/ship-sf
+
+7498097790753918976 | Vercel | link | 31w
+    Coding agents want 𝚎𝚟𝚊𝚕. Today they get 𝚛𝚞𝚗: • Hardened QuickJS sandbox • Expose only approved host functions • Pause for human approval, then resume • Runs anywhere Node.js runs https://lnkd.in/gDmJpcx8
+
+7498139323129585664 | Vercel | link | 40w
+    The eve team is coming to San Francisco, New York, and London for "eve eves." Join us to: • Learn what's new with eve • Participate in a hands-on workshop with the team • Hang out with the community https://eve.dev/nights
+
+7498398319623311360 | Vercel | link | 37w
+    Vercel Connect is now generally available. Give your apps and agents secure access to Slack, Linear, GitHub & 100+ other services. • Short-lived, scoped access tokens • Token and trigger observability • RBAC and audit trails https://lnkd.in/e3wqH3VU
+
+7498764914329600000 | Vercel | video | 38w
+    We built vgpu.sh to ship shaders on vercel.com. Now it's open source. ▪︎ Minimal agent-first WebGPU library ▪︎ Run in the browser or headless Node.js ▪︎ Render in CPU sandboxes and CI tests ▪︎ Create reusable .wgsl modules
+
+7500305420444389376 | Vercel | link | 33w
+    Our agents use 𝚟𝚎𝚛𝚌𝚎𝚕​.𝚌𝚘𝚖/𝚍𝚎𝚜𝚒𝚐𝚗​.𝚖𝚍 to build on-brand pages. ▪︎ One file encodes decisions and guidance ▪︎ Output is shaped through our eval harness ▪︎ Production feedback is fed back into the loop https://lnkd.in/gbscigeS
+
+7500376662711242752 | Vercel | link | 31w
+    Set per-user budgets on AI Gateway. ▲ ~/ 𝚟𝚌 𝚊𝚒-𝚐𝚊𝚝𝚎𝚠𝚊𝚢 𝚋𝚞𝚍𝚐𝚎𝚝𝚜 𝚍𝚎𝚏𝚊𝚞𝚕𝚝𝚜 \ 𝚜𝚎𝚝 𝚞𝚜𝚎𝚛 --𝚕𝚒𝚖𝚒𝚝 𝟻𝟶𝟶 \ --𝚛𝚎𝚏𝚛𝚎𝚜𝚑-𝚙𝚎𝚛𝚒𝚘𝚍 𝚖𝚘𝚗𝚝𝚑𝚕𝚢 This works with existing team, project, and API key budgets. https://lnkd.in/gvH5EFxB
+
+7500660632371945473 | Vercel | text | 34w
+    Vercel + TanStack Vercel, like the web, is built on open standards and open source. That's why we're excited to partner with TanStack to power the next generation of apps and agents on Vercel.
+
+7500951711587385345 | Vercel | link | 53w
+    AI Social Club is coming to a city near you. London and Berlin both sold out earlier this year, so we're taking it on the road. Six cities this autumn, each a closed-door forum for a curated group of AI executives and senior leaders shipping agentic infrastructure. Seats are limited, RSVP here: https://lnkd.in/gJMCdzRS
+
+7501013620550709248 | Vercel | video | 28w
+    Ship 26 is coming to San Francisco on October 15th. Learn how teams are shipping AI agents to production, then build alongside them. See the full lineup: https://vercel.fyi/ship-sf
+
+7501752887530766336 | Vercel | video | 16w
+    August in Design at Vercel. Want to join the team? Check out our open roles: https://lnkd.in/dx4iXnVv
+
+7503916245612826624 | Vercel | image | 50w
+    Ship '26 is coming to San Francisco on October 15. On stage: Tobias Lütke, CEO Shopify Katelyn Lesse, Head of Platform Engineering Anthropic Olawale Oladehin, Managing Director AWS Aaron Katz, Co-Founder & CEO ClickHouse Richard Rizk, Co-Founder & CTO Blackbox AI More speakers dropping soon. Ship what's next → https://vercel.fyi/ship-sf
+
+7504283788491841536 | Vercel | link | 43w
+    Tailscale offers instant access to hundreds of models for any user in a secure tailnet. Their customer-facing model router, Aperture, is built on AI Gateway: • Zero data retention • Zero markup, free BYOK • Cost and usage data on every response https://lnkd.in/gVzQ2y-P
+
+7453110441054150656 | Zebra Technologies | video | 43w
+    What does the success of our customers look like? Chris Kelly defines it perfectly. But we don't achieve this alone. When we team up with our partners, we aren't just selling tech—we're helping businesses run smoother, smarter, and better for the long haul.
+
+7453170854529490945 | Zebra Technologies | text | 131w
+    Stay ahead so you can improve your everyday operations with our monthly newsletter. Discover how top companies are proactively transforming operations and meeting customer needs right now. Subscribe for the latest insights and innovations and share if you find it valuable. Manténgase un paso adelante para mejorar sus operaciones diarias con nuestro newsletter mensual. Descubra cómo las principales empresas están  [...]  proativa às necessidades dos clientes. Inscreva-se para receber as últimas tendências e inovações e compartilhe se achar valioso.
+
+7454529793112539136 | Zebra Technologies | video | 101w
+    Today, we are thrilled to celebrate the 10th anniversary of our PartnerConnect program! What started as a vision to unify our channel has grown into a global community of over 10,000 incredible partners. We are proud to be channel-first company. While we provide the foundation for intelligent operations, it's our partners—resellers, distributors, independent software vendors (ISVs), system integrators (SIs), alliances  [...]  a quick trip down memory lane and see how the PartnerConnect ecosystem has evolved over the last decade.
+
+7454937500269109248 | Zebra Technologies | video | 143w
+    Distracted driving isn't just a highway problem. It's a warehouse, rail yard, and tarmac problem, too. April is Distracted Driving Awareness Month, which perfectly coincides with the 10th anniversary of our PartnerConnect program. There is no better time to highlight why our partners are so critical to solving tough challenges for our customers. In a recent Zebra Podcast, Wes Coleman  [...]  stop, full access returns instantly, removing the temptation entirely, and keeping your frontline safe without disrupting their workflow.
+
+7455284819611176960 | Zebra Technologies | text | 91w
+    As we celebrate a decade of our PartnerConnect program, we are stepping into an exciting new chapter—one from our latest blog where AI empowers a connected frontline. To help our channel partners stay ahead, our goal is simple: remove the friction so you can focus on what matters most—your customers. By delivering a seamless experience driven by AI and sustainable  [...]  solve their toughest challenges. We look forward to shaping the next decade together, making work better every day.
+
+7455616956700889088 | Zebra Technologies | video | 94w
+    Did you know that more than 80% of our business goes through our channel partners? Our partners truly are the lifeblood of our organization. Our CRO Richard Hudson explains how deeply we value this community and our shared purpose. We are committed to giving you the exact tools you need—like practical, problem-solving AI—to help your customers thrive. By working together,  [...]  the daily lives of frontline workers easier, and helping businesses like yours operate smarter and more effectively. #WinningTogether
+
+7455662319147302912 | Zebra Technologies | text | 41w
+    Stay ahead so you can improve your everyday operations with our monthly newsletter. Discover how top companies are proactively transforming operations and meeting customer needs right now. Subscribe for the latest insights and innovations and share if you find it valuable.
+
+7455707812715999232 | Zebra Technologies | video | 89w
+    Retail demand is very rarely predictable, and for sports apparel company Fanatics, unpredictable wins and fan passion mean that peak season could happen at any week of the year. At Gartner Supply Chain Symposium/Xpo™, our Senior Director - AI Scientist, Nicholas Wegman, and Senior Product Manager - Venues and Events for Fanatics, Alvin Brown - Whaley, will come together for  [...]  so important when tackling their extreme demand volatility. Register now for a conversation you won't want to miss!
+
+7456039866632396800 | Zebra Technologies | video | 64w
+    Operational success and resilient supply chains are built when frontline teams are given the exact tools that they need to strengthen efficiency. LIVE from Gartner Supply Chain Symposium/Xpo™, our Director of Sales, Kent Landry, and Vice President of Sales, Kevin Worobec, will talk about how to connect demand to your daily operations - moving from silos to synergy with our Workcloud solutions. Register now!
+
+7458153670661017600 | Zebra Technologies | video | 74w
+    AI is everywhere right now, but how does it help the person on the store floor, in the warehouse, or out making a delivery? At Zebra, we don't start with the technology—we start with the challenge. In this short video, our Chief Technology Officer, Tom Bianculli, shares our problem-first approach. By keeping our ear to the ground and listening to the real-world friction our customers experience, we work backwards to orchestrate the right solutions.

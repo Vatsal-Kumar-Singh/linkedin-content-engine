@@ -1,0 +1,169 @@
+# batch 021  -  55 posts  -  label per research/CLASSIFICATION-PROTOCOL.md
+# labels: problem exploration requirements selection validation consensus
+#         recruitment culture event product-news csr unclear
+# write research/labels/021.tsv as: <id><TAB><label>
+
+7498001550766764032 | Miro | video | 57w
+    Planning to run a hackathon? A good setup can help teams start working toward a solution from minute one. After running a one-day hackathon with MBA students at NYU Stern, Asha D., Research Lead, and Rory Keddie, Principal Product Evangelist, are sharing their template and top tips for a productive (and fun) build. Steal their setup: https://lnkd.in/eXDHHKhG
+
+7498363843115413505 | Miro | text | 127w
+    As AI takes on more of the doing, the human work moves to ownership, judgment, and honest conversations that move a team forward. That's the throughline in Andrey Khusid's conversation on Alisa Cohn's podcast From Start-Up to Grown-Up. Our CEO talked through what it takes to reinvent a company while running it at scale — and how work itself is  [...]  make room for productive disagreement Listen to the full episode on Apple and Spotify, links in the comments.
+
+7498726115289636864 | Miro | video | 22w
+    Spring cleaning… but for your workflows. 🗑️ Turns out you only need one place your team and their agents can see: Miro.
+
+7499088486012985346 | Miro | link | 139w
+    More output ≠ bigger impact. What would it take to close that gap? Damir Dizdarević, our Director of Product, recently spoke at Product School on a problem he's seeing across product teams: AI amplifies misalignment instead of fixing it. His answer is the agentic canvas, a shared surface where AI work is visible to the whole team, not just one  [...]  can both use He demoed an entire product development lifecycle automated in one flow. Watch it here: https://lnkd.in/ek3pYaxD
+
+7500175736855511040 | Miro | video | 40w
+    You can now generate a full board from a single prompt, without having to build it piece by piece. Prepping a workshop and short on time? Tell Miro what you're planning, and get a structured layout ready to work from.
+
+7500535435761278976 | Miro | link | 81w
+    Today, we launch Up for Renewal, our new Substack publication where we'll be sharing original thinking from Miro's leaders. Here's what to expect: - Essays and ideas from the people building Miro - A new strategic framework or mental model each week - Our field notes based on our first-hand experience with AI transformation We have articles live from Hryhorii  [...]  Katz, Lotte van Uum, Brendan McCook and Rory Keddie. You can check them out and subscribe at https://lnkd.in/e4eXNXTQ
+
+7500900533654773760 | Miro | video | 54w
+    Done isn't the bar. Great is. Many teams treat a product review like a fire drill and by the time you're presenting, you're defending, not deciding. The best product reviews aren't rescued at the last minute. They're built as you go, so "is it done" and "is it great" are actually the same question.
+
+7501625249965264896 | Miro | multi-image(7) | 49w
+    Great work gets even better when you get the right people in the room. Miro Pulse Brasil brought our community together for a day of ideas, conversations, and a closer look at how teams are using Miro to work better together. Thanks to everyone who joined the conversation. 🇧🇷
+
+7502515988228317184 | Miro | image | 243w
+    What happens when visual thinking meets frontier AI? 🤝 Singapore, September 17th — we're bringing together the Codex and Miro communities for an afternoon you won't want to miss. From Canvas to Code (and Back) is exactly what it sounds like: take an idea on a Miro board, turn it into working code with Codex, then bring that code back  [...]  Registration requires approval — so don't wait. Register here: https://lnkd.in/e3_JqKBZ Let's build something together. #MiroCommunity #BuildWithAI #CodexSingapore #ChatGPTWork
+
+7502863336515039232 | Miro | image | 76w
+    Government procurement teams don't take security claims at face value — and they shouldn't. Miro has completed an independent assessment under Australia's IRAP (Information Security Registered Assessors Program), helping government teams spend less time on duplicate security reviews and move procurement conversations forward with more confidence. For agencies looking to expand into more sensitive workloads, it's another important piece of the foundation. Read more and find the full attestation letter in the Miro Trust Center: https://lnkd.in/e_dP4csA
+
+7503437390686969856 | Miro | video | 98w
+    At Endava, shared memory has a home: the canvas. As Wesley Fagan, their Chief Design Officer and SVP of Strategy, put it: "We use Miro as that central touchpoint, where every single piece of context exists in the board space." A coffee conversation, a napkin sketch, a client workshop, the prototypes — all of it lands on the canvas. And  [...]  context. 7,000 people at Endava now work this way, from commercial through delivery. See the full story: https://lnkd.in/e-eiaxUp
+
+7504162012067819520 | Miro | image | 124w
+    What's the last thing your team rebuilt three times before agreeing on it? Your team can build faster than ever right now. So can everyone else's. That's the uncomfortable part of the AI shift nobody talks about enough. Speed stopped being the advantage, but deciding what to build, and staying aligned once you start, is where teams are actually losing  [...]  a working model for the three jobs that decide whether AI makes your team faster, or just busier.
+
+7373728983676260354 | New Breed | multi-image(3) | 103w
+    Spotlight on the State of HubSpot's Breakthrough Brand Award 🌐 Great brands don't just tell stories; they live them online. This year's winner, XTM & Transifex, made the leap from WordPress to HubSpot CMS, launching stunning new web experiences at xtm.ai and transifex.com. Together, they've shown how HubSpot Content Hub can power seamless storytelling, bold design, and memorable digital presence.  [...]  HubSpot awards, its winners & grab the report in the link in the comments! #HubSpot #CMS #Wordpress #ContentHub
+
+7374103605575933953 | New Breed | link | 48w
+    What separates top-performing HubSpot companies from the rest? 👉 Alignment 👉 AI operationalization 👉 Full platform adoption We break it all down in the new State of HubSpot 3.0 Report; and it's clear: the best do it different. Get the full playbook here ➡️ https://lnkd.in/ddEiSjab #HubSpot #GTMStrategy #StateOfHubSpot
+
+7376265796454522880 | New Breed | multi-image(2) | 110w
+    State of HubSpot Award for Strategic Transformation Award went to Hudson Global Scholars! 🏆 Transformation takes more than new tools; it takes vision, leadership, and alignment. Hudson Global Scholars exemplifies this by uniting their global marketing, sales, service, and content efforts under HubSpot. From enrollment pipelines to global support ticketing to dynamic campaigns, they've turned a fragmented tech stack into  [...]  strategic transformation! Learn more about the winners and the awards via the link in the comments! #GTMStrategy #HubSpot
+
+7377056205124579329 | New Breed | image | 108w
+    📈 Go-to-Market Excellence Award for the inaugural State of HubSpot Awards went to Alonti Catering Kitchen Expanding markets. Scaling revenue. Driving measurable ROI. That's exactly what Alonti Catering accomplished with HubSpot. From custom integrations and KPI dashboards to ABM programs and sales sequences, Alonti built a data-driven GTM engine that fueled new market expansion with remarkable ROI. Congratulations to the  [...]  the link in the comments and see how top performing HubSpot customers do it different! #HubSpot #GTMStrategy #ABM
+
+7378464727292649473 | New Breed | image | 100w
+    Q4 starts Wednesday and 2026 is already on the horizon. At INBOUND, our State of HubSpot 3.0 panel shared powerful insights on where GTM, AI, and customer experience are heading. One stat stuck out: only 6% of revenue leaders feel confident hitting their goals this year. The companies breaking through are doing three things: 🔄 Reinventing buyer journeys (not just  [...]  for 2026, now's the time to shift from adapting → reinventing. Full recap in the comments #GTMStrategy #HubSpot
+
+7378849983107743744 | New Breed | multi-image(2) | 98w
+    🚀 Growth Accelerator Award 🚀 Big goals. Bigger results. We're closing out our 2025 State of HubSpot Award spotlights with a powerhouse win. Morrison Cup Solutions teamed up with New Breed to supercharge inbound campaigns, scale paid media, and streamline RevOps in HubSpot, driving over 7 figures in both open pipeline and in digital-attributed revenue. That's not just growth—that's acceleration.  [...]  more about the State of HubSpot and all of our award winners in the link in the comments!
+
+7383897324898430976 | New Breed | link | 122w
+    💡 Smarter, Scalable Sales with HubSpot's Prospecting Agent HubSpot's new Prospecting Agent is changing the game for sales teams — helping reps surface the right accounts faster, personalize outreach at scale, and spend more time building real connections. Read our latest blog, written by Rider Gordon (who built this workflow for New Breed), to learn how AI in HubSpot is  [...]  and scalable — all in one platform. Register via link in the comments 👇 #BuyerIntent #ABM #HubSpot #SDR
+
+7396207798864314368 | New Breed | link | 117w
+    HubSpot teams: Are you getting full value from your Breeze credits? Most companies aren't and many don't even realize how much AI automation is available to them for free each month (and lose each month if they don't use them). We just published a practical, non-technical guide to Breeze credits, including: 🔹 How Breeze credits actually work 🔹 Who receives  [...]  lead quality; read and bookmark this one written by Rider Gordon. 👉 Read the full guide here: https://lnkd.in/dEC4DN3z
+
+7401643945618845697 | New Breed | image | 119w
+    AIO, AEO, GEO. Call it whatever you like. The pattern is starting to sound like a nursery rhyme, but the reality is: brands need to think about how they show up inside LLMs if they want to stay visible. On December 11, join New Breed's Ali Lipman, Kate Quinn, and Scrunch's Kevin White for a focused 30 minute session on  [...]  measure performance Register in the link in the comments and get ahead of where search is heading next.
+
+7417252943894044672 | New Breed | image | 139w
+    Is the hype real around HubSpot Breeze Agents? HubSpot positions Breeze Agents as a way to fundamentally change how go-to-market teams prospect, support customers, and move pipeline forward. But like any new technology, results don't come from adoption alone. The teams seeing real impact from HubSpot Breeze Agents aren't using AI just to say they are. They're starting with a  [...]  A practical framework for choosing agents that fit your go-to-market strategy Link to blog in the comments 👇
+
+7421945351827337216 | New Breed | image | 67w
+    Some websites are already showing up in AI-generated answers. Others… aren't. In most cases, the issue isn't content quality — it's technical readiness. In this 30-minute webinar on Tuesday Feb 3, Everett A Ackerman and Christopher Mathieu will break down the site-level changes that help AI engines crawl, understand, and trust your content. Practical. Tactical. No fluff. 👉 Save your seat via the link in comments below.
+
+7424152205076893696 | New Breed | image | 73w
+    AI-powered search is here — and it's exposing a lot of technical debt. In this fast-paced webinar tomorrow - Tuesday February 2nd, New Breed's Everett A Ackerman and Christopher Mathieu will walk through what actually matters when it comes to AI Engine Optimization, from crawlability to site performance and accessibility. You'll leave knowing where AI visibility breaks down most often, and what to fix first. 👇 Register via the link in the comments
+
+7425579051618295809 | New Breed | image | 117w
+    AI isn't just changing how people search. It's changing how buyers make decisions. Today's B2B buyers are researching through AI-powered search, LLM-generated answers, communities, and peer recommendations long before they ever visit a website or talk to sales. That shift is redefining the role of the website in GTM. A sales-ready website is no longer just a marketing asset. It's  [...]  why the website now powers modern growth strategy. Read the full blog via the link in the comments
+
+7426655063646920705 | New Breed | image | 91w
+    Buyer intent is only valuable if you know how to act on it. When HubSpot launched Prospecting Agent, the New Breed team put it to the test: using AI-powered intent data to modernize outbound sales without adding headcount. In just 90 days, we: • Identified 200 high-intent accounts • Generated 6 net-new opportunities • Closed 3 deals This case study  [...]  reps focus on the accounts that matter most. 👇 Read the full case study in the link below:
+
+7427039270466670592 | New Breed | image | 128w
+    AI is changing how buyers discover, evaluate, and trust brands. And it's breaking the old rules of SEO in the process. That's why we developed an AEO framework: a practical approach to earning visibility inside AI-powered search and answer engines. In this guide, we break down: • What AI Engine Optimization (AEO) actually is — and how it differs from  [...]  your buyer journey, it's time your strategy caught up. Read the full AEO Guide in the link below:
+
+7437525797936152576 | New Breed | link | 142w
+    Your AEO dashboard is probably built for the wrong audience. As more teams invest in AI Engine Optimization (AEO), a familiar reporting problem is emerging: everyone is looking at the same dashboard, but they're trying to answer completely different questions. Executives want to know: ➡️ Is AEO working? ➡️ Is it impacting pipeline and revenue? Practitioners need to know: ➡️  [...]  include—and how to structure reporting so AEO is both measurable and actionable. Read the full breakdown 👇 https://lnkd.in/e5H5G5XZ
+
+7442919114802786304 | New Breed | link | 133w
+    B2B buying has outgrown your funnel. Today's buyers don't convert in a straight line: they research independently, involve multiple stakeholders, and often evaluate solutions long before ever filling out a form. That's why more revenue teams are shifting to signal-based growth. Instead of chasing individual leads, they're identifying buying signals across accounts, from intent data and website activity to product  [...]  we'll go deeper on topics like intent data providers and how to operationalize signals across your tech stack.
+
+7447006098521219072 | New Breed | link | 89w
+    Most teams evaluating intent data providers are focused on the wrong thing. It's not about finding the “best” tool. It's about whether that data will actually translate into pipeline. We broke down: • the different types of intent data providers • where they work (and where they fall short) • how to choose the right approach for your GTM Because  [...]  If you're evaluating providers, this will save you time (and likely budget). 🔗 Read the full guide: https://lnkd.in/eHc94XV3
+
+7447720922045775872 | New Breed | link | 136w
+    After 15 years, HubSpot renamed INBOUND to UNBOUND. At face value, it's a rebrand. But underneath it is something bigger: an acknowledgment that the buyer's journey has fundamentally changed. Buyers don't move linearly anymore. They don't rely on a single channel. And increasingly, they don't start on your website. They start in AI. In communities. In conversations you're not part  [...]  HubSpot is using for this next era. But for most teams, the real work is still ahead. https://lnkd.in/e_9PPJAr
+
+7449820261664653312 | New Breed | link | 84w
+    Most companies are trying to get more out of AI. More tools. More automation. More output. But not better results. That's what makes HubSpot's Spring Spotlight 2026 different. This isn't about adding more. It's about making what you already have actually perform. Quality over quantity. Better outcomes. Clearer ROI. Systems teams can trust. From AI search visibility (AEO) to smarter  [...]  support, every update is built for real impact. We broke it all down in our latest blog: https://lnkd.in/gvwB7N53
+
+7452748509453348864 | New Breed | link | 98w
+    The buyer journey didn't just evolve. It moved ahead without most teams. Buyers are researching on their own, using AI to evaluate vendors, and forming opinions before they ever talk to sales. Meanwhile, most GTM teams are still: – Waiting for leads – Working static account lists – Trying to stitch together insights across disconnected tools That's the gap. What  [...]  execution. We broke down what that actually looks like in practice (and how HubSpot is enabling it): https://lnkd.in/e9jZbtjF
+
+7455228171110662144 | New Breed | link | 135w
+    Most HubSpot projects don't fail because of the platform. They fail because people don't actually use it. It's easy to focus on the technical side, implementation, migration, configuration. But getting the system live is only half the work. What really determines success is adoption. Do your teams understand how to use it in their day-to-day? Are your processes clearly documented?  [...]  (or trying to fix adoption after the fact), this is the piece you can't afford to overlook. https://lnkd.in/eFN__My5
+
+7455596220582039552 | New Breed | link | 123w
+    HubSpot just changed the AEO conversation. And our Director of Shared Services, Kate Quinn, saw it coming. With AEO now built directly into Marketing Hub, the barrier isn't access to data anymore. It's strategy. Kate has been leading New Breed's approach to AI Engine Optimization since the early days: helping clients move beyond surface-level visibility and toward real influence in  [...]  If you're thinking about how your brand shows up in AI, this is where the conversation shifts. https://lnkd.in/ePSwhTts
+
+7458519142980165632 | New Breed | link | 76w
+    A strong HubSpot implementation creates more than a functional CRM. It creates alignment across marketing, sales, and service teams. Our latest guide breaks down: • implementation strategy and system design • data migration and integrations • pipeline and workflow structure • team training and adoption • common implementation mistakes • how to choose the right implementation partner If you're planning a HubSpot rollout or rebuilding an existing portal, this is a good place to start. https://lnkd.in/gYXbd7Gg
+
+7460324527739355136 | New Breed | link | 113w
+    AI adoption in GTM is failing because most organizations are trying to layer AI on top of broken workflows, siloed data, and operational friction. The companies seeing real impact are approaching AI differently: → identifying repetitive operational work → fixing where revenue-critical data gets lost → embedding AI into existing RevOps workflows → redesigning GTM systems around continuous ingestion →  [...]  AI across marketing, sales, and customer success. Read the full blog here: https://lnkd.in/edAwS_FT #AI #RevOps #GTM #HubSpot #RevenueOperations
+
+7472673753051705344 | New Breed | link | 149w
+    HubSpot has officially introduced Revenue Hub, a comprehensive quote-to-cash solution designed to unify the entire revenue lifecycle within the CRM. By consolidating contracts, quotes, invoicing, subscription billing, payments, and revenue reporting, Revenue Hub creates a seamless, connected experience. For many scaling businesses, the primary hurdle isn't just closing deals—it's managing the complex operations that follow. As organizations grow, critical tasks  [...]  to refine their operations, enhance reporting accuracy, and foster a more integrated internal environment. #HubSpot #RevenueHub #RevOps #RevenueOperations
+
+7474816232618229760 | New Breed | link | 74w
+    Everyone is talking about AI. Few are talking about where it actually works. HubSpot's AI can help teams create content faster, summarize conversations, enrich CRM data, and automate repetitive work. But it can't replace strategy, fix broken processes, or create alignment across your go-to-market teams. In our latest blog, we take a practical, hype-free look at what HubSpot's AI can, and can't, do in 2026. Read it here: https://lnkd.in/giMqd3AA #HubSpot #HubSpotAI #BreezeAI #RevOps #AI
+
+7475935117736239104 | New Breed | link | 84w
+    Bad data slows down everything: from marketing attribution to sales forecasting and customer reporting. In his first article, Luke K. Karmizan, Sr RevOps Strategist, breaks down three practical ways HubSpot's Data Hub helps teams build cleaner systems, improve reporting, and create more connected revenue operations. If you're evaluating how Data Hub fits into your GTM strategy (or wondering whether it's  [...]  this is a great place to start. Read the blog → https://lnkd.in/eeHwEq7n #HubSpot #RevOps #DataHub #RevenueOperations #CRM #GoToMarket
+
+7496265794171932672 | Notion | video | 49w
+    Skills for your whole team are here. Most agents start from scratch. Skills teach them how your team already works. Ask your Notion Agent to turn your team's best work into a skill… then share it, let your agent load it automatically, or use it with your local agents.
+
+7496595242628927488 | Notion | video | 44w
+    New: Use skills with local agents! Keep your skills in Notion as your source of truth, then download them to Claude Code, Codex, Cursor, Gemini, or Grok. You'll get a SKILL.md plus any approved files. So you can use your skills wherever you work.
+
+7497690399331786754 | Notion | text | 34w
+    Notion vocabulary: - Block - Database - Template - Teamspace - Toolmaking - Tools for thought - The Notion Way - Life's work - Malleable software - Workspace - H4 What did we miss?
+
+7497718827909050368 | Notion | image | 16w
+    Some good news for the do-gooders! 🕊️ Nonprofits, our Business plan is now 50% off globally.
+
+7498460516663660544 | Notion | multi-image(4) | 28w
+    Our latest global campaign, Think Together, is showing up in cities around the world. It's inspired by a simple belief: the most meaningful things are never built alone.
+
+7498813084292014080 | Notion | text | 54w
+    Crafty runs workplace food + beverage programs for hundreds of brands. Which means repeat questions and a million tiny processes. So they built agents where agents on top of real team knowledge in Notion. They're using them to answer questions, route requests, and knock out well-defined tasks. 5 lessons from Crafty working with agents:
+
+7498876695144353792 | Notion | link | 417w
+    Notion is rebuilding its go-to-market motion around a workflow-first, builder-led model. Here are some roles we're hiring for: Solutions Consultant: You'll own the full customer journey: from first meeting through workflow design, commercial close, workflow implementation, expansion & renewal planning. You are the single owner of your accounts, accountable for ensuring what you sell actually gets realized. You'll build live  [...]  customer value, and revenue impact then this is the role for you. Explore these roles (and more): https://lnkd.in/gSaDmYW2
+
+7499166126858481664 | Notion | image | 77w
+    Now in public beta: Custom Agents API. Bring Custom Agents into the tools and workflows your team already uses with the Notion Agent SDK: → Chat with Custom Agents and view previous chats → Trigger Custom Agents from any app or workflow outside Notion Build your own dashboard to monitor agents and manage limits with the Custom Agents Insights API: → Track credits used and runs completed → Set credit limits → Enable, disable, or archive agents
+
+7499502200293900289 | Notion | text | 314w
+    We try to make Notion a little better, each day. Sometimes with big updates. Sometimes with eight tiny things that make your day 2% better. Here's 8 tiny things: 1️⃣ 𝗔 𝗺𝗼𝗿𝗲 𝗼𝗿𝗴𝗮𝗻𝗶𝘇𝗲𝗱 𝗺𝗼𝗱𝗲𝗹 𝗽𝗶𝗰𝗸𝗲𝗿 Models are now grouped by provider with Favorites up top. Just star the models you reach for most. 2️⃣ 𝗘𝗳𝗳𝗼𝗿𝘁 𝗰𝗼𝗻𝘁𝗿𝗼𝗹𝘀 Tell Notion AI how  [...]  shows what you've spent from your allowance. Less mystery around credits, more visibility into what's actually getting used.
+
+7500233744197394435 | Notion | image | 17w
+    Your library's got a new section: Skills. Find every AI skill your team's shared, in one place.
+
+7500293808669061120 | Notion | video | 32w
+    Meet smart scheduling! Now, when you add people to a new event in Calendar, we'll recommend times that work for everyone. So you can preview conflicts, pick a slot, and keep moving.
+
+7500615134613151744 | Notion | video | 78w
+    Claude Fable 5.1 is now available for Custom Agents. It's a step up from Fable 5 across the board, especially for complex knowledge work. Plans and summaries tend to be more concise, too. By default, Notion uses LLMs that don't retain data. Anthropic retains data for Fable 5 and 5.1 to catch risks that only appear across many requests. That's why Fable models are opt-in in Notion. Enable them in 𝗦𝗲𝘁𝘁𝗶𝗻𝗴𝘀 → 𝗡𝗼𝘁𝗶𝗼𝗻 𝗔𝗜 → 𝗥𝗲𝘀𝘁𝗿𝗶𝗰𝘁𝗲𝗱 𝗔𝗰𝗰𝗲𝘀𝘀 𝗠𝗼𝗱𝗲𝗹𝘀.
+
+7501044754676113409 | Notion | image | 39w
+    Just shipped: New model controls for Notion AI. Workspace admins can choose which models are available in Notion Agent and Custom Agents, and set a default model for Custom Agents. Settings → Notion AI → General → Model controls
+
+7501689201839505408 | Notion | video | 32w
+    MCP update: Your Custom Agents can join the chat now. Connect Notion to ChatGPT or Claude through MCP, then chat with any Custom Agent you have access to, all in one conversation.
+
+7501705977675571200 | Notion | text | 12w
+    Just added: Fable 5.1 is now available in your Notion Agent, too.

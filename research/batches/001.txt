@@ -1,0 +1,169 @@
+# batch 001  -  55 posts  -  label per research/CLASSIFICATION-PROTOCOL.md
+# labels: problem exploration requirements selection validation consensus
+#         recruitment culture event product-news csr unclear
+# write research/labels/001.tsv as: <id><TAB><label>
+
+7491131059976220672 | 6sense | image | 58w
+    Programmatic marketers, be honest... How many impressions have we all served to accounts that were approximately 0% interested in buying? 😅 The challenge isn't reaching the right companies. It's reaching the right companies AT THE RIGHT MOMENT. Our latest blog breaks down why leading agencies are moving beyond demographic targeting and embracing intent-driven advertising. Link in comments ⤵
+
+7491198950666838016 | 6sense | image | 41w
+    Blank page? We don't know her. The 6sense AI Email Agent helps marketers generate personalized emails from a simple prompt, enrich them with real-time buyer insights, and automatically keep conversations moving. The result? Less writing. More pipeline. Link in comments ⤵️
+
+7491481421702688769 | 6sense | multi-image(7) | 54w
+    MEOW! Tomorrow is International Cat Day 🐱 And what better way to celebrate than with a some of our cats in hats and other 6sense makebelieve merch? (a very appropriate use of AI in our opinion) We expect YOU ALL to pay the cat tax in the comments btw! Show us your furry angels.
+
+7492565658132631552 | 6sense | video | 24w
+    GREAT NEWS: we fixed the video. EVEN BETTER NEWS: Breakthrough tickets are just $999, August 10-14! Like the lady said...link in the comments ⤵️
+
+7492612944560582656 | 6sense | text | 36w
+    What's new at 6sense, you ask?...A LOT! Hear directly from our CPTO, Kimberly Bloomston, about the Summer Release and how we're bringing trusted GTM intelligence into the tools, workflows, and AI agents where decisions get made.
+
+7492943503606362112 | 6sense | video | 90w
+    Ask Claude which accounts are most likely to buy. Ask ChatGPT which campaigns are driving real pipeline. Ask your AI agent where an account is in its buying journey. Now ask it with 6sense intelligence behind the answer. The 6sense MCP Server makes predictive buying stages, 6QA status, keyword intent, campaign performance, and more callable from the AI tools your  [...]  No extra workflows. Just better answers. Welcome to the Intelligence Layer. Check the comments for more info ⤵
+
+7492999825160900609 | 6sense | image | 12w
+    We heard Myspace was coming back...here's our Top 8 if you care
+
+7493295266813456385 | 6sense | image | 42w
+    Dreamforce checklist: ☑️ Attend sessions ☑️ Scan badges ☑️ Drink questionable convention-center coffee ⬜ Hang out with your besties at ✨Club6✨ Join 6sense for an evening of drinks, conversations, and a much-needed break from the chaos. Save your spot...link in comments ▼
+
+7493365757846802448 | 6sense | text | 65w
+    Your AI agent called 📡 It wants better signals. Good news: our Summer Release is packed with new ways to bring 6sense intelligence into the tools and workflows your teams already use. From AI agents and APIs to verified people data and more precise audience targeting, these updates help you spend less time guessing and more time acting. Take a look at what's new 👇
+
+7493667904874430467 | 6sense | image | 35w
+    Me waiting for all my revenue data to finally connect and make sense. Thankfully, Qlik found a better way. Join us to see how AI-powered account intelligence is helping teams turn disconnected data into revenue.
+
+7493728183553413120 | 6sense | image | 31w
+    ✨ Here's your sign to lock in Breakthrough 2026 ✨ For a limited time, tickets are just $999, our lowest price of the year. Will we see you in Las Vegas?
+
+7494015287902691328 | 6sense | video | 66w
+    Today, we're celebrating our SIXTH consecutive year on the Inc. Magazine's, Inc. 5000 list of America's fastest-growing private companies. To our customers who trust us, our partners who collaborate with us, and our team that keeps pushing boundaries every day: thank you. The past six years have been incredible, but we're even more excited about what's ahead as we help define the future of agentic GTM.
+
+7494060379879153664 | 6sense | text | 39w
+    Last call for the procrastinators, overthinkers, and the "I'll register tomorrow" crowd. Tomorrow is getting suspiciously close and this is your LAST CHANCE! 🎟️ Breakthrough 2026 tickets: $999 ⚡ Sale ends tonight, 11:59 PM PT Link in comments 🏃
+
+7494105622490095616 | 6sense | image | 51w
+    👋 Say hello to our newest 6sensers 👋 This week, we welcomed a new group of teammates to 6sense, and we're PUMPED to have them here. New faces, new ideas, and probably a few "where do I find ________?" Slack messages. 😄 Welcome to the team! We're SO glad you're here.
+
+7495117300275208193 | 6sense | image | 59w
+    Remember when AI knowing your buyers sounded like science fiction? That was, like, six months ago 😉 With the 6sense MCP Server, your AI agents can access trusted GTM intelligence, from buying stages and intent signals to account insights and campaign performance. Curious what that looks like in practice? Check out our latest blog, link in the comments ⤵
+
+7495177669299494913 | 6sense | text | 80w
+    Be honest: How many tools does your sales team use today? Now ask yourself: Are reps actually getting more clarity from them? Most teams aren't lacking data. They're drowning in disconnected signals. That's why our latest updates focus on bringing context closer to the moments reps need it most, whether that's preparing for a call, finding the right buyers, or  [...]  driving account engagement. Check out how the 6sense Summer Release is helping teams go from signal to action👇
+
+7495469337214906368 | 6sense | image | 94w
+    What a proud moment for the 6sense data science and machine learning team! Their paper was accepted to WISE 2026, one of the leading conferences for web-scale AI. The coolest part? This wasn't research looking for a real-world use case. It came from TagStorm, a production system that helps power the firmographic data our customers rely on every day, processing  [...]  research conference and reliable enough for production at that scale is incredibly hard and THIS TEAM did both
+
+7495540142796111875 | 6sense | image | 94w
+    The GTM playbook isn't being rewritten because buyers have changed... It's being rewritten because the moment that shapes most buying decisions happens before pipeline exists. At #Breakthrough2026, you'll learn how leading revenue teams are using contextual intelligence to move beyond signals and AI alone, engaging buyers earlier, with greater relevance and impact. Hear from industry leaders, participate in hands-on workshops,  [...]  into growth. 📍 Las Vegas 📅 November 2-5, 2026 Learn more at the link in the comments ⤵
+
+7495842393049620480 | 6sense | video | 29w
+    Step off the Dreamforce show floor and step into 🌴 Club6 🌴 Your VIP oasis for networking, refreshments, and GTM conversations. September 15–16, 9am - 5pm daily 🔗 ⤵️
+
+7495921922807951360 | 6sense | video | 38w
+    Still managing ABM in spreadsheets? We hope you know there's a better way. See how 8x8 generated $30M+ in ARR pipeline with a streamlined, four-pillar ABM framework built to scale. Watch the on-demand session, link in comments 👇
+
+7496191723073732608 | 6sense | video | 45w
+    Your AI can write emails. It can summarize meetings. It can plan your vacation. Cool. But what if it actually knew which accounts are in-market, who the buyers are, and what your competition is up to? That's what happens when you connect it to 6sense.
+
+7496566989331816448 | 6sense | image | 56w
+    Your buyers are sending signals EVERY DAY. The challenge isn't finding them. It's knowing what to do next. Buying Stage reports help revenue teams understand where accounts are in their journey, connect insights to the right stakeholders, and engage before opportunities become obvious to everyone else. Learn more at the 🔗 link in the comments ⤵️
+
+7497654022120710144 | 6sense | image | 125w
+    What do you get when you put 50 CMOs, marketing leaders, and revenue leaders in a room? Some strong opinions. A few uncomfortable truths. And some of the best B2B conversations you'll have all year. Join us the 1st of October in London for Inspire Exchange Breakfast, where Kerry Cunningham will share an exclusive preview of the 2026 B2B Buyer  [...]  now? • How does AI change the buying journey...and how doesn't it? Apply to join us...link in comments
+
+7497721948278329344 | 6sense | image | 92w
+    We're thrilled to announce Brittany Hodak, best-selling author of Creating Superfans and one of the world's leading customer experience experts, as a keynote speaker at #Breakthrough2026! In a world where every interaction matters, Brittany has helped organizations rethink customer experience, brand loyalty, and advocacy. At Breakthrough, she'll share actionable insights on how businesses can transform customers into passionate advocates and  [...]  from industry leaders, gain hands-on expertise, and discover new ways to drive growth. 🔗 in the comments ⤵
+
+7498016513359220736 | 6sense | image | 71w
+    These sponsors make Club6 possible. DemandWorks, LeanData, Studio Science — thanks for stepping in. You understand something critical: Agentic GTM requires real conversations, not booth traffic. Club6 is that space. September 15-16. Tropisueño. Just steps from Moscone. We're gathering the sharpest GTM leaders to explore how 6sense Intelligence integrates with the agents already in your stack and what's possible when buyer intelligence meets automation. Want to join? → Link in comments
+
+7498086833281753090 | 6sense | image | 60w
+    UNBOUND starts soon and your calendar is looking pretty thin. Let us fix that. ✅ Swing by the 6sense booth (we have vibes) ✅ See how we're helping teams actually hit their revenue numbers (not just chase lists) ✅ Catch Kerry Cunningham's session (it's the good stuff) Link to meet with us in the comments. See you at UNBOUND 🚕✨
+
+7498366581115092993 | 6sense | multi-image(7) | 38w
+    Nobody asked, but it's National Dog Day and we'd be doing the internet a disservice if we didn't share a gallery of our team's dogs in hats and other, super real and not AI generated, 6sense merch. ✨Enjoy✨
+
+7498741251442143233 | 6sense | image | 60w
+    Your AI is only as good as the context you give it. And buyer context changes EVERYTHING. With the new 6sense MCP Server, AI agents can access predictive buying stages, intent signals, account insights, and more directly from 6sense. No tab-hopping. No manual research. No "let me look that up." Just the intelligence your teams need, wherever they're already working.
+
+7498801696484028417 | 6sense | video | 54w
+    If someone's been to the same conference six times, it's worth your time ... right Dina Otero? Breakthrough isn't just a keynote schedule, it's where our customers and partners come to see what's next in agentic GTM. This year's product announcements are already shaping up to be BIG. Secure your spot, link in comments.
+
+7499088568435253248 | 6sense | video | 50w
+    We're happy to announce that opening 14 tabs before answering a simple question is no longer required. Thanks to the 6sense MCP Server, your AI can access buyer intelligence directly from 6sense. Just ask: "Who's showing intent?" "What accounts should I prioritize?" "Who's ready for outreach?" Nature is healing. 🌱
+
+7500178150463574016 | 6sense | text | 84w
+    CASE CLOSED After extensive investigation, we identified the real reason AI keeps getting it wrong: ❌ Not enough context ❌ No buying signals ❌ No account intelligence ❌ A lot of educated guessing Turns out, the AI wasn't the culprit. It was working without the information it needed. The 6sense MCP Server connects AI agents like ChatGPT, Claude, and Agentforce  [...]  to the context that drives better recommendations, better answers, and better actions. More clues in the comments 🔎
+
+7500553228233666563 | 6sense | image | 28w
+    Picture this...you're three days into Dreamforce and somehow still standing. ICON BEHAVIOR. Come let us buy you a drink at 🌴Club6🌴 Save your spot. Link in comments ▼
+
+7500584906624790528 | 6sense | video | 6w
+    Sorry Kevin ... no plants allowed
+
+7500915602434269185 | 6sense | image | 61w
+    Sorry sellers, the Jedi mind trick does not work on B2B buyers and none of you should be surprised. Weak minded, they are not. 94% walk in with a favorite already picked. That favorite wins 77% of the time. No hand wave undoes six months of stakeholder alignment. Want the deal? Show up before the shortlist forms, not after. 🔗 ⤵️
+
+7500975858694782976 | 6sense | text | 10w
+    Everyone's got an AI strategy. Not everyone has AI results.
+
+7501278165630304257 | 6sense | image | 140w
+    Anyone else feel like B2B buying changed overnight ... and we're all still catching up? Buyers are showing up differently. AI is reshaping the journey. And some of the old playbooks aren't working quite like they used to. That's why we're bringing together 50 marketing and revenue leaders in London on October 1 to compare notes, challenge assumptions, and talk  [...]  pitches. Just thoughtful conversations with people navigating the same challenges you are. More info in the comments ⤵️
+
+7501686419942420480 | 6sense | video | 171w
+    We were named "RevOps Platform of the Year" and no, we are not playing it cool about this one. The MarTech Breakthrough Awards picked us out of thousands of nominations, from 15+ countries. We're still a little stunned, honestly. Here's the part that actually matters: Most revenue teams don't have a data problem. They have an agreement problem. → Marketing's  [...]  customers: you're the ones turning these ideas into real results every day. This award belongs to you, too.
+
+7502725549480386560 | 6sense | image | 21w
+    If your Labor Day plans don't include RevvyAI chalk art, you're doing it wrong. 📷: Danielle Grentus (Senior Customer Success Manager)
+
+7503090817129967618 | 6sense | video | 169w
+    SIGNALS aren't the advantage anymore. CONTEXT is. That's the focus of Day 2 at Breakthrough, where revenue leaders will explore how AI, intelligence, and buyer context are reshaping modern go-to-market. From market-defining research to real-world transformation stories, you'll learn how leading teams are turning insight into action. What's happening Day 2: ☑️ Keynotes from Kelly Hopping and Kerry Cunningham on  [...]  us in Las Vegas this November. 🔗 in comments. *Please note, sessions and speakers may change without notice.
+
+7503151062955069441 | 6sense | video | 41w
+    Between the sessions, networking, and inevitable Dreamforce step count, you're going to need a place to recharge 🌴 Swing by Club6 for refreshments, great conversations, and a break from the show floor. September 15-16 | 9 AM-5 PM daily 🔗 ⤵️
+
+7503468665229463554 | 6sense | video | 54w
+    "The community pushes the boundaries of what's possible." That's why leaders like Nikke Rose keep coming back to Breakthrough. You'll connect with marketers, sellers, and revenue leaders who are shaping the future of go-to-market, sharing proven strategies, and turning AI into measurable business outcomes. We'll see you in Vegas for Breakthrough 2026, this November.
+
+7503814607724089344 | 6sense | text | 12w
+    The buying committee has 11 people. You've talked to 2. Who's counting?
+
+7503878969109241858 | 6sense | text | 24w
+    Steal these prompts. We won't tell. 🤫 Swipe through some customer-favorite RevvyAI prompts and see the winning submission that scored a complimentary Breakthrough pass.
+
+7491385913034473472 | ABB Robotics | video | 63w
+    Can the world's housing challenge be solved by reinventing how we build homes? The Journey is a documentary featuring ABB Robotics, EDAG Group, MHP Americas, Inc. – A Porsche Company, NVIDIA, Porsche Consulting, Siemens and ADMARES, showcasing how industrial AI, digitalization, automation, and advanced manufacturing are transforming the future of housing. Watch the official trailer below, then experience the complete documentary here: https://lnkd.in/dPWzbJSC
+
+7492097506848301056 | ABB Robotics | video | 52w
+    Robotic surface finishing is now within reach for SMEs. Our OmniVance™ Collaborative Surface Finishing Cell combines GoFa™ collaborative robotics with intuitive programming to deliver consistent quality, faster setup, and lower operating costs. Watch our webinar to see how automated sanding and polishing can help boost productivity and competitiveness. Find out more: https://lnkd.in/gwZpyEgK
+
+7492580704590123008 | ABB Robotics | video | 85w
+    Great conversation with Jon Kamstra from Radian Robotics at the recent Value Providers Conference in Chicago. We talked about what it means to be one of our Service Partners – and what really stood out was Jon's perspective: "Our customers' biggest benefit is that we're a one-stop shop for them. It helps us create more value." That's the essence of  [...]  real value for customers. Check out the video to hear from Jon on what makes this collaboration work.
+
+7492860946038800384 | ABB Robotics | video | 71w
+    What's next for automotive manufacturing? From cybersecurity and labor shortages to supply chain resilience, sustainability and electrification, automotive manufacturers are navigating unprecedented change. Our latest eBook highlights the five key trends shaping investment and manufacturing strategies across the industry from ABB Robotics' Automotive Manufacturing Survey results. 📘 Download the eBook to discover the insights helping OEMs and suppliers build more productive, resilient, and future-ready operations. 👉 Explore the key themes: https://lnkd.in/ejwGYb2H
+
+7492869199447642112 | ABB Robotics | image | 180w
+    Keeping Cool Under Pressure: Protecting Your Robot Controllers from Heat High temperatures are a challenge not just for people — but also for control technology. Robot controllers can generally handle elevated temperatures well, but once they exceed 45°C, conditions can become critical. This can lead to premature wear or even complete system failure. The Air Conditioning Kit for OmniCore V250  [...]  out how to prepare your OmniCore controller for high temperatures and harsh operating environments. Get in touch: https://lnkd.in/egpT-Rde
+
+7492874965801873408 | ABB Robotics | text | 50w
+    Building sites have not changed much in 50 years. Robots have been quietly chipping away at that. In Los Angeles, a robot inside a tent on the plot cuts timber and builds wall panels for modular homes. On other sites, robots are welding rebar cages and handling the heavy lifting.
+
+7493307285100793856 | ABB Robotics | video | 21w
+    YuMi is officially ready for the solar eclipse! 🌒🕶️ Powered by smart vision, but taking zero chances with the sun today!
+
+7493353205343596544 | ABB Robotics | link | 84w
+    What if one AMR Flexley® Stack F712 could handle your toughest intralogistics challenges? 🫵 AMR is designed to adapt, perform, and scale across multiple applications. ✅ Up to 2,000 kg rated payload ✅ Maximum speed of 1.7 m/s ✅ Customizable forks and mast configurations to suit different load types ✅ Versatility across multiple applications, including warehouse storage & retrieval, line  [...]  Explore how the AMR Flexley® Stack F712 can be configured to meet your unique material handling requirements: https://lnkd.in/e4ZD4WZz
+
+7493372541345087488 | ABB Robotics | link | 33w
+    Every second counts in automotive production. Find out how @BMW Group Plant Steyr is using our cobot GoFa to increase efficiency, improve quality and stay agile in a changing industry. Read more: https://lnkd.in/dhddjR_M
+
+7493667874964746240 | ABB Robotics | video | 74w
+    What happens when welding expertise meets collaborative robotics? Finnish welding manufacturer Mesekon Oy is achieving a 40% productivity boost with ABB's GoFa™ cobots. By combining GoFa's precision and flexibility with Mesekon's expertise, intricate welding tasks can now be completed more efficiently and consistently. A big shoutout to our OEM partner Kemppi for helping make this application a reality. Where do you see the biggest opportunity for cobots in welding operations? Find out more: https://lnkd.in/e2dJ8crz
+
+7493690389057527808 | ABB Robotics | multi-image(5) | 79w
+    The 2026 US Cobot Automation Summit has come to a close. Thank you to everyone who joined us in Auburn Hills for a day of live cobot demonstrations, expert insights, and forward-looking conversations on the future of collaborative automation. We extend our thanks to Jake Hall, The Manufacturing Millennial, for joining us and sharing his perspective on the trends shaping  [...]  manufacturing. A few highlights from the day are below. More from the summit coming soon — stay tuned.
+
+7493856509433454593 | ABB Robotics | video | 46w
+    Can EVs be built profitably at scale? Manufacturers increasingly think so. ⚡ Our latest survey found that 67% expect EV production to grow in 2026, while many report easier manufacturing and declining costs. Automation is helping turn EV ambition into reality. Download the survey results: https://lnkd.in/gv_SMcGR

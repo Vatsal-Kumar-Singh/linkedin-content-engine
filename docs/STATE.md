@@ -10,6 +10,26 @@ went wrong along the way that are worth not repeating.
 
 ---
 
+## Read this first: the research is unfinished, and it is blocked
+
+**Nothing here needs redoing. Something here needs finishing.** Four of the five axes are complete
+and reported. The fifth — the three-way `offering x motion x stage` cut in [`CELLS.md`](CELLS.md)
+— has **13 of 36 cells** above the floor. The other 14 are listed cell by cell below.
+
+**It is blocked on one thing: Apify credit.** All three tokens are at or over their $5 monthly
+cap, so nothing can be scraped until one is rotated or the month rolls over. Firecrawl has four
+working keys but only resolves LinkedIn slugs; it cannot pull posts.
+
+**To finish it: about 31 more company pages, about $2.50 of Apify credit, and about 1,500 posts to
+read by hand.** The order is set out below and step two is not optional — **a human reviews the
+candidate list before any credit is spent.** That rule is written into the sample frame, and the
+one time it was skipped it put a FedEx executive into a FedEx *supplier's* person sample.
+
+**Also outstanding and blocked on nothing:** the three Apify tokens were pasted into a chat
+transcript during this work and should be rotated regardless of what credit they have left.
+
+---
+
 ## The one-paragraph version
 
 There are two halves. **The engine** (`engine/`) writes and renders LinkedIn posts and decides
@@ -152,20 +172,26 @@ The rest are fillable. `python research/analyse_cells.py --grid` prints the live
 
 ## Security and hygiene, before anything is pushed
 
-**This repository is public.** Four rules follow, and all four are currently satisfied:
+**This repository must be private, and the reason is concrete.**
 
 1. **No keys, ever.** `APIFY_TOKENS` and `FIRECRAWL_API_KEY` are read from the environment and
-   nothing is read from disk. No `.env` is tracked. The tree and the unpushed history were both
-   scanned before this was written.
-2. **No third-party post text.** `research/raw/`, `research/batches/`, `research/batches_todo/`,
-   `research/raw_people/` and `research/batches_people/` are gitignored — they hold the full text
-   of other companies' posts and redistributing it is not ours to do. What *is* tracked is our own
-   work: the labels (post id → label) and `findings.json`, which carries metadata and no prose.
-   Both ignored trees are regenerable from the scrapers.
-3. **`research/sample_creative.py` refuses to write inside the repository.** The images it pulls
-   are other companies' copyrighted creatives; the coded attributes are the deliverable.
+   nothing is read from disk. No `.env` is tracked. The tree and the history have been scanned.
+2. **The scraped corpus IS tracked, and that is why the repository must stay private.**
+   `research/raw/` (77 company pages), `research/raw_people/` (47 profiles) and the three batch
+   directories hold **the full text of other companies' LinkedIn posts**, about 24MB. They are
+   tracked on the owner's decision so the corpus is reproducible without re-scraping: a new reader
+   can re-label and re-audit for free instead of spending about $2.50 of Apify credit and waiting
+   on a working token.
+
+   **If this repository is ever made public, those five directories have to come out of the
+   history, not just out of the working tree.** Deleting the files in a later commit leaves them
+   in every clone, every fork and GitHub's caches. The reversal is `git filter-repo` and a force
+   push, and it gets less effective the longer the content has been reachable.
+3. **`research/sample_creative.py` still refuses to write inside the repository.** The images it
+   pulls are other companies' copyrighted creatives, and unlike the post text they were never part
+   of the decision above. Only the coded attributes are the deliverable.
 4. **The branch `virya-local-DO-NOT-PUSH` must never be pushed.** It holds client work for a
-   named company on a local branch of a public repo. It is not merged into `main` and must not be.
+   named company. It is not merged into `main` and must not be.
 
 **Outstanding action for a human: rotate the Apify tokens.** Three were pasted into a chat
 transcript during this work and should be treated as exposed regardless of what they can still

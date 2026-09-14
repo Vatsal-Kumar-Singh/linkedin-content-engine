@@ -1,0 +1,169 @@
+# batch 008  -  55 posts  -  label per research/CLASSIFICATION-PROTOCOL.md
+# labels: problem exploration requirements selection validation consensus
+#         recruitment culture event product-news csr unclear
+# write research/labels/008.tsv as: <id><TAB><label>
+
+7445145591422291968 | Cal.com | image | 9w
+    Some people just love the back-and-forth email game 🥂
+
+7445213528568832000 | Cal.com | video | 32w
+    Product of the day. Product of the week. Product of the month. That's when we knew Cal.com was more than a side project. Full story in the upcoming episode of Cal.com Stories.
+
+7445477815912792065 | Cal.com | image | 36w
+    Tired of people not showing up to meetings? Cal.com's automated email and SMS reminders keep everyone on track. Attendees are less likely to miss meetings. Which means your time is respected, and rescheduling headaches are avoided.
+
+7445507853584429058 | Cal.com | link | 62w
+    Manifest Law runs high-volume client intake. That's not just scheduling. It's how they qualify and convert clients. It needs to route correctly. Protect attorney time. And handle sensitive data. Cal.com gives them that structure. Booking limits, routing logic, and access controls keep intake consistent across their entire lawyer base. Instead of coordinating meetings, the team focuses on evaluating and converting clients. https://lnkd.in/gyfpwchJ
+
+7445828817698373632 | Cal.com | video | 18w
+    Spending 3 hours setting up the perfect AI workflow instead of just doing the work is still procrastination.
+
+7445840202184581120 | Cal.com | image | 47w
+    Not every business runs the same, and your scheduling shouldn't either. With Cal.com, you can set up unlimited appointment types, availability schedules, and calendar connections. Each type can carry its own rules: buffer times, private links, and custom booking layouts. Flexible scheduling built to scale with you.
+
+7445873030817501184 | Cal.com | image | 15w
+    cal.com/ceo is taken 👀 Martin Galovič got there first get yours before someone else does
+
+7446927391920283648 | Cal.com | image | 33w
+    Scheduling shouldn't force teams into rigid rules. Cal.com is built to adapt to how your team actually works. From simple meetings to complex workflows, everything stays flexible. One platform, endless ways to schedule.
+
+7447283011513151489 | Cal.com | video | 19w
+    A bedroom in Germany. A mom who was always 5 minutes early. Funny how it all connects. Cal.com Stories.
+
+7457116665806516224 | Cal.com | link | 19w
+    We're hiring a Videographer. NYC-based. Work directly with our CEO. Shoot + edit real moments as they happen. https://cal-com.breezy.hr/
+
+7457793429830537217 | Cal.com | image | 42w
+    Countless "high-growth startups" are running revenue critical scheduling on software built for freelancers. Like using Venmo when all of your competition is using Stripe. What's the cost of routing a $100,000 lead like a $10 one? Probably nothing. Nothing to see here.
+
+7465472277191520257 | Cal.com | video | 23w
+    Scheduling isn't just an HR/Ops thing. It has reduced time-to-lead 50% and close rates 2x for the GTM teams Cal.com supports. Here's how:
+
+7467273873370120192 | Cal.com | video | 16w
+    A lot of people don't realize you can actually charge for your time directly through @calcom.
+
+7467560399614279680 | Cal.com | image | 17w
+    The most expensive part of your funnel isn't acquisition. It's what happens after someone raises their hand.
+
+7467674088787025920 | Cal.com | text | 9w
+    One of our favorite startup problems: Needing more people.
+
+7467915612678356992 | Cal.com | video | 0w
+    
+
+7468278018252189697 | Cal.com | video | 38w
+    A weird thing happens at growing companies: - They'll spend $100k/month on demand gen. - Then route a $1M opportunity through the same process as a newsletter signup. That's not a lead routing problem. That's a prioritization problem.
+
+7468640387541426176 | Cal.com | video | 10w
+    If it's worth yapping about, it's worth a Cal link.
+
+7470551880956264448 | Cal.com | image | 8w
+    Organizing my calendar for the #NBAFinals #knicksin6 #calcom
+
+7470886086450294784 | Cal.com | video | 54w
+    Get paid even faster, easier, and simpler. You can accept payments for any appointments made with Cal.com. ◦ No additional fees. Most platforms charge 2.9% Stripe fees + platform fees. ◦ No KYC needed, accept payments right away ◦ Supports coupon codes for discounting. ◦ Native to Cal.com. Click to install, and you're off!
+
+7471582314964275200 | Cal.com | image | 8w
+    tell us something you're looking forward to! #calcom
+
+7473397655981842433 | Cal.com | image | 12w
+    First thing in the morning, or last meeting of the day? #calcom
+
+7473429869964750848 | Cal.com | image | 7w
+    It's time to get organized. #calcom https://cal.com/
+
+7474152007205957632 | Cal.com | text | 14w
+    Tomorrow's the LONGEST day of the year - how will you use it? 🫵
+
+7475587059928330240 | Cal.com | image | 10w
+    The best way to keep *all* your bookings organized #calcom
+
+7477397865242419200 | Cal.com | text | 5w
+    what's the BEST side hustle?
+
+7478191400723890176 | Cal.com | image | 0w
+    
+
+7478834481395580928 | Cal.com | text | 19w
+    I used to have horrible time management. I still do, but at least now I have Cal.com to help.
+
+7483263296897286144 | Cal.com | link | 308w
+    Today, we are excited to launch v6.7 See what's inside https://lnkd.in/evi59-wb - Cal.com Notes Your Cal Video calls now write their own recap. Whenever a meeting is transcribed, Cal.com automatically turns that transcript into a clear, readable summary of what was discussed. - Cal Pay (powered by Whop) Getting paid just got a lot simpler. Cal Pay is now available  [...]  Cloudflare Turnstile and a 45-second resend cooldown to workflow phone verification to curb SMS pumping and toll fraud.
+
+7485746761526001664 | Cal.com | video | 48w
+    Thanks to the team at MKBHD Inc. at The Studio for featuring us in their roundup of free apps they actually use. We spend a lot of time thinking about how to make scheduling feel effortless at scale. It's nice to see that work make someone else's list.
+
+7485800851312218112 | Cal.com | image | 36w
+    The team's getting even better. Meet Reilly Barry 👋 >Former Growth at Demandbase >Won't let you settle for bad scheduling >The biggest film buff you know Looking at Cal for your team? Reach Reilly at Reilly@cal.com
+
+7486084715741978624 | Cal.com | video | 3w
+    chat, this true?
+
+7500574544651497472 | Cal.com | image | 17w
+    Top performing reps at cal get this very special honor and privilege Who you gonna cal? i.cal.com/reilly
+
+7465113413136924672 | Chef Robotics | video | 161w
+    The best stories are often the unexpected ones. Robots preparing medically tailored meals in San Francisco's Tenderloin is one of them. We're proud to collaborate with Project Open Hand to help assemble medically tailored meals for seniors and community members living with chronic illnesses. For over 40 years, the nonprofit has built its mission around the idea that food is  [...]  Hand's story: https://lnkd.in/gN6Z5HM6 Big thanks to Boone Ashworth and WIRED for covering the story: https://lnkd.in/eGfzK8Vx) #robotics #physicalai #nonprofit
+
+7465848704789479424 | Chef Robotics | video | 139w
+    Last week, we were making burgers. This week, we're scooping burrito bowls! Our latest engineering blog explores how we taught Chef's Food Foundation Model (FFM) to manipulate loose, deformable foods like rice, beans, lettuce, cheese, and chicken using the same underlying physical AI architecture. Scooping sounds simple, but it introduces entirely new robotics challenges: • Portioning loose ingredients precisely •  [...]  This is what general-purpose physical AI for food looks like. Read the full blog: https://lnkd.in/g85AqD-a #physicalai #robotics #food
+
+7466178988898455552 | Chef Robotics | video | 150w
+    When a robot on a food production line deposits an ingredient into a tray, it doesn't act alone. The conveyor has to stop, every robot on the line has to finish its deposit, and only then does the line move again. That coordination happens dozens of times a minute, every shift. Chef has a device that manages this entire sequence.  [...]  laptop with zero hardware in the loop. Read more on our engineering blog: https://lnkd.in/gaSVVMhB #physicalai #robotics #foodrobotics #conveyortypes
+
+7467351061465542656 | Chef Robotics | link | 88w
+    We're excited to welcome Steve Van Der Hoeven to Chef as a Senior Staff Software Engineer! Steve brings over two decades of software engineering experience from companies like Google and Optimizely. He most recently worked at Zeromatter, where he built a CI/CD and validation platform for robotics stacks. At Chef, Steve will help our growing team of robotics and software  [...]  dozen customer sites. If this sounds interesting to you, see our open roles at https://lnkd.in/g2J6g63b! #robotics #ai #hiring
+
+7467680524887539712 | Chef Robotics | link | 178w
+    Will physical AI be general-purpose or specialized? We think it's both. There's a major debate in robotics right now about whether generalist models and humanoids will outperform verticalized solutions. Our view is that the industry is converging toward a different outcome: 🧠 Intelligence will become increasingly shared 🤖 Embodiments will remain highly specialized Why? Because industrial customers don't buy versatility.  [...]  may look a lot more like 𝘞𝘈𝘓𝘓-𝘌 than 𝘐, 𝘙𝘰𝘣𝘰𝘵. Read the full post: https://lnkd.in/e_q72yiK #PhysicalAI #Robotics #AI
+
+7468725386273693696 | Chef Robotics | image | 63w
+    We're heading to IDDBA 2026 in Orlando next week! 🎉 Food manufacturing is changing fast, and we'd love to show you what's possible with physical AI on the production line. Stop by booth 4961 between June 7–9. Whether you want to see a live Chef robot demo, talk automation, or just say hi—we'll be there. See you in Orlando! 👋 #iddba #foodautomation #foodmanufacturing
+
+7469778427697467393 | Chef Robotics | video | 53w
+    Visit us at IDDBA 2026 today and tomorrow! Our live robot demo showcases how physical AI automates food assembly for over a dozen manufacturers across North America. And yes, the Skittles are just an example 🍬 Meet Nicolas De Keijser, Nick Y., Aditi Jain, and Shaolin Kataria at booth 4961. #iddba #foodautomation #foodmanufacturing
+
+7470535314705551360 | Chef Robotics | text | 85w
+    We hosted Foxglove CEO Adrian Macneil at our office last week to talk about food as a market for robotics, why food manipulation is such a complex engineering problem, and how we've built the largest dataset of in-production deformable material training data. We also shared a preview of what the Chef R&D team is working on to help our robots  [...]  day to also serve additional use cases across food service, ghost kitchens, and fast-casual restaurants. #robotics #physicalai #trainingdata
+
+7470549682469957632 | Chef Robotics | text | 69w
+    This week, we're excited to welcome Bennett Dixon to the growing Chef Robotics team! Bennett joins us as a Key Account Executive and will help support our customers as they deploy and scale robotics in food production. He brings deep experience in robotics and automation from Dematic, Mujin, and Trew, and you may see him at one of our upcoming trade shows this year. Welcome to the team, Bennett!
+
+7470902893529726977 | Chef Robotics | image | 114w
+    Breakfast tray assembly is one of the most manual steps in institutional food production and one of the most difficult to automate. Chef robots handle the full breakfast tray assembly: scooping oatmeal and grits by weight, piece-picking sausage patties and hash browns, and dropping in sauce packets—all in a single pass at production speed. From K-12 school nutrition programs and  [...]  AI models are built for exactly this environment. Read more on our blog: https://lnkd.in/edgjJXPY #foodmanufacturing #foodautomation #breakfastproduction #institutionalfoodservice
+
+7471246924138885121 | Chef Robotics | image | 52w
+    Recently, our robots completed 100 million production servings 🚀 The Chef team celebrated this milestone with a scavenger hunt (pictured below), table tennis, and a karaoke afterparty, videos of which shall remain safely under wraps. Meanwhile, our robots quietly made another 17 million servings at customer sites. Next stop: 1 billion 🤖
+
+7472385049481535490 | Chef Robotics | video | 84w
+    When Paul Hepfer, CEO of Project Open Hand, was looking for ways to address limited volunteer availability following the COVID-19 pandemic, he didn't necessarily expect robots to be part of the solution. Fast-forward 18 months, and two Chef robots are helping assemble medically tailored meals for the nonprofit in the heart of San Francisco's Tenderloin District. Watch Project Open Hand's  [...]  40 years ago and will continue to make an impact for decades to come: https://lnkd.in/g_8YM3B5 #robotics #physicalai #nonprofit
+
+7472456025166491648 | Chef Robotics | text | 83w
+    We're thrilled to announce Nicolas De Keijser as Chef's VP of Sales! Nicolas brings close to two decades of robotics Sales experience from ABB and, more recently, Boston Dynamics, where he built and led an international commercial team that brought warehouse robots to market across the globe. At Chef, Nicolas will lead our growing Sales team and help expand the  [...]  assembly robots in manufacturing facilities across North America and Europe. Welcome to the team, Nicolas! #robotics #physicalai #foodmanufacturing
+
+7472725135754612737 | Chef Robotics | image | 205w
+    Portion consistency is one of the hardest problems in food assembly automation. When a meal calls for 50 g of mac and cheese, every single meal needs to hit that target. 𝗛𝗼𝘄 𝗖𝗵𝗲𝗳 𝗿𝗼𝗯𝗼𝘁𝘀 𝗲𝘀𝘁𝗶𝗺𝗮𝘁𝗲 𝗽𝗶𝗰𝗸 𝗱𝗲𝗽𝘁𝗵 𝘁𝗼𝗱𝗮𝘆 Chef robots use a geometric model called VPD (volumetric pick depth) to estimate how deep a utensil should scoop to achieve the  [...]  accurate within 2 mm (vs. 32.94% previously) Read more on our engineering blog: https://lnkd.in/evkF4miK #physicalai #foodrobotics #machinelearning #aiandrobotics
+
+7473429372255948800 | Chef Robotics | image | 201w
+    Chef's AI-enabled robots deposit food into bowls thousands of times per hour. The quality of each deposit depends heavily on one variable: gripper opening speed. Too fast, and food might spill outside the tray. Too slow, and the deposit is incomplete before the tray moves past our robot on the conveyor. The right gripper opening speed also varies by ingredient.  [...]  exactly at the true stop time. Read more in our latest engineering blog: https://lnkd.in/eUUMgzn6 #physicalai #foodrobotics #robotics #aiandrobotics
+
+7473787433680138240 | Chef Robotics | image | 122w
+    We're grateful to be a part of the Robots for America industry coalition and excited to see recent bipartisan momentum behind a proposed National Commission on Robotics. As AI continues to reshape industries, it's encouraging to see increased attention on robotics and physical AI as well. At Chef Robotics, we've seen firsthand how much learning happens when robots operate in  [...]  become increasingly important. Read the full article by Eugene Demaitre from The Robot Report: https://lnkd.in/g9Qvg9bP #robotics #physicalai #policy
+
+7476026693963481088 | Chef Robotics | image | 328w
+    The latest debate in robotics focuses on vision-language action models (VLAs) vs. world models as the foundation for physical AI. We think it's an important topic, but also one that's often framed as an either/or choice. VLAs learn a policy that maps observations directly to actions. If we give an AI model camera images and a task, it predicts what  [...]  unfold. Big thanks to Rocket Drew from The Information for including us! Read the full article here: https://lnkd.in/eekVcUMd
+
+7476311088448376832 | Chef Robotics | image | 227w
+    The secret to a better physical AI model isn't a bigger model. It's the right data. We've been building a physical AI system that assembles a burger in under a minute. Earlier this year, it hit a 75% success rate. We got it to 91.3% by adding just 56 successful burger assembly runs back into the training data. That's 4.5%  [...]  flywheel is built to keep running. Read more about how we built this: https://lnkd.in/ewdamVXn #physicalAI #foodautomation #foodmanufacturing #robotics
+
+7478131531459260417 | Chef Robotics | video | 207w
+    We're excited to launch Food Builders, a new podcast hosted by Chef's Founder and CEO, Rajat Bhageria! Food manufacturing is one of the world's largest industries, but the people building it rarely get the attention they deserve. That's why, in this podcast series, Rajat sits down with founders and leaders across the food industry to hear how they built their  [...]  industry! 🎙️ Watch or listen to the full episode on YouTube: https://lnkd.in/gsxaYXR6 or Spotify: https://lnkd.in/gZeXeUbn #foodmanufacturing #entrepreneurship #podcast
+
+7478518059448655872 | Chef Robotics | image | 149w
+    We wrote a blog about how robotics works today. The field has changed so much over the past few years, to the point where robots are no longer built solely by writing code. They're increasingly trained with data. In this blog, we break down how modern robotics has evolved: • Robotics 0.0: Mechatronic automation • Robotics 1.0: Programmed motion •  [...]  where robotics used to be, where it's now, and where it's headed. Read the blog: https://lnkd.in/gDvCYGaY #robotics #physicalai
+
+7481030356692008962 | Chef Robotics | image | 231w
+    The ROI question, answered! 𝗥𝗢𝗜 𝘄𝗶𝘁𝗵 𝗖𝗵𝗲𝗳 𝗿𝗼𝗯𝗼𝘁𝘀 𝗰𝗼𝗺𝗲𝘀 𝗳𝗿𝗼𝗺 𝗳𝗶𝘃𝗲 𝗽𝗹𝗮𝗰𝗲𝘀: → 𝗟𝗮𝗯𝗼𝗿: A workstation costs far more than the wage on the paycheck. With turnover exceeding 150% in the food industry, manufacturers pay recruiting, onboarding, and training costs repeatedly. Chef replaces them with a single, predictable RaaS fee. → 𝗚𝗶𝘃𝗲𝗮𝘄𝗮𝘆: Line workers portion food with a slight positive  [...]  ChefOS (our AI platform) improves. Read the full ROI breakdown on our blog: https://lnkd.in/gZdre4h9 #foodmanufacturing #foodautomation #mealassembly #foodrobotics
+
+7483209879923470336 | Chef Robotics | image | 56w
+    Chef Robotics is heading to the Foodservice Conference in Monterey! 🤖 Stop by booth #808 to meet our team, see how Chef robots work, and learn how food manufacturers use them to increase throughput and reduce labor dependency. Attending the show? Request a meeting with our team: https://lnkd.in/g66aaF7z See you in Monterey! #foodserviceconference #foodautomation #foodmanufacturing #physicalai

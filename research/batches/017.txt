@@ -1,0 +1,169 @@
+# batch 017  -  55 posts  -  label per research/CLASSIFICATION-PROTOCOL.md
+# labels: problem exploration requirements selection validation consensus
+#         recruitment culture event product-news csr unclear
+# write research/labels/017.tsv as: <id><TAB><label>
+
+7485383928397066241 | Gong | text | 94w
+    DISCUSSING PRICE ON DISCOVERY CALLS? We thought about it twice, too. But the data is clear. Win rates are highest when pricing is discussed on the first call — 10% higher (!) The longer a sales rep waits to bring up pricing, the less likely they are to win the deal. Let's take a moment to acknowledge something unspoken here:  [...]  doesn't matter whether the seller or the buyer brings it up first. It's just part of doing business.
+
+7485741747290112000 | Gong | image | 42w
+    CAN'T MAKE IT TO LAS VEGAS? We've got you. 💜 Celebrate '26 is going virtual. We'll be streaming our biggest moments live, so you can catch the insights, product announcements, and inspiration from wherever you are. Save your virtual seat here: https://lnkd.in/ggZVmX9Z
+
+7486104152461238272 | Gong | link | 79w
+    YOUR NEXT BIGGEST REVENUE OPPORTUNITY ISN'T A NEW LOGO 👀 It's the customers you already have. But expansion opportunities are easy to miss when account planning relies on spreadsheets, scattered notes, and gut instinct. That's where AI can help. In our latest playbook, you'll learn how to: ✅ Spot cross-sell and upsell opportunities faster ✅ Identify at-risk accounts before revenue  [...]  impacted ✅ Use AI to build the right expansion strategy for every account Grab your copy here: https://lnkd.in/gV2f_5v6
+
+7486511588448047104 | Gong | image | 52w
+    GRAB YOUR TICKET TO CELEBRATE '26 YET? 🎟️ Jimothy did. 👀 Join the world's top revenue leaders for three days of AI insights, customer stories, hands-on learning, and the biggest conversations shaping the future of revenue. You won't want to hear about it secondhand. See you in Vegas! Grab your ticket: https://lnkd.in/gi5wbfrf
+
+7487547559016681472 | Gong | multi-image(2) | 39w
+    NEW GONGSTERS ALERT 💜 This small but mighty group is ready to hit the ground running, and we can't wait to see the impact they'll make. We're excited to have you here. Help us give them a warm welcome!
+
+7487919244546854912 | Gong | image | 63w
+    DID YOU KNOW YOU HAVE 3 DAYS?! 3 days left to submit for the 2026 Golden Gong Awards. If you've been thinking about it… this is your sign to stop thinking and start typing. Your story matters. Your team's results deserve to be celebrated. And the revenue intelligence community wants to hear what you've built. Submissions close July 31 at 11:59pm. 🏆 gong.io/golden-gong-awards
+
+7488288325003550720 | Gong | video | 64w
+    LET AI HANDLE THE BUSYWORK Gong Academy just launched a free, on-demand masterclass: Automate Revenue Insights with Custom Agents ✨ In under 30 minutes, you'll learn how to: ✅ Build custom agents that automate revenue insights ✅ Write better prompts using your Gong data ✅ Put ready-to-use templates into action across Sales, RevOps, Enablement, and more Less manual work. More selling. Start learning: https://lnkd.in/gfejSMiV
+
+7488694412139491328 | Gong | video | 66w
+    THE BEST REPS AREN'T BUILT DURING ONBOARDING ✨ They get better after every conversation. Imagine if every rep could: ✅ Practice before the big meeting ✅ Get coaching instantly ✅ Improve after every conversation That's what happens when AI becomes a part of your enablement team, not just another tool. See how Gong Enable helps teams coach smarter, ramp faster and scale what actually wins deals.
+
+7489019184643989504 | Gong | image | 17w
+    "I HAVEN'T REGISTERED FOR CELEBRATE '26 YET." Me: Grab your ticket before it's too late 👉 https://lnkd.in/gwDFYfjT
+
+7490083551103606787 | Gong | link | 82w
+    MEET YOUR CELEBRATE SPEAKERS 👀 The best ideas don't come from theory. They come from the people building, selling, leading, and scaling some of the world's most innovative companies. From AI transformation to revenue strategy and everything in between, these are the conversations you'll be talking about long after the event ends. Swipe to meet just a *few* of the  [...]  Vegas. Register today: https://lnkd.in/gdjiAHPm Connor Ashenbrucker (Samsara), Chase Bice (PwC), Robert Ruark (PwC), Scott Walker (Global Payments Inc.),
+
+7490433700250365953 | Gong | link | 41w
+    ARE YOU READY TO CELEBRATE? 🎉 Join the world's top revenue leaders for three days of AI insights, customer stories, hands-on learning, and the biggest conversations shaping the future of revenue. Lock in your ticket: https://lnkd.in/dTiEekxQ See you in Vegas. 😎
+
+7490819378851213312 | Gong | text | 27w
+    AI has solidified its place in the buying committee. We break down what it means for you and your deals in the latest edition of Gong Labs.
+
+7491245684705382400 | Gong | video | 18w
+    WORD HUNT OF THE DAY 🔍 Find it? Now make it happen! Grab your Celebrate '26 ticket: https://lnkd.in/d9ZqV4Q5
+
+7491539105173041153 | Gong | video | 31w
+    "SHOULD WE BUILD IT OR BUY IT?" It's one of the biggest questions in AI right now. Here's how Kelly Sarabyn, Director of Technology Partnerships at HubSpot, thinks about it ⬇️
+
+7491878392397692928 | Gong | multi-image(12) | 37w
+    INTERNATIONAL CAT DAY 🐈💜 To celebrate, we're introducing some of the *real* stars of Gong. Meet the furry coworkers keeping our keyboards warm, joining every Zoom call uninvited, and reminding us to take the occasional cat break.
+
+7492195492940996608 | Gong | text | 69w
+    BE PATIENT Upselling customers is all about timing. And the key is to be patient. Take a pause on overwhelming customers with offers during onboarding. (I know, it's tempting.) But customer success is about nurturing clients to become advocates. And that process takes time and resources – but will pay off in the end. Tracking implementation, adjust what's working and what's not, and most importantly… (Deep breath.) Be patient.
+
+7492625306348843008 | Gong | video | 64w
+    NO MORE BORING CONFERENCES ✅ Too many slides. Too much jargon. Too many sessions you'll forget by the time you get home. Not at Gong. Celebrate is where revenue leaders come to challenge conventional thinking, see what's actually working with AI, and leave with ideas you can put into practice immediately. Join us for the most unboring event in revenue. Register today ➡️ https://lnkd.in/gJvnbBWr
+
+7492946184467005441 | Gong | image | 111w
+    THE BIGGEST MISTAKE In the AI build vs. buy debate? Asking "Can we build it?" In 2026, the answer is almost always yes. The better question is: "Do we actually want to own it?" Building the prototype is the easy part. Maintaining it, governing it, securing it, and scaling it across your business is where the real cost shows up.  [...]  why the smartest teams are treating build vs. buy as a dial, not a binary decision. ➡️ https://lnkd.in/gdGGWzBG
+
+7493317391280394240 | Gong | text | 87w
+    USE EXECUTIVE-LEVEL LANGUAGE Your word choice will route you to the person you sound like. Leave basic discovery questions at the door. (And if you can find the answer on Google, don't ask.) Execs don't want to be asked who their competitors are or how their business operates. Instead, talk about high-order business problems and strategic opportunities: Competitive differentiation and  [...]  to scale the business. Current market trends and threats didn't foresee. That's how you sell to the c-suite.
+
+7493691596090015744 | Gong | video | 48w
+    YOTPO 🤝 GONG One platform. One source of truth. Better decisions. See how Ross Eisenberg, Global Sales Ops Team Lead and the team at Yotpo use Gong to centralize data, improve forecasting, and give every seller the insights they need to win more. Read their full story: https://lnkd.in/gi7HrYNR
+
+7494138395711942656 | Gong | link | 91w
+    THIS LINEUP?! 🔥 Yeah... we'd clear our calendars too. From the people building AI to the leaders redefining modern revenue teams, these are the voices behind some of the world's most innovative companies. No fluff. No recycled playbooks. Just practical strategies, honest conversations, and ideas you'll actually take back to your team. Swipe to meet just a few of the  [...]  Grab your ticket: https://lnkd.in/g_XfKADw Callie Laden (Auris), Elizabeth M. (Experian), Lisa Dickson (Experian), and Tyler Young (Spring Health)
+
+7495200049497387008 | Gong | video | 39w
+    94% OF B2B BUYERS Are using AI before they ever talk to a seller. 🤯 So what does that mean for sellers? The buyer has changed. The playbook has to change with them. See what the data says: https://lnkd.in/geP75YTe
+
+7495547956058599424 | Gong | text | 38w
+    BIGGEST SALES CALL MISTAKE Feature dumping. Don't tell buyers *how* your product works. Tell them the *results* they're going to get. Instead of discussing features and technology, focus on business value and pain. That's where the money's at.
+
+7495908865658564608 | Gong | video | 70w
+    WHAT HAPPENS IN VEGAS... 👀 Might just change how your revenue team operates (and wins) for good. Sept. 29–Oct. 1, the brightest minds in revenue are taking over Resorts World Las Vegas for Celebrate '26. We're talking big ideas. Bold conversations. Game-changing product reveals. And three days with the people shaping what's next in revenue. You heard Amit Bendov. Vegas is calling. Grab your ticket before it's too late: https://lnkd.in/gVWT7qhD
+
+7496189470799560704 | Gong | link | 81w
+    THIS IS A BIG ONE #1 New York Times bestselling author. One of the world's most influential thinkers on motivation, business, and human behavior. We're excited to welcome Daniel Pink to the Celebrate '26 keynote stage. His ideas have changed how millions of people think about leadership, selling, purpose, and what drives high performance. Now, he's bringing those insights to  [...]  the kind of keynote you'll be quoting long after the event ends. Join us at Celebrate '26: https://lnkd.in/gVWT7qhD
+
+7496622200985145344 | Gong | text | 6w
+    REVENUE AI IS KINDA CHIC 💅
+
+7497748098857996288 | Gong | text | 51w
+    BEST CLOSING LINE FOR NEXT STEPS: “Based on what you've told me, the next step is ______.” Then follow with: “What obstacles do we need to remove before we get started?” The best sellers don't ask buyers what happens next. They lead them there. Don't ask for the close. Suggest it.
+
+7498084069847711744 | Gong | image | 91w
+    “CAN WE BUILD IT?” With AI, the answer is increasingly yes. But just because you CAN, doesn't mean you SHOULD. Security. Privacy. Governance. Compliance. Maintenance. The list goes on. Before you make the build vs. buy call, start with these 6 questions 👇 Then download the full guide to get: → 4 security considerations for evaluating AI → Security, privacy,  [...]  When it makes sense to build — and when it makes sense to buy Grab the guide: https://lnkd.in/gC-2d6C3
+
+7498482014367440896 | Gong | link | 68w
+    VEGAS, WE'RE COMING FOR YOU 🔥 And we're bringing some of Gong's finest with us. At Celebrate '26, Gong leaders are taking the stage to give you a peek behind the curtain — Sharing their biggest learnings, what's working right now, and the strategies shaping what's next for revenue. Swipe to meet the Gongsters taking the stage. 👀 Grab your ticket to Celebrate before it's too late: https://lnkd.in/gVWT7qhD
+
+7498825720597606401 | Gong | text | 90w
+    “JUST CALLED?” Don't care. Mentioning your previous call, email, or voicemail isn't going to help you book the meeting. Spoiler alert: Buyers don't care how much effort you've put in. They care about what's in it for them. (And honestly, don't we all?) So stop leading with what you've done: “I just called.” “I left you a voicemail.” “I've reached  [...]  useful insight. A solution to a problem. A reason the conversation is worth their time. You know… VALUE.
+
+7499162954362212352 | Gong | video | 45w
+    ONE MONTH COUNTDOWN 🔥 In 30 days, the biggest and brightest minds in revenue AI are taking over the Strip. Big ideas. Real strategies. And a look at what's next for the future of revenue. Ready to go ALL IN? Grab your tickets here: https://lnkd.in/gGn3NAgs
+
+7500226144991010816 | Gong | link | 55w
+    VEGAS, THE LINEUP JUST GOT BIGGER 🔥 These revenue leaders are officially joining the Celebrate stage. Each is an expert in their craft. They'll share the lessons they've learned, the strategies that are working, and what they're doing differently to drive results. Don't miss your chance to learn from the best. Grab your ticket: https://lnkd.in/g9DfhxF8
+
+7500607513097064448 | Gong | video | 85w
+    GREAT PLACE TO WORK 💜 Thrilled to share that we're one of Fortune's Best Medium Workplaces 🎉 And the best part? This recognition is based on the people who know Gong best: our Gongsters. We're proud to build a workplace where people can do their best work, grow alongside some seriously talented humans, and enjoy the ride while doing it.  [...]  makes this place what it is. This one's yours. 🏆 Want in? Check out our open roles: https://lnkd.in/gutDxkTg
+
+7500930756966236161 | Gong | text | 54w
+    GETTING GHOSTED IS PART OF THE GAME 👻 But the best sellers don't just “circle back” 12 times. They change the conversation. Bring new value. Share a relevant insight. Give them a reason to respond. And sometimes? Know when to move on. Swipe for a few laughs while you wait for that reply →
+
+7501353355508629504 | Gong | link | 82w
+    GET CERTIFIED AT CELEBRATE 🎓 We're kicking off Celebrate '26 with Gong Empower Certification — a hands-on, half-day workshop built for Enablement and RevOps pros who own Gong at their organizations. You'll earn how to drive adoption, connect Gong to your business priorities, and walk away with your Gong Empower Builder credential. And it doesn't stop in Vegas. You'll join  [...]  Celebrate to put what you learned into action. Heading to Celebrate? Add Empower Certification to your agenda: https://lnkd.in/gn8Br89X
+
+7501655491236904960 | Gong | image | 70w
+    THE SPONSORS BEHIND THE MAGIC ✨ Celebrate '26 is almost here, and we couldn't bring it to life without the incredible brands helping make it all happen. HUGE shout out to our sponsors for showing up for the revenue AI community and helping us create an unforgettable few days in Vegas. Can't wait to Celebrate with you! LinkedIn, Microsoft, Deloitte, Amazon Web Services (AWS), PwC, KPMG Don't miss out: https://lnkd.in/gBzuNWce
+
+7502757635092361217 | Gong | multi-image(10) | 86w
+    Gong-a-Mia! 🇬🇷 Work hard, win big, go to Greece. Not a bad way to celebrate the first half of the year. Congratulations to the Gongsters who earned this unforgettable mid-year incentive trip! They're the people who show up for our customers, our teams, and our mission every day and we couldn't be more excited to celebrate them. Swipe through for  [...]  to be part of a team shaping the future of Revenue AI? Check out our open roles: https://lnkd.in/gutDxkTg
+
+7503143316545404928 | Gong | image | 51w
+    NO MORE FOMO! Can't make it to Celebrate '26 IRL? You can still catch the biggest announcements from the keynote, hear from the world's leading revenue leaders, and see what's next for revenue AI. Guess what happens in Vegas doesn't have to stay in Vegas, after all. Register for free: https://lnkd.in/g6MjXu8M
+
+7503555586257498113 | Gong | multi-image(4) | 78w
+    LOOK, MA. WE'RE ON A BILLBOARD 💜 Our latest OOH campaign is officially out in the wild (and taking up some serious real estate in San Francisco). But this campaign isn't just about us. It's about the revenue teams putting AI to work to drive better outcomes every day. We're proud to put the spotlight on the Experian team and the people behind the results. If you spot us around SF, snap a pic and tag us! 📸
+
+7503905680282685440 | Gong | text | 93w
+    FOOTBALL IS BACK 🏈 And apparently, talking about it can help you win more deals. Gong Labs found that deals where college football comes up as a rapport-building topic correlate with a 12% higher win rate. Why? It's not really about football. It's about finding that thing you and your buyer genuinely connect on - a team, an alma mater,  [...]  a little rapport can go a long way. Now the important question: Who you got this weekend? 👇🏈
+
+7504264092497555456 | Gong | text | 40w
+    LONE WOLF SELLING IS DEAD There's no “I” in team. Bring your colleagues into your sales process to win more deals. Sales leadership, sales engineers, customer success, and CxOs. You need them in your deal. Teamwork makes the deal work.
+
+7454955801342955521 | Linear | image | 28w
+    Our approach to hiring is a little different. We value slope over credentials, judgment over polish, and real work over interviews. Here's what the process looks like: https://lnkd.in/dNNFFHNM
+
+7455254685554384896 | Linear | image | 24w
+    Linear Agent x PostHog Connect PostHog to the Linear Agent to validate ideas and bridge the gap between project plans and real product usage.
+
+7455664248220753921 | Linear | video | 29w
+    Introducing Linear Releases. Manage software releases directly from Linear. Track the deployment environment, version, and status of every issue to give team members and agents your full deployment context.
+
+7457087839445368832 | Linear | image | 9w
+    Linear Releases + Linear Agent = Auto-generate release notes
+
+7460359287018573824 | Linear | image | 39w
+    In October of last year, Cars24, while preparing for an IPO, renewed its multi-year Jira license. Within a few weeks, the company would treat that contract as a sunk cost and walk away from it. Here is why: https://lnkd.in/e_jyMAwa
+
+7460768425532039169 | Linear | link | 24w
+    Introducing Code Intelligence. Give Linear Agent controlled access to your codebase and turn repositories into shared product context your whole team can use. https://lnkd.in/efnS3TGM
+
+7461088046814367745 | Linear | video | 37w
+    Linear Agent × Code Intelligence Ask Linear how a feature is implemented, why something behaves a certain way, or which technical constraints should shape a project plan – without digging through the codebase or interrupting an engineer.
+
+7462916702964703232 | Linear | video | 42w
+    Plan and track your software releases directly from Linear. Linear Releases integrates with your CI/CD tools to precisely track the deployment environment, version, and status of every issue, giving team members and agents your full deployment context. Here's how it works ↓
+
+7463280356050264064 | Linear | image | 36w
+    New: Project Slack channels Linear can now automatically spin up a dedicated Slack channel whenever a new Linear project is created. Project members are added instantly, and project updates are shared in the channel by default.
+
+7463649430391517184 | Linear | video | 17w
+    📂 Linear Agent use cases └─ product_management.mp4 └─ Initiating projects └─ Synthesizing feedback └─ Understanding code context
+
+7465073028385746945 | Linear | image | 23w
+    Klaviyo switched to Linear. Their entire product and engineering team now plan and build in the same tool. Here's why they moved: https://lnkd.in/dZUe8EjU
+
+7465460823985967104 | Linear | image | 27w
+    Anyone in your Slack workspace can now file a request by mentioning Linear Asks. Linear picks the right template, collects missing details, and creates the issue automatically.
+
+7465814685695803392 | Linear | video | 35w
+    Code review, but faster. Introducing Diffs. A new way to review PRs, directly inside Linear. • Realtime updates • Guided reviews with Al (beta) • Focused notifications • Iterate with coding agents • Threaded comments
+
+7467999737431109632 | Linear | video | 24w
+    Linear Diffs brings code review into Linear. Learn how to manage and review PRs, implement feedback with agents, and ship code without switching tools.

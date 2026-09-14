@@ -1,0 +1,169 @@
+# batch 033  -  55 posts  -  label per research/CLASSIFICATION-PROTOCOL.md
+# labels: problem exploration requirements selection validation consensus
+#         recruitment culture event product-news csr unclear
+# write research/labels/033.tsv as: <id><TAB><label>
+
+7422337718489120768 | Trigger.dev | text | 202w
+    Autonomous AI Agents are great but without control they can cause real damage. There is a lot of hype about agents that go off and do everything on their own. But in an enterprise environment, "autonomy" often looks a lot like "risk". - You don't want an agent automatically refunding charges without oversight. - You don't want an agent publishing  [...]  or 'Approve' -> Agent publishes. It bridges the gap between AI speed and human judgment. Learn more 🧵
+
+7422700135027068928 | Trigger.dev | video | 223w
+    We've just shipped 5 Trigger Skills. Install them and your AI coding assistant will automatically gain in-depth @triggerdotdev knowledge. ✦ 𝚝𝚛𝚒𝚐𝚐𝚎𝚛-𝚜𝚎𝚝𝚞𝚙 ✦ 𝚝𝚛𝚒𝚐𝚐𝚎𝚛-𝚊𝚐𝚎𝚗𝚝𝚜 ✦ 𝚝𝚛𝚒𝚐𝚐𝚎𝚛-𝚝𝚊𝚜𝚔𝚜 ✦ 𝚝𝚛𝚒𝚐𝚐𝚎𝚛-𝚛𝚎𝚊𝚕𝚝𝚒𝚖𝚎 ✦ 𝚝𝚛𝚒𝚐𝚐𝚎𝚛-𝚌𝚘𝚗𝚏𝚒𝚐 But what are skills? Skills are portable instruction sets that teach AI coding assistants how to use a framework correctly; patterns, anti-patterns, and examples it follows automatically. They use the Agent  [...]  patterns so it writes correct code the very first time. Install our skills now: npx skills add triggerdotdev/skills
+
+7423047413348884480 | Trigger.dev | image | 154w
+    Tierly uses Trigger to orchestrate 10+ AI models for competitive pricing analysis. Each analysis: dozens of scraping tasks, human review gates, and real-time progress updates. They analyze SaaS pricing pages, discovers competitors, and generates recommendations. Workflows take 5-15 minutes with multiple AI calls. Their initial sync API routes hit timeouts, rate limits, and had zero visibility into failures. Moving to  [...]  Full visibility into every step → Workflows in TypeScript alongside their Next.js app Read the full story: https://lnkd.in/gV5eyduq
+
+7424134601616375808 | Trigger.dev | text | 204w
+    The "Weekend Demo" vs. "Production Reality" in AI Development. We've all been there. You hack together an AI agent on a Saturday. You use Vercel's AI SDK, throw in some LangChain, and it works perfectly on your localhost. It answers quickly. It handles errors. Then you push to production. Suddenly, reality hits: 1. Timeouts: Your sophisticated reasoning chain takes 75  [...]  to shoehorn long-running AI processes into short-lived serverless functions. Use infrastructure designed for the job. Learn more 🧵
+
+7427041184440651777 | Trigger.dev | link | 152w
+    We just shipped Vercel AI SDK 6 support in Trigger. That means full compatibility across all major versions of the AI SDK (4, 5, and 6) so you can upgrade on your own terms. Here's what this unlocks when you run AI agents on Trigger: * Durable execution: Your ToolLoopAgent runs as a long-lived task. If something fails, it retries  [...]  for the new Schema type and made migration seamless, existing jobs keep working without changes. Full changelog: https://tgr.dev/mPNJqEG
+
+7429215583474315264 | Trigger.dev | video | 181w
+    Run Cursor's headless CLI agent inside a Trigger task and stream its output live to your app's frontend. This open source demo: Next.js + Trigger. ~1,000 lines of code in total. Trigger tasks run in their own isolated environments. You can install any binary via our build extensions, spawn it as a child process, and stream it to stdout. This  [...]  the cloud and stream its output to a browser, this is a working reference you can fork. https://tgr.dev/XI25EOs
+
+7437914203534962689 | Trigger.dev | video | 196w
+    Just launched: our Vercel integration for Trigger. Push code. Vercel deploys your app. Trigger deploys your tasks. Env vars sync both ways. Your app never goes live with mismatched task versions. 1. Atomic deployments: Trigger gates your Vercel deployment until the task build completes, sets the correct TRIGGER_VERSION, then triggers a redeployment. Your app always runs against the exact task  [...]  Fun fact: this was also our most requested feature, with 354 votes. Read more in our changelog: https://lnkd.in/epFnchAh
+
+7439717512490975232 | Trigger.dev | video | 229w
+    Introducing Query and Dashboards. Full SQL-powered observability over your background jobs and AI agent runs. Under the hood is TRQL, a SQL-style language that compiles to ClickHouse. You write familiar SELECT statements. ClickHouse executes them. Queries over millions of runs come back in milliseconds. Two tables right now: `runs` for status, timing, costs, and tags, and more coming. You don't  [...]  Live now for all users. Every project already has a built-in dashboard. Full details in the comments 👇
+
+7440804417987211264 | Trigger.dev | text | 293w
+    Most developers use Claude Code like a chatbot with a shell wrapper. That's barely scratching the surface. After digging deep into the CLI, here are 10 advanced patterns that genuinely change how you orchestrate AI-assisted development: 1. Session forking (--fork-session) — create a "master session" loaded with architectural context, then branch it for each feature. Think git branch for your  [...]  wide and getting wider. Full deep dive with code examples in the article. Link in the comments below.
+
+7445138029981224960 | Trigger.dev | image | 49w
+    We're heading to AI Engineer Europe in London! April 8-10 | QEII Centre, London UK | Booth G6 Come and chat with us If you're building AI agents, workflow automation, or background jobs. We'll be doing live demos, sharing what we're building, and handing out swag. See you there!
+
+7450211464428085264 | Trigger.dev | video | 322w
+    In case you missed it, here are some of the things we shipped in March: → Our @vercel integration is live. Push code, tasks deploy automatically. Env vars sync both ways. Atomic deployments gate Vercel's promotion until your tasks are ready, so your app never goes live with a mismatched task version. No 𝚝𝚛𝚒𝚐𝚐𝚎𝚛.𝚍𝚎𝚟 𝚍𝚎𝚙𝚕𝚘𝚢, no CI/CD workflow. → Query.  [...]  wrote your PR. ! for inline shell output. 𝙲𝚝𝚛𝚕+𝙶 to compose prompts in your editor. https://lnkd.in/eVXzwbTd That's March.
+
+7452387699606577152 | Trigger.dev | image | 47w
+    You can now chat with your running tasks. Input streams: send typed data INTO a Trigger.dev task while it's executing. - Cancel signals for AI generations - Course-correct agents mid-run - Approval gates that free compute while they wait Shipped in @triggerdotdev v4.4.2. Read more below ↓
+
+7460372023278567424 | Trigger.dev | video | 129w
+    Errors: find and fix your bugs faster. You can now quickly track down what's causing your runs to fail with error alerts. Then bulk replay when you've shipped the fix. → Fingerprinted error groups: Every failed run gets fingerprinted by error class and message. Dynamic parts (IDs, UUIDs, timestamps) get stripped first. → One alert per group: Slack, email, or  [...]  bars show which deploy introduced a regression and which one fixed it. Read the full changelog here: https://lnkd.in/e2PMW2_q
+
+7461083272714911744 | Trigger.dev | image | 33w
+    Your tasks can now connect to private resources in your AWS VPC. RDS, ElastiCache, internal APIs, self-hosted services. No public endpoint, no IP allowlist, no VPN. Read our changelog to learn more: https://lnkd.in/emZH8R7a
+
+7465794093114314753 | Trigger.dev | link | 200w
+    We're currently hiring 3 roles at @triggerdotdev: → Senior Site Reliability Engineer → Technical Content Engineer → Senior Backend Engineer We are the open source platform thousands of teams use to run AI agents and workflows in production. If you're Europe-based and looking for your next gig, keep reading... We're an open source company: small team, flat hierarchy, async by  [...]  you know any brilliant people in your network who fit the bill, we also offer referral bonuses! 💸
+
+7466156476785459201 | Trigger.dev | video | 17w
+    We just hit ⭐ 15,000 GitHub stars. ❤️ Thank you to our community for your ongoing support!
+
+7467992781962162176 | Trigger.dev | link | 109w
+    Trigger.dev Cloud is now HIPAA-ready. Healthcare and healthtech teams can sign a Business Associate Agreement (BAA) with us and run background tasks that process Protected Health Information on our managed infrastructure. Workloads this opens up: → Patient communication pipelines → Insurance claim orchestration → Clinical AI agents that survive crashes → Lab result workflows → Anything touching PHI The full  [...]  infrastructure. Same Trigger.dev API, just compliance-grade. Available as a paid add-on. Read more and request a BAA: https://lnkd.in/gxu9XzGG
+
+7470142790551646208 | Trigger.dev | link | 77w
+    Cal.com runs millions of background tasks per month on Trigger.dev: booking orchestration, AI phishing detection, fraud analysis, and calendar sync with Google + Microsoft Graph. Morgan Vernay from Cal.com's Foundation team breaks down how the orchestrator regenerates each booking from a small payload and passes children an encrypted snapshot, why concurrency keys keep them inside Google Calendar's quota, and how an AI agent opens suspicious booking links in a browser (~40 seconds per scan). Full story: https://lnkd.in/gJ8Z8Rf4
+
+7478091538187767809 | Trigger.dev | link | 164w
+    The best AI agents don't just generate text. They query, process, and act. @ClickHouseDB and @triggerdotdev are running a joint virtual hackathon to build exactly that. 7 days, EUR 10,000 in prizes, July 17 to 23. ↓ The brief: build a production-quality chat agent powered by Trigger and querying ClickHouse. Trigger for the durable chat agent. ClickHouse for the queries.  [...]  build with. Registrations from now until July 16. Winners announced July 29. Grab your team and register: https://lnkd.in/exQKdzJi
+
+7483188912421572609 | Trigger.dev | image | 111w
+    Applications for our hackathon close tomorrow (16 July). One week to ship a production-quality AI chat agent, free cloud credits for both platforms if you get in. Co-hosted with our friends at ClickHouse. The brief: build a chat agent that changes how people interact with information. Trigger.dev runs the orchestration and AI agents. ClickHouse is the real-time data layer underneath.  [...]  from across the industry: engineering leaders, founders, and senior practitioners will be evaluating your work. Apply here: https://lnkd.in/eFXgBNUv
+
+7485363252361863168 | Trigger.dev | link | 119w
+    We've launched a new region: US West (Oregon), running on AWS. Trigger.dev now has three regions: us-east-1 (US East, Virginia), us-west-2 (US West, Oregon), and eu-central-1 (Europe, Frankfurt). Head to the Regions page in your dashboard and pick us-west-2 to make it your default. If your workloads, services, or APIs sit on the West Coast, running tasks in Oregon keeps  [...]  Set your default region here, and let us know which region you'd like us to add next: https://lnkd.in/ebhRaT-T
+
+7486087823285198850 | Trigger.dev | link | 173w
+    If your API keys already live in Infisical, you can now connect it to Trigger.dev and have those secrets land directly in your environment variables. Until now, the way to pull Infisical secrets into Trigger.dev was the syncEnvVars build extension, which resolves them at build time when you deploy. The new native Secret Sync lives inside Infisical and pushes secrets  [...]  only overwrites the keys it manages, so anything you set by hand is left alone. Setup guide: https://lnkd.in/ejDmzHwi
+
+7488529770536910849 | Trigger.dev | link | 94w
+    🏆 The winner of our Trigger.dev x ClickHouse Summer Hackathon is WhereHouse, for rethinking what a chat agent can be when it's grounded in real data. Ask it where to open your business, in plain English. It answers on a live map that builds itself as the agent reasons: competitors, catchment, the real geography of the call. Built solo by  [...]  Trigger.dev runs the agent underneath. 🎥 Demo: https://lnkd.in/dW8Nnz4W 💻 Code: https://lnkd.in/dNB3BVNE 🎉 Congratulations Andrei! #Hackathon #Triggerdev #ClickHouse #AIAgents
+
+7488551138196361216 | Trigger.dev | text | 86w
+    🥈 The runner-up of our ClickHouse × Trigger.dev Summer Hackathon is Rendi, for turning a chat agent's answers into live instruments you can steer. Ask it a question and it responds with steerable ClickHouse instruments that remember how you use them. An agent harness running on Trigger.dev underneath. Built by Muhammad Ahmed Cheema, an engineer at Sendoso. Our judges kept  [...]  build. 🎉 Congratulations, Muhammad. Demo, code, and a live version in the post below. #Triggerdev #ClickHouse #Hackathon #AIAgents
+
+7488593933862772737 | Trigger.dev | text | 81w
+    🏅 Best OLTP + OLAP integration at our ClickHouse × Trigger.dev Summer Hackathon goes to ChronoGuard, for making a production rollout safe to ship and easy to walk back. It's an AI rollout guardian and incident time machine: it watches changes for guardrail breaches, shows you the evidence visually, and coordinates a human-approved rollback with fresh-sample recovery checks. Built by  [...]  senior software engineer at Docusign. 🎉 Congrats, Xuefeng. Demo, code, and a live version in the post below.
+
+7488641146693337089 | Trigger.dev | text | 69w
+    🏆🏆 Double win. Muhammad Ahmed Cheema just took the Social Raffle at our ClickHouse × Trigger.dev Summer Hackathon too for Rendi, the same build that earned him runner-up this morning. Rendi is an agent harness on Trigger.dev whose answers are live, steerable ClickHouse instruments that remember how you use them. 🎉 🎉 Huge congrats, Muhammad! Demo, code, and a live version in the post below. #Triggerdev #ClickHouse #AIAgents #Hackathon
+
+7489014358300160000 | Trigger.dev | link | 180w
+    That's a wrap on our ClickHouse × Trigger.dev Summer Hackathon. The brief: build a chat agent that changes how people work with data. Seven days, scored by our judging panel. Here are the winners. 🏆 Grand prize: WhereHouse by Andrei Komkov Ask where to open your business, get a live map that builds itself. ClickHouse runs as both the database  [...]  shipped, and thanks to the ClickHouse team for a great partnership. Every build ran on ClickHouse + Trigger.dev.
+
+7491523824270729216 | Trigger.dev | image | 8w
+    Every conversation gets its own computer. Launching Monday.
+
+7492611773884215296 | Trigger.dev | video | 176w
+    Introducing chat agent. Build durable AI chat experiences that run on a machine with no timeouts and keep streaming through refreshes and crashes. The machine sleeps when nobody's typing and wakes where it left off, without you managing any state. You write the turn as a Trigger.dev task that takes messages and returns a stream, then point the AI SDK's  [...]  metrics dashboard built in. Every turn is a span; cost, tokens and latency per model, nothing to instrument.
+
+7493320051232600064 | Trigger.dev | video | 98w
+    chat.agent is live on Product Hunt today It's our durable backend for AI chat apps. Every conversation gets its own machine that lives for the whole conversation, sleeps when nobody's typing, and wakes up where it left off. https://lnkd.in/eFiacqEp Why we built it: - No timeouts. 1 in 20 turns runs over 36 minutes in production - Refresh mid-response and  [...]  approval Arena runs Agent Mode on it at scale. It went GA in July and is Apache 2.0
+
+7493335619889364993 | Trigger.dev | link | 39w
+    SCIM directory sync is live for orgs on SSO. Assign someone to Trigger.dev in your IdP and they land in your org. Unassign them and their access is gone. Okta, Microsoft Entra, Google Workspace, JumpCloud, OneLogin, and more. https://lnkd.in/e2rRpFT7
+
+7493697992399572994 | Trigger.dev | image | 116w
+    Most AI chat backends run every conversation through one shared server, with a hard timeout on every request. chat.agent gives each conversation its own real machine instead. It boots on the first message and runs for as long as the work takes. The turn is just a task: streamText on the server, useChat on the client, no API route in  [...]  turn (waiting on a human approval, say) isn't billed, so it can sit open for days for free.
+
+7495509906612117504 | Trigger.dev | video | 197w
+    You could always see what a task did. Now you can see what it spent. Set experimental_telemetry on any Vercel AI SDK call (generateText, streamText, generateObject) and every call becomes a span in the run trace. Nothing to install. Two views on the same data. The dashboard tells you what you spent: cost over time, cost by model, total tokens,  [...]  our SQL-style query language, so "the 10 most expensive tasks over the last 7 days" is one query.
+
+7496234742321815552 | Trigger.dev | image | 179w
+    When we launched the Trigger.dev MCP server, it could set up a project, trigger tasks, deploy, and read runs. It does a lot more now. Your coding assistant (Claude Code, Cursor, anything that speaks MCP) can now: Chat with your deployed agents. If you've shipped a chat.agent(), you can list your agents, start a stateful conversation, and send messages from  [...]  anything. The server always runs the latest version, so all of this is already available. Nothing to upgrade.
+
+7501323143366582292 | Trigger.dev | link | 178w
+    Define your prompts in code. Override them live when you need to. On Trigger.dev a prompt lives in code, right next to the task that sends it: an id, a model, a set of variables typed with Zod, and a template. A missing or wrong-typed variable is a compile error, not a broken generation you find in production. Every deploy  [...]  bad, you open the call and see the exact template, and the model that actually ran. Changelog: https://lnkd.in/emc-AhdA
+
+7502757679417880578 | Trigger.dev | link | 184w
+    When a Trigger.dev task backlog starts building, there's one question worth answering before anything else: is work not starting, or are the runs that start failing? Different problems, different fixes. Now one command tells you which. Run trigger report health and it splits your project into three signals, each with its own verdict and a suggested next action: - Flow:  [...]  CLI, the get_report MCP tool, and the API. Read the diagnosis instead of correlating dashboards by hand: https://lnkd.in/e8YZy9Sz
+
+7503859849454104577 | Trigger.dev | link | 99w
+    Bulk cancel and replay work from the Trigger.dev SDK, not just the dashboard. Ship a fix, then replay the runs that failed without paging through run IDs or scripting the retries by hand. runs.bulk.replay() and runs.bulk.cancel() take the same filter shape as runs.list() (status, task, tags, queue, version, region) and act on every matching run, from a handful to millions.  [...]  so you can wire it into a deploy script, a scheduled task, or an incident runbook. Changelog: https://lnkd.in/eyaVv22w
+
+7470171822030893056 | Retool | text | 26w
+    The models promised more automation. So why are so many projects stalling? Turns out the answer is governance—the infrastructure that makes the exciting stuff actually work.
+
+7470516935705923586 | Retool | video | 28w
+    Time to get out of the sandbox. Retool is where serious apps get built. Fun to make, safe to use, and trusted in production from day one. retool.com/playground
+
+7470883752018321408 | Retool | image | 131w
+    We're getting ~Closer~ to Databricks' #DataAISummit and we're excited to bring an exciting new way to ship AI apps and agents on your Databricks foundation. Swing by booth #212 to see live demos from our experts and get exclusive swag, or catch one of our sessions for practical takeaways for accelerating your data and AI journey with Databricks: 1. The  [...]  After Hours Party in our private suite for a live performance by The Chainsmokers—request your invite here: https://lnkd.in/dR-xUM8P
+
+7472314245330825216 | Retool | multi-image(4) | 144w
+    We're thrilled to hear about the success our customers are seeing with our new integrations with Lakebase and Agent Bricks. As a launch partner, this is an exciting milestone in our partnership that speaks for itself, but we think Shanku Niyogi, SVP of Product at Databricks, said it best: “The future of enterprise AI is grounded in trust and transparency.  [...]  week, stop by booth 212 to learn more about the future of enterprise vibe coding. See you there?
+
+7472706399513284610 | Retool | link | 57w
+    AI models optimize for “does it work,” not “is it safe.” Retool's Head of Engineering Ryan Wong wrote about why the security model enterprise software has depended on for decades breaks down when anyone can generate an app, and shares what has to change at the infrastructure level before vibe-coded apps can reach production safely → https://lnkd.in/daC3Amy6
+
+7473014507481583616 | Retool | video | 235w
+    We asked 300+ CIOs, CTOs, and CISOs about vibe-coded apps. 93% said they're alarmed. Today we're launching what they asked for. What they told us: their teams are building more software than ever—in Claude Code, Codex, Cursor—and none of it has authentication, access controls, or an audit trail. “It works on localhost” say the non-engineers. But that last mile of  [...]  September 30, 2026 get AI credits worth up to $10,000 annually. More about what we launched → https://lnkd.in/dsqgjVAJ
+
+7473454369410166784 | Retool | link | 52w
+    Yesterday, we made it easier for enterprises to vibe code safely with a complete reimagining of the Retool platform. New Enterprise customers who sign by September 30 get AI credits worth up to $10K annually. How do we keep it all secure from prompt to production? Check out our deep dive: https://lnkd.in/dGvPPvtS
+
+7474918359860477953 | Retool | video | 161w
+    You built something in Lovable or Replit. Now it needs to live in production with real permissions, audit logs, and access controls. Your vibe coding needs security. You can take that app and host it directly in Retool. Just drop in a zip file with the React code, an agent reads the project structure, matches data needs against existing resources  [...]  offering free hosting until July 1: → Host your Lovable app: https://lnkd.in/d6tzhkvA → Host your Replit app: https://lnkd.in/dQK4KYST
+
+7475241189181534208 | Retool | image | 125w
+    Meet the new, AI-native Retool! This Thursday June 25 at 10:00am PDT, Keanan Koppenhaver will walk through the new Retool live. He'll demo how you can take an AI-generated prototype—something your team built in Codex, Claude Code, or even just a spreadsheet or screenshot—and run it on Retool where it automatically inherits all the governance policies your business needs to  [...]  → How to safely bring AI-generated prototypes into the enterprise with real data connections. Sign up here: https://lnkd.in/dkgSAnSX
+
+7475974045327491072 | Retool | link | 77w
+    That SaaS replacement you vibe coded doesn't automatically bring governance with it. New builders can't prompt their way into proper version control, audit logs, or access controls, and IT can't account for the 60% of builders working in the shadows. Retool CEO David Hsu sat down with Sequoia Capital's Bryan Schreier to talk through why governance should be living in the platform, not the process, and what that would look like in practice. Read more → https://lnkd.in/d6GXtQhf
+
+7476322983398088704 | Retool | multi-image(4) | 26w
+    We love seeing what you build in Retool! You still have a few days to host your apps for free ⏳ try it today → https://lnkd.in/dr8k3sur
+
+7477799962622214144 | Retool | link | 35w
+    Same prompt, two builders. We gave Replit and Retool the same task, then watched how their approaches to identity, connectors, and audit logging diverged. (Spoiler: the governance gap gets wide) Watch the full comparison: https://lnkd.in/dHumBejn
+
+7485020271876288512 | Retool | text | 37w
+    We surveyed 307 senior tech and security leaders on AI governance. One stat stuck with us: 51% couldn't say whether they'd had a production incident in the past year. Not "no." Just... not sure. Full breakdown below.
+
+7485363303150637056 | Retool | image | 54w
+    Vibe coding is fast. Enterprise security doesn't have to be slow. On July 29, Retool's Alexis Ego walks through how enterprise teams can give builders room to move without losing control of what's running in production: role-based access, audit logs, secrets management, and data source boundaries that work by default. Register today → https://lnkd.in/eFxnmtiJ
+
+7485767504322248704 | Retool | text | 19w
+    The app isn't done when it works in your environment. It's done when your whole team can trust it.
+
+7487561563277729792 | Retool | image | 26w
+    This Wednesday, July 29, 9am PT: Alexis Ego walks through how Retool's governance controls actually work in practice while building an app live. Register → https://lnkd.in/eFxnmtiJ
+
+7488314480796377088 | Retool | image | 54w
+    We'll be at #Ai42026 next week! Catch us at Booth #527, plus two live sessions: 📅 Tue Aug 4, 2:35pm—Why Governance, Not Models, Is the Real Bottleneck to AI ROI with Bruno Costa 📅 Wed Aug 5, 3:40pm—Who's Watching the Agents? A Practical Framework for Multi-Agent Governance with Angelik Laboy Torres See you there?
+
+7491153520419786752 | Retool | text | 17w
+    Sorry, but that app you vibe-coded isn't production-ready. Before you try to ship it, read this checklist.

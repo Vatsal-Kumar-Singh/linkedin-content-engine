@@ -1,0 +1,46 @@
+# batch 017  -  14 posts  -  label per research/CLASSIFICATION-PROTOCOL.md
+# labels: problem exploration requirements selection validation consensus
+#         recruitment culture event product-news csr unclear
+# write research/labels/r2_017.tsv as: <id><TAB><label>
+
+7496203511874105344 | Wiz | video | 43w
+    Beach day? Approved. 🏖️ While attackers use AI to speed-run vulnerability exploitation, you shouldn't have to spend your summer worrying about potential exposures (seriously). Go grab a cold drink & soak up the sun, Our Wiz Red Agent has you covered. 😎 https://lnkd.in/e_Pz6_aP
+
+7497632947366297600 | Wiz | image | 22w
+    Shhhhh… 🐾 🤫 Another secret behind the magic at Wiz is revealed tomorrow. Hope you're ready… our tails are already wagging. 🐶✨
+
+7497991531610492928 | Wiz | video | 63w
+    🐶 WE ACTUALLY DID IT. We built a Magical Dog Bus. 🚌 Meet the real security pack behind the magic at Wiz. Every morning, they hop on the bus, roll into work, and protect everything you run, build & fetch. 🐾 Yes, they really ride the bus & honestly, they're overqualified. Happy Dog Day from Wiz and our very best threat sniffers. 💙
+
+7498345833675968512 | Wiz | image | 52w
+    🎁 GIVEAWAY: We're celebrating the threat sniffers that come in all shapes and sizes. 🐶🐱🐰 HOW TO WIN? In the comments drop a photo of your pet + give them their official security agent name (Think: 🐕 Bark.exe, 🐈 Purrrrimeter Defense). Best threat sniffers wins an exclusive "PAWtected by AI" hat 🧢
+
+7498436521990037504 | Wiz | image | 107w
+    We analyzed thousands of cloud environments for the State of Cloud Risk 2026 report 🗂️ Here is what the data shows ↓ • Contextual analysis cuts high-priority findings by 53% to 67%. • Exposure, leaked secrets, and credential pathways account for 78% of exploitable risk. Remote code execution only makes up 9%. • 81% of exploitable vulnerabilities live inside just  [...]  toxic combinations early, security teams can easily stay one step ahead. Check out the full research here: https://lnkd.in/exdHk6SY
+
+7498712431653822465 | Wiz | multi-image(2) | 105w
+    🚨 Your Version Control DFIR Cheat Sheet is here ⤵ After investigating too many supply chain attacks, we mapped everything you need to have for a VCS investigation! What's inside? 1) Available logs in GitHub, GitLab, Bitbucket, and Azure DevOps 2) Useful incident readiness configuration 3) Key API events to identify each of the attack phases To keep it right  [...]  their desk - if you're picked, you both win a desk mat! Learn more in our blog: https://lnkd.in/eQ-kY7Jj
+
+7500214319268204546 | Wiz | video | 61w
+    Here's a peek at the Wiz Rundown in under 60 seconds (And yes, the launches are really that good.) 🍿 The Q2 Rundown just dropped with our biggest product updates yet ↓ • Red Agent • Wiz Workflows • Runtime Sensor • Wiz Cloud Cost & much more... 👀 Watch the full rundown with Shaked Rotlevi in the comments below 👇
+
+7500527246487543808 | Wiz | multi-image(8) | 79w
+    ✏️ Before the 1st bell rings: WIN our Back-to-School Security ABC Poster 🎒 As our kids head back to school, we created something special to celebrate with you parents. From A for APT to Z for Zero-Day, it's your ultimate wall guide! We're giving away ONE, custom-framed poster to level up your kid's bedroom setup. 🖼️ 🎁 To enter: 👇  [...]  a parent who survived a longgggg summer and deserves this win. _ Happy new school year from Wiz!
+
+7500898312498159617 | Wiz | image | 78w
+    6 months in, 5000+ sign-ups later… We're celebrating half a year of breaking things (responsibly) in our Bug Bounty Masterclass, and the numbers completely exceeded our expectations ⏎ 5000+ total sign ups 550+ certified pros! 🏆 If you haven't yet tried to become the best bounty hunter... consider this your sign to stop procrastinating. Grab your popcorn 🍿, and watch Gal Nagli (the $1M+ bounty hunter) walk through his entire methodology. 👇 Press play it's for FREE: https://lnkd.in/eSjhecJF
+
+7501261532706574337 | Wiz | image | 101w
+    Your developer workflow's new best friends are here 👯 Fixing security flaws has always been the ultimate boss fight. And in the age of AI, moving fast just isn't enough - the real magic is stopping risks before they ever reach production. We put together a 2-part playbook to make your life easier: 1) Closed-Loop Remediation: Your AI sidekicks (Red,  [...]  bugs sneak out into the cloud in the first place. Learn more in our *new* guide 👇 https://lnkd.in/gJ3-5vGx
+
+7502709140310392832 | Wiz | image | 69w
+    📚 This past weekend was National Read a Book Day, and we're celebrating with a special #GIVEAWAY! We're gifting copies of Cloud Security for Kids our sweet, fully illustrated book that makes tech simple enough for even a 5-year-old to enjoy! (and yes. It's in all languages.) 🎁 How to enter: Tag someone in the comments who'd love a cute new bedtime story for their kiddos.👇 That's it...You're entered!
+
+7503082915820421120 | Wiz | image | 86w
+    📣 Dropping this: Wiz Continuous Vulnerability Assessment is in Public Preview! Attackers are using AI to target new vulnerabilities within hours of disclosure. Vulnerability Management needs to keep up with this speed. ↳ How Wiz CVA changes the game? 1) Real-time catalog updates, the moment a CVE is published, Wiz updates its catalog automatically. 2) We re-assess your posture immediately,  [...]  Agent identifies root causes and routes step-by-step fixes to the right owners. See how it works 👇 https://lnkd.in/eXh-fREg
+
+7503437148306530305 | Wiz | image | 108w
+    How did Rogo scale security at hyper-growth speed without drowning in manual SIEM lookups? In two weeks, Rogo's team deployed 95 runtime sensors across AWS and GCP while cutting down false positives using contextual risk prioritization. 2 Wiz AI Agents made it happen: 🔴 Red Agent: Continuously validates exploitability with AI-powered penetration testing. 🟢 Green Agent: Speeds up remediation by  [...]  having to go to our SIEM and manually look up who changed something." Read the full story: https://lnkd.in/eHBvJCSm
+
+7503824089413943296 | Wiz | image | 81w
+    We built a Cyber Arena to find out how good AI really is at hacking. 🧪 We're re-launching our offensive AI Cyber Arena with all the latest updates: a framework that measures how well AI agents perform security tasks. We tested AI like an attacker would (For science.) with over 300 real-world offensive AI challenges! 🤖 We created this to  [...]  data & a clearer view of what AI can (and can't) do today. Check it out >> https://lnkd.in/gVgpFMCr

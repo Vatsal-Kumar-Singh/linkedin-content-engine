@@ -1,0 +1,169 @@
+# batch 003  -  55 posts  -  label per research/CLASSIFICATION-PROTOCOL.md
+# labels: problem exploration requirements selection validation consensus
+#         recruitment culture event product-news csr unclear
+# write research/labels/003.tsv as: <id><TAB><label>
+
+7435301523754172418 | Accenture Song | link | 130w
+    The hardest thing our leaders did this month? They let go of what used to work. 🚨👀 See what they're building instead: - Ndidiamaka Oteh on what it takes to stay relevant in a tech-driven world. https://accntu.re/3MHzwoA - Ami Palan on why the best AI is worthless if your culture isn't ready for it. https://accntu.re/4uaKbIZ - Damon Stapleton on choosing  [...]  Action" theme, four diverse leaders, executive quotes, media publication logos, and a call to action to read more.]
+
+7435694720691007490 | Accenture Song | image | 373w
+    We are deeply saddened by the passing of Dame Annette King. One of the industry's fiercest and brightest stars, and previously our global marketing practice lead. A message from David Droga: This week we lost our friend, colleague and co-conspirator, Dame Annette King. Even writing that feels strange. Some people leave a mark on a company. Annette left a mark  [...]  a confident, approachable expression. The background features a modern office interior with gray walls and neutral architectural elements.]
+
+7436762457110466560 | Accenture Song | text | 42w
+    This one means everything. 👏🎉 Congratulations to Droga5 on being crowned Ad Age's 2026 Agency Network of the Year. Bold work, brilliant people and a relentless belief in what creativity can do next. We're so proud to have you in the family.
+
+7447976663050727424 | Accenture Song | link | 115w
+    Every CMO we talk to is circling the same question: AI is everywhere, so why does marketing still feel stuck? It's not a technology problem. It's a decisions problem. Where to place bets. What to stop doing. How to turn a growing stack of tools into experiences customers actually feel. The brands getting this right are pulling ahead. The ones  [...]  purple and black. Text addresses CMO challenges ahead of Adobe Summit, inviting attendees to Booth 1711, April 20-22.]
+
+7449533191629111296 | Accenture Song | link | 119w
+    🔥 Show up or get skipped isn't a tagline. It's this month's scoreboard. Five stories from the front lines. Swipe to see who showed up: Congrats to our CEO Ndidiamaka Oteh, named to ADWEEK's AI Power 50. Nick Law on why global sports fandom starts with local culture. https://accntu.re/3OmRygy Neil Heymann on why creative leadership needs a new playbook. https://accntu.re/4sCa42x  [...]  carousel featuring executive quotes from Adweek, Little Black Book, Brandberries, and The Marketing Society, with Accenture branding throughout.]
+
+7450193822036377600 | Accenture Song | link | 55w
+    At this intersection of AI and Marketing, the CMOs are juggling with a lot: Tighter budgets. Fast‑moving AI. A growing tech stack. Slower decisions. At #AdobeSummit, we're sitting down with industry leaders to talk through their challenges and success stories: https://accntu.re/4mtig3w We're curious to hear from you: what's weighing on you the most right now?
+
+7452722606161575936 | Accenture Song | video | 91w
+    At #AdobeSummit 2026, one thing is clear: the conversation is moving on from AI experimentation to scale. CMOs are asking how to turn momentum into measurable value. Personalization and creativity are accelerating fast, but the real constraint isn't the tech. It's how organizations operate. At Accenture, we are embedding AI into how marketing, creativity and personalization truly work. Because this  [...]  Accenture montage from Adobe Summit 2026 with speaker interviews, event-floor scenes, title cards, and a closing Accenture logo.]
+
+7453107131320496128 | Accenture Song | link | 237w
+    🎉 Congratulations to our six jury members representing a diverse range of talent and experience at this year's Cannes Lions International Festival of Creativity. Tseliso Rangaka, Mary Catherine R. Fixel, Ikuko Ohta, Danni P., Damon Stapleton and Brisa Vicente. We're proud to see their creativity and leadership helping shape the future of the industry on a global stage! 👉 Learn  [...]  ANZ, part of Accenture Song Slide 07 - Brisa Vicente, Co-CEO, Droga5 Sao Paulo, part of Accenture Song]
+
+7453524495597748225 | Accenture Song | link | 104w
+    Your next buyer may be an agent. According to Accenture research, over 90% of frequent AI users would switch brands based on an agent's recommendation. The era of agentic commerce is here. Accenture Song and Google Cloud just launched two new offerings built for it. Agentic Commerce OS, for a world where agents make the purchase. Generative Content OS, for  [...]  its Google Cloud partnership, highlighting Agentic Commerce OS, Generative Content OS and AI moving “from tool to teammate."]
+
+7454518631788457984 | Accenture Song | video | 153w
+    23 iF Design Awards, including a gold. Teams across 10+ countries. With over 11,000 submissions judged annually by design leaders from around the world, the iF Design Awards are among the largest, most respected recognitions in the industry. From AI-powered platforms to immersive digital experiences, these awards reflect what happens when creativity, technology and design come together with real purpose.  [...]  text announces Accenture Song's 21 Wins, followed by a monochrome grid of 12 client logos; fading into view.]
+
+7463232475608006656 | Accenture Song | link | 137w
+    A new buyer just entered the room. It will not be charmed by your brand, only convinced by your data. 🤯 Within two years, up to 45% of shoppers are expected to shift at least half their buying into agent-led platforms, and the agent acting on a customer's behalf rewards different signals than the customer does. Persuasion gives way to  [...]  noting up to 45% of shoppers may shift activity to agent-led platforms and asking how brands stay chosen.]
+
+7469741558427430912 | Accenture Song | link | 109w
+    87% of customers won't give a brand a second chance after one bad service experience. 😐 And now AI agents are stepping in, comparing, choosing, and purchasing on customers' behalf. Brands that don't deliver get passed over in milliseconds. But the companies getting this right? 70% of their customers spend more. Service isn't a cost line anymore. It's the growth  [...]  have one chance to get service right, poor experiences drive customers away, and strong, AI-ready service fuels growth.]
+
+7470479811652718592 | Accenture Song | text | 165w
+    Pride is more than a moment of celebration, it's about inclusion every day. In practice, that means how we collaborate, how we make decisions, and how we create space for a variety of ideas. Because when all Reinventors, including the LGBTIQ+ community, feel a sense of belonging, better ideas emerge and better outcomes follow. That's how inclusion drives reinvention every  [...]  carousel ends with a Pride flag visual reading: “When we are all included, we can reinvent the future.”]
+
+7473409979673251840 | Accenture Song | video | 160w
+    The countdown to Cannes Lions International Festival of Creativity is on! From bold perspectives on creativity, culture and technology to real-world examples of how relevance, creativity and AI come together to drive growth, here's what we're bringing to the world's biggest stage. We can't wait to be part of the conversations shaping what's next. Explore more: https://accntu.re/4aavqOa #CannesLions2026 #Accenture [Video  [...]  a black screen with a glitch effect, again displaying the text: “Accenture Song visuals at Cannes Lions 2026.”]
+
+7474810988576346113 | Accenture Song | link | 69w
+    74% of consumers would give routine tasks to an #AI agent, on their terms. That changes how brands get chosen. At #CannesLions2026, this is shaping a bigger conversation: how do companies stay relevant and drive growth as decisions shift beyond humans? Explore the findings. https://accntu.re/4w3DkBt [Image description: A carousel revealing how agentic AI is reshaping shopping with stats on consumer trust, AI decision-making, and what it means for brands.]
+
+7475229737724907521 | Accenture Song | video | 158w
+    Fifteen years ago, just over ten kids raced handmade wire cars down the streets of Philipstown. Today, that same race reaches screens around the world. 🌍🌏🌎 What began as a community tradition is now a feature documentary, a mobile game built as a true digital twin of the town, and a South African story of creativity and pride, brought to  [...]  posts celebrate the documentary on Prime Video, closing on 200+ countries reached and $600K pledged to the foundation.]
+
+7475918239630344192 | Accenture Song | text | 65w
+    Creativity has always been shaped by its tools and AI is quickly becoming one of the most powerful mediums yet. In this conversation our Creative Chairperson Nick Law joins John Zissimos Chief Brand & Creative Officer Salesforce to discuss how AI is changing the creative process — not by replacing human taste, judgment or imagination, but by expanding what creative people can make possible. #CannesLions2026
+
+7475947515419426816 | Accenture Song | image | 72w
+    All companies generate creative ideas. Few make those ideas matter. What separates them? At #CannesLions2026, our very own Ndidiamaka Oteh discussed how organizations stay relevant and deliver growth in a fast-changing landscape. Read Applied Creativity — and how to lead it. https://accntu.re/4oMLonN [Image description: An image featuring a photo and quote from Ndidi Oteh, CEO Accenture Song, following her session at the Cannes Lions International Festival of Creativity on Applied Creativity research.]
+
+7475966341347422208 | Accenture Song | video | 59w
+    The best ideas don't just get attention—they create value. Hear what our leaders are sharing at #CannesLions2026 about turning creativity into measurable business impact. https://accntu.re/3SsOgKo [Video Description: Accenture leaders are interviewed at Cannes Lions, answering questions about creativity, business impact, AI and growth. The video includes clips from around the conference, attendees, event venues and outdoor scenes throughout Cannes.]
+
+7476265357633216512 | Accenture Song | image | 78w
+    A creative culture is one that celebrates creativity—and sees it as useful. At #CannesLions2026, our Creative Chairperson Nick Law shared what it takes to model that mindset from the top and unlock collaboration across the organization. Read Applied Creativity — and how to lead it: https://accntu.re/4oQTo7g [Image description: An image featuring a photo and quote from Nick Law, Creative Chairperson of Accenture Song, following his session at the Cannes Lions International Festival of Creativity on Applied Creativity research.]
+
+7476288807315640320 | Accenture Song | text | 20w
+    This is what it looks like when creativity connects to real human impact. Proud to see it recognized at #CannesLions2026.
+
+7476323280967245824 | Accenture Song | video | 75w
+    Markets are changing fast. At #CannesLions2026, Accenture leaders are sharing what it takes to stay relevant—from building trust to putting customers at the center and using AI with purpose. https://accntu.re/4vBMZPU [Video description: The video features interviews with Accenture leaders at Cannes Lions answering questions about what helps businesses stay relevant. Between interviews, footage shows conference attendees, event spaces, outdoor scenes and activity around Cannes. Leaders discuss AI, customer trust, brand, transparency and preparing for change.]​
+
+7476371258931195904 | Accenture Song | link | 362w
+    🦁 Creativity that delivers impact deserves to be celebrated. We're proud to recognize the incredible talent across our Accenture Song and Droga5 teams, with work honored on the global stage at Cannes Lions International Festival of Creativity. Here's what we brought home: 👉 Gold • Brand Experience & Activation - Cif: Clean my name 👉 Silver • Brand Experience &  [...]  Film, with people at a bus stop surrounded by fantasy imagery, including cloaked figures, castles and magical scenery.]
+
+7477792644350533633 | Accenture Song | multi-image(10) | 310w
+    Across stages, Accenture Song's conversations at Cannes Lions International Festival of Creativity revolved around how businesses can stay relevant, drive growth and turn creative ideas into real impact. 1. Ndidiamaka Oteh joined Variety x Canva to discuss why leaders are doubling down on AI to unlock both creativity and more personal, connected experiences. 2. Hiroyuki Yokoi explored what the world  [...]  and our latest thinking here: https://accntu.re/4bh215e [Image description: Gallery of pictures of our leaders during Cannes Lions 2026.]
+
+7481048497732014081 | Accenture Song | multi-image(4) | 152w
+    Some shots a series can't afford to get wrong. Those are the ones our team lives for. Our VFX artists have earned an International Emmy nomination for Outstanding Visual Effects in a Season or a Movie for their work on Foundation Season 3, led by Stephan Schäfholz. Every environment, every simulation, every frame is the work of people turning cutting-edge  [...]  statue, a planet eclipsing a sun, and sci-fi scenes of glowing city towers, massive spacecraft, smoke, and explosions.]
+
+7483508333287690240 | Accenture Song | video | 142w
+    ​Some worlds are not just watched they are stepped back into. See how our VFX team helped to bring Avatar: The Last Airbender Season 2 to life; from the vast landscapes of the Earth Kingdom to the mystery of the Spirit World and the energy of bending in motion. This breakdown offers a closer look at one of those moments:  [...]  owl-like creature develops from skeletal and muscle models into its final rendered form. Ends with Accenture Song #VFX.]
+
+7494026726583328768 | Accenture Song | video | 51w
+    Clicks are no longer the whole story. As AI agents shape choices earlier, platforms will win by earning trusted influence—not just attention. See how to stay relevant in agentic commerce: https://accntu.re/3TVYPXe [Video description: A group of cellphones slide in rows next to each other, each with a shopping bag on them.]
+
+7495132381524258817 | Accenture Song | link | 79w
+    Patient loyalty doesn't decline. It drops. Move an experience from “very easy” to “somewhat easy,” and the likelihood of staying falls by 53 points. No complaint is filed. Which is why experience can't be fixed one channel at a time. Access, ease, digital, and trust move together, or not at all. The new research shows what top-quartile providers do differently:  [...]  [Image Description: Two frame carousel sharing insights on patient loyalty based on research from the latest Accenture research]
+
+7496540859954384896 | Accenture Song | video | 42w
+    Agentic commerce won't just change how people buy. It will change what supply chains must deliver. Learn how to strengthen your supply chain for agentic commerce: https://accntu.re/4gbVQma [Video description: Gray boxes and one purple box move diagonally on conveyers through the frame.]
+
+7498710921339441153 | Accenture Song | video | 39w
+    The wave of consumer payment agents is growing, and they are moving payments from the final step at checkout to a much earlier, smarter decision point. Read our blog post: https://accntu.re/3SsQmdG [Video description: Simplified coins move through the frame.]
+
+7484117188157677569 | Addverb Technologies | multi-image(3) | 89w
+    Addverb at Target MultiplAI 2026: sarthak upadhyay, Principal Architect for Mobile Robotics, on how coordinated robot fleets are reshaping warehouse automation. Sarthak's session made the case for why the next generation of warehouse automation depends on robots that don't just execute tasks independently, but work together as a coordinated system - enabling real-time collaboration, fleet-wide decision-making, and connected operations at  [...]  of warehouse automation won't be built by smarter robots alone. It'll be built by smarter orchestration. #TargetMultiplai #TargetinIndia
+
+7484863475635298305 | Addverb Technologies | multi-image(2) | 42w
+    Congratulations to Spain on becoming FIFA World Cup 2026™ - Canada, Mexico and the United States Champions! 🏆 20 shots. 11 saves by Martínez. Fortunately, your warehouse doesn't have an Emiliano Martínez. Achieve 99.9% delivery accuracy with Addverb's intelligent warehouse automation #FIFA26
+
+7485280002167496704 | Addverb Technologies | video | 105w
+    Meet Trakr 20, Addverb's heavy-duty quadruped robot built for industrial environments where stairs, uneven terrain, and confined spaces are part of everyday operations. From carrying payloads of up to 20 kg to climbing 180 mm steps with 3D LiDAR perception, Jetson Orin computing, and an optional QDD robotic arm, Trakr 20 is designed to inspect, carry, interact, and operate where  [...]  work actually happens. The future of industrial robotics isn't built for perfect environments. It's built for real ones
+
+7485642321078915072 | Addverb Technologies | image | 100w
+    Still using stairs to move cartons between floors? There's a better way to keep material flowing. Every transfer between floors adds time, occupies space, and interrupts the flow. Addverb designs vertical movement solutions built around gravity spiral conveyors - compact, unpowered systems that move cartons continuously across multiple levels without motors, lifts, or manual handoffs. With diverter arms that sort  [...]  The outcome is uninterrupted material movement, sharper space utilisation, and vertical transfers that don't slow the floor down.
+
+7486005524040216576 | Addverb Technologies | multi-image(4) | 139w
+    Another country. Another industry. Addverb's European footprint is expanding with Peka Kroef B.V., one of Europe's leading producers of fresh chilled potato products, as our newest deployment in the Netherlands. The company continuously invests in innovation, quality, and operational excellence and this next-generation automated warehouse is a key step in supporting their future growth and enhancing service across retail, foodservice,  [...]  to follow as the site comes online. Looking to automate your warehouse operations? Connect with our experts today.
+
+7486373897957691392 | Addverb Technologies | multi-image(4) | 129w
+    The next batch of India's civil servants visited Addverb to see the technologies transforming Indian industry. As part of an industrial exposure programme organised by the Government of Uttar Pradesh, the officer trainees visited Addverb's headquarters, BotValley, in Noida. The visit was facilitated by the District Administration, Gautam Buddh Nagar, as part of the officers' industry exposure programme. The delegation  [...]  with the technologies transforming manufacturing is an important step towards building stronger collaboration between policy, innovation, and industry.
+
+7487001263474122752 | Addverb Technologies | image | 34w
+    On Kargil Vijay Diwas, we pay tribute to the courage, sacrifice, and unwavering spirit of the brave soldiers who defended our nation's sovereignty. Their legacy continues to inspire every generation that builds the future.
+
+7487372481662513152 | Addverb Technologies | video | 99w
+    Addverb is at foodpro 2026 in Melbourne- Australia's leading event for the food processing and manufacturing industry meeting supply chain and operations leaders tackling the next phase of warehouse automation. At Booth AK16, our team is ready to walk you through automation solutions built for environments where speed, temperature, and reliability leave no room for compromise from high-density cold storage  [...]  possible for your warehouse. 📅 Foodpro 2026 | Melbourne 📍 Booth AK16 Peter Zann | Ranmeet Singh #foodpro2026
+
+7487455786089201664 | Addverb Technologies | image | 155w
+    Sriram Sridhar, CEO Addverb Americas, visited GPC Beverage's La Crosse, Wisconsin facility- with a framed 3D visualisation of their warehouse operation, designed before a single robot hit the floor. Joined by Chad Mueller, CEO, and Joe Pfaff, Director of Business Transformation at GPC Beverage, Sriram presented the team with a precise layout that captures the entire operation in one clear  [...]  From concept to digital replica. That's the full Addverb journey, and the next conversation starts whenever you're ready.
+
+7487816632556249088 | Addverb Technologies | multi-image(4) | 175w
+    Fully automated warehouses aren't the goal for every operation. According to McKinsey, three levels of automation solve different problems and every warehouse fits at least one. Basic Automation includes tools like a Warehouse Management System, conveyors, RF scanners, and pallet wrappers. It helps large-item distribution centres, building-material warehouses, and cross-docks handle everyday operations more efficiently without changing the floor. Point  [...]  about how much you automate. It's about how well it fits your operation. Framework reference: McKinsey & Company
+
+7488178939375484928 | Addverb Technologies | text | 121w
+    A warehouse layout with Crane ASRS, in an hour. No spreadsheets. No back-and-forth. No estimates on the back of a napkin. That's Addverb's Warehouse Layout Generator, now live on our website - for anyone planning a Crane ASRS deployment. Every ASRS project starts with the same questions: throughput, crane count, storage capacity, and layout. The challenge is getting reliable answers  [...]  tool at Addverb's website, or save this post - the tool will be here when you need it.
+
+7488541432178233344 | Addverb Technologies | image | 128w
+    Cruiser 360, Addverb's 4-Way Pallet Shuttle, operates from -25°C to +45°C - same performance across cold storage, room temperature, and industrial heat. Warehouse conditions vary - from freezers preserving frozen goods to industrial environments where temperatures climb. What doesn't vary is the need for high-density storage, efficient pallet movement, and uninterrupted throughput. Cruiser 360 delivers all three. Its four-way movement  [...]  footprint. Consistent throughput across every condition. Flexibility that doesn't depend on the environment. Discover Addverb's Cold Storage Solutions.
+
+7488903859990458368 | Addverb Technologies | image | 20w
+    Spiderman's web may not stick. Our forks always do. Engineered for perfect retrieval. Every Brand New Day. #SpiderManBrandNewDay #Marvel #FunFriday
+
+7489175409935282176 | Addverb Technologies | multi-image(2) | 154w
+    At CII Innoverge - India Innovation Summit, Addverb's Co-Founder & CEO, Sangeet Kumar, joined a panel on Advanced Manufacturing and Industrial AI to discuss the future of AI-driven manufacturing. Moderated by Rabindra Srikantan, the panel brought together Gowri Kailasam, Chief Executive Officer, Rane Madras Ltd, Dr.-Ing. Hüseyin Özmeral, Executive Vice President, Bosch India, Dilip Sawhney Vice President & Managing Director  [...]  nation, conversations like these will play an important role in accelerating innovation and strengthening the country's manufacturing ecosystem.
+
+7489992136076169216 | Addverb Technologies | video | 142w
+    330,000 sq. ft. 100,000 units dispatched a day. 2,500 distribution nodes. Inside a A.P. Moller - Maersk fulfilment facility in Australia, powered by Addverb. The facility serves one of the world's leading sportswear brands across Australia and New Zealand, handling a wide SKU mix across footwear, apparel, and accessories, high dispatch volumes, seasonal peaks, and a returns process that has  [...]  per hour. More to follow. If this is the kind of problem your operation is solving, let's talk.
+
+7490353459419070464 | Addverb Technologies | image | 164w
+    Warehouse worker injury rates in the US climbed from 4.0 to 5.5 per 100 workers since 2020. Automation is one answer to that trend. Every day, warehouse teams repeat the same storage and retrieval tasks hundreds of times. Lifting, carrying, bending, reaching, and walking become part of every cycle. Each movement is small on its own - but repeated across  [...]  The strongest backbones in a warehouse shouldn't have to carry the entire operation. Source: Bureau of Labor Statistics
+
+7490715644787646464 | Addverb Technologies | multi-image(3) | 166w
+    Aircraft use radar. Ships use sonar. Modern AMRs use LiDAR. Dynamo 200 pairs 3D LiDAR with Addverb's engineering for warehouses that don't stand still. Every warehouse is a dynamic environment. People move, pallets shift, and workflows change through the day. In these conditions, autonomous navigation alone isn't enough - reliable material movement depends on how well the robot sees what's  [...]  warehouses that never stop changing, the robots that keep up are the ones that see the change first.
+
+7491078300866457600 | Addverb Technologies | video | 25w
+    Maybe the real Matrix isn't green numbers on a dark background. Maybe it's a colour-coded map of depth, distance, and every moving object in range.
+
+7491440774761426944 | Addverb Technologies | video | 18w
+    Some things are better left unsorted. Warehouse operations aren't one of them. ☕🤖 Automate with Addverb today. #FunFriday
+
+7492527716903059456 | Addverb Technologies | video | 112w
+    Watch Syncro trace a weld path most welders wouldn't attempt manually. Addverb's Cobot Welding System, in action. Complex welding rarely follows a simple line. Curved joints, rotating workpieces, and non-linear geometries demand coordinated movement, changing angles, and precise trajectories - all executed with the same consistency, cycle after cycle. That's what Syncro is built for. Coordinated motion between the cobot  [...]  cycle. ---------------------------------------------------------------- Enjoyed this? 📩Want to be part of the team behind this? Write to us at humanoid@addverb.com
+
+7492943017671217152 | Addverb Technologies | multi-image(4) | 119w
+    In Dallas, Houston, and Atlanta, occupiers are choosing automation-ready buildings over cheaper space. Addverb turns any existing footprint into that outcome. Rent is climbing across US inland warehouse hubs. Space is shrinking. And the calculation for warehouse operators has shifted - higher output per square foot is now worth more than the savings on a lower lease. The good news:  [...]  on every square foot you're already paying for. Looking to automate your warehouse operations? Connect with Addverb Americas.
+
+7493252620422152192 | Addverb Technologies | multi-image(3) | 124w
+    At Realize LIVE Asia-Pacific 2026, Siemens, Dr. Rajesh Kumar, Principal Scientist, Robotics & AI at Addverb, spoke about what it takes to build Physical AI for the real world. Physical AI isn't just about making machines intelligent. It's about bringing physical infrastructure and cognitive capability together - so machines can perceive, reason, plan, and act reliably in real-world environments. The  [...]  and service applications, the next challenge is to take it from the labs to the real world. #SiemensRealizelive
+
+7493615548564549632 | Addverb Technologies | multi-image(4) | 83w
+    Addverb is heading to Sydney with its newest ASRS deployment- built for a major infrastructure and transport project. The solution will store and retrieve critical spare parts, bringing together Multi-Pro, Addverb's Mother-Child Pallet Shuttle, alongside bidirectional pallet conveyors, vertical lifts, and a full software stack- WMS, WCS, and WES, enabling high-density Euro pallet storage across multiple levels, right through to  [...]  is complete, and the build is now taking shape. More updates to follow as the site comes online.
+
+7493661409361432576 | Addverb Technologies | video | 47w
+    For the India that builds. The India that flies. The India that moves. Two homegrown teams. Two kinds of machines. One shared spirit of innovation. A glimpse for today, stay tuned as we unveil the tomorrow very soon... 15.08.2026 | Addverb × EndureAir Systems Pvt. Ltd. #IndependenceDay
+
+7493977717038637056 | Addverb Technologies | video | 25w
+    A little more of what Addverb × EndureAir Systems Pvt. Ltd. are bringing together. Tomorrow, the full picture comes to life. 15.08.2026 #IndependenceDay #Addverb #EndureAir

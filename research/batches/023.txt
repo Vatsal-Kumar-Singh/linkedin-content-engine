@@ -1,0 +1,169 @@
+# batch 023  -  55 posts  -  label per research/CLASSIFICATION-PROTOCOL.md
+# labels: problem exploration requirements selection validation consensus
+#         recruitment culture event product-news csr unclear
+# write research/labels/023.tsv as: <id><TAB><label>
+
+7484963115655282688 | Personio | text | 84w
+    The Personio Index tracks workforce signals across 16,000+ European organisations. Right now, it's showing headcount growth has fallen from 26.1% in 2022 to 8.7% in 2025 — while smaller businesses are starting to hire more again. This week's Personio Pulse looks at the shift to precision hiring: what's actually driving the caution, where recovery is happening first, and three ways  [...]  it. Read the full article to learn more about what an increase in precision hiring means for you👇
+
+7485257323100291072 | Personio | video | 52w
+    Only 4% of software on G2 earns a Leader badge. This summer, Personio earned 113 — across 16 HR categories. Core HR, payroll, time and attendance, performance management, onboarding, and more. We're incredibly proud. Thank you to every customer who took the time to share their experience. #G2Leader #HRSoftware #G2Awards #HRTech #Personio
+
+7485619814783373312 | Personio | video | 59w
+    "95% of our customers are using the AI assistant — the majority weekly." Our CTO Stephan Micklitz shares how we built Personio Assistant on Amazon Web Services (AWS) Bedrock: instant answers, seamless follow-ups, and enterprise-grade security. This is what AI in HR looks like when you get it right. → https://lnkd.in/eQ54mHwt #HRTech #AI #GenerativeAI #AmazonBedrock #AWS #HRSoftware #FutureOfWork #Personio
+
+7486050060636454913 | Personio | text | 56w
+    HR-Software soll Kosten sparen. Hier ist der Beweis, dass sie es wirklich tut. 200 Personio Kunden aus ganz Europa haben uns erzählt, was sich für sie verändert hat, als sie auf intelligentes HR umgestiegen sind. Die Kosteneinsparungen werden an drei Stellen deutlich – und sie verstärken sich gegenseitig. Wischt weiter, um die Zahlen zu sehen 👇
+
+7486050068051984385 | Personio | text | 48w
+    HR software is supposed to save money. Here's the evidence that it does. 200 Personio customers across Europe told us what changed when they moved to intelligent HR. The cost savings show up in three places at once — and they compound. Swipe to see the numbers 👇
+
+7486344522243670016 | Personio | video | 89w
+    Excited about AI, but also kind of terrified... That's where a lot of employees actually are right now, and the leaders getting this right are the ones who understand that both feelings are valid. They don't cancel each other out. Neil Millen, People Business Partner Lead at Personio, on the human side of AI adoption that most leadership playbooks ignore.  [...]  about AI and how to lead through it, watch the full episode: https://lnkd.in/ebdVXaxF #HRTech #FutureOfWork #AIAdoption #PeopleStrategy #Personio
+
+7487445826848399360 | Personio | text | 368w
+    This weekend, people were attacked for showing up as themselves. For marching through the streets of Berlin and celebrating love. One person died. We are devastated. Our thoughts are with their family, their friends, and everyone affected by this tragedy. And we want to say this clearly: what happened is unacceptable. It's not just an attack on LGBTQ+ people. It's  [...]  in Berlin, across Germany, and beyond who is hurting right now: we see you. We're with you. 🏳️‍🌈
+
+7487794396072181761 | Personio | video | 160w
+    🎙️ We're launching 'This Week in HR', a weekly video series from Personio Newsroom. Each week, one story, the real numbers, and what HR teams should actually do about it. First up: salary budgets are shrinking and wellbeing is officially beating pay in the retention conversation. Since 2022, top-end salary budgets across 16,000+ UK and EU companies have nearly halved,  [...]  team thinking about wellbeing right now? Let us know in the comments 👇 #HRTrends #EmployeeWellbeing #TalentRetention #FutureOfWork #HRLeaders
+
+7488166471068491776 | Personio | image | 131w
+    The People & Culture IMPACT Awards are all about recognising the people creating real impact across HR and People teams. And this year, we're proud to be joined by category partners who bring deep expertise across the areas we're celebrating. A huge thank you to: Seekhr | People & Talent Recruitment — Talent Acquisition Agile HR Community — Leadership 360Learning  [...]  Yard, London on 3 September. Submit a nomination, or register to attend here: https://lnkd.in/eE7ePj9d #PeopleAndCulture #IMPACTAwards #HRAwards #HRCommunity
+
+7488518800426987520 | Personio | image | 34w
+    Five cities. One big welcome. 🎉 We've just brought on our latest cohort across Munich, Dublin, London, Amsterdam, and Berlin — onboarding day did not disappoint. Glad to have you all here. #LifeAtPersonio #Onboarding
+
+7488881252847079424 | Personio | video | 109w
+    For a long time, part of HR's value was simply knowing things other people didn't. You had a question, you went to HR. AI killed that. Anyone can find that information now. What it opened up is more interesting. Without the "just answer the question" work filling the calendar, there's room for the harder stuff — working through complex challenges  [...]  is changing what HR brings to the table, watch the full episode: https://lnkd.in/ebdVXaxF #HRTech #FutureOfWork #AIAdoption #PeopleStrategy #Personio
+
+7489968365172703233 | Personio | image | 187w
+    Marcel Hühner holds the title of Head of HR and authorised officer at the German Red Cross in the Aachen city region. In practice, his job is to bring very different worlds together: emergency services, childcare centres, administration, and thousands of volunteers — each with their own pace, pressures, and priorities. Marcel makes sure that solutions don't just look good  [...]  Driver - Creator of Connection & Belonging Built for every hat you wear. #HRLeadership #PeopleFirst #Personio #Gemeinwohl #CultureBuilder
+
+7489986453893038080 | Personio | image | 151w
+    Marcel Hühner ist Personalleiter und Prokurist beim Deutsches Rotes Kreuz in der StädteRegion Aachen. In der Praxis besteht sein Job darin, unterschiedliche Welten zusammenzubringen: Rettungsdienst, Kitas, Verwaltung und Ehrenamt. Alle mit ihrem eigenen Tempo, ihren eigenen Herausforderungen und Prioritäten. Marcel sorgt dafür, dass Lösungen nicht nur auf dem Papier gut aussehen, sondern im Alltag wirklich funktionieren. Wenn viele Themen gleichzeitig  [...]  - Brückenbauer - Strategischer Sparringspartner - Mitbestimmungs-Navigator - Prozessarchitekt - Digitalisierungstreiber - Verbindungsstifter #HRFührung #PeopleFirst #Personio #Gemeinwohl #Kulturarbeit
+
+7490350112439787521 | Personio | video | 49w
+    Employees are losing 51 days a year to tech friction. Up 42% from last year. Over half are bypassing AI and doing tasks manually. Around 30% haven't touched it at all. The good news? It's solvable. Watch the video below to find out how. #HRtech #EmployeeExperience #FutureOfWork #AIAdoption #HRStrategy
+
+7490776210650742784 | Personio | text | 56w
+    AI in HR is only as good as the data behind it. Most teams are adopting the tools before fixing the foundation. 200 Personio customers show what happens when you get that order right — faster reporting, sharper decisions, and AI features that actually deliver. Swipe to see the numbers 👇 #AIinHR #HRData #PeopleAnalytics #HRTech #DataDriven
+
+7491417898482036737 | Personio | multi-image(6) | 65w
+    We welcomed our colleagues, friends, and families to our Munich office for an inclusive Family & Friends event. From office tours and fun activities to meeting new people and sharing experiences, everyone got a feel for the culture and community that make Personio a place where we truly belong and care for each other. Curious to learn more about life at Personio? Visit here: https://lnkd.in/eSrtr4Qa
+
+7492921754282242048 | Personio | video | 207w
+    37% of employers are planning to cut permanent hiring because of the Employment Rights Act. Not because business is slowing, because compliance costs are rising and no one wants to lock in headcount before knowing what it'll cost them 🤔 CIPD's latest Labour Market Outlook (2,000+ UK employers surveyed) lays out the real picture: → Hiring intent is still there  [...]  what's coming next. Link in the comments 👇 Follow for your weekly update 🔔 #EmploymentRightsAct #UKEmploymentLaw #HRCompliance #TradeUnionLaw
+
+7495105922747424770 | Personio | image | 185w
+    At LIQUI MOLY, Matthias Helm's role sits across two worlds. As Head of Training, he guides trainees and prepares them for their careers. As the person driving Digitalization & Process Optimization, he keeps HR work running on clear structures and efficient workflows. Day to day, that means planning and overseeing the training program, supporting managers and employees with HR questions,  [...]  Informal Go-To Person - The Process Improver - The Emotional Anchor Personio. Built for every hat you wear.
+
+7495449823823859712 | Personio | video | 149w
+    Women in the EU earn 12% less than men. In Germany, it's 16% per hour. That gap is exactly what the EU Pay Transparency Directive is meant to close, and it's already in force. Three things change immediately: 💰 You can't post a job without a salary range. "Competitive" doesn't count anymore. ❌ You can't ask candidates about their salary  [...]  and decide now who owns pay-data requests when they land on your desk. #PayTransparency #HRCompliance #EUDirective #PeopleOps #FutureOfWork
+
+7495831700552482816 | Personio | link | 258w
+    Ready to meet the people making a real difference in HR? 🥁 We're happy to announce the finalists for the People & Culture IMPACT Awards 2026 | United Kingdom. These HR professionals and their teams have made a real impact in their organisations over the past year. Here are the finalists in each category: 🌟 AI & HR Tech: Laura  [...]  community and find out who this year's winners will be. Register to attend: https://lnkd.in/eE7ePj9d #PeopleAndCulture #IMPACTAwards #HRAwards #HRCommunity
+
+7497569650629742592 | Personio | image | 199w
+    We're getting very excited for the 2026 UK People & Culture IMPACT Awards on September 3rd at The Steel Yard, London 🏆 It's shaping up to be such a good evening, bringing together the HR and People community to celebrate this year's finalists and winners, catch up with familiar faces and meet some new ones. Here's a little of what  [...]  you haven't registered yet, we'd love to have you there. Register to attend: https://lnkd.in/eE7ePj9d #PeopleAndCulture #IMPACTAwards #HRAwards #HRCommunity
+
+7497942943757107201 | Personio | video | 164w
+    The UK is now the most AI-forward country in Europe for HR... but most companies still can't say if it's paying off 👀 55% of UK organisations are investing in AI for HR, up from 35% last year. That's 17 points ahead of the European average. Employees aren't waiting on their employers either. Nearly a third say they now use  [...]  one's for you. 🎥👇 Is your organisation still buying tools, or building readiness? Tell us in the comments.
+
+7500115202840109056 | Personio | image | 196w
+    She sits at the leadership table. But she never forgot where she came from. Jennifer Morf doesn't do corporate speak. She does real talk — and that's exactly why she belongs in the boardroom. As Head of People & Culture at John Baker and a member of the executive leadership team, she navigates the space between business strategy and human  [...]  Communicator - Values & Culture Amplifier Personio. Built for every hat you wear. #PeopleAndCulture #HRLeadership #Personio #ExecutiveHR #CultureFirst
+
+7500477580081266688 | Personio | image | 164w
+    Thousands of Personio users. One Community. It's official: the forum merge is complete. 🎉 Our international and German-speaking Personio Voyager Communities have merged into one: 20,000+ HR professionals and Personio users, more than 12,000 posts across English and German, all in one place. Our own Personio team members are active there too. Because life is easier when we help each  [...]  https://lnkd.in/eiqBSNFb Not part of it yet? Now is a great moment to join! Sign up today 👇 https://lnkd.in/ea_JEK_A
+
+7500840042098139137 | Personio | video | 182w
+    The AI adoption conversation has changed in the last few months. CEOs used to ask us: how do we get teams to actually use AI? Now they're asking something harder: where is all that AI spend actually going? First, we had to solve this for ourselves. Then, we built it into Personio. Using the Anthropic Analytics API (aggregated data only,  [...]  to see how AI spend is distributed across your organization? Sign up via the link in the comments.
+
+7503445746369798144 | Personio | video | 209w
+    This year marked a huge milestone for the People & Culture Awards — its third edition, and the first time we've run it live in London and Amsterdam on the exact same night. From pioneering AI in HR to building world-class workplace cultures, the impact, vision, and growth of this community over the last three years has been nothing short  [...]  thank you for pushing the boundaries of what People & Culture can achieve. Here's to year four! 🥂
+
+7503819773428977664 | Personio | video | 234w
+    A new milestone on the 2026 Fosway 9-Grid™ for Cloud HR 🌟 Personio has been named a Core Leader for the second year running. Thank you to the Fosway Group for their independent research and for providing a clear view of the HR tech landscape – one that's actually calibrated to European buyers. This year's result highlights: 💪 A second  [...]  making this possible. We're looking forward to what's next. 📄 Read the full report: https://lnkd.in/eDspsXVR #Personio #Fosway9Grid #HRTech
+
+7504103207149793281 | Personio | image | 40w
+    For years, headcount growth across Europe has been sliding. Our newest data suggests that might finally be levelling out. Find out what else our Q3 data shows on Tuesday. The Personio Index: Q3 2026 — out 15 September. #futureofwork #hrdata
+
+7500939379159293953 | PostHog | video | 5w
+    Aviation's final frontier: eggplant blimp
+
+7501315844870725632 | PostHog | video | 8w
+    He's been watching your session the whole time.
+
+7501666657111707649 | PostHog | image | 9w
+    Please stop asking if it's "average sized", that's rude
+
+7502735106051059712 | PostHog | text | 64w
+    Lizzie Epton wrote a 3-page industry report about data infrastructure and AI development and published it to our website. No email capture or any of that. Now, we're making it even more accessible by uploading it to LinkedIn for you. You're looking at an industry report on Labor Day Monday. You deserve for it to be easy. Take the rest of the day off.
+
+7503135307974725632 | PostHog | video | 9w
+    Token spend is down, legal fees are way up.
+
+7503489931135070208 | PostHog | text | 21w
+    800% growth in "consulting" doesn't hit the same, so this is what companies are calling the latest position we hired for.
+
+7503860613094318080 | PostHog | text | 28w
+    It's true that Session Replay shows you exactly how real users are interacting with your product. It's also true that nobody watches them. So, we built the solution.
+
+7503919201498091520 | PostHog | image | 4w
+    blimp to blimp SaaS
+
+7504205939139551232 | PostHog | image | 28w
+    PostHog in Slack can now see uploaded images. You can ask it to examine data from them, give it extra context to do analysis with, or do this:
+
+7504234697397309440 | PostHog | video | 13w
+    "I didn't read the code" has gone from 50 to 500 IQ statement
+
+7504266224210550784 | PostHog | video | 19w
+    Thanks to Colin Moran, Max can now destroy your screen and any remaining hopes of productivity in rampage mode.
+
+7484991592995377152 | Postman | text | 41w
+    Postman draft workspaces let you share a live preview URL of your local Native Git work before merging. Learn how the review-before-publish workflow works. Share your local API changes for review—before they reach the Cloud appeared first on Postman Blog .
+
+7485366247174635520 | Postman | text | 14w
+    A benchmark report: we audited 19 production Claude Code skills, cut invocation costs 23%
+
+7485717862980968448 | Postman | text | 33w
+    APIFlow-Bench scores 19 frontier and open-weight models on twenty-subtask API workflows: generated tasks, deterministic grading, and a public leaderboard. APIFlow-Bench: The Enterprise Survival Test for AI Agents appeared first on Postman Blog .
+
+7486092560915140608 | Postman | text | 37w
+    Postman is ISO 42001:2023 certified for AI management. See what our AI governance means for your data, Agent Mode, and API workflows today. Postman Earns ISO 42001 Certification for Responsible AI appeared first on Postman Blog .
+
+7487540355861491712 | Postman | text | 41w
+    How I built Quill, a Slack AI blog agent that researches, drafts, and stages posts using Claude, Postman AI Request, and Astro AI. Deploy your own. Building Quill: A Slack AI Blog Agent with Astro appeared first on Postman Blog .
+
+7487606072346816514 | Postman | image | 64w
+    We're excited for this Thursday's Agents & APIs SF Developer Meetup! The demos and vibes are going to be awesome! Demos by: 👉 Kwindla Hultman Kramer, co-founder of Daily & founder of Pipecat 👉 Matthew Colozzo, Software Engineer, Astro AI (a Postman company) 👉 Clement Hugbo, Founding Senior Product Designer, CodeRabbit 👉 Avyay Varadarajan, co-founder, dari.dev (YC F25) Join us? Sign up here: https://lnkd.in/gatniDux
+
+7487902459219046401 | Postman | text | 38w
+    Learn how Postman's three-layer secret protection model stops credential leaks at save, sync, and runtime. See how to secure API secrets end to end. Postman's 3 Layers of API Secret Protection Explained appeared first on Postman Blog .
+
+7488248800793264128 | Postman | text | 35w
+    See how Postman's MCP Inspector supports the 2026-07-28 MCP spec, including stateless transport, so you can test and debug servers before migration. MCP goes stateless — and Postman's ready appeared first on Postman Blog .
+
+7488263913357193216 | Postman | text | 39w
+    APIs are no longer background plumbing. As API conversations move from developer tooling to board-level strategy and agentic initiatives, partners need more... Announcing the Postman Accredited Seller: our first global partner sales accreditation appeared first on Postman Blog .
+
+7488631509638139904 | Postman | text | 37w
+    How Postman built AI agent security into its AI Engineer through sandboxing, credential isolation, and layered defenses against prompt injection. Read on. AI Agent Security: How Postman's AI Engineer Is Built appeared first on Postman Blog .
+
+7488644792701120513 | Postman | video | 45w
+    New beginnings. New connections. One exciting journey ahead. We recently welcomed our campus hires in India as they officially became Postmanauts. Here's a glimpse of the energy and celebration that marked day one. Welcome aboard. We can't wait to see what you build. #Postman #Postmanauts
+
+7490076174002577408 | Postman | text | 40w
+    Wiz runtime security is now embedded in the Postman API Catalog, giving teams a unified view of API risk before it becomes a breach. Closing the API Security Gap: Postman and Wiz, Better Together appeared first on Postman Blog .
+
+7490149873439154176 | Postman | multi-image(4) | 39w
+    We had a great time at last week's Agents & APIs SF Developer Meetup! Thanks to Kwindla Hultman Kramer of Pipecat, Clement Hugbo of CodeRabbit, Matthew Colozzo of Astro AI, Avyay Varadarajan of dari.dev (YC F25) for presenting! 🫶
+
+7490443450899914753 | Postman | text | 10w
+    Postman Blog: A recap of Postman at APIdays Munich 2026!
+
+7490803323042820096 | Postman | text | 37w
+    Meet @postman/api-sdk, the official typed TypeScript client for the Postman API. Install it from npm and script your workspace with autocomplete. Introducing @postman/api-sdk: the official TypeScript SDK for the Postman API appeared first on Postman Blog .
+
+7491162666393235458 | Postman | text | 43w
+    How agentic AI reshapes API security risk, and how Postman's AI Engineer, Context Graph, and API Catalog secure autonomous agents. Read the approach. Securing the Autonomous Engineer: Postman's Approach to API Security in the Agentic AI Era appeared first on Postman Blog .

@@ -1,0 +1,214 @@
+# batch 007  -  70 posts  -  label per research/CLASSIFICATION-PROTOCOL.md
+# labels: problem exploration requirements selection validation consensus
+#         recruitment culture event product-news csr unclear
+# write research/labels/r2_007.tsv as: <id><TAB><label>
+
+7475896090223878144 | Komodo Health | image | 132w
+    Today, we announced an expanded partnership with Alnylam Pharmaceuticals! 🚀 What began as a collaboration focused on deploying our AI platform Marmot within Alnylam's commercial business function has evolved into something much larger: a new operating model for Life Sciences organizations. By scaling the platform across its customer-facing organization and leveraging its capabilities more broadly across the enterprise, Alnylam is  [...]  generate insights faster, but transforming how organizations make decisions, collaborate, and improve patient outcomes. Learn more 👉 https://lnkd.in/gQEMB_xz
+
+7476275546075746305 | Komodo Health | video | 85w
+    The next chapter of Marmot is here. Missed the live launch? Now's your chance to see how we're raising the bar for reproducible intelligence in healthcare. Hear from Komodo Health co-CEO Arif Nathoo, gain customer insights from Alex Trouteaud, Senior Director of Advanced Analytics and Data Strategy at Alnylam Pharmaceuticals, and get an exclusive first look at Marmot's newest capabilities  [...]  the latest innovations built for transparent, reproducible healthcare AI. 🎥 Watch the Marmot launch on demand → https://lnkd.in/dkriAuKa
+
+7480278080846983169 | Komodo Health | image | 57w
+    Customers like Christopher Blanchette, PhD, MBA, VP of Clinical Data Science & Evidence at Novo Nordisk, are already experiencing the impact of Marmot, Komodo Health's AI-powered analytics platform for healthcare and Life Sciences. Curious what Marmot could do for your team? Explore the latest platform innovations unveiled during our Marmot Level-Up launch. Watch the on-demand webinar: https://lnkd.in/dkriAuKa
+
+7482430430084816896 | Komodo Health | image | 88w
+    What if every member of your team had their own Chief of Staff? That's how Merck's Ritu Saxena, Ph.D describes working with Marmot, Komodo's healthcare-native AI analytics platform. Marmot enables teams to move from question to insight in minutes, so they can explore more questions, uncover new insights, and conduct analyses that were previously out of reach. Most importantly, every  [...]  to act on the insights they generate. What can Marmot unlock for your team? Find out at https://lnkd.in/g9j6_FZK
+
+7483176086063763457 | Komodo Health | video | 62w
+    AI is reshaping how biopharma teams work, make decisions, and advance innovation. At Komodo Summit, we asked industry leaders how they're thinking about AI's impact on the future of healthcare and Life Sciences. Johnson & Johnson's Shawn Du, Ph.D., shares how his team is using AI to improve efficiency, uncover deeper disease insights, and embrace bold new possibilities. Watch the full interview👇
+
+7485753785043283968 | Komodo Health | image | 86w
+    AI can only transform healthcare when it understands the realities of patients' journeys. That's why Marmot combines healthcare-native AI with the industry's most comprehensive view of de-identified patient journeys, helping organizations uncover care gaps, understand where intervention is most needed, and move from question to action faster. As Fight Colorectal Cancer Anjee Davis puts it, Marmot has democratized access to  [...]  to drive meaningful policy change and improve patient outcomes. Discover what Marmot can unlock for your team: https://lnkd.in/g9j6_FZK
+
+7486076420067123200 | Komodo Health | image | 83w
+    We're thrilled to welcome Lindsey Voigt to Komodo Health as our new Senior Vice President, Sales. Lindsey brings over a decade of enterprise sales leadership, including deep experience in healthcare technology. She has a track record of building high-performing sales teams from the ground up, scaling revenue at companies, and consistently exceeding goals along the way. We're excited for the  [...]  sales organization and helping drive Komodo's next phase of growth. Welcome to the team, Lindsey! #WelcomeDragon #Komodo #SalesLeadership
+
+7487877049186021377 | Komodo Health | image | 64w
+    AI shouldn't just answer questions. It should help you ask better ones. That's what Marmot was built to do. As Fairview Health Services Taylor Woodroof puts it, Marmot helps research teams move beyond finding answers faster to exploring new ideas, uncovering unexpected insights, and asking questions they may never have considered before. Ready to see what Marmot can unlock for your team? Visit https://lnkd.in/g9j6_FZK
+
+7488601859289686017 | Komodo Health | image | 98w
+    We're thrilled to welcome Maulik Shah to Komodo Health as our new VP of Engineering, Infrastructure. Maulik brings over two decades of engineering and security leadership, including deep experience scaling cloud infrastructure for global, regulated platforms. He has a track record of building high-performing engineering teams from the ground up, leading enterprise security and compliance programs, and driving major cloud  [...]  infrastructure organization and helping drive Komodo's next phase of growth. Welcome to the team, Maulik! #WelcomeDragon #OneKomodo #EngineeringLeadership
+
+7489033392420745216 | Komodo Health | image | 172w
+    At Komodo Health, we're hiring a Senior Forward Deployed Engineer, AI Infrastructure & Deployments, to deploy our AI-native platform, Marmot, into some of healthcare's most complex enterprise environments. This role sits at the intersection of Engineering, Product, and Revenue. You'll own end-to-end delivery for highly technical customer engagements—from solution architecture through production deployment inside customers' cloud and compliance environments. You'll  [...]  from you. Remote across the U.S. or hybrid in San Francisco or New York City. Apply here: https://lnkd.in/gv2h8rkE
+
+7490413755793797120 | Komodo Health | image | 104w
+    The real value of AI isn't just getting answers faster. It's giving teams the freedom to investigate questions they previously didn't have the time or resources to explore. As Alnylam Pharmaceuticals's Alex Trouteaud shared, one evening while making dinner, he thought of a question that normally would've required spinning up a team of analysts. Instead, he pulled out his phone,  [...]  to complete. What question have you been waiting to ask? Learn how Marmot can help answer it: https://lnkd.in/ddWCWuA4
+
+7491500922938814464 | Komodo Health | image | 147w
+    Say hello to our latest class of Dragons 🐉🚀 At Komodo, onboarding isn't something you sit through. It's something you do. Built around real work and the skills that actually move the needle. That philosophy showed up this week in NYC at Dragon Camp, an in-person program designed to sharpen new hires' skills and get them ready to contribute. There's  [...]  to build the future of healthcare with a team like this one? See our open roles: https://lnkd.in/gBJjvAV7 #LifeAtKomodo
+
+7491538670978555904 | Komodo Health | image | 164w
+    We are hiring a Senior Data Scientist to advance the projection methodology behind our market-level insights using the models that turn observed claims into national and subnational estimates. You'll own projection model quality on our Research team: how it's evaluated, how it holds up under scrutiny, and how customers come to trust it. You'll work on: ✅ Becoming the go-to  [...]  from you. Remote across the U.S. or hybrid in San Francisco or New York City. Apply here: https://lnkd.in/g8-3cfuA
+
+7492989713952219136 | Komodo Health | link | 59w
+    At Komodo, we're committed to making AI-powered healthcare intelligence more accessible, transparent, and reproducible. To further deliver on this commitment, we've partnered with Navidence. The partnership integrates Navidence's clinically and programmatically validated code lists and value sets into Marmot, enabling users to translate complex clinical concepts into computable definitions and conduct faster, more reproducible analyses. Learn more 👉 https://lnkd.in/g9j6_FZK
+
+7493334194635440129 | Komodo Health | video | 102w
+    Live Marmot Demo, Komodo's healthcare-native AI analytics platform Healthcare questions are hard to answer quickly. They are harder to answer in a way you can defend. Komodo Health® is building the AI-powered intelligence layer for healthcare and Life Sciences. Marmot™, our healthcare-native AI analytics platform, runs on Komodo's Healthcare Map®, the industry's most comprehensive view of more than 330 million  [...]  from the analyst who lives in the data to the business user who needs a fast, defensible answer.
+
+7493438861071728640 | Komodo Health | image | 141w
+    An AI method applied to bad data doesn't produce uncertain evidence. It produces confidently wrong evidence. That's the core argument in the first installment of The RWE Standard, our new monthly column on HEOR and real-world evidence in the age of AI, written by Ashis Das, MD, MPH, PhD. AI adoption in HEOR has moved from experimentation to operational reality.  [...]  will be the ones still standing when the reckoning arrives. Read the full piece: https://lnkd.in/d5ZnVfnV #HEOR #RealWorldEvidence #AI
+
+7493712993432707073 | Komodo Health | image | 127w
+    We're thrilled to welcome Ravikanth Kasamsetty to Komodo Health as our new VP of Engineering, AI. Ravi brings over two decades of engineering leadership, with deep experience building scalable cloud-native platforms and delivering AI-powered applications. He has scaled messaging infrastructure, processing more than 2 billion messages daily, led an enterprise analytics portfolio through its move from on-prem to cloud, built  [...]  drive Komodo's mission to reduce the global burden of disease. Welcome to the team, Ravi! #WelcomeDragon #OneKomodo #EngineeringLeadership
+
+7496249678796087296 | Komodo Health | video | 39w
+    One year of uncovering hidden insights. One year of asking new questions. One year of turning curiosity into trusted evidence. All in pursuit of reducing the global burden of disease. Happy Birthday, Marmot! 🎉 Here's to the next question.
+
+7496599106300215296 | Komodo Health | image | 48w
+    See you in Milan! The Komodo Health team is heading to ISPE August 29–September 2. If you're attending, let's connect! We'd love to meet folks who are driving innovation in real-world evidence and healthcare analytics. See you there? Let us know in the comments. #ISPE2026 #ISPE #RealWorldEvidence #Healthcare
+
+7496640054610509824 | Komodo Health | multi-image(11) | 74w
+    Yesterday, we celebrated a very special birthday at Komodo: Marmot turned one! 🥳 Our Dragons across New York, Chicago, and San Francisco came together for an afternoon of celebration. There was a build-your-own boba bar, cupcakes, trivia, and even a few Marmot sightings. We love moments like these that bring our Dragons together to collaborate, celebrate, and have a little fun. 💙 P.S. - We're hiring! Learn more about our open roles at https://lnkd.in/gBJjvAV7
+
+7498064868332322816 | Komodo Health | image | 62w
+    We are heading to BioTechX USA this September. Come find us at Booth #505, September 29-30 in Boston, where we'll be talking real-world data, AI-native analytics, and what Marmot can do for your team's next research question. Stop by, say hi, and let's talk about what you're working on. 📍 Hynes Convention Center, Boston MA 🗓️ September 29-30, 2026 📌 Booth #505
+
+7498364237673771008 | Komodo Health | image | 105w
+    Today, we announced a collaboration with NCQA to modernize how healthcare quality measures are developed, validated, and continuously improved. By leveraging the Healthcare Map, NCQA is shortening measurement development and testing timelines, ensuring measures better reflect the realities of modern healthcare delivery. The early results of the collaboration are powerful: Harnessing our capabilities, NCQA tested a new HEDIS measure focused  [...]  has historically taken. This is what reducing time to insight looks like in action. Learn more ➡️ https://lnkd.in/gyRHf8bB
+
+7498469501970038784 | Komodo Health | multi-image(5) | 89w
+    Our research is ready for Milan. Four deep dives into real-world evidence that matter. Thanks to Ashis Das for leading the Evidence Intelligence team on this research, which explores racial disparities in migraine access, solves rare disease identification, understands statin outcomes in the real world, and cracks the diabetes classification code. This work is grounded in 330M+ de-identified patient journeys  [...]  research below. Stop by and let's talk about what defensible RWE actually looks like. #ISPE2026 #RealWorldEvidence #HEOR #HealthcareData
+
+7498878861468815360 | Komodo Health | image | 151w
+    A team building an in-house AI analytics tool isn't a few weeks behind Marmot. It's more than a year behind. That's the real timeline behind our latest piece, written by John W., Head of Revenue Strategy at Komodo Health. Almost every Marmot customer tried building their own AI-based analytics solution first. A small team, a foundational model, a few weeks,  [...]  to see what it takes to build AI that healthcare can rely on: https://lnkd.in/gXhUWhJC #HealthcareAI #EnterpriseAI #AIinHealthcare #LifeSciences
+
+7499135356890501120 | Komodo Health | image | 91w
+    Build vs. buy. It's the question every life sciences AI team eventually has to answer. Join Ritu Saxena, Ph.D, Director of AI Agents at Merck, and John W., General Manager, Marmot Go-To-Market at Komodo Health, for a live, unscripted conversation on what it actually took for one Top 10 Pharma team to make that call, after nearly a year of  [...]  what "trustworthy AI" really requires. 📅 September 24, 11:30 AM ET / 8:30 AM PT Register here: https://lnkd.in/d8guY2Yv
+
+7499200479109906432 | Komodo Health | image | 124w
+    Komodo Health is hiring a Senior Data Engineer to join our Data Foundations team, transforming massive healthcare datasets into the trusted data products that make up our Healthcare Map. The team already has strong momentum, and we're looking to build on it. What you'll be doing: ✅ Building and optimizing large-scale production data pipelines ✅ Transforming claims, EHR, and reference  [...]  healthcare data. Remote across the U.S. or hybrid in San Francisco or New York City. Apply here: https://lnkd.in/gS8E9Rs6
+
+7500230130955501568 | Komodo Health | image | 90w
+    What if the healthcare questions you couldn't answer before were suddenly within reach? That's exactly what Marmot, our AI analytics platform, was built to do: democratize access to patient insights, helping organizations uncover new answers to make faster, more informed decisions. As Fight Colorectal Cancer's Anjee Davis puts it, Marmot has given her team access to “a level of healthcare  [...]  them drive greater impact for patients. Ready to see what Marmot can unlock for your team? Visit https://lnkd.in/g9j6_FZK
+
+7500258625211371522 | Komodo Health | image | 122w
+    The failure mode isn't inaccuracy, it's invisible inaccuracy. That's the core argument in the second installment of The RWE Standard, our monthly column on HEOR and real-world evidence in the age of AI, written by Ashis Das. Validating AI in health research used to mean one thing: train it, test it, measure performance. That worked when AI produced a single,  [...]  and lays out what validating a reasoning chain actually requires. Read the full piece: https://lnkd.in/gKErF2fR #HEOR #RealWorldEvidence #AI
+
+7500671015795118080 | Komodo Health | video | 96w
+    🎤 The Tiny Mic is back! To celebrate Marmot's first birthday, we asked our SF Dragons: What's been your favorite “Marmot Moment” from the past year? Some highlights include: 🔬 Witnessing the very first analyses Marmot ever ran 💡 Seeing customers answer questions they were never able to before ⚡ Conducting analyses in days that used to take weeks 🐉  [...]  customers Now we want to hear from you: What's been your favorite Marmot Moment of the year? 👇
+
+7500943215462797312 | Komodo Health | image | 126w
+    Marmot has been named a winner of Fierce Pharma's AI Innovation Awards! 🏆 🎉 The recognition reflects our conviction from the start: AI for healthcare and life sciences has to be purpose-built for the complexity of the industry. That means AI has to be grounded in real-world patient insights and produce transparent, reproducible outputs that teams can trust to inform  [...]  more - all in service of reducing the global burden of disease. Learn more about this recognition: https://lnkd.in/gbAmZjnC
+
+7501322155771633666 | Komodo Health | link | 110w
+    What if healthcare quality measures could be developed and tested faster against real-world patterns of care, helping them better reflect the realities of healthcare delivery today? That's the opportunity behind our collaboration with NCQA. Web Sun, Komodo's co-founder and co-CEO, recently shared with Fierce Healthcare's Anastassia Gliadkovskaya how the Healthcare Map and Marmot are helping NCQA bring a more comprehensive,  [...]  more than 50% reduction from the 2–3 months the process has historically taken. Read the full piece https://lnkd.in/gCbBJUxr
+
+7501338266244161540 | Komodo Health | multi-image(5) | 60w
+    Four posters. Real conversations. Real questions about what defensible RWE looks like in practice. If you attended, thanks for stopping by. If you're catching up, the research is available in the comments below. Queeny Ip, who presented on the ground, Ashis Das, and the Evidence Intelligence team want to hear what resonates with your work. #ISPE2026 #RealWorldEvidence #HEOR #HealthcareData #MarmotAIPlatform
+
+7501655466779938816 | Komodo Health | multi-image(5) | 167w
+    Our San Francisco and New York Dragons recently spent the day volunteering with organizations supporting their local communities. In San Francisco, our team volunteered with Project Open Hand, a nonprofit organization providing nutritious meals to sick and vulnerable communities across the Bay Area. Together, we: 🌱 Cut 50 pounds of tempeh 🥒 Diced 65 pounds of zucchini and 60 pounds  [...]  our employees to give back to the communities where we live and work. Explore our open roles: https://lnkd.in/gBJjvAV7
+
+7503195334471356416 | Komodo Health | video | 116w
+    🎂 Today, Komodo Health turns 12! 12 years ago, Arif Nathoo and Web Sun founded Komodo with the mission to reduce the global burden of disease. Today, we're celebrating how far we've come on delivering that mission. From growing into a team of more than 650+ Dragons across the world, with hubs in New York, San Francisco, Chicago, and Chennai,  [...]  with us. There's so much to celebrate, and even more to come. Here's to the year ahead. 🚀
+
+7503903018073870336 | Komodo Health | link | 106w
+    Next Wednesday, September 16, our VP of Analytics, Rathi Sureshi, will join GeneDx's Lisa Gurry and Colleen Caleshu MSc, LCGC, PhD Candidate for a discussion on how combining genomic data and longitudinal claims-based insights provides a more complete view of the rare disease patient journey. They'll cover everything from why longitudinal patient journey insights from our Healthcare Map are critical  [...]  and post-launch evidence generation, and much more. It's a conversation you won't want to miss. Register now: https://lnkd.in/gcAhMNXM
+
+7503913474847215616 | Komodo Health | image | 87w
+    Building in-house for a year taught one Top 10 Pharma team something: the goal was never a bigger build. It was staying in control of the roadmap. On September 24, Ritu Saxena, PhD, Director of AI Agents at Merck, and John W., General Manager, Marmot Go-To-Market at Komodo, talk through how that distinction changed the decision, and what they'd tell  [...]  you won't want to miss. 📅 September 24, 11:30 am ET / 8:30 am PT Register here: https://lnkd.in/d8guY2Yv
+
+7503935393956859904 | Komodo Health | text | 48w
+    Excited to see Ashis Das taking the stage at BioTechX USA 2026. If you're headed to Boston September 29-30, you don't want to miss his session at the Hynes Convention Center. If you're working in this space, Ashis would love to see you there and connect in person.
+
+7503942920358531072 | Komodo Health | image | 178w
+    We are hiring a Principal, Product Strategy to be the segment owner and builder for Commercial and Medical Affairs. You'll hold the strategic P&L view: deciding where to invest, what to ship, and how to move the market. If you've lived the Commercial or Medical Affairs workflow and have strong opinions about what's missing, this is your chance. You'll work  [...]  workflow. Remote across the U.S. or hybrid in San Francisco, New York City, or Chicago. Apply here: https://lnkd.in/g5iHUAiN
+
+7470923991965265921 | Lattice | link | 58w
+    ICYMI: here's everything we announced at #Lattiverse in San Francisco! ⬇️ This year's theme, People + AI, was more than just a tagline. At Lattice, it shapes everything we build. From Lattice MCP and AI Leverage Insights to Evidence-based Review Drafts and Group Meetings, our latest innovations focus on how teams actually work. Need a recap? 👉 https://lnkd.in/esZU9T5K
+
+7472368243815579648 | Lattice | video | 33w
+    We asked, you answered. What was the best part of #Lattiverse 2026? ✨ When we asked our speakers and attendees what stood out most, one answer came up again and again: the people.
+
+7472732496682483713 | Lattice | image | 114w
+    Couldn't make it to Lattiverse in SF? Don't worry, we've got you covered! Introducing the Best of Lattiverse 2026 Webinar Replay Series, a curated lineup of the best sessions from Lattiverse SF, brought back for our global audience. Here's what's on deck ⬇️ ✨June 24: People + AI: The New Way To Work ✨July 8: Making High Performance a Habit  [...]  the Age of AI ✨December 16: Building Your Personal Brand as an HR Leader Grab your spot: https://lnkd.in/eUwkM2cT
+
+7473101513146630145 | Lattice | link | 92w
+    Congratulations to our winners of the 2026 People Success Awards! 🎉 Let's give a big round of applause to the organizations and leaders who are redefining what great people leadership looks like. 🏆 Talent Advancement Award – SAC Health 🏆 Leadership in Action Award – ActivTrak 🏆 Performance Impact Award – PitchBook 🏆 People + AI Pioneer Award – Vendasta  [...]  Corp 🏆 Lattichamp of the Year – Steven Pham, LiveRamp Learn more about the awards and winners: https://lnkd.in/enfVqkyV
+
+7473472402753007619 | Lattice | multi-image(8) | 40w
+    We're still thinking about last week! 💭 London, you're up next. Lattiverse kicks off at the British Library on Tuesday, June 23rd. We're bringing together the HR leaders that will define what's next. 👉 There's still time to register: https://lnkd.in/eGSybUt3
+
+7475121217520300032 | Lattice | image | 32w
+    Welcome to Lattiverse, London! 🚀 We're gearing up for an unforgettable day of learning and connection at The British Library. HR, are you ready to define your legacy in the Al era?!
+
+7475247394549542912 | Lattice | multi-image(8) | 46w
+    London, that was something special! Thank you for showing up with so much energy. People + AI isn't just a tagline. It's real, it's here, and it works. To every customer, partner, speaker, and Lattiverse attendee, thank you for making this a Lattiverse to remember! 💜
+
+7475639279407419392 | Lattice | video | 32w
+    “When you understand the why, that's when you can connect what you're doing to what matters.” What does it mean to make work meaningful? Sarah Franklin, CEO of Lattice, breaks it down.
+
+7477407069260939264 | Lattice | image | 88w
+    Big news…the Lattice AI Agent is coming to 1:1s! 🎉 Most employees only get coaching once or twice a year, usually during a review. We're changing that. Starting today, the Lattice AI Agent can join your 1:1s to deliver personalized coaching insights after every conversation, for managers and employees alike. Plus, every 1:1 includes: 🌟 Detailed recaps 🌟 Action items  [...]  to week actually shows up when it counts. Learn more about the Lattice AI Agent in 1:1s: https://lnkd.in/gXyU3XNz
+
+7477821951634210817 | Lattice | text | 34w
+    Better feedback = more meaningful growth 🤝 One of the hardest parts performance reviews isn't giving feedback, it's knowing which growth areas actually matter. Swipe for a clear framework to get it right ⬇️
+
+7478530979196821504 | Lattice | video | 23w
+    We asked HR leaders one question: what workplace buzzword is giving you the "ick" right now? 😬 Even Latticat had something to say.
+
+7480289616638418944 | Lattice | image | 108w
+    Introducing…Lattice MCP! 👏 Lattice MCP connects Lattice context (reviews, feedback, 1:1s, goals, updates) into tools like Claude, ChatGPT, and Slack, bringing performance management directly into the flow of work. Now, employees can draft updates, managers can submit richer reviews, and teams can prepare for people conversations without leaving the chat. We're entering a new era of work – AI tools  [...]  to be the first performance platform to officially launch an MCP in frontier AI marketplaces. Learn more: https://bit.ly/4gXzu8v
+
+7480701107371941888 | Lattice | video | 77w
+    Most managers want to be great coaches, but they're stretched thin or lack formal coaching training. The result? Surface-level feedback and missed growth moments. That's where AI coaching can help. Managers trained in coaching and people development see up to 18% higher team engagement 🤯 Lattice's Andy Przystański breaks down how to use artificial intelligence to equip managers with the insights, guidance, and time they need to become more effective coaches. Full article in the comments 👇
+
+7481046088234217472 | Lattice | text | 14w
+    The World Cup had us thinking...some workplace phrases deserve an immediate red card ⚽️
+
+7482842021293080576 | Lattice | video | 73w
+    Sahil Bloom has challenged thousands to rethink what success really means. What if high performance isn't about doing more, but building a life that's sustainable, meaningful, and aligned with what matters most? As part of our Best of Lattiverse 2026 Webinar Replay Series, you can catch Sahil's session: The Full Human: Why Standards, Relationships, and Purpose Create a Performance Strategy That Lasts on Wednesday, July 22nd. 🌟 There's still time to register: https://bit.ly/4wLPGi0
+
+7483247239151194114 | Lattice | video | 56w
+    Calibration setup has long been one of the most manual, error-prone parts of the performance cycle, especially for larger organizations. That's changing with the ability to auto-create calibration groups 🌟 Instead of building groups one by one or wrangling CSVs every cycle, admins can now generate every calibration group they need with just a few clicks.
+
+7483905977046425600 | Lattice | text | 43w
+    The biggest challenge with traditional performance management? It assumes everyone is working in the same room. For remote and hybrid teams, what matters isn't who's the most visible. Here's how to get performance management right for the way people actually work today 👇
+
+7485063135691948033 | Lattice | text | 74w
+    Last month, we hosted Lattiverse '26, where hundreds of People leaders came together around this year's theme: People + AI. Just weeks later, a lot of what we previewed on stage is already becoming a reality. June brought a wave of new releases, including: 🎙️ Voice Modality 📊 Analytics Charts in Lattice AI Agent ⚡ Auto-create Calibration Groups 🤝 AI Agent in 1:1s See all of our June releases via the link in comments.
+
+7485715324319944704 | Lattice | link | 72w
+    Most teams don't struggle with setting goals. They struggle with setting the right ones. Structure alone doesn't make a goal effective – precision, alignment, and context do. And AI can help you get there faster by: 🎯Turning vague ideas into specific goals 📊 Recommending measurable metrics 🔍 Stress-testing goals for feasibility 🧩 Aligning individual goals to company priorities We broke down exactly how to use AI at each stage of goal-setting: https://bit.ly/4foE4KB
+
+7486145009927323648 | Lattice | video | 64w
+    "Lattice unlocked a true sense of employee engagement and provided our managers tools to really dive into employee sentiment and performance," says Jaime Yas, Senior Vice President of Human Resources at Brilliant Earth 💫 As Brilliant Earth scaled into a national organization, Lattice brought performance, engagement, and 1:1 data into one place, giving managers more insight into their teams. Read the full story: https://bit.ly/4pAAKAN
+
+7487600948215959553 | Lattice | image | 31w
+    Excited to see Sarah Franklin, CEO of Lattice, featured in The Wall Street Journal! 💫 Read the full story about the hiring rebound happening across major companies in the WSJ: https://bit.ly/4yHHCAD
+
+7487949288795209728 | Lattice | text | 28w
+    We recently launched Lattice MCP, which brings Lattice data into tools like Claude, ChatGPT, and Slack. Not sure where to begin? Here are five prompts to try 👇
+
+7488683979370344448 | Lattice | text | 58w
+    60% of businesses haven't even begun scaling AI company-wide, according to McKinsey's 2025 research on the state of AI. The problem is rarely the tech itself. It's the approach. When and how you introduce AI tools to your teams is key for AI adoption. We've got you covered with 3 best practices for rolling out AI tools 👇
+
+7489025020938149888 | Lattice | multi-image(3) | 37w
+    Don't just take our word for it. See what HR leaders are saying about Lattice AI Agent in 1:1s 👇 🌟 Jennifer Rhode @ Loftware 🌟 Veronica Lamaak @ TurnCommerce Inc 🌟 Emer O' Driscoll @ Teamwork.com
+
+7490450446935846912 | Lattice | image | 74w
+    Know a stellar fractional HR or People leader? Send them our way! Lattice's Fractional HR Leader Partner Program is accepting applications for our fall cohort. It's more than just a certification: 💫 Revenue share for referrals 💫 Get featured in Lattice marketing content (from our website to blog posts and beyond) 💫 Access to a network of both seasoned Lattice champions and those building their fractional business Help someone grow their impact 👉 https://lnkd.in/g-r6qBbF
+
+7490788275897389056 | Lattice | image | 78w
+    Performance reviews shouldn't start with a blank page. Introducing Evidence-based Review Drafts! 🌟 Powered by the Lattice AI Agent and built directly into performance reviews. Now, instead of staring at an empty text box, managers and employees get an AI-generated draft grounded in real talent and performance data: 1:1s, goals, feedback, updates, growth areas, and prior reviews. From there, it's simple: review, refine, and submit with confidence. Learn more about Evidence-based Review Drafts via the link in comments.
+
+7491221486968438784 | Lattice | video | 77w
+    The old signals of workplace "culture" don't tell the whole story anymore. HR leaders are being asked to measure something that's constantly moving. Join us for the next episode of our Best of Lattiverse webinar series on August 19th, where we'll tackle the question: "What does a 'healthy' culture actually look like?" with: Mia Remar, Lattice Megan Barbier, Xactly Corp iezana mekonnen, avenirHR Deborah Hanus, Sparrow 📍 Save your spot: https://lnkd.in/gV7dfCHS Presented by Lattice & Sparrow 💫
+
+7492642794386206720 | Lattice | video | 59w
+    "Just because AI is here doesn't mean that the work isn't," says Sarah Franklin, CEO of Lattice. Franklin sat down with Edward Ludlow of Bloomberg to unpack the latest jobs data, why companies are choosing to invest in their existing workforce's skills, and how companies are rethinking work in the age of AI. 🎥 Watch the full segment: https://bit.ly/4wURhm6
+
+7493029293124485120 | Lattice | video | 67w
+    Our new Additive Model for Compensation Eligibility makes cycle setup clearer, safer, and reduces misconfiguration risk. Previously, every employee started in the eligible pool by default, and admins removed who shouldn't be there. Now it works the other way: admins start with an empty pool and intentionally add who belongs. See it in action: Jiamei Deng, Senior Product Designer at Lattice, walks through the update below 👇
+
+7493390188031750144 | Lattice | link | 59w
+    Salary bands only work if the foundation is solid 💰 When employees understand how pay is determined (and what progression looks like) they are more likely to trust the company and stay engaged, reducing uncertainty around compensation. We're breaking down how to build salary bands, the common pitfalls to avoid, and how to communicate salary bands effectively ➡️ https://lnkd.in/eEHgbcWE
+
+7494045878274633728 | Lattice | text | 10w
+    Just a few things that are, objectively, very chic ✨
+
+7495205626071982080 | Lattice | link | 36w
+    Summer is heating up 🔥 This July, we shipped two of our biggest AI milestones yet: Lattice MCP & Evidence-based Review Drafts. Plus, a few additional updates designed to make day-to-day processes faster. Learn more: https://lnkd.in/gdtp5Ke4

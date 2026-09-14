@@ -1,0 +1,214 @@
+# batch 016  -  70 posts  -  label per research/CLASSIFICATION-PROTOCOL.md
+# labels: problem exploration requirements selection validation consensus
+#         recruitment culture event product-news csr unclear
+# write research/labels/r2_016.tsv as: <id><TAB><label>
+
+7485381935804936192 | Watershed | text | 121w
+    📣 Our July sustainability policy briefing is out from Madhav Seth, Watershed's policy lead. The big news this month: on July 3, the European Commission formally adopted the simplified ESRS—the green light companies have been waiting for to move forward with CSRD reporting. Also in Europe, the Commission adopted a voluntary ESRS for companies outside CSRD's scope, and a first  [...]  All the details, and what to do next, are in the full edition. 👇 #ESRS #CSRD #CARB #Sustainability
+
+7485688983939780608 | Watershed | link | 124w
+    Today we're releasing a comprehensive open framework for corporate AI emissions measurement. Companies need a defensible way to measure their AI emissions—both to meet growing demands from investors, auditors, and regulators, and to identify where they can actually reduce them. Without a consistent methodology, estimates for the same AI usage can vary by nearly 5x. The framework covers model training,  [...]  task (energy consumption can vary 30x), selecting lower-carbon regions, and optimizing prompts. Read the full white paper: https://lnkd.in/eueFbwEs
+
+7485786657737035776 | Watershed | link | 107w
+    California's climate disclosure rules are coming into sharper focus. At its latest workshop, CARB shared a significant proposed update for SB 253: scope 3 reporting would begin in 2027 with five required categories. The workshop also introduced new expectations around primary data, measurement uncertainty, and methodology changes—and indicated that November 10 will become the annual reporting deadline. Companies have more  [...]  still pending, and what companies should be doing now. Read the latest update 👉 https://lnkd.in/ggmPFGrx #CARB #SB253 #ClimateDisclosure
+
+7486108629616574464 | Watershed | link | 83w
+    Companies are being asked to account for their AI emissions. The problem: there's no standardized methodology for measurement. Heatmap News takes a closer look at our new AI emissions framework, which gives companies a defensible way to estimate their footprint using the information available today—from a simple spend-based starting point to a more rigorous per-token approach. A consistent, transparent methodology  [...]  to start and a path toward more accurate, actionable measurement over time. Read the full story 👉 https://lnkd.in/g6ZPV6XF
+
+7487568642830716928 | Watershed | image | 168w
+    👋 Meet Sabina Anderberg, Director at Prudential Financial and a Watershed AI Fellow. For Sabina, AI's biggest promise in sustainability is the chance to flip the work itself: from backward-looking reporting to proactive decision-making, where teams can identify climate risks and reduction opportunities earlier. Sabina leads greenhouse gas data management across Prudential's global portfolios, where emissions data often has to  [...]  systems.” That's the opportunity: less time assembling the data, more time using it to act. #WatershedAIFellowship #AI #sustainability
+
+7488255175061823489 | Watershed | image | 171w
+    Most conversations about AI in sustainability start with what it can automate. Felyn G. sees its greatest potential differently: as a tool that helps people work together to solve sustainability challenges more effectively. "I'm hopeful that with AI, we can accelerate the discovery of practical solutions, make better use of data to support sound decision-making, and foster stronger collaboration across  [...]  for the communities and future generations that will live with the outcomes of today's decisions. #WatershedAIFellows #AI #Sustainability
+
+7490398655846424577 | Watershed | image | 106w
+    Audit preparation shouldn't require weeks of spreadsheet wrangling. In our next AI academy, two Watershed AI Fellows will show how they built audit-ready AI workflows in weeks—with no prior AI experience. You'll learn how sustainability teams are using AI to: 🔹 Clean, consolidate, gap-fill, and deduplicate data 🔹 Track ESG data and workflows and answer auditor questions faster 🔹 Prepare  [...]  formerly of Shamrock Foods, approached EPR compliance across more than 2,500 products. Register 👉 https://lnkd.in/gvqM6UrD #ESG #AI #Audit
+
+7492942999618760704 | Watershed | text | 43w
+    Introducing the Watershed calendar, your monthly guide to upcoming Watershed webinars. We bring together sustainability practitioners, climate experts, and industry leaders to tackle what's top of mind. See what's coming up, and register for the conversations that are relevant to your work ⬇️
+
+7492958025662701569 | Watershed | link | 92w
+    For Katie Hogan, using AI for sustainability data meant finding a more manageable way to approach extended producer responsibility (EPR) requirements across more than 2,500 products. For Christine Trella of Cimpress, it meant turning millions of rows of spend data into a cleaner, more traceable workflow for audit preparation. In our AI academy next week, they'll share what they built  [...]  complex sustainability data. Neither started with prior AI experience. Register to attend or get the recording 👉 https://lnkd.in/gvqM6UrD
+
+7493701799158321153 | Watershed | text | 29w
+    Proud to be part of the PACT (Partnership for Carbon Transparency). Our customers are already using Watershed to share product carbon footprints with their suppliers—this makes that even easier.
+
+7495124805751382016 | Watershed | image | 93w
+    TOMORROW 📅 Two Watershed AI Fellows will share how they moved sustainability's most manual compliance work out of spreadsheets and into audit-ready AI workflows. Christine Trella of Cimpress will walk through how she cleaned millions of rows of spend data and automated parts of audit preparation. Katie Hogan, formerly of Shamrock Foods, will share how she applied AI to extended  [...]  to see how the workflows were built, and what sustainability teams can learn from them. Register 👉 https://lnkd.in/gvqM6UrD
+
+7495531054271946752 | Watershed | link | 107w
+    Your first SB 253 report is due November 10, 2026. Tomorrow, August 19, we'll show you how to get it audit-ready. Join Watershed's policy team for the latest on CARB requirements and what's changed with SB 253, plus a live demo of building your report in Watershed with AI assistance and a full audit trail. You'll walk away with: 🔹  [...]  for CSRD, CDP, and more Register to join or receive the recording 👉 https://lnkd.in/gkCedS3c #SB253 #CARB #CSRD #CDP
+
+7495814414986825728 | Watershed | video | 159w
+    Here's something new to try with Watershed agents: reusable skills. Whenever you automate a complex task in Watershed that you might need again, simply ask Watershed agents to save it as a reusable skill that your entire team can leverage. This week, customers have saved skills that help them: ✅ Compare YoY footprint changes with an audit log ✅ Check  [...]  What task do you find yourself doing again and again that you'd like to be able to automate?
+
+7496227046595903488 | Watershed | image | 87w
+    Santa Fe Relocation uses Watershed AI to respond to CDP, and Karen Maher said it better than we could! With Watershed, customers can use AI to: 🔹 Draft, edit, and predict scores on CDP reports 🔹 Track every change to keep audits smooth 🔹 Improve responses with suggested edits, and see peers' responses 🔹 Push answers directly into the CDP  [...]  Join our upcoming sessions on California SB 253, the CSRD, AASB, and more 👉 watershed.com/events #CDP #AI #Sustainability
+
+7497672844647120898 | Watershed | image | 29w
+    Henry Schein cut its limited assurance timeline in half and trained 80+ global team members in under an hour. Here's how they partnered with us to get there: https://lnkd.in/g46QRBzw
+
+7498067750511071232 | Watershed | text | 97w
+    📣 Our August sustainability policy briefing is out from Madhav Seth, Watershed's policy lead. This month: CARB released its first concrete scope 3 proposals for 2027 SB 253 reporting, naming five mandatory categories companies should start planning for now. In Europe, EFRAG published its first draft of the ESRS 40a for non-EU companies. And despite the SEC's move to withdraw  [...]  the details, and what to do next, are in the full edition. 👇 #SB253 #ESRS #SEC #EFRAG #CARB
+
+7498095609019711491 | Watershed | link | 128w
+    Last call to register 🚨 The simplified ESRS are final. Now: how do you actually build an audit-ready CSRD report? Tomorrow, August 26, join Paul Mertenskötter from Covington & Burling LLP and Watershed experts to break down what the simplified standards actually changed, what auditors push back on, and where companies get stuck—from materiality scoping across entities to what "audit-ready"  [...]  responses using context from prior reports and peers. Register for the live session 👉 https://lnkd.in/gJfVpETA #CSRD #Reporting #Sustainability
+
+7498442003588866048 | Watershed | image | 116w
+    CSRD reporting just got a whole lot faster ⚡ Our new CSRD reporting experience takes you from raw data to audit-ready output—without months of manual work. Here's what it does: 🔹 Data ingestion cleans and structures messy supplier files on upload 🔹 150+ automated error checks flag gaps and inconsistencies before your auditor does 🔹 Upload your own content, and  [...]  report when you're done The team at Liberty Global is already putting it to work. #CSRD #ESRS #SustainabilityReporting
+
+7498777766859964416 | Watershed | image | 44w
+    Reading and cleaning 1,300 utility invoices used to take three weeks. With sustainability AI, it takes two days. Leading sustainability teams aren't just talking about AI—it's already essential to how they work. See six examples of how it's responsibly deployed: https://lnkd.in/gUCjp5vJ #AI #Sustainability #SustainabilityAI
+
+7499103619175342081 | Watershed | image | 82w
+    Our 2026 sustainability report is here. Watershed customers now represent more than 3.5 billion tonnes of CO₂e under management. Together, they've catalyzed over $500 million in new clean energy investment, supporting 270+ solar and wind projects across six countries. The report shares some of the teams behind that progress—from Medtronic reducing time and cost to build PCFs to Figma investing  [...]  We're also sharing our own progress, including a 15% year-over-year reduction in emissions. Read the full report: https://lnkd.in/gPzYXzgz
+
+7500202046017585152 | Watershed | video | 118w
+    3,000 hours of EPR work ➡️ 16–20 hours. That's what Katie Hogan, formerly of Shamrock Foods, achieved by rebuilding the process with AI agents. Working across 2,500+ products, Katie built a reusable workflow that organized the data and verified material weights to the hundredth of an ounce, reducing internal EPR effort by 75%+. At our recent AI Academy, she was  [...]  to get audit-ready, clean messy data, and stay ahead of regulations like EPR. Get it here 👉 https://lnkd.in/gvqM6UrD
+
+7500568447064588288 | Watershed | image | 78w
+    Something new to try with Watershed agents: create a dashboard. Dashboards turn analysis into shareable, live insights with key takeaways, charts, and supporting data. Customers have already created hundreds of dashboards, including: 🔹 Emissions broken down by entity & facility 🔹 Data center emissions 🔹 Footprint & methodology comparison 🔹 Business travel deep dive Join us on September 3 to hear how Watershed customers Pearson and Royal Mail are using agents to transform their own workflows 👉 https://lnkd.in/gApbd3NT
+
+7500609723130458113 | Watershed | video | 79w
+    37% of sustainability leaders say a skills gap is holding them back from using AI. The Watershed AI Fellowship was built to close that gap. Hear from Kyle Robertson on what the program unlocked for his team. Applications are open to our customers for the next cohort—an eight-week program where you'll work alongside our AI product leaders, get early access  [...]  new features, and build AI workflows with a small peer group. Watershed customers only. Apply now 👉 https://lnkd.in/gqa_mbR6
+
+7500824885368238080 | Watershed | image | 119w
+    🇬🇧 We're heading to Sustainability LIVE London this September, and we're hosting a conversation you won't want to miss. On September 8, Watershed's Lizzy Almond is joining Christian Boothby, Sustainability Manager at Smiths Group plc, for a workshop on how his team built an AI-powered pre-audit footprint checker using Watershed agents, automating anomaly detection and gap reporting across ~300 sites,  [...]  you're joining us in London, we'd love to see you there! Register here 👉 https://lnkd.in/gHVDwCBn #SustainabilityLive #Sustainability #AI
+
+7500980167796826112 | Watershed | image | 138w
+    Ask the Watershed team for our favorite books on climate, and Dr. Ayana Elizabeth Johnson's books (most recently, “What If We Get It Right? Visions of Climate Futures”) top the list. Our Head of Marketing, Alexa Schirtzinger says: “It offers much-needed optimism, grounded in reality, around a simple premise: We have the climate solutions we need. We just need to  [...]  the afternoon of September 22, get in touch with your Watershed contact or message us here. #nycw #climateweeknyc
+
+7501300773994057729 | Watershed | link | 159w
+    You can't defend a number you can't trace. When the path from source data to final disclosure runs through disconnected spreadsheets, documents, and approval steps, it can become difficult to explain how a figure was produced—or reproduce it when an auditor asks. Paul Mertenskötter, Special Counsel at Covington & Burling LLP, on what assurance providers look for: “Seeing an audit  [...]  Indirect Procurement. Missed the session? Register for our upcoming CSRD demo on September 22: https://lnkd.in/gbYdXNc9 #CSRD #ESRS #SustainabilityReporting
+
+7501385498213556224 | Watershed | link | 143w
+    📣 CARB just opened the portal for submitting first-year SB 253 reporting—and released accompanying guidance. Here's what you need to know: 🔹 Scope 1-2 emissions reports are due by November 10. 🔹 The submission guidance issued this week is consistent with everything CARB has shared previously, with no new requirements. 🔹 To streamline submission and fee-payments, CARB opened its “Intake”  [...]  need to wait until November. Our full guide to California's climate disclosure rules: https://lnkd.in/gaBsj8Qi #CARB #SB253 #SB261 #ClimateDisclosure
+
+7502750402631827457 | Watershed | video | 64w
+    “Going from working in spreadsheets to Watershed was a huge jump; agents has been a bigger jump.” For Lauren Esposito at Booking Holdings, Watershed agents have transformed her day-to-day in ways generic AI couldn't. Agents are purpose-built for sustainability, combining specialized expertise with a secure environment for sensitive company data. Hear Lauren explain what that changes for her team. 👇 Booking Holdings (NASDAQ: BKNG)
+
+7503086186953912320 | Watershed | image | 97w
+    Every company reporting scope 2 emissions lives with two numbers for the same electricity: location-based and market-based. In Watershed, you can seamlessly: 🔹 Break down location-based and market-based side by side, down to each facility 🔹 Explore and compare the emissions factor behind both 🔹 Easily see, explain, and trace where emissions factors differ When a number shifts year over  [...]  to factor to emissions number, you, your team, and your auditors all have fewer questions and more answers.
+
+7503123893440876545 | Watershed | multi-image(3) | 75w
+    Great day 1 at Sustainability LIVE! 🎉 We kicked things off with an AI workshop alongside Christian Boothby from Smiths Group plc, digging into how his team built a pre-audit footprint checker using Watershed agents. Later, Sadhbh Hoban-Logan and Lizzy Almond from our team took the stage for a live demo and innovation session, showing our agents in action. If you're at the show tomorrow, come find us at the booth. We'd love to chat!
+
+7503151041434193921 | Watershed | text | 13w
+    The simplified ESRS have passed scrutiny: full updates here 👇 from Madhav Seth
+
+7503803493816729600 | Watershed | link | 207w
+    One of carbon accounting's most important datasets is going fully open source — pipeline and all. We're proud to partner with AdAstra Sustainability to open-source the code behind Orbae, the leading land use change (LUC) dataset. It will live as part of the Cornerstone Sustainability Data Initiative, which is also home of the USEEIO, CEDA, Emissions Factor Hub, and eGRID.  [...]  report on their land use change impacts using a shared, trusted foundation. More on the partnership 👉 https://lnkd.in/gAYTJ68p
+
+7503850459611447296 | Watershed | image | 189w
+    We know many sustainability teams are small—and that makes it hard to find peers to share best practices (or commiserate) with, let alone a room full of them, ready to share what they've learned. On Sept. 22, we're bringing together sustainability leaders from some of the world's leading companies for an invite-only afternoon in NYC. We still have a few  [...]  https://lnkd.in/gJp22sr2 *Disclaimer: this graphic was developed when our designers were offline. We humbly beg their forgiveness. #climateweeknyc #nycw
+
+7504224008649904128 | Watershed | link | 113w
+    Verdantix benchmarked 14 vendors across scope 3 capabilities. Their findings offer striking confirmation of Watershed's market leadership and the value we bring to our customers. In the 2026 Smart Innovators: Supply Chain & Product Carbon Management report, Watershed received strong scores in all eight areas assessed, with market-leading scores in supply chain emissions calculation, product carbon footprint methodology, hotspot identification  [...]  management and emissions reduction initiatives." - Alessandra Leggieri , Senior Analyst, Verdantix Download the full report 👉 https://lnkd.in/gTe7iBfg
+
+7480961008161923072 | Wiz | video | 120w
+    The Wiz Agent Lab is landing at BLACK HAT 2026… and it's about to BLOW YOUR MIND! 💥 📅 August 4-6 | Las Vegas 📍 Booth #2148 Black Hat highlights you can't miss: 1) Workshops: Get hands-on with Wiz experts exploring AI security and incident response strategies. 🛠️ 2) Wiz party: Join us on August 4, together with our partners  [...]  until you see everything we have planned. Things are about to get I-N-S-A-N-E >> https://lnkd.in/eN8dknQR See you soon...
+
+7481324537553473536 | Wiz | image | 66w
+    🎧 Just dropped: an exclusive interview with John Hammond on the industrialization of cybercrime. In the latest episode of Crying Out Cloud, Amitai Cohen & Eden Naftali explore autonomous AI agents, hands-free zero-day hunting, and why defenders need to master these tools before attackers do. 🚨 The "lone hacker in a hoodie" era is over. Today's threat actors operate like well-funded organizations. Listen now 🎙️ https://lnkd.in/ehZUTweF
+
+7482406337319055360 | Wiz | image | 120w
+    🚨 GhostApproval: We tested 6 AI coding assistants. What we found changed how we think about AI security. Our Wiz Research team uncovered #GhostApproval, a new vulnerability pattern affecting 6 major AI coding assistants. The idea behind these tools is simple: the AI suggests a change, and you approve it. But what happens when the approval screen doesn't show what's  [...]  thanks to the vendors who worked with us to fix these issues. 🔍 Read the full research: https://lnkd.in/gkdXWNTG
+
+7482752753220599808 | Wiz | image | 89w
+    THREAT UPDATE 🚨 GitHub Actions misconfig → 5 malicious npm packages → 140K+ daily downloads. 🔍 Here's what happened: 1) Attackers exploited a GitHub Actions "pwn request" flaw to steal a privileged GitHub token. 2) They used it to publish malicious @asyncapi packages containing a multi-stage payload that activates on import. 3) The malware steals credentials, tokens, cloud keys, crypto  [...]  full attack chain, indicators of compromise, and how teams can investigate and respond. Read the full analysis: https://lnkd.in/edKPxTnE
+
+7483145398744879104 | Wiz | multi-image(2) | 111w
+    ✏️ Block your calendar now. 2 HANDS-ON WORKSHOPS, with real-world scenarios & practical skills you'll actually use and maybe even win some swag! Join the Wiz team at Black Hat 2026 to learn how to: 1) navigate the new era where AI-powered attackers move at machine speed. 2) Build a practical playbook for supply chain incident response. Choose your WORKSHOP  [...]  Supply Chain Incident Response 📅 Wednesday, August 5 📍 Oceanside E Register on your Black Hat app: https://lnkd.in/eRQBye_i
+
+7483558557536342016 | Wiz | multi-image(5) | 98w
+    🏆 GAME DAY GIVEAWAY: Score an exclusive soccer Agent Tee. ⚽ Tees include ↓ ❤️ Red Agent Tee: The Striker, for the attackers who love leading the front line 💙 Blue Agent Tee: The Center Back, for those who love defending, and stopping attacks 💚 Green Agent Tee: The Box-to-Box Midfielder, for those who like recovering loose balls and building  [...]  instincts]. 2. Closest predictions win an exclusive Agent tee. Enjoy the game! 🍻 — Terms & conditions: https://lnkd.in/edS_B2wt
+
+7484951989299220480 | Wiz | image | 117w
+    AI can generate a fix in minutes. But only if it knows where to look 👀 The cloud doesn't need another vanity metric. It needs a governance metric. That's why we think IaC coverage belongs on every security dashboard. Not as a single percentage, but as a funnel: 1) What could be managed in code. 2) What is tracked by  [...]  we're rethinking IaC coverage, and why it might be the security metric your dashboard is missing. 👇 https://lnkd.in/eD42p2Xg
+
+7485314720380465152 | Wiz | video | 58w
+    🎊 300 WIN INTEGRATIONS. WHAT. A. MILESTONE. 🎊 Times Square is glowing Wiz today! 🗽 In the AI era, great partnerships matter more than ever. To the 300+ partners who built, tested, and scaled alongside us in the past 3 years: This milestone is yours. THANK YOU for building the future of cloud security with us 💙 https://lnkd.in/eaYc4pwR
+
+7485658575789531136 | Wiz | image | 53w
+    🎉 YOU'RE INVITED: The Wiz Black Hat Party! 🎉 Join Wiz & our partners Arctic Wolf, Databricks, Echo and Google Cloud Security for: 🍸 Great drinks & Great conversations 📅 Tuesday, August 4 ⏰ 7:30 PM PDT 📍 Bourbon Steak Black Hat starts here. 👇 Spots are extremely limited (really.) RSVP now: https://lnkd.in/e4qZKTkT
+
+7486060309766447104 | Wiz | link | 112w
+    🚨 Your Black Hat schedule just filled itself. Behind every cloud breach is a story. Hear it from the experts who were there ↓ Join Wiz at Black Hat 2026 for deep dives into: 1) Yotam Meitar on 'Inside a Cloud Extortion Attack: A Case Study From the Front Lines' 📅 Aug 5 | 3:15 PM | Pulse Stage O2  [...]  Crypto Caper: Exposing a Sophisticated Multi-Cloud Bandit' 📅 Aug 6 | 2:35 PM | Mandalay Bay GH https://lnkd.in/eN8dknQR
+
+7486389806734741506 | Wiz | image | 78w
+    What's hiding inside the virtual appliances protecting your cloud? 🔓 Virtual appliances are everywhere [Yes, 52% of cloud environments have at least one]. They're internet-facing, highly privileged, and often invisible to traditional EDR. Attackers know this... So we decided we're changing the game with agentless visibility 👇 HOW? Learn more in our new blog series: 1) Agentless Threat Detection: Illuminating Cloud Blind Spots >> https://lnkd.in/eb3n2Gk4 2) Opening the Black Box: Agentless Threat Detection for Virtual Appliances >> https://lnkd.in/e-KzDP_f
+
+7487531709954035714 | Wiz | image | 80w
+    🧠 Meet Atlas: Our AI researcher, built to find bugs that humans miss. Wiz Research created an autonomous vulnerability researcher that can analyze complex codebases, develop exploit paths, and prove its findings. 🚨 The results? 1) #1 on CyberGym with a 90.90% success rate 🏆 2) 200+ previously unknown vulnerabilities found in heavily audited open-source projects This research is shaping  [...]  building Wiz Code: helping teams secure applications with continuous AI-powered analysis, from code to cloud. Learn more: https://lnkd.in/eJUQ_zfi
+
+7487867876125822977 | Wiz | multi-image(10) | 67w
+    We turned real cloud incidents into the world's 1st IR COMIC BOOK 🦸‍♂️ Meet The Adventures of a Cloud Detective: From the first alert to tracking the attacker across the cloud and uncovering stolen credentials on the dark web, every page is based on how real investigations unfold. Comment below: what's the one incident response rule you never break? — (sneak peek of the first chapter ⬇️)
+
+7488231880337645568 | Wiz | video | 88w
+    🚨 IT'S OFFICIAL! Wiz Red Agent is now GA. Attackers are using AI to find vulnerabilities faster than ever. Now you can stay ahead with our AI Attacker. The Wiz Red Agent delivers continuous AI-powered pen-testing that uncovers the logic flaws, hidden APIs, authorization bypasses, and exploitable risks traditional scanners miss. During preview: 1) 10,000+ validated critical risks found 🔥  [...]  3) 35% found their first verified Critical issue within 1 hour Right before Black Hat learn more: https://lnkd.in/e_Pz6_aP
+
+7488564326279204864 | Wiz | image | 112w
+    🚨 CosmosEscape: We found a single key that unlocked every database in Azure CosmosDB The Wiz Research team uncovered a critical vulnerability in Azure Cosmos DB that enabled full read & write access to every Cosmos DB database. What happened? - One Gremlin query >> Remote code execution (RCE) - We Discovered the "Cosmos Master Key" - This led to  [...]  changing cybersecurity. Thank you Microsoft for acting quickly to fully remediate the issue. Read the full research: https://lnkd.in/dBK6zJCG
+
+7488924275102429184 | Wiz | video | 57w
+    🏆 Introducing Wiz Brackets, where the biggest cyber threats go head-to-head. 🥊 Our threat researchers Danielle A. & Merav Bar break down which attack wins on complexity, impact, novelty & responder pain This week's battles: 1. XZ Utils vs. S1ngularity 2. Shai-Hulud vs. TeamPCP Who will be crowned the worst attack? Watch the full episode 🎬 https://lnkd.in/d_W3spSA
+
+7490052843152805889 | Wiz | image | 69w
+    Right on time: Introducing the Wiz Sensor for Developer Workstations! 🧑‍💻 Developer workstations have become the new security perimeter. Today we're doing something about it. What's new? 👀 Continuous visibility into your AI stack, packages, secrets, and IDE extensions across the developer fleet. AI governance and supply chain protection, starting where attacks actually start. 🎩 Read more here & meet us at Black Hat to learn more → https://lnkd.in/dwSK4kMh
+
+7490371730574819329 | Wiz | image | 114w
+    🚨 Research alert: NEW npm supply chain attack. A compromised maintainer account was used to publish malicious versions of keyv, cacheable, and related packages - delivering malware that steals cloud credentials, developer secrets, CI/CD tokens, AI configs, and crypto wallets. Wiz Research identified this campaign as a new evolution of the Shai-Hulud malware family, with attackers expanding their reach from  [...]  impact. Affected packages include keyv, cacheable, and related dependencies. Check affected versions, IOCs, and mitigation steps 👇 https://lnkd.in/enaueuuh
+
+7490420674025570304 | Wiz | image | 118w
+    🚨 Everything you need to know about Wiz at Black Hat 🚨 This year, we introduced our vision for AI Threat Readiness, because AI is changing security faster than ever. ⭐ Here's what's NEW ↓ 1) Red Agent GA: Finds exploitable logic risks before attackers do. 2) Developer Workstation Sensor: Secures the new developer perimeter. 3) Atlas: Shifts AppSec from  [...]  fixes at scale. This is our biggest Black Hat yet. Learn more & SEE YOU THERE >> https://lnkd.in/e-Ri_nBT
+
+7490632268047245312 | Wiz | multi-image(5) | 62w
+    🚨 OUR RED AGENT IS TAKING OVER VEGAS 🚨 Literally. While everyone else is here for Black Hat, Red Agent has other plans. 🤖🎰 It's hunting for attack paths, testing defenses, and generally causing trouble across the Strip. Want to see what happens when an AI agent thinks like an attacker? Find Red Agent at the Wiz Agent Lab. 📍 Booth #21482
+
+7490733143138938880 | Wiz | multi-image(2) | 48w
+    🎰 THE Wiz AGENT LAB IS OFFICIALLY OPEN IN VEGAS 🎉 AI agents have taken over Black Hat. Inside: 🔴 Red Agent in action 🧠 Live demos with the team 🎮 Interactive experiments 🎁 Dangerously good swag This isn't your average booth. Come find us at Booth #2148.
+
+7490783702340308993 | Wiz | multi-image(7) | 45w
+    PARTY MODE: ON! Black Hat AFTER DARK. 🌙🥂 Huge thank you to everyone who joined us - and especially to our incredible partners Arctic Wolf, Databricks, Echo and Google Cloud Security who helped make the night happen. 🤝 Vegas definitely showed up. Until next time…
+
+7490999620412624896 | Wiz | multi-image(2) | 35w
+    Vegas in August? We came prepared.🍦 We brought *CISO Scoops* to Black Hat - because even cybersecurity pros need to cool down. 😎 Lets talk security scoops, and grab something cold, and VERY necessary. 🍨
+
+7491192819068461056 | Wiz | multi-image(4) | 72w
+    AI security got VERY hands-on at Black Hat. 🤖 From putting AI security tools head-to-head with Wiz Red Agent to breaking down supply chain attacks, our workshops were 🔥🔥🔥. Huge thanks to Mika Maymon , Gal Nagli, Shira Ayal, and Yuval Dan for bringing the expertise, and plenty of hacking to the stage. And thanks to everyone who joined us, and got their hands dirty. That's how we do workshops at Wiz.
+
+7491464663952551937 | Wiz | multi-image(6) | 19w
+    BLACK HAT 2026, THAT'S A WRAP. 💙 Thanks to everyone who stopped by! Vegas, we'll be back. Promise. 🎰🤖
+
+7492546878191001600 | Wiz | image | 96w
+    🎧 Just dropped: Are we automating away the next generation of security experts? 🚨 In the latest episode of Crying Out Cloud, Amitai Cohen & Eden Naftali are joined by Daniel Miessler, founder of Unsupervised Learning and creator of Fabric, to unpack what we might lose when AI does more of the work for us - and how we can  [...]  automate, are we creating a blind spot for the future of cybersecurity? 🔗 Listen now: 🍏 Apple: https://lnkd.in/egyYaEHJ
+
+7492897700884025344 | Wiz | video | 36w
+    👀 Spoiler: Something is about to be confessed… We put our threat researchers Merav Bar & Dan Becker on the hot seat. No filters or question off-limits. Ready for the Wiz Autocomplete Confessions? 🎥 Coming tomorrow...
+
+7493271511781531648 | Wiz | video | 51w
+    🔍 What do threat researchers really talk about when they're not hunting zero-days? Introducing... The Wiz Autocomplete Confessions. We put Merav Bar and Dan Becker on the hot seat for Wiz Autocomplete Confessions → and let's just say… they had a LOT to say. 👀 🎥 Watch the full video ↓
+
+7493353617157066752 | Wiz | image | 88w
+    What's up with the cloud lately? We analyzed thousands of cloud environments so you don't have to 🕵️‍♂️ The H1 2026 Cloud Threat Highlights report is officially out! Here is what you need to know: • Overall threat activity jumped 60% from last half • Supply chain attacks doubled • AI tools are officially in the crosshairs • Attackers are  [...]  fast detections are already helping teams stop these tactics in their tracks. See exactly how they operate: https://lnkd.in/eSpczymM
+
+7493639499495743490 | Wiz | multi-image(13) | 58w
+    🎁 GIVEAWAY: Our NEW Wiz Research Newspaper just dropped 🗞️ A real printed newspaper packed with the latest cloud security news, your horoscope & even our IR comic (!) Want your Cloud Security Horoscope? 🔮 Drop your birthday in the comments for your Cloud Security Horoscope. You might even WIN A COPY delivered to your doorstep... 📬 https://lnkd.in/dn4tvZt7
+
+7494047149542961153 | Wiz | image | 86w
+    Finding sensitive data is officially the easy part 👀 AI just rewrote the rules for data security. A sensitive record sitting quietly in a database is one thing. But when an autonomous AI agent can suddenly access it, act on it, and move it somewhere else? That is a completely different challenge. The real work is understanding what that data  [...]  identities, and permissions built around it. 🧠 We break it all down in our new blog >> https://lnkd.in/dbHV6-ye
+
+7495118058458357760 | Wiz | image | 125w
+    🚨 BREAKING: Wiz's AI attacker autonomously accessed Snowflake's internal Jira with a single public GitHub issue. Wiz Red Agent independently found a GitHub Actions injection that became live just five days earlier 🤯 In a fascinating glimpse of the new AI-vs.-AI paradigm, an AI-generated vulnerability was independently exploited by another AI. Without human intervention, Red Agent: 1) Learned from an  [...]  window. Huge kudos to Snowflake for swiftly addressing the issue 👏 Read the full technical breakdown → https://lnkd.in/evrr8HHP
+
+7495444549746593792 | Wiz | image | 121w
+    🚨 80% of cloud environments now run MCP servers. But security adoption hasn't caught up. Wiz Research looked into exposed MCP servers across the web and found unauthenticated endpoints returning real production data, internal records, and IAM write actions. The numbers behind the gap 👇 • 1 in 6 environments expose at least one MCP server • 70% return their  [...]  enable prompt logging for AI agents. Read the full breakdown by Hila Ramati on the Wiz Blog: https://lnkd.in/ekV5X8mm
+
+7495521851406864384 | Wiz | image | 57w
+    WOOHOO!☀️ We are #1 in over 164 reports on G2 this summer 🍉 We just broke our own record! This season, Wiz brought home 264 G2 medals and secured 164 Rank #1 placements across 18 categories and 10 global regions. To our incredible community & customers: THANK YOU. You make the magic happen every single day 💙
+
+7495816086865645569 | Wiz | image | 58w
+    Attackers are using AI to make Entra ID registered devices look… normal. Generic names like `Work PC` can slip past the static fingerprints defenders have relied on for years. As these artifacts blend in, defenders must adapt: • Drop static identifiers • Focus on behavioral detection • Correlate activity across the attack chain Read the research 👉 https://lnkd.in/ej7SnhUx
+
+7495872645809410048 | Wiz | image | 71w
+    📣 Wiz Penetration Test Findings is officially GA! Unify bug bounties, red team audits, and AI scanner findings in one place & map them directly against cloud context. Why is this a game-changer? 1) AI automatically extracts findings, severity levels, and assets into actionable items. 2) Connect human-validated exploits to identity privileges & lateral movement paths. 3) Route issues directly to code owners and automate remediation Catch the full breakdown: https://lnkd.in/epiHnnTw

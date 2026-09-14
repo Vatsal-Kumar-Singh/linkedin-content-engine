@@ -1,0 +1,169 @@
+# batch 009  -  55 posts  -  label per research/CLASSIFICATION-PROTOCOL.md
+# labels: problem exploration requirements selection validation consensus
+#         recruitment culture event product-news csr unclear
+# write research/labels/009.tsv as: <id><TAB><label>
+
+7483579731884302336 | Chef Robotics | multi-image(2) | 124w
+    Food manufacturers usually adopt meal assembly robots to solve labor shortages, increase throughput, improve consistency, and reduce giveaway. There's another benefit resulting from all of these: reduced carbon emissions. When manufacturers reduce giveaway, improve portion consistency, minimize spillage, and prevent food waste from incomplete production runs, they save costs (see our carousel below), but they also reduce the amount of  [...]  ways in which robotic food assembly helps manufacturers reduce both operating costs and emissions: https://lnkd.in/gTbTSXr8 #foodmanufacturing #sustainability #foodwaste
+
+7483918073134161922 | Chef Robotics | link | 88w
+    We're excited to welcome Mikhail Zherebnenko to our Customer Support team! Mikhail joins us as a Robotic Operations Engineer, helping deploy Chef robots at customer sites and improve how we operate and support them in production. With a degree in Applied Mathematics from the University of California, Berkeley, and experience testing autonomous systems at Zoox, Mikhail brings a strong combination  [...]  a team that deploys physical AI in the real world? See our open roles: https://lnkd.in/g2J6g63b #robotics #ai #hiring
+
+7485060609017802752 | Chef Robotics | video | 79w
+    Throwback to last year's Foodservice Conference trade show. A lot has happened since last year's show: Chef's physical AI models now handle more applications and ingredients at higher speed. We're bringing the team back to Monterey this week. Stop by to see how Chef robots pick and place a wide range of ingredients, scoopable and discrete, across high-mix meal assembly  [...]  Find us at booth 808 from July 22–24 in Monterey! Request a meeting: https://lnkd.in/g66aaF7z #foodserviceconference #foodautomation #foodmanufacturing #physicalai
+
+7485401944954609664 | Chef Robotics | text | 77w
+    We're expanding our team in Germany and are excited to welcome Pawan Kumar S to Chef! Pawan joins us as an Application Engineer supporting Chef customers across Europe. He brings valuable robotics experience, including three years working on robot kinematics at Siemens Healthineers, as well as a master's degree in Electromobility-ACES, AI, and Robotics. At Chef, Pawan will help our European customers onboard, deploy, and get the most out of Chef robots. Welcome, Pawan! #robotics #ai #hiring
+
+7486476678563581952 | Chef Robotics | text | 80w
+    We're excited to welcome John Hare to Chef! John joins us as a Senior Supply Chain Manager on our Hardware Engineering team. He brings close to a decade of operations and supply chain experience, most recently as Senior Supply Chain Program Manager at RIOS Intelligent Machines. At Chef, John will lead our supply chain efforts as we build robots right  [...]  San Francisco and deploy them at customer sites across North America and Europe. Welcome, John! #robotics #ai #hiring
+
+7487617643399536641 | Chef Robotics | image | 162w
+    Every meal makes the next one better. Chef robots have assembled more than 120 million servings in production, generating one of the world's largest datasets for food manipulation along the way. Every serving adds production data that improves our physical AI models—helping Chef robots handle more ingredients, more tray types, and more edge cases, all on the same hardware. This  [...]  and why we believe production data is one of the strongest moats in physical AI. Read more: https://lnkd.in/ggRnZWbc
+
+7488669692522332160 | Chef Robotics | video | 109w
+    How should robots learn when things don't go as planned? Our latest engineering blog introduces ValueFormer, a lightweight critic model that helps our Food Foundation Model learn from mistakes, not just successes. ValueFormer watches the same camera feeds as our robot, evaluates progress in real time, and provides feedback that behavior cloning alone can't. By incorporating human interventions and critic-generated  [...]  human expertise, and continuous learning to create robots that improve over time. Read the full tech blog: https://lnkd.in/gNd4Zs2v
+
+7490120259920822273 | Chef Robotics | link | 133w
+    A food depositor deposits one ingredient. A Chef robot assembles an entire meal. Here's when each one is the right fit. Depositors (also called dispensers or fillers) are excellent at depositing one flowable ingredient like sauces or dressings at high speed. But they fall short for high-mix meal assembly for two reasons: → A depositor is unable to handle many  [...]  robots to solve this. Here's a buying guide comparing the two in detail: https://lnkd.in/gdebFNng #foodmanufacturing #foodautomation #mealassembly #foodrobotics
+
+7490498870674649088 | Chef Robotics | link | 195w
+    We just published a new survey paper on vision-language-action models (VLAs) for bimanual manipulation. VLAs have gained popularity in robotics research, but while they've demonstrated impressive capabilities, it can be difficult to understand how different architectures compare and which ones are best suited for real-world deployment, especially for bimanual manipulation. To answer these questions, we reviewed more than 200 papers  [...]  3. The safety and reliability needed for large-scale commercial deployment Read the full survey paper: https://lnkd.in/gWYmtwQH #robotics #physicalai
+
+7491191923995496448 | Chef Robotics | video | 119w
+    What does it take to build a lasting food business? In Episode 2 of our Food Builders podcast, Rajat sits down with Sameer Malhotra, Co-Founder and CEO of Cafe Spice, to discuss the company's journey from a family-run restaurant business in New York City to a leading producer of ready-to-eat meals. Sameer shares how he and his father, Sushil, scaled  [...]  and the food industry. 🎙️ Watch or listen to the full episode on YouTube: https://lnkd.in/gfra4caX or Spotify: https://lnkd.in/g6wwmTNH
+
+7491556731160911872 | Chef Robotics | video | 146w
+    Most companies raise capital to find product-market fit. At Chef Robotics, we did it the other way around. From day one, our CEO, Rajat Bhageria, insisted on this: don't go to investors with a vision alone. Bring evidence from customers. Signed commitments. Willingness to pay. Proof that the problem is real, not just interesting. That sequencing runs against the standard  [...]  and changeovers under 10 minutes. More of this in the TechCrunch Disrupt conversation: https://lnkd.in/gxhfzj8d #techcrunchdisrupt #aiandrobotics #foodautomation #physicalAI
+
+7493377146409807872 | Chef Robotics | link | 201w
+    Given how fast AI research is evolving, it might be surprising how relevant papers published a decade ago can still be today. Congratulations to our Senior Staff AI Research Scientist, Inkyu Sa, whose 2016 paper, DeepFruits, was recently recognized by Sensors MDPI as one of the journal's Most Influential Papers (2001–2026): https://lnkd.in/eVfEHsxa Inkyu's paper focused on helping agricultural robots detect  [...]  perception and food manipulation remain surprisingly similar. Congratulations, Inkyu, on this well-deserved recognition! Read his paper at https://lnkd.in/gw94Wv3
+
+7493719675139362816 | Chef Robotics | image | 167w
+    What if robots could imagine what happens next before they act? That's the promise of world models: AI systems that learn to predict possible futures, plan, learn, and generate new experience before taking an action in the physical world. In our latest survey paper, we map the rapidly evolving field of world models and world-action models. We cover over 220  [...]  need to be solved before we can bring world models into the physical world: https://lnkd.in/g8m46i-7 #robotics #worldmodels #physicalai
+
+7494061798489272320 | Chef Robotics | link | 71w
+    We're excited to welcome Ron van Thiel to Chef! Ron is joining us as a Staff Mechanical Engineer. With a mechanical engineering degree from the University of California, Berkeley, and decades of work experience, most recently at Bear Robotics and EverCharge, Ron brings deep robotics and food industry experience, helping us design faster, more reliable robots for the food industry. If this sounds interesting to you, see our open roles: https://lnkd.in/g2J6g63b
+
+7494080560223662080 | Chef Robotics | link | 204w
+    How many auger fillers does it take to fill a three-ingredient tray? Three, as each filler is calibrated for one ingredient. High-mix meal assembly requires equipment to handle many ingredients, constant SKU changes, quick changeovers, and zero tolerance for giveaway. 𝗛𝗼𝘄 𝗮𝘂𝗴𝗲𝗿 𝗳𝗶𝗹𝗹𝗲𝗿𝘀 𝗯𝗲𝗵𝗮𝘃𝗲 𝗼𝗻 𝗮 𝗵𝗶𝗴𝗵-𝗺𝗶𝘅 𝗹𝗶𝗻𝗲 → Each filler has custom hardware for one ingredient; running dozens of  [...]  one Full comparison, including where an auger filler is still the right call: https://lnkd.in/gz8aAYj6 #Foodmanufacturing #Aiandrobotics #Foodautomation #augerfillers
+
+7495907503772217344 | Chef Robotics | video | 117w
+    You've probably already eaten food made by one of our robots; you just didn't know it. → The wrap you grabbed on your way to work → The frozen meal at Whole Foods → The salad from Trader Joe's → The meal on your last flight → The tray at a hospital → The lunch at a school cafeteria Today,  [...]  learn more about how automation is reshaping the food industry, watch Rajat's full conversation with NYSE theCUBE: https://lnkd.in/gtdvdc84
+
+7496276594131443712 | Chef Robotics | image | 85w
+    AI is changing not only software, but also how physical products are designed and built. In robotics, we're seeing shorter development cycles, fewer physical prototypes, and the ability to test more ideas before committing to one. Of course, AI can't replace every hardware-dependent process in an industry built around the physical world. But it can give us better tools to  [...]  spoke with Packaging Insights about what this looks like at Chef and where AI-enabled manufacturing is headed: https://lnkd.in/giAG73X8
+
+7499178542358745089 | Chef Robotics | image | 148w
+    What if a robot could predict the outcome of an action before it starts moving? Chef robots have made over 130 million servings in production. Each serving generates real-world data about the robot's action and its measured outcome. We're using this data to train a Food World Model, a neural simulator that predicts both how much food a robot will  [...]  ingredients. Read part 1 of our Food World Model blog series and explore the interactive pick visualizer: https://lnkd.in/g9vd_cBM
+
+7500628744450211840 | Chef Robotics | video | 124w
+    Our Food World Model (FWM) is trained to predict the outcome of a robot action before the robot takes it. Given the current state of an ingredient pan and a candidate pick, the model predicts how much food the robot will pick and what the pan's surface will look like after the pick. The visualization below shows the ingredient state  [...]  then executing the one predicted to produce the best outcome. Read more and explore our interactive visualization: https://lnkd.in/g9vd_cBM
+
+7500974146131251200 | Chef Robotics | link | 131w
+    Companies often start by solving a problem for one type of customer, only to realize later that the product they built may not be successful in that market. That's exactly what happened with Chef. But instead of waiting until it was too late, our team pivoted and adopted a different target market to start. Today, our robots have made over  [...]  this journey and why getting into production fast is essential to building a successful food robotics company: https://lnkd.in/gFn-YF5m
+
+7501321732230926336 | Chef Robotics | image | 209w
+    Chef robots run in production across North America and Europe today. Each robot needs to stay up, get fixed fast, and keep improving over time, no matter the time zone. 𝗧𝗵𝗲 𝗽𝗿𝗼𝗯𝗹𝗲𝗺 A robot in Europe can go down while our US team is asleep. Our robots combine hardware and software, so when something breaks, our engineers aren't just debugging  [...]  more headcount to our support team to make that happen. Read the full story on our blog: https://lnkd.in/gMQiZVTS
+
+7501347778174996481 | Chef Robotics | image | 65w
+    Chef Robotics is heading to the All-In Summit! 🤖 📅 Sept. 13-15, 2026 📍 Los Angeles, CA Rajat Bhageria, Jay Beversdorf, and Charlotte Kosche will show a Chef robot in action and answer your questions about physical AI, food manipulation, and what it takes to scale robotics in production. If you're attending the Summit, come find us. We'd love to connect! #allinsummit #physicalai #foodautomation #foodproduction
+
+7502050178082918400 | Chef Robotics | link | 26w
+    We're featured on Story Co's S3 video series! Big thanks to Jason Carman and his team for this excellent story! Check out the full video: https://lnkd.in/g48-t2iX
+
+7462591769151508480 | Clari | multi-image(4) | 72w
+    Hello Las Vegas! Come check us out at booth 317 at the Gartner CSO & Sales Leader Conference today and tomorrow. And don't miss the “Stop Managing Revenue Backward And Start Engineering Growth” session with our CEO, Steve Cox, and Senior Director of Product Marketing, Ben Weikert, tomorrow 2:45 - 3:15 PM PT to learn how to build a system that eliminates latency and connect real-time signals to execution. See you there!
+
+7462953370186842113 | Clari | video | 121w
+    How does a global engineering giant like Emerson modernize a traditional sales force? By connecting data, workflows, and teams around a more intentional sales process. Before Salesloft, Emerson's Measurement Instrumentation team was dealing with: fragmented prospecting, siloed teams, and limited visibility into what was actually driving results. According to Brian Fretschel, VP, Digital Selling Excellence at Emerson, the results with  [...]  their customers. Read the full story to see how they scaled this transformation across their global team: https://lnkd.in/gQu4viAJ
+
+7463323800693264385 | Clari | multi-image(7) | 155w
+    Vegas, you were a blast! We just wrapped up two incredible days at the Gartner CSO & Sales Leader Conference connecting with customers, swapping ideas with revenue leaders, and having some serious fun along the way. From conversations at the booth to taking laps at SPEEDVEGAS Motorsports Park, one theme kept coming up over and over again: Revenue teams are  [...]  this are a great reminder that the best part of this industry is the people behind the pipeline.
+
+7463630292457590784 | Clari | image | 13w
+    That feeling when you send your last email before the long weekend 💁‍♀️
+
+7465450336254599168 | Clari | link | 103w
+    The pipeline problem most teams face is rarely about a lack of effort. It's usually a lack of time. Sales teams are weighed down by the manual mechanics of prospecting, spending hours researching accounts and trying to identify the right stakeholders within complex buying groups. AI agents are changing this dynamic by taking over the heavy lifting of the early-stage  [...]  See how agents can power your pipeline and deliver the tailored engagement required in modern B2B selling: https://lnkd.in/gR4VQ6jK
+
+7465844632015323136 | Clari | image | 149w
+    "The team had hit max capacity, and we were trying to figure out how to get to the next level." That's where Tifani Lane, SVP of Sales at MOTOR Information Systems, was when they decided something had to change. Most sales transformations fail because teams try to change everything at once. MOTOR took a different approach. In our recent fireside  [...]  could immediately see value from. Watch the full fireside chat to see the exact roadmap they used: https://lnkd.in/gVn_6gbx
+
+7466126298130698240 | Clari | image | 133w
+    What does it take to integrate a $300M+ merged business while building for the future of AI-powered revenue orchestration? According to our CFO Rick Hasselman: unify, simplify, and position the business to act faster. On the CFO THOUGHT LEADER podcast with JACK SWEENEY 🎙, Rick shared how Clari + Salesloft is approaching one of the biggest integration efforts in company  [...]  business operates. Great conversation on integration, operational clarity, and building systems that help revenue teams act faster. https://lnkd.in/gvDUfkBp
+
+7467237615239335936 | Clari | image | 9w
+    How your email finds me on June 1st 😎
+
+7467575786007457792 | Clari | video | 119w
+    150 tasks waiting for you when you start your day. Every one of them feels important. That's the challenge Steve Harding tackles on The B2B Revenue Executive Experience podcast. He compares modern sales teams to a crowded airport. Every plane has passengers. Every plane has cargo. Every plane matters. But when everything is trying to land at once, you need  [...]  figure out which 10 things out of 150 need your attention first. Listen to the full conversation: https://lnkd.in/giFK6bq8
+
+7467938179539591168 | Clari | link | 125w
+    "Don't give me a handout. Give me an at bat." That's how our CMO Laurie Pratt Ehrbar puts it, and it's one of the clearest takes on what actually moves the needle for women in tech. Laurie sat down with diginomica to talk about her path from financial services to CMO, leading through multiple mergers and acquisitions, and why sponsorship  [...]  we're building with Women in Revenue to support our women throughout the organization. Read the full piece: https://lnkd.in/g2rN4mUj
+
+7468726891835899906 | Clari | image | 158w
+    The best players in the world don't just show up and wing it. They study tape, run drills, and rely on coaches who turn data into game plans — and game plans into wins. 🏆 Sales is no different. This week, we're launching "From the Pitch," a 7-day series spotlighting the finalists from our World Cup Demo Challenge. But this  [...]  dimension of what it looks like when intelligence and execution finally work together. Follow along. Game on. ⚽
+
+7469825888398856193 | Clari | link | 80w
+    3 minutes. That's all it takes to see exactly how much pipeline AI agents could unlock for your team. We built a pipegen calculator so you can stop guessing and start seeing the actual impact AI agents could have on your team. How many meetings could your reps book if buyer research took minutes instead of hours? How much pipeline  [...]  on the table right now because cold calls aren't converting? Answer a few questions. Get your number. https://lnkd.in/gpzf5mnk
+
+7470112499128815616 | Clari | video | 88w
+    Your pipeline isn't leaking at the top. It's leaking in the middle. Nate Nasralla calls this the complexity tax. Too many frameworks, unclear next steps, and buyers who don't know how to move forward with confidence. The problem is that good deals are slowing down, getting stuck, and quietly dying because the path forward isn't clear for the buyer. If  [...]  probably why. Watch the full Scaling with Simplicity Masterclass to learn how to spot and stop it: https://lnkd.in/gWBfdsfU
+
+7470181517676331008 | Clari | image | 107w
+    “From the Pitch” Day 1: Dylan G., Mid-Market Account Manager 🏆 Most revenue teams have a visibility problem and an execution problem. According to Dylan: This is the distinction most vendors gloss over. A dashboard handoff means you see the risk in one tool, then manually recreate context in another to act on it. You're doing the work the platform  [...]  along all week as we spotlight more of the finalists from our internal World Cup Demo Challenge. ⚽
+
+7470474875770413056 | Clari | link | 76w
+    AI is changing the math on customer retention, but not in the way most people talk about it. The best CSMs are using AI to understand how customers are really using the product, spot risk earlier, and personalize the experience in ways a standard report never could. That freed-up time goes back into the conversations that actually move the needle and build relationships. The ones falling behind are waiting to see how it plays out. https://lnkd.in/eP62R2xS
+
+7470527702836604930 | Clari | image | 194w
+    “From the Pitch” Day 2: Welcome to our series where we're showing how our field drives results for customers every day. Most sellers start the day the same way. Open their inbox. Figure out who to follow up with. Dig through notes from the last call. Build a list, and start over tomorrow. Jordan LeuVoy's days start differently: "When I  [...]  along all week as we spotlight more of the finalists from our internal World Cup Demo Challenge. ⚽
+
+7470837319898447872 | Clari | image | 37w
+    Boomers vs Gen Z jokes are funny. Until you realize they're costing companies $56 billion a year 👀 Yeah. Billion. With a B... Learn why this is happening and what actually helps in our recent report: https://lnkd.in/gmsJM8hi
+
+7470867487111282688 | Clari | image | 178w
+    Happy World Cup Day to all who celebrate! 🏆 For Day 3 of "From the Pitch," we're featuring Tommi Mann, Enterprise Account Director. Here's a question every revenue leader gets asked: "Where are we going to land this quarter?" Most of the time, the honest answer is: we're not totally sure. We're working off a snapshot. Tommi described what it  [...]  lead. Join us again tomorrow as we spotlight another finalist from our internal World Cup Demo Challenge. ⚽
+
+7471207667412148224 | Clari | image | 13w
+    The sales team watching AI agents do hours of grunt work in minutes
+
+7471244941575335936 | Clari | image | 136w
+    “From the Pitch” Day 4: Darian Amirpashaie, Mid-Market Account Executive 🏆 For years, the sales manager's job looked like this: Pull the pipeline report. Ask reps why deals are slipping. Take their word for it. Repeat next week. Darian calls that being a pipeline police officer. "This is where we shift that manager role from a pipeline police officer into  [...]  start driving outcomes. "So no tabs, no switching, no friction." Just clarity. And the ability to actually coach.
+
+7471326724698357760 | Clari | link | 34w
+    If you're tired of the “spray-and-pray” approach to outbound, this one's for you. Join Kimberly Collins and Joe Clarke, and learn how to build intentional, buyer-first emails. See you there! Register now 👉 https://lnkd.in/g867BD6F
+
+7472301918573207552 | Clari | image | 150w
+    "From the Pitch" Day 5: Jennifer Englehardt, Senior Enterprise Account Director 🏆 Think about how much revenue leaks between strategy and execution. Leadership sets the direction. Managers build the plan. Reps get a call list and a quota. Somewhere in the middle, the context that made the strategy make sense disappears. Jen describes what closing that gap actually looks like:  [...]  relevance. Join us again tomorrow as we spotlight another finalist from our internal World Cup Demo Challenge. ⚽
+
+7472649264364408833 | Clari | text | 78w
+    What's the biggest thing standing between you and a full pipeline right now? Building pipeline has always been hard. But right now it feels like a different kind of hard. Prospects are harder to reach. Inboxes are noisier. Reps are stretched thin. And the pressure to hit the number hasn't budged. We talk to sales teams every day and the struggles are real, but they're not all the same. So we want to hear it directly from you.
+
+7472691781516775424 | Clari | image | 206w
+    "From the Pitch" Day 6 - Zach Powell, Senior Commercial Account Manager 🏆 This series has highlighted our team's unique perspectives on coaching, visibility, execution, and integration. Zach ties it together with the question every revenue leader should be asking right now: "Productivity for me doesn't mean just do more with less, but how do I get better with what  [...]  to all six finalists: Darian Amirpashaie, Dylan G., Jordan LeuVoy, Tommi Mann, Jennifer Englehardt, and Zach Powell. ⚽
+
+7473011621225783296 | Clari | video | 98w
+    What if the best sellers of the future look a lot like the best sellers of the past? And we don't mean the paperwork or the rotary phone... The part where sellers knew their customers, built trust, and spent their time helping buyers make good decisions. That's the idea Steve Harding explores on The B2B Revenue Executive Experience podcast. Because  [...]  work. Watch the clip and hear why Steve believes the future of selling may look surprisingly familiar: https://lnkd.in/giFK6bq8
+
+7473072943544225793 | Clari | video | 107w
+    The companies winning on AI aren't the ones with the best branding. They're the ones with the deepest data. Our CEO Steve Cox joined Sam Jacobs and Asad Zaman on Topline Media and made the case for why the AI hype cycle is already starting to break and what's left standing when it does. He's watching it happen in real  [...]  growing. You can't fake that foundation. And you can't shortcut building it. Give the pod a listen: https://lnkd.in/ehU2ucPJ
+
+7473363597872553984 | Clari | link | 116w
+    Your pipeline won't predict itself, but your bracket might. The World Cup is finally here, and we're finding out if your forecasting instincts translate to the pitch. We've built The Ultimate Predictive Revenue Cup: an exclusive bracket challenge where you lock in your picks and compete for real cash prizes: 1st place: $750 gift card 2nd place: $500 gift card  [...]  Ultimate Predictive Revenue Cup user group for entry instructions. Let's see who builds the ultimate championship stack. https://lnkd.in/gDsBmYfb
+
+7473366177961070592 | Clari | text | 106w
+    The World Cup is finally here, and it's time to find out who has the best predictive strategy in our community. We've set up an exclusive, private ESPN Bracket, and we're inviting you to lock in your predictions about who will win the cup this year and compete for ultimate bragging rights. Whether you're a die-hard soccer fan or just  [...]  end of the World Cup will walk away with some incredible prizes ($750, $500, and $250 gift cards)!
+
+7473446690918825985 | Clari | image | 15w
+    When you close 3 deals the same week because you took action on every signal
+
+7474823572314681345 | Clari | image | 122w
+    87% of enterprises missed their revenue targets in 2025. Not because they weren't investing in AI. Most of them were. The causes were varied: misaligned teams, process gaps, market headwinds. But one thread ran through almost all of it: broken data that nobody fixed before it mattered. When 55% of revenue teams are getting conflicting pipeline signals and nearly half  [...]  IT problem. That's the shift. And it starts with the CIO and CRO deciding to own it together.
+
+7475183133106118656 | Clari | text | 125w
+    "How will AI change my role?" "What does it mean to trust AI with decisions?" "How do we keep sales human as automation grows?" Conversations about AI are often dominated by fear and hype. But the reality unfolding today tells a different story. We're entering an Age of Augmentation, and agentic AI is at the center of this shift. The  [...]  trust, solve complex problems, and drive meaningful customer outcomes. We're curious: What's your current relationship with agentic AI?
+
+7475545521047195648 | Clari | video | 128w
+    Every company claims to be an AI company these days. But what exactly does that mean? If you hire a few engineers and create an agent, does that count? Our CEO Steve Cox shared his thoughts on the subject during a conversation with Sam Jacobs and Asad Zaman on Topline Media's podcast. While everyone wants to win the market amid  [...]  a bunch of agents on top of SaaS. Give the full podcast a listen to learn more: https://lnkd.in/ehU2ucPJ

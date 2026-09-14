@@ -1,0 +1,34 @@
+# batch 038  -  10 posts  -  label per research/CLASSIFICATION-PROTOCOL.md
+# labels: problem exploration requirements selection validation consensus
+#         recruitment culture event product-news csr unclear
+# write research/labels/038.tsv as: <id><TAB><label>
+
+7499684826946527232 | Zoho | text | 48w
+    Running a small business means wearing approximately 47 hats, often before breakfast. 😅 Chasing payments, playing IT support, and in the end, celebrating every order that makes it worth it. Here's to everyone doing a little bit of everything to keep things moving. Happy Small Industry Day. ❤️
+
+7500553740660367360 | Zoho | video | 93w
+    What happens when the intelligence behind your business lives outside your business? In this clip, our Chief Evangelist Raju Vegesna breaks down why your business intelligence is your IP and why handing it to a model provider could turn them into your competitor. He also explains the real reason protocols like MCP are free—and why that should make you think  [...]  Intelligence, Analytics, and Infrastructure at The Futurum Group, on this episode of 'Who Owns The Plug' 👉 https://zurl.co/peDJm
+
+7500889000698855425 | Zoho | image | 73w
+    The distance between an idea and a production-ready app is getting shorter! ✨ Introducing Catalyst 3.0, bringing AI agents, developers, and the cloud closer together, with everything needed to build, deploy, and scale applications in one platform. With an agent-ready, full-stack cloud, AI coding agents can work with the tools and infrastructure needed to take applications from prompt to production. 🚀 Catalyst by Zoho 3.0 is now live. Try it out 👉 https://zoho.to/W2kn2
+
+7502987313766088705 | Zoho | link | 47w
+    Using AI for work should feel more like picking up where you left off, not starting from scratch every time. Zia understands the context across your Zoho apps, so you can spend less time explaining and more time getting things done. Learn more about Zia 👉 https://www.zoho.com/zia/
+
+7503030949136359424 | Zoho | text | 25w
+    Thank you for this recognition! We're honored to receive the #NRWGlobalBusinessAWARD and look forward to deepening our presence and impact across NRW and Europe. 😇
+
+7503378554135576576 | Zoho | multi-image(4) | 57w
+    📢 A new chapter for Zoho in Salem! 💜 On September 4, our Chief Scientist, Sridhar Vembu, inaugurated our new office in Fairlands, Salem, Tamil Nadu. It's always exciting to see a new Zoho space come to life, and we're looking forward to seeing this one filled with new ideas, conversations, and plenty of good work. 😇
+
+7503421337437249536 | Zoho | text | 61w
+    Nearly 60% of Indian businesses are already using AI in their payment operations, and another 20% are evaluating it. Fraud detection, smart payment routing, and automated reconciliation are some of their top asks when considering a provider. Zoho Payments surveyed 700+ businesses across India using Zoho Survey to find out what's shaping the future of merchant payments. Learn more 👉 zoho.to/ZNHfs
+
+7503710213707997184 | Zoho | text | 49w
+    We've been up to quite a few interesting things here at Zoho. 😇 From hosting Zyclothon for 1,200+ cyclists to bringing enterprise leaders together at the Zoho Enterprise Summit in Mumbai and kicking off a new partnership with KPMG India, here's a quick look at what's been happening. 👇
+
+7504020545504649216 | Zoho | multi-image(3) | 161w
+    We're excited to spotlight how Miki Travel is transforming sales across three divisions with Zoho CRM. ✨ A leading destination management and inbound tour operator, Miki Travel Europe brought its Asia, DMC, and VisitJapan divisions onto a single, unified CRM. The result is a connected sales operation where teams can see the full picture—from agent relationships and tours to offers  [...]  to celebrate the success of our partnership with Miki Travel at their London headquarters. 😇 Zoho UK #customersuccess
+
+7504157852874317826 | Zoho | link | 66w
+    AI can now write a lot of the code for you. But getting that code into production, and keeping it running, is a different problem. That's where Catalyst 3.0 comes in! Our agent-ready full-stack cloud platform gives developers everything they need to build, deploy, and manage applications—without stitching together multiple services. See how Catalyst by Zoho is approaching the next bottleneck in software development 👉 https://zurl.co/XLfPu

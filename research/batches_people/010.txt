@@ -1,0 +1,169 @@
+# person batch 010  -  55 posts  -  research/CLASSIFICATION-PROTOCOL.md
+# labels: problem exploration requirements selection validation consensus
+#         recruitment culture event product-news csr unclear
+# write research/labels_people/010.tsv as: <id><TAB><label>
+
+7477762906214834178 | Rajat Bhageria | video | 295w
+    Placing food into tray inserts sounds simple, but our robots need to know both where the insert is and how it's oriented - two different challenges that our robots need to solve simultaneously. To detect inserts, we use an AI model that draws an oriented bounding box (OBB) around each insert in the camera image.  [...]  records human verdicts, and produces a report of labels that need fixing before angle-loss training begins.
+
+7481031681483624448 | Rajat Bhageria | image | 279w
+    When food manufacturers ask us about ROI, the conversation almost always starts with labor. That makes sense. Turnover in this industry regularly exceeds 150%, and a workstation costs far more than the wage on the paycheck once you add workers' comp, benefits, recruiting, and retraining. But there's a second lever that's not as obvious right  [...]  bring to manufacturers. We broke down the full picture in our latest blog. Link in comments!
+
+7488669608942530560 | Rajat Bhageria | video | 163w
+    Every time a robot makes a mistake, that's a learning opportunity. A lot of robots learn from successful demonstrations, but things don't always go perfectly (especially in the real world vs. a lab). Our AI research team developed something called ValueFormer. It's a critic model that helps our bi-manual robot realize when it's not doing  [...]  executions, and now ValueFormer learns from failures and human takeovers. Link to our blog in comments!
+
+7493720424506200064 | Rajat Bhageria | image | 152w
+    World models could change how we train robots: instead of learning only from actions taken in the real world (which is slow and expensive), world models let robots predict possible futures, learn tasks, and evaluate actions. And as VLAs are getting better at turning vision and language into robot actions, these two directions are converging  [...]  for different domains (RL, robotics, autonomous driving, gaming, general-purpose simulation, and digital environments). Link in comments!
+
+7500971720397250560 | Rajat Bhageria | text | 50w
+    I had the pleasure of speaking on an episode of Automated with Brian Heater about why Chef started out working with restaurants, why that didn't lead to product-market fit, and why getting into production fast is the key to success in food robotics. Thank you, Brian, for the great conversation!
+
+7487555305145339904 | Guillermo Rauch | link | 43w
+    Kimi K3 is the most powerful open-weight model in the world. It's now available on Vercel AI Gateway from USA-based inference providers at high availability & performance. We've signed ZDR (Zero-Data Retention) agreements, which you can enable for all your token traffic. https://vercel.fyi/kimi-k3
+
+7489122564200534016 | Guillermo Rauch | link | 53w
+    Advanced spend budgets now on Vercel AI Gateway. AI Gateway gives companies the critical infra to make AI a productive investment: 🆕 Budgets per key/team/project ▪️ Failover for maximum uptime ▪️ Model and provider choice ▪️ Realtime observability If you're still in a 'token-maxing' fever dream, it's time to wake up 😁 https://lnkd.in/eVYZp2nP
+
+7490183311944753152 | Guillermo Rauch | image | 178w
+    Next.js 16.3: faster, better, stronger. My highlights: 0️⃣ Faster dev & builds Shoutout to Fable for improving memory use, and the team for landing the incremental 𝚗𝚎𝚡𝚝 𝚋𝚞𝚒𝚕𝚍 cache. 1️⃣ Instant navigations are 🔥 The people wanted SPAs, they shall get SPAs. By turning on instant navs (which will soon be default), your agent is  [...]  and serverless environments. Faster to type-check… Thank you to the 90 contributors to this release! https://lnkd.in/eGwcNWUX
+
+7490788569494728704 | Guillermo Rauch | text | 25w
+    Next.js 16.3 is radically more efficient to serve and faster to build. Massive cost reductions on compute and data transfer at scale. Easy upgrade path.
+
+7491631769985777664 | Guillermo Rauch | link | 89w
+    “The others make the easy part easier. Vercel makes the hard part easy” ⬆️ direct quote today from tech lead for AI agent platform built on eve.dev at 55,000+ person company. They wanted to have their company's all-knowing agent, like our @𝚟. Tried AI SDK: good but too low-level. Tried off-the-shelf solutions and ${⁠lab} Enterprise  [...]  team cooked. It's hard to find the abstraction that's both easy and scales with sophistication. https://eve.dev/
+
+7492757774716645378 | Guillermo Rauch | text | 102w
+    Vercel Sandbox isolates both ① compute and ② network. Kimi's paper shows container-based isolation is not enough for frontier models. Vercel Sandbox uses strong microVM isolation to address ①. OpenAI's escape was on ② the network path to Artifactory. Our egress firewall is now free so everyone can constrain misbehaving agents' network activity further. ¹  [...]  and exploited a previously unknown zero-day vulnerability in Artifactory⁠, a package registry cache proxy" 🔗 openai⁠.com/index/hugging-face-model-evaluation-security-incident/
+
+7493430682875195392 | Guillermo Rauch | video | 7w
+    Seedance 2.5 on Vercel AI Gateway 🐇
+
+7494413609775681536 | Guillermo Rauch | text | 46w
+    One command to rule them all (tokens). I predict that this will become the default way of using coding AI at scale. Uptime, model choice, lower costs, observability, ZDR… The cool thing is that this command configures every *existing* coding harness, like Claude Code & Codex!
+
+7496013969460035584 | Guillermo Rauch | text | 7w
+    I love @𝚟𝚎𝚛𝚌𝚎𝚕 on Slack. Incredible ship
+
+7497028234178375680 | Guillermo Rauch | image | 61w
+    Today's a record day for open weight share of tokens on Vercel AI Gateway. Aug 22 (today) 🟦 Open: 62% 🟨 Closed: 38% Jun 24 (~2 months ago) 🟦 Open: 28.4% 🟨 Closed: 71.6% This is very likely just the start, because enterprise adoption is still early, and harnesses, CLIs, IDEs, SDKs, etc need to be adapted to be model agnostic.
+
+7497735012176252928 | Guillermo Rauch | video | 127w
+    If your terminal ever gets into a 'bad state', like garbled outputs, you run 𝚛𝚎𝚜𝚎𝚝. I noticed it was… oddly slow. Turns out in 1979 3BSD's 𝚝𝚜𝚎𝚝 had a 𝚜𝚕𝚎𝚎𝚙(𝟷) to let mechanical printer-and-ink terminals 'settle down' 😂 I asked 𝚏𝚡 to write me a faster alternative in Zig. It takes 1ms instead of 1s.  [...]  some alternative solutions). ps: once you start using 𝚏𝚡, you'll notice slowness like this everywhere :D
+
+7499147690115551233 | Guillermo Rauch | text | 3w
+    Deploy to Vercel
+
+7500376868278284288 | Guillermo Rauch | text | 96w
+    Coding tokens are basically infrastructure. Yet, the way companies have approached them amounts to: "Hey all, here's an AWS key. It can spin up anything from a 𝚝𝟹.𝚗𝚊𝚗𝚘 (＄𝟹.𝟾𝟶/𝚖𝚘) to an 𝚙𝟻.𝟺𝟾𝚡𝚕𝚊𝚛𝚐𝚎 (＄𝟺𝟶𝚔/𝚖𝚘). Go wild" And obviously the reason companies don't do this for their core infra is that you need to govern, optimize, and  [...]  the bill. AI Gateway fixes this for all your tokens, with per-key, and now per-user budgets.
+
+7501011194267217920 | Guillermo Rauch | text | 29w
+    It's truly the best time to build… 50% off on Vercel AI Gateway right now: ▸ 𝚐𝚙𝚝-𝟻.𝟼-𝚜𝚘𝚕 ▸ 𝚐𝚙𝚝-𝟻.𝟼-𝚜𝚘𝚕-𝚏𝚊𝚜𝚝 ▸ 𝚐𝚎𝚖𝚒𝚗𝚒-𝟹.𝟾-𝚏𝚕𝚊𝚜𝚑 [𝚗𝚎𝚠] ▸ 𝚐𝚕𝚖-𝟻.𝟹-𝚏𝚕𝚊𝚜𝚑 ▸ 𝚖𝚒𝚗𝚒𝚖𝚊𝚡-𝚑𝟹 ▸ 𝚖𝚒𝚗𝚒𝚖𝚊𝚡-𝚑𝟹-𝚖𝚊𝚡 vercel.com/ai-gateway
+
+7503113479327768576 | Guillermo Rauch | image | 205w
+    ▲ ~/𝚛𝚊𝚞𝚌𝚑𝚐/𝚘𝚜𝚜-𝚐𝚛𝚊𝚗𝚝𝚜/ 𝚕𝚜▐ (v2) I'm announcing v2 of my open source grants of $1,000USD to 35 awesome contributors. The themes: ① Agent skills & tools Skills are now a valuable form of software, like Emil's world-class design eng work. Projects like 𝚙𝚐𝚋𝚘𝚝, 𝚔𝚗𝚒𝚙, 𝚞𝚗𝚕𝚒𝚐𝚑𝚝𝚑𝚘𝚞𝚜𝚎 create amazing AI engineering loops. ② Local AI Projects like 𝚜𝚕𝚘𝚝𝚜𝚝𝚛𝚎𝚊𝚖,  [...]  fully unconditional. If you are listed, I'll be DM'ing you or using your public contact info!
+
+7489952003763240960 | Rick Faulk | text | 7w
+    Great to have you as a partner!
+
+7491211346038996993 | Rick Faulk | link | 125w
+    Pharmaceutical fulfillment doesn't leave much room for operational friction. Serialization. Lot validation. Expiry-date tracking. High order volumes. As demand grew, German Pharmaceutical leader MSK Pharma Group needed fulfillment infrastructure that could scale across both existing and newly developed facilities, without locking operations into rigid automation constraints. With Locus Robotics, MSK now operates: • 63 robots  [...]  its pharmaceutical operations. 🎥 Watch the full video case study: https://lnkd.in/eKUXYHCu #LocusRobotics #WarehouseAutomation #PharmaceuticalLogistics #SupplyChain #FulfillmentOperations
+
+7493658821089779712 | Rick Faulk | link | 144w
+    “What we planned was actually no longer 100% true.” That's a familiar reality in fulfillment operations. What looks right in the planning phase does not always match what operations need once volumes, product categories, and customer requirements become real. For MSK Pharma Group, the value was in being able to adjust workflows without starting a  [...]  business manage long-term growth. 🎥 Watch the video case study: https://lnkd.in/eKUXYHCu #LocusRobotics #WarehouseAutomation #SupplyChain #FulfillmentOperations #PharmaceuticalLogistics
+
+7493658893915516928 | Rick Faulk | link | 108w
+    Order profiles change. Customer requirements shift. And what's originally planned can change fast once operations go live. That's exactly what happened at pharmaceutical leader MSK Pharma Group. Working across two distribution facilities in Bensheim, Germany, MSK and Locus Robotics deployed a new workflow in just one week — from initial consultation to implementation. No major  [...]  stay fixed for long. 🎥 Watch the video case study: https://lnkd.in/eKUXYHCu #LocusRobotics #WarehouseAutomation #SupplyChain #PharmaceuticalLogistics #FulfillmentOperations
+
+7494049986427588609 | Rick Faulk | image | 136w
+    The FCC's recent action impacting foreign-made robots has raised questions across the industry. For Locus Robotics customers, the message is simple: nothing changes. As a U.S.-headquartered company that designs and manufactures its robots in the United States, this action does not impact our ability to deliver, deploy, or support the solutions our customers trust and  [...]  17 or in Boston at Locus Park on October 1st. The registration link is below. https://lnkd.in/ezvyrahw
+
+7495868522602930177 | Rick Faulk | text | 27w
+    The future of warehouse automation will be defined by how well you adapt … and flexibility becomes the competitive advantage. Appreciate the conversation and inclusion, @Liz Young
+
+7495971624030982144 | Rick Faulk | text | 5w
+    Great to say hello! 👋
+
+7496232594112405504 | Rick Faulk | link | 111w
+    “I would never work without robots again.” That quote captures the everyday difference that automation can make for warehouse teams. At MSK Pharma Group, teams quickly saw the difference between automation that people have to work around, and automation designed to support the way associates move on the floor. For teams handling a wide range  [...]  work rather than disrupting it. 🎥 Watch the full story: https://lnkd.in/eKUXYHCu #LocusRobotics #WarehouseAutomation #FulfillmentOperations #SupplyChain #PharmaceuticalLogistics
+
+7498729397785473024 | Rick Faulk | link | 192w
+    Join us at ECR iN MOTiON 2026 by GS1 Germany this September. As fulfillment networks face increasing pressure to move faster, adapt quickly and stay resilient, flexible automation has an important role to play. That's why from 16–17 September at the World Conference Center Bonn, we'll be joining the conversation around the future of retail  [...]  MOTiON STUDIO 7 Book a meeting with Malte: https://lnkd.in/ePz29-YA #ECRinMOTION #GS1Germany #LocusRobotics #WarehouseAutomation #RetailLogistics #SupplyChain #Robotics
+
+7500264210807926785 | Rick Faulk | link | 146w
+    Great piece in The Robot Report on how we're attacking one of the hardest problems in robotics: manipulation. Our AMRs have powered 8 billion+ picks. Now we're bringing that same standard to picking itself, with Locus Array and NeuraGrasp, the soft-gripping technology we gained through our Nexera Robotics acquisition. Roy Belak and his team nailed  [...]  of innovation we intend to be exceptional at. Read the full article: https://lnkd.in/gqERRDwf #Robotics #WarehouseAutomation #PhysicalAI
+
+7500342046008848384 | Rick Faulk | text | 20w
+    Great having you as an intern this summer. You did some amazing work for us on AI and marketing. -Rick
+
+7500679871090544641 | Rick Faulk | text | 18w
+    Promises to be a great event at Locus Park in Wilmington, MA, on October 1st as Gina mentions.
+
+7501749703177568256 | Rick Faulk | text | 11w
+    This is one webinar from Locus you won't want to miss.
+
+7502666390236131329 | Rick Faulk | text | 16w
+    Great to see all the value the Barrett Distribution team is delivery for all their customers.
+
+7502667556168761344 | Rick Faulk | text | 21w
+    This promises to be a great tour to see how a long standing Locus customer delivers value across the supply chain.
+
+7489126819388907520 | Samir Menon | image | 165w
+    Truck loading is the uber-gauntlet for Physical AI. It looks like a manipulation problem, but it is actually an incredibly complex long-horizon reasoning and prediction problem! Every package changes the future of a truck load. A placement that works now can create instability, waste space, or block the next move. If prediction gets you to  [...]  FedEx and Dexterity who made this possible. Link in the 🧵 .... #PhysicalAI #WorldModels #Foresight #Mech
+
+7490120477127045120 | Samir Menon | text | 30w
+    Having strong partners like Beckhoff Automation USA has proven to be a highly effective strategy for Dexterity, Inc. to deliver world class Physical AI. Let's build some superhumanoids! Go #Mech.
+
+7490502950830669824 | Samir Menon | text | 5w
+    FedEx is making big moves!
+
+7490827998615523329 | Samir Menon | text | 31w
+    Thank you Rebecca Yeung . Your leadership got this project underway, and Dexterity, Inc. is very grateful for the opportunity and mentorship when you were at FedEx as well as beyond.
+
+7492055374196482048 | Samir Menon | image | 165w
+    Truck loading is the uber-gauntlet for Physical AI. It looks like a manipulation problem, but it is actually an incredibly complex long-horizon reasoning and prediction problem! Every package changes the future of a truck load. A placement that works now can create instability, waste space, or block the next move. If prediction gets you to  [...]  FedEx and Dexterity who made this possible. Link in the 🧵 .... #PhysicalAI #WorldModels #Foresight #Mech
+
+7492432388195758080 | Samir Menon | text | 20w
+    FedEx and Dexterity, Inc. in the news again. Thanks Robotics 24/7 for the Physical AI shout out. #PhysicalAI #Mech #TruckLoading
+
+7493039330710441984 | Samir Menon | text | 19w
+    Last I heard, two arms beat one when it comes to doing physical work. Go Dexterity, Inc.! #PhysicalAI #Mech
+
+7493787329459941376 | Samir Menon | text | 31w
+    Thrilled to see the next generation of budding roboticists see what it takes to build production grade Physical AI. What a joy for Dexterity, Inc. to host a delegation from Korea!
+
+7493805031050170368 | Samir Menon | text | 91w
+    Physical AI doesn't stop at the robot. It orchestrates the entire system. We're excited to partner with CALJAN to bring AI-powered truck loading to enterprise customers. Together, Dexterity, Inc. and Caljan have connected our Foresight world model directly to Caljan's advanced material-handling systems through Dexterity's IRIS protocols. The result: Foresight maintains a real-time view of  [...]  as conditions change. One intelligent system. End-to-end orchestration. Production-grade truck loading. #PhysicalAI #Robotics #AI #Logistics #Automation
+
+7494098899520098304 | Samir Menon | link | 42w
+    What an incredible way for honor a legend. It's fantastic to see Memphis airport renamed for Fred Smith. Cheers to the city of Memphis and to FedEx! I'm really looking forward to landing at Frederick W. Smith International Airport sometime soon. https://lnkd.in/gap4QxAs
+
+7496375996762247169 | Samir Menon | text | 9w
+    Robert Sun is a genius. Go Dexterity, Inc. #PhysicalAI
+
+7503247842522828800 | Samir Menon | text | 16w
+    Go Arjun Dhawan. Future leader in the making. So proud to have you as a colleague.
+
+7467252113673228288 | Sridhar Ramaswamy | image | 50w
+    The stage is set. 20,000 people, hundreds of partners, and some of the most innovative customers in the world descend on San Francisco today. Snowflake Summit is almost here, and we can't wait to show you what we've been building. ❄️ Tune in to the opening keynote live 👉 https://lnkd.in/gPeM4sc7
+
+7467657602605314048 | Sridhar Ramaswamy | image | 159w
+    Incredible conversation with Daniela Amodei on stage at #SnowflakeSummit yesterday. She's a true visionary on where this space is headed and it's clear why Anthropic is at the forefront. Together, Snowflake and Anthropic are massively accelerating what's possible with enterprise AI. Enterprises don't have an AI problem. They have a governed AI problem. The models  [...]  data. That's the combination that moves organizations from experimentation to production. Just getting started. 🏔️ https://lnkd.in/gaBujCHV
+
+7468719224820011008 | Sridhar Ramaswamy | image | 93w
+    Amazing conversation with 🦄 Peter Steinberger at #SnowflakeDevDay yesterday. OpenClaw is pointing to something bigger: software is becoming fluid. Agents are generating, modifying, and orchestrating systems in real time, and the role of the developer is shifting from writing code to shaping systems, defining intent, constraints, and judgment. That is not a small shift. But  [...]  possible for builders right now. Thank you to everyone who came out to Dev Day! 🦞❄️
+
+7470580417528627200 | Sridhar Ramaswamy | video | 53w
+    Had the chance to catch up with Cliff Obrecht at Canva HQ in Sydney and it's hard not to leave that place energized. His framing of the AI shift was spot on: Canva is moving from "a design platform with AI tools to an AI platform with design tools." Full conversation 👇 https://lnkd.in/gMKsM4H2
+
+7472685962867834880 | Sridhar Ramaswamy | text | 20w
+    It's amazing to see the Snowflake team innovate bottom to top. Adaptive warehouses are a fundamental innovation for analytic workloads!!
+
+7472713705420607488 | Sridhar Ramaswamy | text | 71w
+    AI is making software creation dramatically easier. That creates enormous opportunity, but it also means every company needs to rethink what creates durable value and competitive advantage. We're still in the early stages of this transition, and the winners will be those willing to challenge their assumptions and adapt. Thanks to Victor Dey for the opportunity to discuss what this shift means for enterprise software and the future of value creation.
+
+7474862479160832000 | Sridhar Ramaswamy | text | 47w
+    Thank you, Nicolai Tangen, for a thoughtful conversation. We covered the future of AI, why data is becoming even more critical in an agent-driven world, the lessons that come from building companies, and the importance of adaptability and resilience throughout a career. Hope you enjoy the discussion!
+
+7476339330949570560 | Sridhar Ramaswamy | text | 36w
+    Grateful to Eric Kutcher for this conversation. We talked about everything from AI creating a new class of "uber programmers" to why the biggest challenge for leaders isn't the technology, it's helping people adapt to it.

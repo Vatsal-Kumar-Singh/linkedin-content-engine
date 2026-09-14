@@ -5,7 +5,7 @@
 about what they ought to publish is gathered separately and graded. `research/sample-frame.yaml`
 is the study design and names why each company stands for its cell.
 
-    export APIFY_TOKENS=tok1,tok2,tok3          # never committed; this repo is public
+    export APIFY_TOKENS=tok1,tok2,tok3          # never committed, and never read from disk
     python research/scrape_sample.py --probe    # 2 companies, reports the real cost per company
     python research/scrape_sample.py --all
     python research/scrape_sample.py --cell "product x enterprise"

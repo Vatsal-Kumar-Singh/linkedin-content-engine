@@ -40,11 +40,13 @@ who has never seen this repository. Everything below assumes you have read it.
 
 Two hard rules it repeats, because breaking either is expensive and silent:
 
-- **This repository is public.** No keys, and no third-party post text. `research/raw/` and the
-  batch directories are gitignored and regenerable; the labels and `findings.json` are tracked
-  because they are our own work and carry no prose.
-- **The branch `virya-local-DO-NOT-PUSH` must never be pushed.** It holds client work on a local
-  branch of a public repo and is not merged into `main`.
+- **This repository must stay private.** It tracks `research/raw/` and `research/raw_people/` —
+  the full text of 77 companies' and 47 people's LinkedIn posts — so the corpus is reproducible
+  without re-scraping. If it is ever made public, those directories have to come out of the
+  *history*, not just the working tree. No keys, ever: tokens are read from the environment and
+  nothing is read from disk.
+- **The branch `virya-local-DO-NOT-PUSH` must never be pushed.** It holds client work for a named
+  company and is not merged into `main`.
 
 ---
 

@@ -1,0 +1,169 @@
+# person batch 003  -  55 posts  -  research/CLASSIFICATION-PROTOCOL.md
+# labels: problem exploration requirements selection validation consensus
+#         recruitment culture event product-news csr unclear
+# write research/labels_people/003.tsv as: <id><TAB><label>
+
+7474862681867489281 | Braison Murgai | text | 326w
+    Before I sold B2B SaaS marketing, I sold houses. In Houston. 2020 to 2022. A market that does not care if you went to the right school or used the right pitch deck. It cares about one thing. Did you find the buyer who could close, and did you find them before the other guy.  [...]  them teaches you faster. Part 1 of 4. Next Monday: the day I stopped chasing volume.
+
+7478511565319778304 | Braison Murgai | image | 0w
+    
+
+7480304170168815616 | Braison Murgai | image | 276w
+    Last week I sent 15 outbound emails before my coffee got cold. Everyone led with the same line. 'The real bottleneck is positioning, not leads. Wrong audience, wrong message, wrong timing.' The execs who wrote back had one thing in common. They could describe their buyer at Rung 4. The ones who never replied were  [...]  you are honest and it is Rung 1 or Rung 2, your problem is not marketing.
+
+7481795709545951232 | Braison Murgai | text | 30w
+    Having a defined ICP is one of the most strategic, important positioning pieces your marketing team could focus on. I wrote this article to help your marketing team clarify it
+
+7483551356365119489 | Braison Murgai | text | 267w
+    A deal I closed as lost eleven days ago came back this week. Same buyers. Same product. Same use case. New row at the top of the pipeline, budget attached, asking me to prepare the proposal by EOW. I want to say I saw it coming. I did not. Something I have started tracking, quietly,  [...]  is not a graveyard. It is a warm cohort you may not have communicated with correctly.
+
+7485421361897705472 | Braison Murgai | text | 275w
+    Last week my team went from discovery-call transcripts to a full first-draft proposal in one afternoon. Drafting that document used to take the better part of a week. The compression is real, and it is also the least interesting part of the story. The interesting part is the rule that makes the speed safe. AI-Forward  [...]  that arrives in days, tailored, instead of in three weeks, generic. Buyers will feel the tempo.
+
+7486452640038637569 | Braison Murgai | text | 345w
+    Every SaaS contract contains two purchases. The first one is on the order form. Seats, licenses, tiers, the feature list that your sales team demoed. The second one lives in your customer's head: the outcome they believe those licenses are going to buy them. Renewal is decided by the second purchase. Your order form only  [...]  What does your best customer think they bought from you? And does your order form agree?
+
+7493786740701286400 | Braison Murgai | image | 299w
+    My son's swim practice is Monday at 4:30, and I usually miss it. For most of this year, I treated that like weather, something happening to me rather than something I was choosing. The 4:30 slot sits exactly where deals need the most attention, so there was always something that seemed to have a claim  [...]  tools and resources God has allowed us to have can let us take control of it.
+
+7495192747465822208 | Braison Murgai | text | 48w
+    Funnel reporting with LLM Search has opened the gates for marketers to address their lack of visibility into the intent behind a visitor's source and motivations. Fine‑tuning your content and truly understanding your ICP are among the most fundamental tasks marketers must master when building a GTM plan
+
+7498506819166924800 | Braison Murgai | text | 32w
+    How do you not become a commodity when AI commoditizes everything? 1. Build a brand. 2. Use the STOP framework: standardize, templatize, optimize, productize. 3. Take responsibility for what your AI produces
+
+7272972489083801600 | Cris S. Cubero | text | 13w
+    Business owners: set up 👏your 👏 GSC 👏 from 👏 day 👏 one!
+
+7285996804771307520 | Cris S. Cubero | image | 319w
+    𝐖𝐚𝐧𝐭 𝐭𝐨 𝐬𝐞𝐞 𝐬𝐡𝐢𝐧𝐲 𝐬𝐭𝐚𝐫 𝐫𝐚𝐭𝐢𝐧𝐠𝐬 𝐬𝐡𝐨𝐰 𝐮𝐩 𝐧𝐞𝐱𝐭 𝐭𝐨 𝐲𝐨𝐮𝐫 𝐒𝐚𝐚𝐒 𝐰𝐞𝐛𝐬𝐢𝐭𝐞 𝐨𝐧 𝐆𝐨𝐨𝐠𝐥𝐞 𝐥𝐢𝐤𝐞 𝐒𝐭𝐫𝐚𝐭𝐮𝐬𝐆𝐫𝐢𝐝 𝐝𝐢𝐝? 👇 ⭐⭐⭐⭐⭐ Send this to your Dev or SEO person—I'll show them how to make it happen in just 2 minutes. 👉 𝐒𝐭𝐞𝐩 𝟏: 𝐒𝐭𝐚𝐫𝐭 𝐰𝐢𝐭𝐡 𝐭𝐡𝐢𝐬 𝐜𝐨𝐝𝐞: <!-- Rating Schema --> <​script type="application/ld+json"> { "@context": "https://schema.org/",  [...]  the results (and sometimes they won't, even if everything's perfect). But hey, it's worth the shot!
+
+7293696676790218752 | Cris S. Cubero | text | 194w
+    Saw a post this morning where someone suggested using hashtags in remote work messages, things like #FYI, #JustSharing, or #NoActionNeeded, so the person on the other end instantly knows what you mean when you, let's say, send a link to them about an article you read. Cool idea, right? Well, apparently not everyone thinks so.  [...]  human touch or bash someone for simply trying their best to improve communication with their team.
+
+7300602977172541442 | Cris S. Cubero | text | 119w
+    Women-led leadership IS different, and that's okay. 𝐌𝐨𝐬𝐭 𝐢𝐦𝐩𝐨𝐫𝐭𝐚𝐧𝐭𝐥𝐲, 𝐝𝐢𝐟𝐟𝐞𝐫𝐞𝐧𝐭 𝐥𝐞𝐚𝐝𝐞𝐫𝐬𝐡𝐢𝐩 𝐚𝐩𝐩𝐫𝐨𝐚𝐜𝐡𝐞𝐬 𝐜𝐚𝐧 𝐛𝐞 𝐞𝐪𝐮𝐚𝐥𝐥𝐲 𝐞𝐟𝐟𝐞𝐜𝐭𝐢𝐯𝐞. Women lead differently. Emotional intelligence, collaboration, and long-term thinking is a priority for us. It happens at every level. Do not expect us to conform to a traditional, results-at-all-costs leadership style. 𝐁𝐮𝐭 𝐬𝐡𝐨𝐮𝐥𝐝 𝐚 𝐥𝐞𝐚𝐝𝐞𝐫 𝐛𝐞 𝐝𝐞𝐟𝐢𝐧𝐞𝐝 𝐛𝐲 𝐡𝐨𝐰  [...]  better, maybe we should be debating how to create space for different leadership styles to thrive.
+
+7303883153339789312 | Cris S. Cubero | image | 229w
+    Google and Apple removed International Women's Day from their calendar apps, a day that has been honored since the early 1900s. But instead of leaving recognition in the hands of big corporations, 𝐭𝐨𝐝𝐚𝐲 𝐈 𝐜𝐡𝐨𝐨𝐬𝐞 𝐭𝐨 𝐡𝐨𝐧𝐨𝐫 𝐭𝐡𝐞 𝐛𝐫𝐢𝐥𝐥𝐢𝐚𝐧𝐭 𝐰𝐨𝐦𝐞𝐧 𝐈 𝐡𝐚𝐯𝐞 𝐭𝐡𝐞 𝐩𝐫𝐢𝐯𝐢𝐥𝐞𝐠𝐞 𝐨𝐟 𝐰𝐨𝐫𝐤𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 𝐞𝐯𝐞𝐫𝐲 𝐝𝐚𝐲: 𝐦𝐲 𝐚𝐥𝐥-𝐰𝐨𝐦𝐞𝐧 𝐭𝐞𝐚𝐦 𝐚𝐭 𝐊𝐚𝐥𝐮𝐧𝐠𝐢. -  [...]  𝐦𝐚𝐝𝐞. 𝐀𝐧𝐝 𝐢𝐭'𝐬 𝐧𝐨𝐭 𝐮𝐩 𝐭𝐨 𝐭𝐞𝐜𝐡 𝐠𝐢𝐚𝐧𝐭𝐬 𝐭𝐨 𝐝𝐞𝐜𝐢𝐝𝐞 𝐰𝐡𝐞𝐭𝐡𝐞𝐫 𝐰𝐞 𝐫𝐞𝐜𝐨𝐠𝐧𝐢𝐳𝐞 𝐭𝐡𝐚𝐭. #InternationalWomensDay 💜
+
+7306415102084173824 | Cris S. Cubero | image | 35w
+    This Spotify playlist from our friends at Bloom Growth™ has me dancing and singing my tasks away this busy Friday afternoon 💃 What a genius idea! ❤️ I'll drop the link in the comments 👇
+
+7316184716930371584 | Cris S. Cubero | text | 11w
+    "We don't need a sitemap" and other horror stories I've heard.
+
+7325553689920692224 | Cris S. Cubero | text | 0w
+    
+
+7336200884109946881 | Cris S. Cubero | text | 0w
+    
+
+7346053574612729856 | Cris S. Cubero | text | 42w
+    Hi, I am Cris, and "I should smile more" 😌 True story, by the way. Also, please don't tell people to smile more. You wouldn't ask a man to do that. It isn't funny. It's inappropriate and not even a good joke.
+
+7360981820810682373 | Cris S. Cubero | text | 200w
+    Here's the other side of the coin. This post can easily become a personal performance compass for any employee who wants to be an A player. 👇 Not just when you want a raise, but all the time. Think about it: if your manager had to choose today whether to keep you on their team,  [...]  And if you find yourself falling short, that's your cue; take it as a growth opportunity.
+
+7402445930211278849 | Cris S. Cubero | text | 39w
+    My colleague and friend Antoine Vial will show you the system we use at Kalungi to work smarter and deliver more for our clients... so you can apply the same play inside your own SaaS company. Save the date!
+
+7417233643061882880 | Cris S. Cubero | text | 26w
+    Clarity to implement AI will come from being honest about what work deserves human judgment, what can be automated, and what should be stopped entirely. 👇
+
+7499102801785036800 | Cris S. Cubero | image | 261w
+    One of the easiest ways to underestimate AI search is to look at your AI referral traffic isolated. If you open GA4 and see that ChatGPT sent 40 visits and Google sent 40,000, naturally, AI looks almost irrelevant. But Similarweb followed what happened after people received brand recommendations from ChatGPT and found that only 8.8%  [...]  check if your company appears when buyers ask AI the questions that matter in your category.
+
+7504227114154651649 | Cris S. Cubero | image | 253w
+    I've been splitting Google Search Console queries by word count lately to see how the mix of searches we appear for is changing. Here are the custom regex filters I use: 1 word ^\S+$ 2–4 words ^(\S+\s+){1,3}\S+$ 5–10 words ^(\S+\s+){4,9}\S+$ 11–20 words ^(\S+\s+){10,19}\S+$ 21+ words ^(\S+\s+){20,}\S+$ And for queries that start like questions: ^(who|what|when|where|why|how|which|can|does|do|is|are|should|will)\b You  [...]  answer it properly. And if the same question keeps showing up in sales calls? Even better.
+
+7424787948459560960 | Fraser Hopper | text | 84w
+    Do you like Finance? Do you like leading? Do you like being weird? Well then, I have an opportunity for you! We're hiring a Finance Lead to come in and help PostHog take on the next phase of it's growth. In our little over 5 years we've managed to grow through Series E & to  [...]  and help us get wherever that is!! Hit me up if you're interested in hearing more.
+
+7457736510684000256 | Fraser Hopper | text | 53w
+    I didn't know I needed a product editor, but I do. Even a Luddite like myself is shipping code and understanding better than ever the need for understanding your product. PostHog already understands your product, now let PostHog Code help you ship what you need! Go on, sign up and try it yourself!
+
+7460397973114441729 | Fraser Hopper | image | 6w
+    My guy about to cook fr
+
+7463164487177654272 | Fraser Hopper | image | 197w
+    At Q2 planning we made a commitment that everybody on the team should primarily be using AI to enable themselves to be AI-native. We've now made a hiring shift to prioritise AI-native over experience. Experience is now a tiebreaker, not the gate. here's what we mean: → ai-native isn't "experienced + a chatgpt subscription." it's  [...]  of them. I wrote something in our blog about this, my first entry. go easy. https://lnkd.in/ehQ7frh6
+
+7465680801398116352 | Fraser Hopper | image | 49w
+    Josh Snyder recently toppled me as the most active PostHog team member on Slack. However, his transparency score should bring shame on his good family name. My nearly 3 year run as the primary professional Slacksbody at PostHog has come to an end, for now. I will be back.
+
+7468651669749121026 | Fraser Hopper | image | 63w
+    The PostHog handbook is our secret weapon. Except it's not secret, you can just read it all. It's full of incredibly insightful stuff, like this one time 🦔 james hawkins tried to change up his intro in all hands, much to his regret. If you read our handbook and like what your read, come work here. You'll have a lovely lovely time. https://lnkd.in/e-uhS575
+
+7470894639584153600 | Fraser Hopper | text | 21w
+    Campfire team have built a great product but it's the people there that make it great. We love partnering with them!
+
+7478005608621879297 | Fraser Hopper | text | 26w
+    Happy first day of the quarter to all that celebrate. Only to those that align calendar year and fiscal year though. Everybody else, back to work.
+
+7483058277610733568 | Fraser Hopper | image | 38w
+    We really are at the cutting edge of science over here at PostHog Take this for example. I don't see the frontier labs pushing the emoji boundaries this hard. To the next generation. You're welcome for our service!
+
+7488226262033985536 | Fraser Hopper | image | 45w
+    You get your face in ComputerWeekly.com and you end up pulling a daft face. In all seriousness was good to speak about how we use AI in the finance team PostHog and our great friends at Abacum & Campfire Julio Martínez Jorge Lluch John Glasgow
+
+7493670378159067136 | Fraser Hopper | video | 31w
+    If you want to know what a bunch of AI-pilled sickos have been working on then here's PostHog most recent efforts. Self-driving software. It's called the future dummy, look it up!
+
+7495771091802554368 | Fraser Hopper | image | 94w
+    Are you a normie, like me? smooth brained, flirting with slop just enough to be worried. Well my friends, have I got just the thing for you.... It's called ReviewHog. It's part of our self-driving software solution where it can review PRs for you. It's made me: - at least 36% more accurate* - at  [...]  a made up number ** This is also a made up number *** This is impossible
+
+7496483747370831874 | Fraser Hopper | image | 50w
+    If companies keep building excellent MCPs like Abacum's then I will keep doing extremely silly things like this. In another version of this I asked when Pret spending will catch up with Revenue. I, for one, can't wait until 2093 when we spend eight point nine decillion dollars on Pret.
+
+7500454108928221184 | Fraser Hopper | image | 24w
+    you better believe we are flying an aubergine blimp across the SF skies over the next two weeks 🍆 🍆 🍆 🦔 🦔 🦔
+
+7501319397647507456 | Fraser Hopper | text | 17w
+    okay so this is what happens when people can spend money in the best interests of PostHog
+
+7384267591218806784 | Hanno Renner | image | 79w
+    I just finished the rehearsal for the keynote at tomorrow's #HUG Conference, and I'm excited to share the latest innovations for Personio's Intelligent HR platform ✨ We've been working on some important releases and I look forward to hearing the feedback from our customers. 📅 Join the live stream of the keynote at 9:30 AM  [...]  up here: https://lnkd.in/dMZiKXBC Looking forward to sharing this with you all tomorrow! #HUG2025 #IntelligentHR #Keynote #FutureOfWork
+
+7403770639179829248 | Hanno Renner | image | 107w
+    I'm excited to welcome Thomas Seifert to our board, adding valuable operating experience to help us on the next journey of our growth. What stood out to me from my very first conversation with Thomas was his passion for bringing together technological innovation with operational excellence – something he has demonstrated throughout his career at  [...]  build a scalable SaaS business for long-term success. Read more in our press release 👉 https://lnkd.in/dFCDcMDg
+
+7422632125637681153 | Hanno Renner | text | 50w
+    Thank you David and EU-Startups for a great conversation about the first 10 years of building Personio, European Tech 🇪🇺 (incl. the recent progress on EU–INC) and the work we are doing with the Personio Foundation around education and climate change. Comment to the full conversation in the comments 👇
+
+7447897347268751360 | Hanno Renner | text | 261w
+    Our real‑time view across thousands of customers from all over Europe allows us to see market shifts as they start to happen. One very obvious trend to observe is headcount growth. Across thousands of small and midsized organizations in Europe, the trend is clear: growth is still positive, but it has cooled steadily each year  [...]  energy supply actually slow down the diffusion of AI and its impact over the coming years?
+
+7450815451284221952 | Hanno Renner | multi-image(4) | 137w
+    This week, I spent time in our Amsterdam office. It's been a good reminder that transparency isn't something you announce—it's something you design into how you work, especially at the board level. → We created space for open, informal exchange within the team, taking conversations with the board onto the Personio boat and encouraging honest  [...]  simple: if we want transparency, we need fewer filters and more direct conversations—internally and with customers.
+
+7454829090622070785 | Hanno Renner | video | 146w
+    We've just launched our new brand film: Just Another Day. The title is deliberate because what looks ordinary from the outside is often anything but. For many #HR leaders, managing complexity, solving problems, and keeping the business moving is simply part of the role. The film follows Emma, an HR leader navigating that reality with  [...]  of business success. And that starts with recognising and supporting the people who make it possible.
+
+7457740484619255808 | Hanno Renner | image | 282w
+    Michael Fritz is one of the most creative and impressive social entrepreneurs I've come across. He built Viva con Agua into a global movement for clean water access, never with the idea to just hope for donations, but instead build a business selling water and then funnel all profits into building wells that give people  [...]  what Micha and the rest of the team come up with next to further their mission.
+
+7464912621780209664 | Hanno Renner | text | 78w
+    What impact AI will have on jobs and societies is probably one of the most important debates of our time. The more I read and think about it, the position that Aaron Levie is promoting is the one I would mostly subscribe to. There will still be many jobs that will be impacted and most  [...]  will also be countless new ones created on the back of what these new technologies enable.
+
+7469640601861443587 | Hanno Renner | text | 38w
+    Sebastian was amongst the first angel investors at Personio and supported us a lot in the early days with his experiences from building Stylight. Now he is doing this at scale with Schub Space. Application deadline June 14!
+
+7471116604064538625 | Hanno Renner | image | 249w
+    Excited to share that Philipp Richter is joining our executive team as Chief People Officer. We see this as much more than just a leadership placement, it reflects where we think HR is heading. AI is reshaping how organisations work at a fundamental level. The companies that figure this out first will have a real  [...]  him by my side as we navigate this next chapter together. Welcome to the team, Philipp.
+
+7472921444897767424 | Hanno Renner | video | 226w
+    HR data is one of the most valuable assets in your company — but right now it lives in a silo. Teams can't get answers fast enough. Employees are logging into separate systems for simple requests. And leadership is left connecting the dots manually. MCP changes that. Personio now connects to Claude, ChatGPT, and Microsoft  [...]  Reach out to your Personio Account Manager to request access 🤝 #MCP #HRTech #FutureOfWork #AIatWork #Personio
+
+7476182521471483904 | Hanno Renner | image | 237w
+    Over the past year, more and more of our board conversations have come back to the same question: how is AI actually changing the way companies work, and what does that mean for HR? We haven't been treating that as a someday question. We've been building around it. So I'm glad to share that two  [...]  for – as we build our own transformation and help our customers navigate theirs. → https://lnkd.in/eafggmXS
+
+7482713001171587072 | Hanno Renner | image | 204w
+    I met Marc Benioff, founder and CEO of Salesforce, over lunch in Munich last week. We spent a lot of time talking about AI, how it can drive value and what it means for software companies. Public SaaS valuations are under pressure right now and investor sentiment is mixed. But zoom out and the picture  [...]  customers with their AI transformation and I can't wait to share with our customers very soon.
+
+7492573858366160896 | Hanno Renner | video | 161w
+    In Q2, our team shipped 70+ customer-facing updates. Most of them will never trend on LinkedIn, but they're a big part of why 16,000+ companies trust Personio to run their HR. This quarter included: → A rebuilt overtime system that handles every rule your company has → Expanded time tracking configurations, because no two companies  [...]  You can follow everything we ship inside Personio under Support > Product Updates. #HRTech #ProductUpdates #HRSoftware
+
+7498693380198236160 | Hanno Renner | multi-image(3) | 233w
+    This month, our teams across Munich, Berlin, Amsterdam, Madrid, Dublin and London gathered for our annual Summer Sessions. We do this every year because a roadmap will only get you so far – people still have to know each other to actually be able to pull it off together. Growth doesn't happen in isolation, it  [...]  impact with it. A cap alone won't get you far. But the people wearing it will.

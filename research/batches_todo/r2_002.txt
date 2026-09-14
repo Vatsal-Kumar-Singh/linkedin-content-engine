@@ -1,0 +1,214 @@
+# batch 002  -  70 posts  -  label per research/CLASSIFICATION-PROTOCOL.md
+# labels: problem exploration requirements selection validation consensus
+#         recruitment culture event product-news csr unclear
+# write research/labels/r2_002.tsv as: <id><TAB><label>
+
+7481438200696320000 | Bluebeam | video | 25w
+    Markup summaries, done in seconds. Use Claude in #BluebeamRevu to filter, organize, and export your data straight to Excel. Less manual work, more clarity. #BluebeamIn30
+
+7482494201243447296 | Bluebeam | image | 62w
+    Most AI tools are great at reading specs, emails and contracts, but some of the costliest mistakes still hide in the drawings. In our Built blog, Shir A., SVP Innovation and AI at Bluebeam, explains why construction AI needs drawing intelligence to catch issues like missing doors, inconsistent symbols and visual changes between revisions before they reach the field. Dive in:➡️ https://lnkd.in/eXtFG-sy
+
+7482811262356221952 | Bluebeam | image | 26w
+    Unbound 2027 is set. 🎉 Join us April 6-8, 2027 in Las Vegas, NV at the Virgin Hotel. Save the date. More details: https://lnkd.in/dQgfQExu #Unbound2027 #Bluebeam
+
+7483175085491736576 | Bluebeam | image | 45w
+    Still using #BluebeamRevu the same ol' way you did last year? Join us on July 23 to discover what's new, how to use it, and tips and tricks to get more from your tools — delivered in just 30 minutes! Save your spot here> https://lnkd.in/e2Qm8ehp
+
+7483542502638092288 | Bluebeam | image | 81w
+    Rushed, improvised takeoffs don't just create stress. They create pricing gaps, missed scope, and painful rework later. Our free ebook, The Modern Quantity Takeoff Playbook, walks through a modern, defensible quantity takeoff workflow you can actually trust, from drawing intake and calibration through validation, export, and revision management. You'll see how to separate quantity takeoff, material takeoff, and estimating so  [...]  clean and auditable, and how to spot common failures before they turn into bid risk. Download here: https://lnkd.in/eHn2RaSd
+
+7483626606104702977 | Bluebeam | image | 69w
+    Construction teams are surrounded by data, but most of it is stuck in silos. We explain why connected project data can become your biggest competitive advantage, from managing thousands of vendors to making faster, clearer decisions on active jobs, in this article from ForConstructionPros. You'll see what happens when drawings, RFIs, and field reports share a single source of truth instead of living in separate systems. Read more: https://lnkd.in/e3UZaUNe
+
+7483881806035988481 | Bluebeam | video | 37w
+    Reading overlay drawings can take time. With #BluebeamMax, you can prompt Claude to generate a clear narrative of changes, including added rooms, dimension updates, and more. It is a faster way to understand what changed and where.
+
+7485808151208964096 | Bluebeam | image | 34w
+    Not sure which Revu updates are worth your time? Join us tomorrow to learn what's new, what matters, and how to apply it fast with practical tips and tricks in just 30 minutes. https://lnkd.in/egxWAmS3
+
+7486100994238636032 | Bluebeam | text | 56w
+    We're honored to be named a finalist for Best SaaS Product for Construction and Property Management by The Cloud Awards.🎉 This one's for our users. You show up every day to build, manage, and get the job done, and that's what makes this recognition possible. Thank you for trusting us to be part of your workflow.
+
+7487839509104197633 | Bluebeam | video | 38w
+    Design reviews still stuck on paper? Oktra moved design reviews and pre-construction workflows into Bluebeam, improving clarity and mitigating a £150,000 budget overrun before going to market. Watch the video to see how they did it → https://lnkd.in/dyt7YNrk
+
+7488249069765804032 | Bluebeam | video | 56w
+    The Offset tool in #BluebeamMax's Magic Markups sets a markup at an exact distance, say 36 inches off the floor and 22 inches off a door jamb, and drops it with a single click. With Control and Alt, you can also turn one measurement, like a carpet area, into a wall, ceiling, or baseboard measurement instantly.
+
+7488620434779938817 | Bluebeam | image | 96w
+    Node adjustments add up fast when you're marking up external walls for linear metre takeoffs. Jake Rowe, an estimator at Drywall Steel Sections Limited, shared how Magic Markups in Bluebeam Max changed that for him: snap to the existing wall line, offset by half your markup width, and the line centers itself. No more constant tweaking, just clean, accurate takeoffs  [...]  How much time do node adjustments cost your team? Let us know in the comments. #BluebeamMax #ConstructionTech #AEC
+
+7488958441936281618 | Bluebeam | image | 98w
+    Your takeoff isn't really done when you hit "finish." It's done when the drawings change and your numbers still hold up. Most #takeoffs don't fail on day one. They fail three revisions later, when an addendum lands and the whole estimate needs a rebuild. We dug into why that happens and what a revision-ready takeoff actually looks like: clean quantities  [...]  right at the source instead of copied and re-copied until nobody trusts the numbers. Read more here: https://lnkd.in/ee9dqHWy
+
+7490459205003374593 | Bluebeam | video | 90w
+    We're excited to shine our August spotlight on Aquion, our trusted Bluebeam distributor serving Australia and Southeast Asia. In this month's partner spotlight, CEO Stuart Hogben shares how Aquion Pty Ltd's 15+ year partnership with Bluebeam has helped drive year-over-year growth across the Asia-Pacific region. From championing innovative technologies to exploring practical AI use cases, Aquion is committed to helping  [...]  the latest Partner Spotlight to hear Stuart's insights and learn what's driving success across the region. #ConstructionTechnology #AI
+
+7490761034828349441 | Bluebeam | text | 83w
+    Welcome to the August edition of Construction AI Insider. This month we're pulling apart a word we've all been using too loosely: "AI." 🔹Why language AI and vision AI are two different technologies wearing one name 🔹How that confusion turns into real, expensive mistakes on the jobsite 🔹Where we've blurred the line ourselves, and what we're doing about it 🔹How  [...]  Overlay and Smart Review to catch what changed between revisions Read the full issue ⬇️ #ConstructionAI #AEC #BluebeamMax
+
+7490791412490297344 | Bluebeam | video | 113w
+    Sometimes it's the smallest tools that make the biggest difference. For Shaya Birnbaum with Express Electric Inc, drawing a 12-inch soffit used to mean manually calculating multiple measurements just to get an accurate sketch. It got the job done, but it was a slow, tedious process. Now, with Bluebeam Max, Offset does the heavy lifting. A quick trace of the  [...]  the fast track and say goodbye to your tedious tasks? Supercharge your workflows with Bluebeam Max. #BluebeamMax #BluebeamMaxFastTrack
+
+7491156414590169088 | Bluebeam | image | 28w
+    With calibrated take-offs and side-by-side comparisons, Oktra tracked design changes against budget and identified a £150,000 overrun before going to market. Read the full case study > https://lnkd.in/eDnYdZ3t
+
+7491228114467966976 | Bluebeam | image | 87w
+    Construction teams are not resisting AI, but they are looking for AI that fits the way they already work, protects the data they manage and gives them more time for the decisions that matter. In a new article, Bluebeam CEO Usman Shuja shares what more than 2K beta users taught us as they used #BluebeamMax on real projects. The takeaway  [...]  the work teams already know and helps them focus their judgment where it matters most. Read more: https://lnkd.in/e_ft6H5A
+
+7491491603950428160 | Bluebeam | image | 92w
+    240 million gallons of sewage hit the Potomac after an environmental review ran past deadline. Easy to blame policy. Our head of government and public affairs, Parth Tikiwala, makes the case that the bigger issue is operational: version confusion, siloed reviews, and comment reconciliation eating months off every project. Detroit's chief building official put it plainly: "I can't imagine how  [...]  still on paper." Where's your agency losing the most time: staffing, coordination, or outdated systems? Full read: https://lnkd.in/eS7KGHav
+
+7492988966191738880 | Bluebeam | link | 57w
+    Our CEO, Usman Shuja, sat down with Engineering News-Record's Jeffrey Yoders on the Critical Path podcast to talk about where construction documents are headed and what AI means for the future of Bluebeam and Nemetschek Group. Give it a listen, then tell us: what's the next big shift you're watching for in construction tech? Listen here. https://lnkd.in/eweAWC25
+
+7493432135052189697 | Bluebeam | image | 70w
+    Markups change mid-project more often than anyone would like. A material swap, a design update, a bid that gets revised, and suddenly the markup you placed doesn't match what's actually happening. Doug McLean with Towne Millwork Ltd. used to handle that by deleting the old markup and starting over. Now he just converts it into what it needs to be. Less rebuilding, fewer clicks, more time back in the day.
+
+7493886905336369155 | Bluebeam | image | 64w
+    Don't miss these AI sessions at Gastech 2026 - where the future of energy takes shape. From tackling cyber threats and strengthening data security to unlocking the potential of robotics and smart monitoring, these sessions cut straight to the real-world impact of AI across the sector. Moderated by Philippe Herve, Head of Energy Industry at Bluebeam, bringing sharp insights into energy's digital transformation. https://lnkd.in/dBhttYT
+
+7495178169789046784 | Bluebeam | image | 105w
+    Real-time collaboration in Revu is powerful, but only if your team knows how to use it well. Join our Customer Success team on September 15 for a focused 30-minute session on making collaboration in Revu smoother, faster and more effective. You'll learn how to: 🔹Use Studio Sessions and Projects to work with internal and external teams in real time 🔹Keep  [...]  reduce friction and keep projects moving Led by Stefanie Reichman, PE, Sr. Customer Success Manager. Register here: https://lnkd.in/e6wsjNP8
+
+7495529489335230464 | Bluebeam | image | 51w
+    Every project teaches you something worth sharing. Whether you've streamlined reviews, improved collaboration, connected systems, or found a smarter way to work, your experience could help thousands of industry peers. The Call for Presenters for #Unbound2027 is now open. Submit your session and join us in Las Vegas next April: https://lnkd.in/eZf8DWPf
+
+7495891316623609857 | Bluebeam | image | 29w
+    We're heading to Stavanger for #ONS2026. ✈️ Come find us at stand 5646, 24–27 August – and see how #BluebeamMax is changing the way energy teams deliver complex projects.
+
+7496190894291853312 | Bluebeam | video | 61w
+    Real talk: nobody got into architecture or construction to spend their day hunting through emails and drawings for one hidden change. 👀 Jean-Pierre Trou, founder of mbue and now part of Bluebeam, thinks #AI should be doing that grunt work so people can get back to the design and construction problems that actually matter. Less digging, fewer errors, more good work.
+
+7496665949396209664 | Bluebeam | multi-image(3) | 117w
+    Before Shanen Aranmor, MS, CWI/CWE became a certified welding trainer, she was a therapist and later a college professor. Blacksmithing gave her an outlet. Welding gave her a calling. She went on to become Miller Electric's first woman trainer. At one session, a man asked her to "go get the teacher." She wrote her name on the board and taught  [...]  every student: "People need to know that they're enough." Read the full story on the Built Blog: https://lnkd.in/eYaGPNXs
+
+7497460462721110016 | Bluebeam | link | 44w
+    Still chasing P&ID comments across your energy projects? Bluebeam brings everything into one place - so your reviews stay fast, clear, and fully traceable. If you're heading to Gastech 2026, come see it in action. Booth B120 · Live demos · Free mousepads https://lnkd.in/dBhttYT
+
+7497763518071390208 | Bluebeam | video | 25w
+    Catching every revision shouldn't take all day. ⏱️ Smart Overlay compares drawing versions in seconds, so you can spot what changed and move on. #BluebeamIn30
+
+7497987677753958400 | Bluebeam | image | 45w
+    Are you the person everyone goes to for Bluebeam tips? Workflow advice? Project coordination? Best practices? Chances are, other professionals have the same questions. Share what you know at #Unbound2027. Our Call for Presenters is now open, and we'd love to hear your ideas. https://lnkd.in/edTQcjVT
+
+7498203592462622720 | Bluebeam | multi-image(6) | 127w
+    What a day at Bluebeam Unbound Singapore! Our first Unbound in Singapore brought together customers, partners and AEC industry leaders for a day of connection, collaboration and conversations about the future of the built environment. We heard from industry leaders on the importance of open standards and interoperability, explored how Bluebeam is helping teams work more collaboratively, and shared a  [...]  joined us and contributed to the conversation. Until next time, Singapore! 👋 #BluebeamUnbound #UnboundSingapore #Bluebeam #AECCommunity #SingaporeConstruction #DigitalTransformation
+
+7498503465787203584 | Bluebeam | video | 62w
+    Most takeoff problems don't come from the trade. They come from the workflow. Bluebeam Workflow Consultant Charles Todd walks through how he keeps takeoffs fast, accurate, and easy to trust, from calibration all the way through validation and export. Our eBook breaks down how to build a takeoff process your whole team can rely on, trade by trade. Download it here: https://lnkd.in/e6SZEmcb
+
+7498759393853734913 | Bluebeam | image | 80w
+    Collaboration in Revu should feel smooth, not like extra work. Join us for a free 30-minute session on how to streamline collaboration for your whole team. You'll learn how to use Studio Sessions and Projects in real time, keep markups organized with clear communication workflows, track changes and accountability across stakeholders, and set up permissions the right way from the  [...]  by Stefanie Reichman, PE, Sr. Customer Success Manager at Bluebeam. September 15 at 12pm ET. Register here: https://lnkd.in/e6wsjNP8
+
+7499103605635932160 | Bluebeam | text | 14w
+    Every construction pro has one. What's the #takeoff mistake that still haunts you? 👻
+
+7499996148603002880 | Bluebeam | multi-image(4) | 165w
+    Sydney, that's a wrap on Bluebeam Unbound! 👏 Thank you to everyone who joined us for an afternoon of insightful conversations, new connections and fresh perspectives from across the AEC community. From AI and digital transformation to the future of construction, we heard real-world insights into how technology is changing the way teams work. Attendees also got a closer look  [...]  for being part of Unbound Sydney. Your questions, ideas and conversations are what make these events so valuable.
+
+7500665688274096128 | Bluebeam | video | 30w
+    Keep your markup reviews organized. 🗂️ Learn how to create custom statuses in Revu so your team always knows what's been accepted, rejected, or still in review. #BluebeamIn30 #ConstructionTech #AEC
+
+7500918123504533505 | Bluebeam | video | 103w
+    Sometimes the biggest workflow wins come from connecting the dots. Before Bluebeam Max, Darbie R relied on Polygon and rectangle markups to describe shapes and spaces. And changing shapes often meant redrawing it from scratch during live client conversations. But now, with Bluebeam Max, the tools work together. With Convert to and Duplicate as, a rectangular cafeteria can become an  [...]  get on the fast track and work smarter, not harder? Supercharge your workflows with Bluebeam Max. #BluebeamMax #BluebeamMaxFastTrack
+
+7501287222978027520 | Bluebeam | video | 90w
+    Our September Partner Spotlight features Shan Chaudri CEO of Brighter Graphics Limited, a Bluebeam Sapphire Partner in Europe! Brighter Graphics Group has been partnering with Bluebeam since 2002, helping customers across #AEC get the most out of their Bluebeam software to make smarter, data driven decisions. For Shan, the partnership comes down to one word: collaboration. We couldn't agree more!  [...]  collaborate better, and do more with less. Hear more from Shan in our September Partner Spotlight! #Bluebeam #AEC
+
+7501718246081904640 | Bluebeam | link | 91w
+    Quantity takeoff, material takeoff, cost estimate. They get used like they're interchangeable, and that's exactly how a project ends up with numbers nobody can explain later. A quantity takeoff is just what the drawings show. A material takeoff adds in what you actually need to buy, waste and all. A cost estimate is what it all costs. Mix them up,  [...]  five minute fix. How does your team keep these three straight? More on it here: https://lnkd.in/exTJkKZT #Estimating #Construction
+
+7501957364560961536 | Bluebeam | multi-image(6) | 51w
+    Last week we joined ONS 2026 in Stavanger (Norway), one of the largest gatherings in the energy industry. Four days of real conversations with project teams about cutting down rework and keeping complex projects on track. Thanks to everyone who stopped by our booth, we're grateful for the connections made. 🙏
+
+7502999238377783297 | Bluebeam | image | 60w
+    Headed to Gastech? Stop by the Bluebeam stand and discover how leading energy teams are delivering complex projects with greater speed, collaboration, and confidence. From LNG and hydrogen to carbon capture and major infrastructure, Bluebeam helps teams review faster, reduce rework, and keep projects moving. Come and see how smarter collaboration is powering the future of energy. #EnergyIndustry #Bluebeam #DigitalConstruction
+
+7503123774276280320 | Bluebeam | multi-image(4) | 75w
+    The call for presenters for #Unbound2027 is still open, and we want to hear from you. If your team has a workflow that actually works, a tool connection that finally clicked, or a data insight that changed a decision, that's a session. Three categories are live right now: Workflows That Deliver, Connected Workflows Better Outcomes, and From Insight to Action. Submit your idea and get in front of a room full of your peers: https://lnkd.in/eZf8DWPf
+
+7503453707536334848 | Bluebeam | multi-image(4) | 55w
+    What makes a #takeoff defensible? According to Bluebeam Workflow Consultant Charles Todd: a workflow that combines smarter tools with deliberate verification. Automation can help teams move faster—but it doesn't replace the need to cross-check quantities, review drawings and catch scope that may be hiding outside plan view. Explore the complete workflow in our ebook: https://lnkd.in/eHn2RaSd
+
+7503468295291920384 | Bluebeam | image | 31w
+    We're at BIM World Copenhagen this September – Scandinavia's leading event on digitising the built environment. Join us for on-hand experts and free demos, including for Bluebeam Max. #BIMWorldCopenhagen #Bluebeam #DigitalConstruction
+
+7503637146772111361 | Bluebeam | image | 49w
+    It's time to supercharge the way you build. Join us October 8th explore Bluebeam Max - our new AI-powered plan that automates documentation, catches costly errors early, and boosts collaboration from PDF to BIM. You'll also get insights from real customers already unlocking next-level efficiency with Max > https://lnkd.in/eWJGDzhQ
+
+7503788141389099008 | Bluebeam | text | 0w
+    
+
+7503814632302829569 | Bluebeam | text | 77w
+    AI in construction used to mean "read this and flag what's wrong." This month, it means "act on this, no review required." Our September newsletter digs into what changes when #AIagents stop advising and start submitting, ordering, and scheduling on your behalf. Plus: robots hit the show floor in Beijing, a trust gap widens even as adoption grows, and one team found a faster way to reshape a room mid-conversation with #BluebeamMax. Read the full issue 👇
+
+7504163628388970497 | Bluebeam | image | 36w
+    We're at BIM World Copenhagen this September 16-17 – Scandinavia's leading event on digitising the built environment. Find us at stand 44 with on-hand experts and free product demos, including for Bluebeam Max. #BIMWorldCopenhagen #Bluebeam #DigitalConstruction
+
+7472346204312436737 | Buildertrend | text | 121w
+    Permitting delays have become a fact of life for many builders, especially in markets like California. But while contractors can't always control when approvals happen, they can control how their business responds when timelines shift. The builders navigating today's challenges most successfully are focused on more than just getting permits approved. They're investing in better communication, stronger processes and greater  [...]  valuable tools builders have. Read more about how California builders are keeping projects moving despite ongoing permitting challenges.
+
+7473053272849752064 | Buildertrend | video | 53w
+    Intern Cribs: Buildertrend edition 👀 Our Product and Engineering interns are giving a MTV Cribs-style tour featuring the spaces, people and experiences shaping their summer at Buildertrend. Sure, there's free lunch and ping pong. But the best part? Real projects, real mentorship and a team they actually want to hang out with. 🎥
+
+7473414264699985920 | Buildertrend | multi-image(4) | 123w
+    Buildertrend Community Builder Spotlight: J.S. Brown & Co. For more than 45 years, J.S. Brown & Co. has been helping homeowners throughout Central Ohio create spaces that support the way they want to live. Founded in 1978, the design-build remodeling firm specializes in kitchens, bathrooms, additions, basements and whole-home renovations, guiding clients through every step of the process under one  [...]  processes and deliver exceptional client experiences. Join us in celebrating their team and the incredible work they do!
+
+7473819426967064577 | Buildertrend | video | 92w
+    For Piper Stromatt and the team at Boutique Living By Curate, every custom home starts with the land. From Chattanooga's mountain views to steep slopes and one-of-a-kind terrain, their team designs each home with intention, care and the client experience in mind. With Buildertrend, homeowners stay connected every step of the way through project updates, jobsite photos and clear communication  [...]  team run every project with confidence. See how Boutique Living by Curate is redefining the custom home experience.
+
+7475957250658861056 | Buildertrend | link | 107w
+    One thing that's become clear in conversations with builders this year: growth is still happening, but it's looking different than it did a few years ago. The builders finding success right now aren't necessarily the ones building the most homes. They're the ones creating efficient processes, understanding their numbers and delivering an exceptional client experience. At the same time, labor  [...]  builders better understand where the industry stands today and where it's headed next. Read the full report: https://btrnd.co/4y235E6
+
+7476724574559191040 | Buildertrend | multi-image(8) | 99w
+    Builderbond Nashville is officially in the books! 🤠 What a great couple of days. From happy hours and networking to insightful panel discussions, great conversations and plenty of opportunities to connect with fellow builders, this event was packed with meaningful moments. There's nothing better than bringing our customers and industry peers together to share ideas, learn from one another and  [...]  you missed this Builderbond, don't worry... we're not done yet. Stay tuned to see where we're headed next!
+
+7478100171856240640 | Buildertrend | text | 52w
+    3,000+ subscribers strong 📬 Your July WIP Report just dropped. This month we're breaking down how top builders are running their businesses in 2026, sharing actionable ways to level up your workflow, and spotlighting Tennessee builder Boutique Living By Curate. If you're not subscribed yet — what are you waiting for? 👇
+
+7478128372397637632 | Buildertrend | video | 70w
+    Strong projects don't happen by chance, they're the result of strong processes. If you're looking to improve accountability, streamline operations and build systems that support long-term growth, join us for the 2026 Project Management Breakthrough Academy Roundtable on July 15. Hear practical insights from industry experts and fellow builders on what's working today and how to build a project management process that scales with your business. Interested? Register here: https://btrnd.co/4ggkand
+
+7478501507072598016 | Buildertrend | link | 88w
+    Disconnected operations and accounting can make it difficult to get a clear picture of project performance, especially as businesses grow and jobs become more complex. That's why we're excited to announce our new native integration with Sage Intacct. By automatically syncing job records, bills and invoices between Buildertrend and Sage Intacct, builders can eliminate manual data entry, improve financial visibility  [...]  toward helping builders run smarter, more connected businesses from the ground up. Learn more about the integration: https://btrnd.co/4vaiQpz
+
+7478892858981216256 | Buildertrend | multi-image(6) | 94w
+    Every project tells a story, but the best stories are about the people behind them. The builders who show up every day to solve problems, lead teams, deliver exceptional client experiences and create homes that families will enjoy for generations. At Buildertrend, we have the privilege of working alongside thousands of builders across North America and we're continually inspired by  [...]  be part of your business and your journey. We're proud to support the work you're doing every day!
+
+7480015250776363009 | Buildertrend | image | 82w
+    Join us for our upcoming Train with a Builder series, where two industry leaders will walk through real business challenges they faced and the processes they implemented to improve profitability. 📅 July 14: Stabilize Profit & Loss with Repeatable Processes featuring Bailey Mangas of Jeff Woods Construction and Roofing 📅 July 16: Uncover Margin Slippage to Maximize Returns featuring Monica  [...]  & Co. Real-world case studies with practical takeaways you can apply to your own business. Register here: https://btrnd.co/3QGaSXr
+
+7480721404934434817 | Buildertrend | text | 92w
+    Halfway through 2026, we're taking a moment to reflect on the progress we've made and where we're headed next. Over the past quarter, we've introduced new capabilities designed to help builders work smarter, from expanding AI across the platform and strengthening financial workflows with sales tax automation and Sage Intacct integration to enhancing Tasks and continuing to invest in a  [...]  builders run more efficient, more profitable and more connected businesses. Swipe through to see what's new in Buildertrend.
+
+7481030170825605120 | Buildertrend | link | 84w
+    We asked builders what they think will define the next chapter of residential construction. None of them said "build more." They talked about planning before breaking ground. Using AI to remove busywork. Designing homes around how people actually live. Building higher-performing homes. Helping homeowners reimagine the homes they already have. The most interesting part wasn't the predictions themselves. It was  [...]  the industry is headed. Take a look at the five predictions shaping the second half of 2026: https://btrnd.co/4fsTvTa
+
+7481427034099888128 | Buildertrend | link | 78w
+    Want to hear what's actually working for other builders? Join us and our friends at Breakthrough Academy for a live roundtable featuring Caleb George of Chris George Custom Homes and Scott Kelley of Evolution Design Build Group as they share the real-world project management strategies, systems and lessons that have helped their businesses grow. 📅 Wednesday, July 15 🕚 11:00 AM PT | 1:00 PM CT | 2:00 PM ET Ready to join the conversation? Register here: https://btrnd.co/4ggkand
+
+7481449196043108353 | Buildertrend | multi-image(4) | 68w
+    Our Software Engineering interns traded their desks for a day at Omaha's Henry Doorly Zoo and Aquarium! From exploring world-class exhibits to spending time together outside of work, it was a great opportunity to connect, learn and make memories during their internship experience. Investing in our interns means more than helping them grow professionally it's also about building relationships and creating experiences they'll remember after the summer ends.
+
+7482494337784717312 | Buildertrend | multi-image(4) | 146w
+    Buildertrend Community Builder Spotlight: RPD Custom Pools This month, we're proud to highlight RPD Pools, a custom pool builder based in West Palm Beach, Florida and a valued Buildertrend customer since 2018. Known for creating luxury custom pools and outdoor living spaces throughout South Florida, their team combines thoughtful design, innovative engineering and exceptional craftsmanship to create one-of-a-kind backyard retreats.  [...]  deliver exceptional experiences for their clients. Join us in celebrating their team and the incredible work they do!
+
+7482844382690250752 | Buildertrend | text | 95w
+    If your phone rings every time there's a problem on a jobsite, your business doesn't have a people problem, it has a systems problem. One of the biggest signs your company is ready to grow is when every project, approval and client conversation still depends on you. The good news? It doesn't have to. Join us tomorrow, July 15 with  [...]  project management systems that reduce owner dependency, empower PMs and keep projects moving. Learn more and register now!
+
+7483202234848215042 | Buildertrend | text | 194w
+    Twenty years ago, Buildertrend started with a simple idea: help builders run better businesses. A lot has changed since then. Construction has become more complex. Homeowners expect more. Technology has changed the way builders communicate, manage projects and run their businesses. And now, AI is opening up possibilities that seemed unimaginable just a few years ago. Through every shift, we've  [...]  construction will continue to change, and we'll continue building the tools that help builders succeed through every chapter.
+
+7485030424734404609 | Buildertrend | video | 69w
+    Four days to four hours. That's the difference Buildertrend has made for Boutique Living By Curate's selections process. By simplifying the behind-the-scenes work, their team has more time to focus on what matters most: creating an exceptional experience for their homeowners. From out-of-town clients to local builds, everyone stays informed with product details, pricing and selections in one place. Because a better process creates a better experience for everyone.
+
+7486099573115912192 | Buildertrend | link | 173w
+    The best ideas in construction don't always come from a keynote stage. More often, they come from the conversation afterward. A builder sharing how they solved a hiring challenge. Someone explaining a process that's saving them hours every week. An honest discussion about what didn't work and what they learned from it. That's exactly what we saw at our first  [...]  Builderbond is all about? Read more about our Nashville event and see where we're headed next here: https://btrnd.co/4vNPbDh
+
+7486507033937027072 | Buildertrend | multi-image(6) | 91w
+    That's a wrap on the Sunbelt Builders Show®! A huge thank you to everyone who stopped by our booth and joined us for our Builderbond Happy Hour. We loved catching up with familiar faces, meeting new builders and having conversations that remind us why this community is so special. Next stop: PCBC in San Diego! Will we see you there?  [...]  getting started. More events are on the way, Buildertrend may be coming to a city near you soon!
+
+7486529424008486912 | Buildertrend | multi-image(5) | 37w
+    Looking back on a strong Q2. At our latest Sales Standup, we recognized our Q2 Sales Standout Award recipients and celebrated the team's accomplishments, growth and momentum from the quarter. Congratulations to this group's well-deserved recognition. 👏

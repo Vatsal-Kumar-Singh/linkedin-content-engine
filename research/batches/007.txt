@@ -1,0 +1,169 @@
+# batch 007  -  55 posts  -  label per research/CLASSIFICATION-PROTOCOL.md
+# labels: problem exploration requirements selection validation consensus
+#         recruitment culture event product-news csr unclear
+# write research/labels/007.tsv as: <id><TAB><label>
+
+7387382098581475329 | Ather Energy | text | 77w
+    In this week's Step Up Stories, meet Mounesh M, Devaraj D, Manas Padhi, and Manivasagam C. From leading production shifts to managing quality checks, they've grown their skills, their teams, and their confidence, one decision at a time. Step Up is our way of recognising and supporting growth that's built through consistency, learning, and taking ownership. They've helped build Ather from the inside out. And they remind us what it truly means to #BeTheStory. #StepUp #StepUpStories #AtherEnergy
+
+7389229873095073792 | Ather Energy | image | 128w
+    At Ather, we love solving the hard engineering problems. At our Community Day recently, we unveiled our new fast charger which gives riders a day's charge in only 10 minutes! The secret behind this charging solution was deep engineering. The industry is demanding faster charging, and we're using first principles to build the necessary systems. Dive into our recent Substack  [...]  explore our careers page and see where you can make your mark at Ather. #AtherEnergy #ChargingInfrastructure #AtherEngineering #AtherEngineeringStack
+
+7391060166454108160 | Ather Energy | video | 83w
+    In the latest episode of #KnowOurCrew, meet Aliasger Moiz Abbasi. Aliasger leads the Charging Infra Operations at Ather. He and his team ensure successful deployment and smooth operations of Ather Grid - our public charger - across various points in India. Catch a glimpse into his Ather journey, the fictional world he'd like to be teleported to, and his love  [...]  follow our hashtag #KnowOurCrew to stay updated on the inspiring stories of our team members. #BeTheStory #AtherEnergy #PeopleOfAther
+
+7391742320783716352 | Ather Energy | text | 139w
+    In our latest edition of AWOL Through the Rearview, meet Gandharv Bakshi. Gandharv went from designing smart backpacks at Lumos, to shaping the software for Ather's first product launch, and then building the community of our initial customers. Swipe to read his story of exploring the start-up space after his transition from Ather. ➡️ “Through the Rearview - Alumni Stories”  [...]  have built our legacy and continue to be Ather ambassadors for life. #AtherEnergy #AtherWayOfLife #AWOL #ThroughTheRearview #AlumniStories #BeTheStory
+
+7392457483069493248 | Ather Energy | text | 123w
+    #HiringAlert⚡ We're looking for young leaders and first-principle thinkers to join our cross-functional teams building AtherStack. AtherStack™ is our proprietary technology platform - the central intelligence connecting the scooter, the cloud, the app, the halo, Ather grid and all the other components of an Ather ecosystem. Swipe to find the role that fits you best and use the links in  [...]  Head to our careers page to check out all the open roles. 🚀 #AtherEnergy #AtherStack #Hiring #WeAreHiring #BeTheStory
+
+7394324379419041792 | Ather Energy | image | 129w
+    Q2 FY26 was defined by outstanding growth. A powerful testament to the people behind our brand. This success is a collective win, reflecting the deep passion and commitment shown by our team members, our Experience Center partners, and our supportive community. Q2FY26 saw steady growth across India: ■ 78 new Experience Centres ■ Market share in Middle India doubled ■  [...]  one design, one delivery at a time. Read more here (link in comments). #BeTheStory #Q2FY26 #ThinkAsASpecies #WarpMode #AtherEnergy
+
+7396891218900639744 | Ather Energy | text | 216w
+    When the unexpected hits, the difference between a delay and a disaster often comes down to one person's ability to stay calm, think fast, and lead with clarity. This month's TAAS Wall of Fame features Sandesh Gowda, Associate, EOL Zone Leader – IPQC, who lives the value “Move Fast (and Don't Break Things).” During a high-pressure moment on the shop  [...]  Follow #TAASWallOfFame for more stories of Ather team members living our values in action. #TAASWallOfFame #ThinkAsASpecies #MoveFastAndDontBreakThings #PeopleOfAther
+
+7400128748995588096 | Ather Energy | text | 180w
+    There has been growing buzz around rare-earth materials over the past few months. Supply uncertainties, shifting export policies, and global dependency have pushed magnets into the centre of EV conversations in India and elsewhere. The topic is technical, but the implications are real for anyone building or thinking about the future of electric mobility. Our team has put together a  [...]  a good place to start. Read the full blog on Ather Substack. Link in the comments. #ThinkAsASpecies #AtherEnergy
+
+7404030102378053632 | Ather Energy | text | 143w
+    As promised, the second article of our rare-earth series, as part of Ather Tech Review, is out on Substack. Written by Naveen Deepak Veeramaneni, this blog dives deep into the electric two wheeler motor, different motor types and what grades of magnets are suitable for an electric two-wheeler traction motor. The article explores the critical role that magnets play in  [...]  is a long-form publication that provides a platform for thoughtful consideration of ideas. #AtherEnergy #ElectricVehicles #EV #Motor #AtherTechReview
+
+7406281355304660992 | Ather Energy | text | 149w
+    Some people grow into the role. Others grow the role itself. Meet Hari Haran Vaithiyanathan in our latest edition of #KnowOurCrew. Hari joined Ather three years ago and took charge of the battery line at our Hosur plant. With a background in mechanical engineering and production ops, he helped stabilise a critical part of the EV build from scaling output  [...]  buying his first car. 👉Swipe through to get to know the person behind the process. #PeopleOfAther #BeTheStory #AtherEnergy
+
+7407728912430092288 | Ather Energy | text | 143w
+    Now that we have established that rare-earth magnets are critical for EVs, the next question is how to make them in India. The third part of our Rare Earth series looks at the process of converting ore into the final magnet. While the raw materials are available in India, building magnets at scale is far from straightforward. Parts of the  [...]  can also subscribe to Ather Tech Review on Substack to read more from our engineering teams. #AtherEnergy #AtherTechReview
+
+7409184425391099904 | Ather Energy | image | 298w
+    Good engineering is about eliminating guesswork. So is good medicine. At this month's TBC (The Boring Conference), we hosted Dr Vinod Scaria, Chief Data Officer at Karkinos Healthcare, and one of the key figures in India's work on genomic medicine. He walked us through how personal genome sequencing is shaping the future of healthcare. The idea is simple, but powerful.  [...]  TED talk! If you'd like to contribute, please comment below and we will reach out. #TheBoringConference #AtherEnergy #Learning
+
+7417074775983935488 | Ather Energy | text | 154w
+    In the latest edition of AWOL Through the Rearview, meet Sudhanva R Atri. Sudhanva joined Ather after being one of our early adopters. Here, he used his photography and videography skills to capture the essence of our growing up days, and made a few friends while doing so. Swipe to read his story of exploring his True North in ecology  [...]  have built our legacy and continue to be Ather ambassadors for life. #AtherEnergy #AtherWayOfLife #AWOL #ThroughTheRearview #AlumniStories #BeTheStory
+
+7418892279588888576 | Ather Energy | link | 128w
+    #HiringAlert⚡Play a role in influencing the legal strategy of Ather! Join Ather's Corporate Legal team and be a driving force in our business growth, not just supporting it. We're looking for sharp legal minds who excel at strategic legal counseling and building legal frameworks - designing and implementing company policies, legal SOPs, and playbooks. This is your chance to make  [...]  Counsel (Bengaluru) - https://lnkd.in/gPne9BBN Intern - Company Secretary (Bengaluru) - https://lnkd.in/gSw6Y3kt Hemanth Ananth Ram #AtherEnergy #Hiring #WeAreHiring #BeTheStory
+
+7420348331098308608 | Ather Energy | image | 129w
+    How do we bring about social change through design and innovation? 🚀 Swostik Sourav Dash, co-founder of NeoMotion addressed this in the latest session of The Boring Conference. He showcased NeoMotion's attempt at building innovative mobility solutions for the differently abled and the elderly. He spoke about how they are switching the narrative from sympathy to aspiration through their customised  [...]  TED talk! If you'd like to contribute, please comment below and we will reach out. #TheBoringConference #AtherEnergy #Learning
+
+7421853070738792449 | Ather Energy | text | 77w
+    In the latest edition of #KnowOurCrew, meet Swati Sharma - service strategist turned Service & Spares PnL owner at Ather. When she's not thinking about service (or describing to people what “service strategy” means), you'll find her dancing or simply just being a cat. Swipe to find more about her Ather story and her interests. ➡️ Don't forget to follow our hashtag #KnowOurCrew to stay updated on the inspiring stories of our team members. #BeTheStory #AtherEnergy #PeopleOfAther
+
+7424361137414012928 | Ather Energy | text | 108w
+    Introducing Ather's inaugural Sustainability Report. 📑 At Ather, sustainability has never been a standalone effort. It is embedded into how we design products, build facilities, work with partners and continuously invest in our people. The report brings together how we think about building Ather: the decisions we make, the systems we build, and the responsibility that comes with growing an  [...]  of the report. The full report is live on our website - link in comments. #Sustainability #SustainabilityReport #AtherEnergy
+
+7425110699183570944 | Ather Energy | text | 72w
+    In the latest edition of #StepUpStories, meet Ganeshprasad M bhat, Prajnith R, Shaikh Imran, and Chitta Samantaray. They've grown by staying curious, taking responsibility, and leaning into challenges without hesitation. Their progress shows what steady effort and the right support can unlock. That's what Step Up stands for growth that's built through learning, teamwork, and showing up with intent. They are living examples of what it means to #BeTheStory. #StepUp #AtherEnergy #Growth
+
+7426555756923064320 | Ather Energy | image | 155w
+    Here's to our strongest quarter yet!⚡️ Q3 FY26 has been about sustaining momentum - reflected in our strong volume growth, our all-time high revenue, and improvement in margins. Not just that, our teams have been busy paving the long road ahead - with new Experience Centres, a strengthened ecosystem, and increased adoption of our software features. The Q3 Chapter at  [...]  the Story. Onward to Q4. 📈 Link to the full report in comments. #AtherEnergy #BeTheStory #Q3FY26 #QuarterlyResults #ThinkAsASpecies
+
+7429451612257153024 | Ather Energy | text | 58w
+    In the latest edition of #KnowOurCrew, meet Pushpalatha. She is the force behind Ather's refund channels. She loves multitasking, guiding people, and occasionally, predicting the future. Swipe to find more about her Ather story and her interests. ➡️ Don't forget to follow our hashtag #KnowOurCrew to stay updated on the stories of our team members. #BeTheStory #AtherEnergy #PeopleOfAther
+
+7433074816385204224 | Ather Energy | text | 138w
+    #HiringAlert Build the systems that power how Ather builds. From the digital backbone of manufacturing to the connected EV experience, and the infrastructure that keeps it all running, we're hiring across critical technology teams at Ather. Whether you design enterprise systems that drive procurement and production, build high-performance Android applications for smart vehicles, or manage infrastructure that enables secure and  [...]  MM / EWM Consultant (Bengaluru) - SAP S/4 HANA PP / QM Consultant (Bengaluru) #AtherEnergy #Hiring #WeAreHiring #BeTheStory
+
+7435632803049926657 | Ather Energy | text | 191w
+    In our latest edition of AWOL Through the Rearview, meet Hemanth Kumar. Hemanth joined Ather in 2017 after discovering the company while researching touchscreen displays on two-wheelers. What started as curiosity soon turned into a leap of faith to help build something new in the EV space. During his time here, he worked on some of the earliest vehicle development  [...]  have built our legacy and continue to be Ather ambassadors for life. #AtherEnergy #AtherWayOfLife #AWOL #ThroughTheRearview #AlumniStories #BeTheStory
+
+7436282098870689792 | Ather Energy | multi-image(5) | 267w
+    Think about the people who've shaped your growth at work. Chances are, they didn't just give you advice. They shared their experience, trusted you with responsibility, or encouraged you to take a step you weren't sure you were ready for. At Ather, many of us can trace our own journeys back to moments like these. That idea sits at the  [...]  the many women across Ather who contribute to this culture every single day. #InternationalWomensDay2026 #IWD #GiveToGain #AtherEnergy #BeTheStory
+
+7437807144470691840 | Ather Energy | multi-image(8) | 208w
+    Can a crèche be more than just a facility at work? Can it reflect the culture of the people around it? Ather began in a college classroom. Two students building something they believed in. Over time, that idea grew into a company, and the people who built it grew too. Many of those early hires, and many who joined along  [...]  launches. Sometimes, it's visible in the everyday decisions that support your people as they grow. #BeTheStory #AtherEnergy #PeopleOfAther
+
+7440740172180303872 | Ather Energy | text | 118w
+    In this week's #StepUpStories, we're sharing the journeys of Wilfred Daniel, jagadish patil, Santhosh Acharya, and Sudhir Shriyan, four individuals who've grown by staying close to the work and continuously building their skills in service. At Ather, Step Up is a six-month development program that focuses on technical, functional, and behavioural learning. It's designed to help people take on larger  [...]  being built quietly, every day. And they remind us what it truly means to #BeTheStory. #StepUp #AtherEnergy #Growth
+
+7445075304236322817 | Ather Energy | multi-image(3) | 288w
+    Some things you build as a company. Some things you build with an ecosystem . LEAF has been a big part of the second. Something that we truly believe in is that the future is electric and because of that building the ecosystem around that belief becomes just as important as building the vehicle itself. After months of conversations, back  [...]  in India will be driven as much by collaboration as it is by innovation. #LEAF #LEEC #EV #AtherEnergy
+
+7446851727120838656 | Ather Energy | text | 151w
+    This Women's Month we didn't just show up in isolation. We showed up for each other. For us, it was never just about celebrating women. It was about really looking at how we can support each other in a world that hasn't necessarily been created with women in mind. So, instead of talking about what it means to be a  [...]  And that is something to take with us long after women's month is over. #Ather #WomensMonth #BeTheStory #GiveToGain
+
+7451960304638377984 | Ather Energy | image | 96w
+    Glad to share that we have won the AmbitionBox Employee Choice Award 2026 in the Automobile category! While we are proud of the recognition, we are even more proud of the individuals across our labs, factories, offices, and zones who made this a reality. This achievement truly belongs to the entire team. It is evident in the engineer who stays  [...]  the sales and service team members who take personal ownership of every customer's challenge. #AtherEnergy #AmbitionBox #ABECA #BeTheStory
+
+7458119698572865536 | Ather Energy | image | 143w
+    A year ago, wheee rang the bell at the NSE. Across offices, factories, zones and labs, we stood together counting down to that moment. It felt bigger than any number on a screen. This year, we learned why it was. 263k scooters on Indian roads. ₹3,823 Cr in revenue. Market share going from 7.6% to 18.6% in twelve months. 700  [...]  went, continuing to #BeTheStory. Check out the complete report in the comments below. #AtherEnergy #BeTheStory #Q4FY26 #QuarterlyResults #ThinkAsASpecies
+
+7462829774009311232 | Ather Energy | text | 159w
+    In 0.1 seconds, an Ather scooter can detect and recover from a slide. The average human reaction time is 0.25 seconds. That gap is where the magic happens. B G Gautham's latest piece on the Ather Tech Review maps out the four specific layers where a vehicle can intervene: keeping itself in working condition, catching rider behavior before it turns  [...]  is headed. Full analysis is in the article. Link in the comments. #AtherStack #AtherEnergy #EVSafety #Engineering #ThinkAsASpecies #BeTheStory
+
+7467541793291669504 | Ather Energy | text | 187w
+    From day one, Ather didn't just build electric scooters. We engineered an entire ecosystem, from India's first intelligent EV to a nationwide fast-charging network. As we scale into new markets and pioneer next-gen mobility, our internal systems need to move at warp speed. We're hiring across three teams that keep everything running behind the scenes: - Transformation Management leading high-impact,  [...]  (Bengaluru) → Senior Manager - Factory IT (Hosur) Explore all roles via the link in the comments below.
+
+7468623812738174977 | Ather Energy | multi-image(5) | 187w
+    8 years ago, the Ather 450 launched. The night before, on 3 June 2018, we were sitting in a basement with paintbrushes and tiny cans of touch-up paint. Fixing final details. Sticking on decals. Wiping everything down one last time. That's the kind of people who end up at Ather, people who don't just witness the story, they #BeTheStory. The  [...]  in that basement. And to everyone who has joined since, carrying the same instinct forward. #AtherEnergy #Ather450 #ElectricVehicles
+
+7470742905549254656 | Ather Energy | video | 84w
+    In the latest edition of #KnowOurCrew, meet Navyasree Polasam - our Inbound Logistics & Packaging Specialist. She is instrumental in ensuring that the right parts reach the right places. When she's not racing with her bike, or thinking of new ways to living upto her name, she is dreaming about Andhra food. Swipe to find more about her Ather story  [...]  follow our hashtag #KnowOurCrew to stay updated on the inspiring stories of our team members. #BeTheStory #AtherEnergy #PeopleOfAther
+
+7472906737747075073 | Ather Energy | text | 154w
+    This month's TAAS Wall of Fame features Keshav Dubey, a Data Scientist who truly lives the values of “Move Fast and Don't Break Things” and “Always Be Closing.” Keshav joined the Data Office last year and was quickly pulled into some of the most complex, time-sensitive asks across the org. The kind of work that needs both technical depth and  [...]  loop. 👈 Swipe to read what Aditya had to say in his nomination. #TAASWallOfFame #ThinkAsASpecies #BeTheStory #PeopleOfAther #AtherEnergy
+
+7473694837012316160 | Ather Energy | text | 199w
+    At Ather, finance is where strategy comes alive. We operate at the intersection of every critical decision, from the factory floor to the design lab, from dealer operations to the boardroom. Our team doesn't just report on business; we actively shape it. We are expanding our team and hiring across four critical functions that keep our business sharp: - Engineering  [...]  Specialist | Bengaluru Explore all roles at ather through the link in the comments. #AtherEnergy #Hiring #WeAreHiring #BeTheStory
+
+7474789546136584192 | Ather Energy | text | 332w
+    Last year at Ather Community Day, we unveiled Redux which is a concept vehicle that embodied everything we aspire to be as a brand: technology-led, futuristic, and obsessively crafted down to the smallest detail. Redux wasn't really created to answer a market need or fit into a product segment. It was created to ask a simple question: If we reimagined  [...]  challenge them first. Watch the entire video via the link in the comments below. #AtherEnergy #DesignStudio #ProjectRedux #BuildersOfAther
+
+7489923038818516992 | Ather Energy | text | 46w
+    Running a factory well takes the right people at every stage. Ather's facility at AURIC, Chhatrapati Sambhaji Nagar, is up and running, and we're hiring across production, planning, civil engineering and digital transformation. Swipe to explore. Apply through the link in the comments. #Ather #AURIC #Hiring
+
+7492590158702137345 | Ather Energy | video | 44w
+    Every piece here was placed by hand, kind of like… everything Ather builds. This Community Day, meet the people behind it, and watch the new dawn of magic unfold. 29 August · Bengaluru · Tickets live on District find the link in the comments.
+
+7495083267054899200 | Ather Energy | image | 103w
+    We started with one scooter and one factory. A decade later, we've crossed 7 lakh sales and built a facility that will nearly double our production capacity. Factory 3.0 is designed to bring 42,000 units a month at full ramp, with Phase 2 land already secured to take us toward a million units a year. The facility reflects how we  [...]  it. The next chapter of Ather is a manufacturing story as much as a product one. #Ather #AURIC
+
+7497533539962376192 | Ather Energy | link | 112w
+    Every Ather Community Day, has one thing in common: students showing up curious, asking questions, wanting to know how things actually get built. We've felt that same energy on campuses too, in every college conversation we've had. This year, that curiosity gets its own day. August 30th is Ather Community Day's first-ever Builders' Edition, for students and early-career professionals across  [...]  wondered what goes into this, come find out. 📍 KTPO, Whitefield, Bengaluru 📅 August 30th Register here: https://lnkd.in/gtxWBgd8
+
+7503410401263521792 | Ather Energy | text | 165w
+    Behind every new platform, every scooter, every feature that makes the ride better, there's a team that built it from scratch. ✨ Ather Community Day '26 was two days of exactly that. The first day brought our biggest unveiling yet, the Ather Konarc, our new electric scooter built to make EVs mainstream, along with a range of updates, from MagicKey,  [...]  in what we're building, thank you for making Community Day what it is. #AtherCommunityDay2026 #ACD #AtherEnergy #Konarc #PeopleBehindTheMagic
+
+7443998058868211712 | Cal.com | image | 49w
+    Sharing booking links at in-person events shouldn't be weird. That's why Cal.com created QR codes for every client. Just install our QR code app, enable it in event settings, and download the code to your phone or printed media like a postcard. No awkward conversations. Just show, scan, book.
+
+7444088666198577152 | Cal.com | image | 45w
+    Add your bookable calendar link to your email signature. This gives recipients a nice 'out' so they know you have it available. When they want to book an appointment, they'll know you use calendar scheduling as part of the process. Works perfectly with Cal.com links.
+
+7444360510441009152 | Cal.com | image | 36w
+    Team members out sick? No problem. Paid Cal.com subscribers can reroute their bookings to another team member when they're unavailable. Even if you're not on the clock, the ball won't be dropped, and clients stay happy.
+
+7444371050458542080 | Cal.com | video | 8w
+    More marketing spend doesn't always mean more growth.
+
+7444390699321421824 | Cal.com | image | 55w
+    Scheduling time with friends and family shows them how much you care about the relationship. Every moment is precious, so committing to share that time means a lot to others. A 20-minute weekly conversation with your grandparent might seem small to you, but it could be the highlight of their week. Do it with @calcom.
+
+7444406941789036547 | Cal.com | video | 13w
+    AI agents are getting good. That doesn't mean you trust them with everything.
+
+7444451079439790080 | Cal.com | image | 43w
+    Cal.com is free for individuals to use. You can create an account in 5 minutes or less. You get access to our entire suite of consumer features. You don't have to use a credit card to get started. What are you waiting for?
+
+7444722851326300160 | Cal.com | image | 41w
+    Networking is huge at conferences, but staying connected afterward is the real challenge. You meet amazing people in slightly different, highly complementary circles, then lose touch once everyone goes home. Cal.com helps you turn those conference connections into scheduled follow-up meetings.
+
+7444726181381386240 | Cal.com | text | 12w
+    Knowing how you build is just as important as what you build.
+
+7444752898170806272 | Cal.com | text | 13w
+    tired of calendly? migrate to cal.com/migrate the better product, from the better company
+
+7444783240457957376 | Cal.com | video | 10w
+    You're on vacation. Your clients are still taken care of.
+
+7444813435588149248 | Cal.com | text | 30w
+    Every professional manages time differently. With Cal.com, Inc., you can define custom availability, add buffer time, and control booking windows. Your calendar becomes intentional. Not reactive. Time management turns strategic.
+
+7445093099665756160 | Cal.com | text | 5w
+    Building isn't the bottleneck anymore.
+
+7445115419914575872 | Cal.com | image | 42w
+    Endless email chains trying to find a time that works for everyone. Double-booking when team calendars don't sync properly. Lost opportunities due to slow response times. @calcom eliminates these 3 common scheduling nightmares with collective events. One link replaces dozens of messages.

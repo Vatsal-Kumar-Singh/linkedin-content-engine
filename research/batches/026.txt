@@ -1,0 +1,169 @@
+# batch 026  -  55 posts  -  label per research/CLASSIFICATION-PROTOCOL.md
+# labels: problem exploration requirements selection validation consensus
+#         recruitment culture event product-news csr unclear
+# write research/labels/026.tsv as: <id><TAB><label>
+
+7498741159670771713 | Raspberry Pi | text | 255w
+    Raspberries are at their juiciest in August, and so is our round-up this month. From Shenzhen to South Wales, here's everything the Raspberry Pi team and our partners have been up to. We're currently in Shenzhen, China, for IOTE 2026, where you can find us exhibiting alongside EDATEC-Industrial Raspberry Pi and showcasing our technology in action, including Raspberry Pi Compute  [...]  Path this month in aid of Macmillan Cancer Support. Subscribe so future editions land straight in your feed!
+
+7499046010669801472 | Raspberry Pi | text | 40w
+    We're working on a Model Hardware Standard Driver for Raspberry Pi cameras, and we've been impressed by what we've found in testing. We're looking forward to seeing what we discover as we explore MHS coverage for other Raspberry Pi products.
+
+7499145900087451649 | Raspberry Pi | link | 63w
+    In a previous post, we described how we calculate the embodied carbon of our products: weighing each component, mapping those weights to the ecoinvent database, and working with our partners to build a full life cycle assessment (LCA). It's a solid, tangible approach — but as we looked harder at the results, one part of the picture kept nagging at us: Silicon. https://lnkd.in/dMAacKnA
+
+7500448193823047680 | Raspberry Pi | text | 9w
+    Did you catch Eben Upton on CNBC last week?
+
+7501535212632309760 | Raspberry Pi | link | 20w
+    The History of the Raspberry Pi. This interactive timeline is courtesy of Philipp Schweizer. Ready for a history lesson? https://lnkd.in/daC5-EuP
+
+7504106221596151809 | Raspberry Pi | link | 64w
+    New EU rules just went live. As of today, reporting obligations are mandatory under the Cyber Resilience Act if you're selling products with digital elements in the EU. We've written up what's changed and how Raspberry Pi can help you stay compliant. Not in the mood to read? We made a podcast too. Same info, about half an hour long, no scrolling required. https://lnkd.in/eSzZ3MHC
+
+7446968727780114433 | Refine Labs | video | 68w
+    The real reason sales cycles are getting longer isn't budget. It's not competition either. It's that buyers don't trust fast enough. They need peer validation. Clear differentiation. Consistent education over time. A discount at the end of the cycle doesn't fix a trust deficit that started at the top. The teams closing faster aren't better at selling. They're better at building belief before the conversation starts. #b2b #marketing
+
+7447334903114911744 | Refine Labs | video | 103w
+    A lot of companies have a stated ICP and then a totally different set of customers actually in their CRM. That gap is expensive. Non-ICP customers close slower, close at lower rates, churn more, and eat up resources that should be going somewhere else. A real ICP isn't a brainstorm exercise or a slide in a deck. It's a data-informed  [...]  sharper. Targeting, messaging, roadmap, retention. ICP clarity is one of the fastest growth levers most teams aren't pulling.
+
+7447697284315869184 | Refine Labs | text | 80w
+    AI will commoditize execution. It won't commoditize judgment. If your value as a marketer (or as an agency 👀 ) is "we run the plays," that's the part under pressure. If your value is pattern recognition, strategic framing, and knowing what not to do based on what you've seen across a lot of companies and contexts - that's durable. The  [...]  "how do I use AI?" It's "what do I know that AI can't replicate yet?" Build from there.
+
+7450190341024034817 | Refine Labs | video | 38w
+    Next week we're so excited to have Anthony Pierri and Rob Kaminski join the roundtable with 🤘 Matthew Sciannella! Whether you join on this LinkedIn live or in the zoom call, we hope to see you there! https://lnkd.in/gVnVDxKV?
+
+7450584933791854593 | Refine Labs | text | 130w
+    most companies aren't using AI wrong because they picked the wrong tool...they're using it wrong because they skipped the thinking part. We're seeing it everywhere right now - teams cranking out more content than ever, reaching fewer people than ever. Faster output, weaker signal. AI is genuinely useful. We use it. But the teams getting real lift from it are  [...]  people who know how to make meaning out of information - AI just helps them do it faster.
+
+7450979687457140736 | Refine Labs | text | 91w
+    Something interesting is happening across the paid media landscape for B2B brands running brand awareness objectives. Over the past eight quarters, we've been tracking CPM, CPC, and CTR across Meta, LinkedIn, and Reddit and the story the data tells is more nuanced than the platform reps will share with you in a QBR. This post breaks down what we're seeing  [...]  think about awareness investment, and what the Q1 2026 numbers suggest about where we're headed. read more 👇
+
+7452404855605792769 | Refine Labs | text | 13w
+    this is happening in less than one hour! will we see you there?
+
+7453524076800942080 | Refine Labs | video | 100w
+    Logic said walk away. Intuition said push through. That tension is real, and it's one of the hardest places to sit in business. Even if everyone around you is telling you to quit, you have to remember that voice inside your head comes from years building skills and insights. Sometimes you don't need permission to trust yourself. You just need  [...]  Labs journey, and we're so grateful for the transparency and trust that she has put into this group.
+
+7456014770190807040 | Refine Labs | text | 25w
+    A week is ending, a month is starting, and you're still getting dm's from leadership asking to prove your impact. we've got some tips ⬇️
+
+7458236136742752256 | Refine Labs | image | 132w
+    Most B2B marketing teams have quietly handed over the 4Ps to founders, finance, and sales. And so few people are talking about this loss 😭 On May 20th at 11am ET, 🤘 Matthew Sciannella and Liam Moroney are hosting our next B2B Marketing Roundtable to tackle this issue. It's built for CMOs and VPs of Marketing who want a real  [...]  we have internally, but now we're having it live. 📅 Wednesday, May 20, 11am ET 🔗 Register: https://lnkd.in/g_kdnD78?
+
+7458568373258358784 | Refine Labs | link | 26w
+    Come work with us! We're currently hiring for a Sr. Performance Marketing Manager and it could be you 👀 Comment/DM if you have any questions! https://lnkd.in/gjQi9x_p
+
+7460762076031086593 | Refine Labs | video | 13w
+    This is coming up in less than a week - are you registered?
+
+7461079849323888640 | Refine Labs | image | 20w
+    want to see the full context of this conversation with Megan Bowen and DOJO AI? Tune in next week 👀
+
+7463227115396812802 | Refine Labs | video | 60w
+    We're launching a new campaign next week. But instead of just telling you how we think, we're making you look. Three of the new ads will have a piece of the puzzle hidden in plain sight. Find the letters, crack the code, and the first five of you get Vault access for a year. Watch the skies (and your feed)
+
+7465102167335415808 | Refine Labs | video | 39w
+    See the horizon. Then expand it. Most leaders are busy managing the fog, but we prefer the view from 30,000 feet. High-velocity growth isn't a long shot when you have the right coordinates. Clear the path for growth: https://lnkd.in/grmcmP_h
+
+7466142135432683520 | Refine Labs | video | 42w
+    "when you're an agency, your people are your product" Megan Bowen sat down with the team at DOJO AI and dropped banger after banger - in this clip she talks about how important it's been to protect the team at Refine Labs.
+
+7467593509160718336 | Refine Labs | video | 52w
+    Clarity isn't just a feeling, it's a destination. If the numbers on the board aren't moving, the engine is broken, simple as that. We're over the "maybe next month" loop. So we built a system for growth that actually shows up on time. Learn more about revenue systems that actually scale: https://lnkd.in/grmcmP_h
+
+7468342136590057474 | Refine Labs | video | 162w
+    Most companies calling themselves "ABM" are running targeted outbound with a fancier name. And the practitioners who are doing it right look nothing alike, because ABM that works in enterprise looks completely different from ABM that works in SMB with a PLG layer. That tension is exactly what we're putting on stage. 🤘 Matthew Sciannella is hosting a live B2B  [...]  ABM before it ever produces pipeline Built for CMOs, VPs of Marketing, and Demand Gen Directors. Register: https://lnkd.in/g2jizkpr?
+
+7469818674703400960 | Refine Labs | text | 8w
+    big news drop from our CEO this morning!
+
+7470221754586644480 | Refine Labs | video | 43w
+    Your growth deserves a change in altitude. You can't solve a 30,000-foot problem with a ground-level perspective. If your strategy feels like it's gasping for air, it probably is. Time for an upgrade that actually feels like one. Upgrade your growth strategy: https://lnkd.in/grmcmP_h
+
+7470885861384052736 | Refine Labs | link | 27w
+    Sidney had a few edits to the promo image for next week...if you want to see these OG Alum/Raving Fans in action, make sure you're registered!! https://lnkd.in/g2jizkpr?
+
+7471260083155390465 | Refine Labs | link | 67w
+    It's pretty dang cool to work for a CEO who leads the way Megan Bowen does. CIO Media featured her in a piece on B2B growth leadership, and if you've worked with or around her (or even if you've just kept up with her LinkedIn posts), none of it will surprise you. Congratulations, Megan! This recognition is so well deserved - y'all can read it here: https://lnkd.in/dmUjxxgt
+
+7473422424412405761 | Refine Labs | text | 47w
+    Since our current campaign is travel themed, we couldn't think of a better time to tie in our Talent Destination ethos. Our incredible Chief of Staff Brea Olmstead ☀️ wrote about what it takes to build a company where your employees don't question your investment in them.
+
+7474929222935830528 | Refine Labs | video | 36w
+    we're bringing back Megan Mondays! Ready for the latest clip of insight from our CEO? Check out her prediction for what Marketing Hybrid is coming next, from her podcast with the DOJO AI team! #marketing #b2b
+
+7475273982292942848 | Refine Labs | video | 33w
+    If you're doing it right, the only way to tell you're moving is by looking at the rearview. Welcome to the quiet side of high-velocity growth. For growth you can plan for: https://lnkd.in/grmcmP_h
+
+7476005048611651584 | Refine Labs | video | 18w
+    are you team alignment or team source credit? The full ABM roundtable from last week is up: https://lnkd.in/gEz_GKgi
+
+7477371552854999040 | Refine Labs | video | 49w
+    It's Megan Monday! Megan joined the Limelight team for their "Safe Doesn't Scale" podcast, and dropped some absolutely crucial information to absorb before you try to build a content strategy. So before you hit post this week...let us know what story and POV are you anchoring your content in?
+
+7477764140086808576 | Refine Labs | multi-image(4) | 49w
+    We're rolling out the landing strip and touching down on our Q2 campaign this week, so we wanted to look back through a couple of our favorite ads! Which one(s) have stood out to you? And did you guess the secret code to unlock the vault at https://lnkd.in/grmcmP_h 👀
+
+7478515351811538944 | Refine Labs | video | 53w
+    we get it - sometimes marketing isn't fun. it isn't funded. it isn't backed by celebrity voices...what do you do in that case? 🤘 Matthew Sciannella is bringing on Benjamin Reed for this month's roundtable and we want to know all the questions you have for how he succeeded in exactly that position!
+
+7483188497663631360 | Refine Labs | video | 35w
+    when your category doesn't have flash, influencers, or that secret sauce that makes some marketing easy...how do you push forward? 🤘 Matthew Sciannella and Benjamin Reed are going to guide you through it! register: https://lnkd.in/eT3yCu7n?
+
+7485046425290956801 | Refine Labs | video | 63w
+    Happy Megan Monday to all who celebrate! We've got a banger for you today... Megan's expertise and insight on change management is (in my opinion) unmatched by anyone else in this space. Listen hard to what she has to say in this clip. "if you only focus on championing the change, without acknowledging...the constraints of the current system, it's just not gonna work"
+
+7487899382395363330 | Refine Labs | video | 56w
+    oop we missed Megan Monday, so we're hitting y'all with a Tuesday gem!! One of the biggest ways companies will push back when we encourage investing in brand, is that the CFO won't approve budget. Download and save this video of Megan when she joined the Fintech Marketing Lab Podcast to play in your next meeting!!
+
+7490144234478387200 | Refine Labs | video | 57w
+    If you're someone who gets excited for a Megan Monday, you probably already know her ethos on building talent in our company in a more thoughtful and purposeful way - and now you could be part of this team. Refine Labs has become a Talent Destination, and we are looking for new talent! See more here: https://lnkd.in/g7JK9dqn
+
+7490840599898542080 | Refine Labs | image | 56w
+    hey we know what works for the LinkedIn algo, and it's definitely not a straightforward repost....but we really, really want to repost our CEO Megan's pitch for why you should apply to work with Refine Labs. So here you go. Listen to her. If you do, you're already one step closer. (job board link in comments)
+
+7492699722529329152 | Refine Labs | video | 40w
+    what's it going to take for your business to win in the age of AI? Listen to Megan on this MeganMonday to know how to navigate and what to prioritize. Thanks again to Limelight for having Megan on to chat!
+
+7493728087713456128 | Refine Labs | video | 68w
+    last month Benjamin Reed came on to chat with 🤘 Matthew Sciannella about how to create demand in an "unsexy category", and y'all better listen to this clip. Audiences - customers - people want you to make them better, smarter, and more efficient for the money they're potentially paying you. Target them directly without speaking down to them, bring them up to your level. Whole chat here: https://lnkd.in/gyqNcCUa
+
+7495162567137431552 | Refine Labs | video | 79w
+    I haven't seen "x is dying" on LinkedIn in a while, so this Megan Monday I'm bringing it back. Demand capture is dying -- here's what to do instead. That's a little aggressive, demand is still incredibly important, but Megan does cover all of the things businesses need to do in the modern age of marketing if they want to  [...]  ahead of the rapidly shifting landscape. Thanks again to the team from DOJO AI for having Megan on!
+
+7496266729996763136 | Refine Labs | video | 9w
+    been thinking about this since Benjamin Reed said it...
+
+7496609434610196480 | Refine Labs | text | 6w
+    absolute friday gold from our ceo
+
+7497750793371082752 | Refine Labs | link | 43w
+    This Megan Monday celebrates how well she owns a cover! Thanks to The Enterprise World for featuring her and the amazing work she's done, not just in building Refine Labs, but in building the future of B2B Marketing. Read the full piece: https://lnkd.in/gkTDgfTn
+
+7498425407965315072 | Refine Labs | image | 31w
+    trying something a little new on the podcast feed. shout out to David Kirkdorffer (he/him) for writing the playbook on GEO - now you can consume the highlights in 20 min!
+
+7500266691306606592 | Refine Labs | link | 56w
+    a mic drop from Megan Bowen today, to kickstart your week: “Sustainable growth happens when businesses invest as much in their people and culture as they do in strategy.” leaders: when's the last time you took a step back and really examined the way your company culture holds up to your 'team playbook'? read more: https://lnkd.in/dmUjxxgt
+
+7500599428962070528 | Refine Labs | video | 92w
+    Quick test before you read the rest of this post: open ChatGPT and ask it the exact question your best buyer would ask about your category. Not your brand name. Just the category. Did you show up? 89% of B2B buyers already use generative AI somewhere in their purchase process, according to Forrester. That's not an edge case anymore, that's  [...]  up in it. Run the test. Then tell me in the comments what you saw. #GEO #B2BMarketing #AISearch
+
+7503157317924700160 | Refine Labs | text | 34w
+    we were all off yesterday for Labor Day, so to make up for a missed Megan Monday, take a moment to watch this beautiful reminder from her recent Lodestar podcast appearance, coming this Thursday!
+
+7503487392042012672 | Refine Labs | image | 87w
+    Welcome to the Refine Lake Country Club ⛳ Content may be king, but which types of content reign supreme? For the inaugural year of the Refine Lake Country Club Classic, we're pitting different B2B content formats against each other in a few games of friendly sport and competition. You'll see us posting each matchup here for you to weigh in  [...]  you want to know what's coming, you can see the full bracket and share your picks at https://lnkd.in/gnQAWi8A
+
+7503501297837481984 | Refine Labs | video | 94w
+    SEO and GEO are not the same game, and treating them like they are is costing you visibility. SEO gets you ranked in a list of ten blue links. Generative Engine Optimization (GEO) gets you cited by name inside a single AI-generated answer, whether or not anyone ever clicks through to your site. Strong SEO still helps here. Research shows  [...]  content plan is still 100% built around ranking, you're optimizing for half the buyer journey. #GEO #SEO #B2BMarketing
+
+7503841111984054272 | Refine Labs | image | 52w
+    MATCHUP 1: Long-form or short form - who owns the court? Whether it's succinct thoughts that win the day or verbose content that takes the crown, it's up to you to decide. Sound off in the comments or vote and explore what kind of content we can create for you at https://lnkd.in/gnQAWi8A
+
+7494091504542490625 | Resend | video | 82w
+    Emails in React, Typescript, and Tailwind Labs CSS. ▪️ 100% Open Source ▪️ convert to HTML ▪️ send with any platform Welcome to react.email. Full examples included 👇 React Email is a collection of high-quality, unstyled components Write in React → convert to email-compatible HTML → or plain text With built-in deliverability tools, just for email. ▪️ email linting ▪️  [...]  checker Test across mobile and desktop screen sizes in the built-in preview. And send yourself a test email.
+
+7494395249071415297 | Resend | multi-image(4) | 50w
+    We're at CodeCon Summit this week in Curitiba, Brazil! 🇧🇷 This community has been so fun to hang out with! So far, we've: ▪️ Had lots of great conversations ▪️ Raffled some Nothing Ear headphones and a ticket to Resend Forward ▪️ Completely run out of hats, pins, and stickers

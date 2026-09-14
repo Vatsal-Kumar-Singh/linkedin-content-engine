@@ -1,0 +1,169 @@
+# batch 020  -  55 posts  -  label per research/CLASSIFICATION-PROTOCOL.md
+# labels: problem exploration requirements selection validation consensus
+#         recruitment culture event product-news csr unclear
+# write research/labels/020.tsv as: <id><TAB><label>
+
+7475093594727542784 | Markforged | image | 107w
+    Looking for ways to solve complex automotive challenges faster? As part of the SIFA Project, DONE Lab - Advanced Manufacturing of Products and Tools successfully reengineered an electronic enclosure with electromagnetic shielding for a Bosch Car Multimedia motorcycle display system. The challenge was hitting strict electromagnetic compatibility standards (CISPR 25) without the massive lead times and costs of conventional manufacturing.  [...]  high-strength, EMI-shielded electronic enclosure developed in a fraction of the time. Read the full case study here: https://lnkd.in/e98FfKb9
+
+7477632912989941760 | Markforged | video | 87w
+    When supply chains are under pressure, waiting for critical parts isn't an option. That's why more and more aerospace and defence organisations are bringing manufacturing to the point of need. With Markforged, teams can produce durable metal and composite parts on demand—helping reduce downtime, improve readiness, and keep operations moving. The Digital Forge additive manufacturing platform makes it easy to  [...]  operators. Talk to one of our experts to explore what this could look like for your organisation: https://lnkd.in/dX3Pxbmz
+
+7479885470500401152 | Markforged | image | 34w
+    From our factory floor in Billerica, MA to yours, we hope you had an amazing Fourth of July weekend celebrating U.S.A's 250th year. Good luck to our National Team this evening against Belgium! 🎈⚽️💙
+
+7480188007883661312 | Markforged | image | 76w
+    Looking for ways to build lighter, more efficient robotic tooling? Harvestance Corp replaced heavy aluminum vacuum grippers with lightweight, production-ready composite tooling to improve robotic performance while reducing weight and manufacturing costs. Using the FX20 and Onyx®, Harvestance manufactured durable vacuum grippers with integrated vacuum channels that are significantly lighter than traditional aluminum tooling, helping increase robot efficiency while shortening lead times and enabling fast customization for new applications. Read the full application spotlight here: https://lnkd.in/eRGjRCF3
+
+7482726324005117952 | Markforged | video | 58w
+    When every day counts, waiting weeks for a part isn't always an option. That's why companies like Gamma Rotors Limited are bringing manufacturing closer to where it's needed. By producing drone components in-house, they're reducing lead times, increasing flexibility, and keeping production moving. It's a great example of the broader shift toward digital manufacturing. Learn more here: https://lnkd.in/eNUuTAT6
+
+7485239875353542656 | Markforged | video | 98w
+    "How can you prove a 3D printed part was manufactured exactly as it was designed?" That's one of the biggest challenges in aerospace. Neil Gunnarson, President of Spectrum Networks LLC, explains how Markforged Inspection helps provide objective proof that every printed part conforms to its intended design. Without relying on destructive testing for every component. The impact? More than 10,000  [...]  aerospace, proving quality is just as important as producing the part. Read the full case study here: https://lnkd.in/eTVtNnph
+
+7487811590252199936 | Markforged | image | 42w
+    One component. 80% lower cost. Overnight production. And better wear resistance. Instead of outsourcing a machined aluminum actuator spline for around $495, Hydratune now prints it in stainless steel for roughly $90 on the FX10. Read the full application spotlight here: https://lnkd.in/d4S3WKMH
+
+7490309153333370880 | Markforged | video | 76w
+    From customized tooling to critical components, teams don't wait for parts anymore—they just print them. Across manufacturing—especially in automotive, CPG, and aerospace & defense—waiting weeks for outsourced tooling, EOAT grippers, inspection gauges, replacement parts, or key flight-ready assemblies is a thing of the past. Industrial teams are producing high-strength composite and metal components at the point of need—slashing lead times, keeping lines running, and producing mission-critical parts. Talk to one of our experts today → https://lnkd.in/eySyVMz4
+
+7492838698569379840 | Markforged | video | 98w
+    Air and Liquid Systems, LLC manufactures equipment for automotive customers including GM, Tesla, and Ford. And when a small stainless steel coupling became difficult and expensive to machine, they found a better way. €96 per part → €0.90 By redesigning the component for 3D printing, they didn't just reduce cost. They created a better-performing part, reduced the risk of failure,  [...]  or to their customers. See where additive could fit in your production. Talk to an expert → https://lnkd.in/eUawd7hd
+
+7493335410132307968 | Markforged | video | 145w
+    On an automotive assembly line, speed and accuracy are critical to ensure maximum line uptime, and tool mix-ups mean rework and downtime. At Subaru of Indiana Automotive, associates run multiple vehicle models simultaneously, working with tooling that can differ by just a few millimeters between variants. The right tool has to be obvious. SIA turned to color coding to simplify  [...]  for seamless integration. Learn more about SIA's use of Onyx GF in our latest blog post here: https://lnkd.in/gN6WJJVh
+
+7495378603342368771 | Markforged | image | 80w
+    UK-based Sonic Communications brought industrial 3D printing in-house to build equipment for police, military, government, and industrial sectors. The results: _Development time reduced from 1 year to 3 months. _Navigated chip shortages by custom-printing housings on demand. _Enabled Bluetooth transmission with durable Markforged Onyx® material - a micro carbon fiber filled nylon that yields accurate parts with flawless surface finish,  [...]  toughness, and chemical resistance. It can be reinforced with Continuous Fibers to yield aluminum-strength parts. Read more: https://lnkd.in/eXXuWY7n
+
+7495813416859701248 | Markforged | image | 72w
+    We're heading to DroneX | Part of the Uncrewed Tech Expo. Drone manufacturing demands lightweight parts, fast iteration, and the ability to produce when and where you need it. That's exactly where additive manufacturing fits. We'll be showing how Markforged supports real drone applications, from strong, lightweight components to tooling, fixtures, replacement parts, and end-use production. 📍 Booth U828, ExCeL London 📅 29–30 September 2026 Register for your free ticket now: https://lnkd.in/eXkW5WWm
+
+7497935225667162112 | Markforged | image | 120w
+    1,450+ end-use parts. 6,500 hours of production. And that's just the first year. For Italy-based TMG Impianti S.p.A., additive manufacturing has moved well beyond prototyping and into everyday production. Working with Markforged Diamond Value Added Reseller 3DZ, the team is using industrial 3D printing across its end-of-line packaging automation systems with measurable results: → 80% time savings on production and  [...]  Discover the full TMG Impianti story and 7 ways additive manufacturing is being used in packaging automation: https://lnkd.in/ek_B6fmf
+
+7500466143816507392 | Markforged | image | 87w
+    80% less production time. 80% lower costs. More flexibility on the shop floor. For Italy-based [TODEMA] Todeschini Mario S.r.l., additive manufacturing works alongside traditional machining to accelerate production and expand what can be made in-house. With Markforged, Todema has achieved: → 80% savings in production time and costs → 6 components consolidated into just 2 → Strong, functional parts for  [...]  and the flexibility to choose the right manufacturing process for each part. Discover the full Todema story: https://lnkd.in/eMMvsVDW
+
+7503004930614403072 | Markforged | image | 85w
+    Lighter tooling. Less operator strain. The same accuracy on the line. Roman Design Solutions combines CNC machining with Markforged composite 3D printing to produce strong, lightweight automotive jigs and fixtures, such as tooling used to set wiper blades. By shifting suitable tooling from CNC to additive, they can reduce fixture weight, ease operator strain, and free up machining capacity for  [...]  smarter mix of CNC and additive on the shop floor. Discover the full Roman Design Solutions story: https://lnkd.in/e259ACjR
+
+7503160835561811968 | Markforged | video | 111w
+    Yamaha Fine Technologies Co., Ltd. of Yamaha Corporation manufactures automotive interior components based on its piano finishing technology. It is recognized as one of the leading companies among the few remaining domestic manufacturers of genuine wood interior components. When Markforged was introduced to its manufacturing floor, they shifted to more in-house production. Since then, the company has improved its ability  [...]  transforming on-site improvements from temporary fixes into forward-looking challenges.” Learn more in our latest customer spotlight below: https://lnkd.in/eSVTFCpa
+
+7503882883330162688 | Markforged | video | 79w
+    Discover Onyx GF: Markforged's chopped glass fiber reinforced nylon material designed specifically to bring color to the factory floor. 🔵 🟢 🟡 🔴 ⚪ Available in six vibrant colors, Onyx GF delivers more than twice the strength of standard PLA or ABS while eliminating the need for post-print painting or labeling and is compatible with Continuous Fiber Reinforcement on the  [...]  Learn how manufacturers are using color-coded composite tooling to enhance safety, part identification, and assembly efficiency here: https://lnkd.in/gj_eHJhn
+
+7476258093513834497 | Miro | video | 114w
+    Design reviews lose context at every step of the process. From designer to engineer to users, half the original intent goes missing. Mia Pendergast, a PM at The Home Depot, had a hunch that with Miro AI, the whole loop could fit on one board and end in a single meeting. Her three-step AI Flow: 1️⃣ Add sticky-note feedback directly  [...]  a Miroverse template so other teams can use it in their own review process. #ProductManagement #MiroAI #ProductDesign #MiroFlows
+
+7477345249221246976 | Miro | video | 33w
+    30-Second Skill: Set up repeatable workflows in seconds Save your multi-step workflow as a template so every new project starts with the same proven process. Find more tips like this in Miro Academy.
+
+7477707720998166528 | Miro | text | 51w
+    Stop prototyping from a blank canvas. The work already lives in workshop notes, docs across tools, screenshots, UI libraries, and screens someone vibe-coded over the weekend. Pull this context into Miro, build an interactive prototype in one click, and let the team work through options before it becomes expensive to change.
+
+7478070102836449280 | Miro | video | 8w
+    One team. One workspace. Zero deadline stress. #GetGreatDone
+
+7479882054432796674 | Miro | multi-image(3) | 165w
+    San Francisco, Miro AI, Claude MCP, and a room full of people with ideas worth building. Hosted by Preksha Kaparwan, teams had just a few hours to go from raw idea to working prototype using Miro AI for collaboration and the Claude MCP. What came out was genuinely impressive. 🥇 1st place: Mandate A permission layer for AI agents —  [...]  was the community. Founders, engineers, and makers in one room, pushing each other's ideas forward in real time.
+
+7480298980669730816 | Miro | video | 90w
+    You built a prototype, it's good, and now you need to bring the team along. You hold your breath, hoping that they will agree. But what if you give them options to react to instead? The pressure to be right on the first try disappears, because the thing on screen isn't "your idea" anymore — it's three options the team  [...]  Miro, use Sidekicks to generate variations, and watch the team align in real time. Available in public beta.
+
+7480969137222127616 | Miro | image | 30w
+    Miro now offers data residency in Japan 🎉🇯🇵 For Japanese enterprises, keeping your data local just got a lot easier — production data, backups, and metadata, all stored in-country. https://lnkd.in/eKuP8GTS
+
+7481331395672453120 | Miro | image | 163w
+    Everyone's got faster. So why isn't the output better? AI has pulled collaboration back toward text — walls of prompts and outputs passing between individuals, away from the shared surfaces where thinking happens together. Low-fidelity prototyping pulls the work out of the chat window. Build something rough, get it onto a canvas the whole team can see, and let them  [...]  at Kingfisher plc noted. Watch the full panel, hosted by Mark B., Head of Design at Miro: https://lnkd.in/e9uKHUiv
+
+7482419485707051008 | Miro | video | 117w
+    What changes when AI isn't an add-on, but part of how teams think and build together? Tata Consultancy Services used Miro to cut innovation cycles in half. In client workshops, teams co-created with AI — using personas to stress-test ideas and refine use cases, then building low-fidelity prototypes with stakeholders in the room. It collapsed the distance between idea, validation,  [...]  value is the customer looking at us and saying, 'These guys are capable.'" Read the full story: https://lnkd.in/exhnHvjU
+
+7482781168870932481 | Miro | video | 31w
+    Every app switch costs you more than just time. It costs you your train of thought. Miro keeps your team's work in one space, so you never lose the thread. #GetGreatDone
+
+7483143497127124992 | Miro | video | 87w
+    Product discovery is supposed to be messy. Scattered feedback, sticky notes, half-formed research, more questions than answers. Making sense of it is easier when a team can see the whole thing in front of them: the journey, the workflow, the decisions taking shape. This is where Miro does its best work. G2 just named Miro a leading AI tool for  [...]  helping teams move from raw ideas to shared, working boards. Thank you, we'll happily take it. Proof: https://lnkd.in/eU8YWDjb
+
+7483501949011726336 | Miro | image | 83w
+    When everyone can build faster on their own, what holds the work together? Miro CEO Andrey Khusid explored this in an interview with McKinsey & Company. His take: as clearly defined roles give way to makers who build end to end, coordination becomes more complex, spanning people, agents, and the work between them. So the advantage goes to companies that  [...]  to collaboration, where teams can focus on decisions with continuous context from AI. Read the full conversation: https://lnkd.in/eQ5eBwMU
+
+7483868262909394944 | Miro | multi-image(3) | 160w
+    What a week in Berlin! 🚀 Last week, Team Miro touched down at WeAreDevelopers World Congress 2026. On stage, Hryhorii (Grisha) Pavlotskyi and Manjuri Sinha took the mic to share how modern teams are collaborating in the AI era — bringing the Miro way of thinking to a room full of tech and HR leaders. On the floor, our booth  [...]  and helped make the week so memorable. We can't wait to continue the conversation! #WeAreDevelopers #AI #Innovation #DeveloperCommunity
+
+7484230586572718080 | Miro | video | 12w
+    It takes a team to get great done. Who's your pick? 🏆
+
+7485680234319577088 | Miro | video | 45w
+    One of our most-requested features ever is here. Native video upload and playback is now live in Miro. Drop MP4s, WebMs, and MOVs directly onto your boards. Play them right there. No workarounds. No tool-switching. To everyone who asked for this: we heard you. 🎬
+
+7486042658096906240 | Miro | video | 91w
+    Most handoffs pass on the what and lose the why. So walk each other through it — recorded in Talktrack, right on the board, where the reasoning stays visible for your team and the AI building on it. What's new: → Record anywhere, not just in Miro → Record together, with two or more → Auto-generate transcripts, summaries, and chapters  [...]  for AI Jeff Chow, Chief Product and Technology Officer at Miro, shows what it looks like in action.
+
+7486404930984001537 | Miro | image | 12w
+    Why not record a Talktrack instead? Here's what it can do: https://lnkd.in/ekZAduPs
+
+7487492091284180992 | Miro | multi-image(4) | 124w
+    That's a wrap on AI Bootcamp Singapore! 🇸🇬 What an incredible few days of learning, building, and connecting with such a passionate community of builders, founders, and AI enthusiasts. A few highlights that stood out: 🔹 Hands-on sessions that took us from concept to working prototypes 🔹 Deep dives into the latest AI tools and how to actually apply them  [...]  with your biggest takeaway! And if you missed it, keep an eye out for the next one. 👀
+
+7487854615057715200 | Miro | video | 140w
+    Nobody builds anything great alone. AI is making it easier than ever to create, but great work still depends on teams making decisions together. That's why this year's #Canvas26 launches focused on more than helping individuals move faster. 🤝 Sidekicks bring the right context into every conversation, so teams can spend less time searching and more time moving. 🔄 Flows  [...]  teams keep the context behind every idea visible, so the next decision is always easier than the last.
+
+7488216933658595328 | Miro | video | 23w
+    How do you keep collaboration going when your team isn't in the same room? We'll let our community explain how Talktrack can help.
+
+7488580037307273217 | Miro | multi-image(4) | 204w
+    Love Tomorrow isn't a typical enterprise conference. It's built on the grounds of Tomorrowland, where thousands of people gather around ideas, creativity, and optimism. Not exactly where you'd expect to find a software company talking about the future of teamwork. Which is exactly why we wanted to be there. Rather than leading with product, we invited people to imagine the  [...]  better together. Thanks to everyone who joined us at Love Tomorrow! We can't wait to do it again.
+
+7488941668621123584 | Miro | video | 56w
+    The same feedback that lands fine out loud can read cold in text. Kayo Kimura, Change Practitioner at Fujitsu, found an easy fix for that. Now when a message needs nuance, she records a quick Talktrack on the board — her real voice, tone intact — instead of typing it out. Read the full story: https://lnkd.in/eVDB_FTR
+
+7490024873449205761 | Miro | video | 158w
+    Teams move faster when they agree sooner. J.Crew Group had already mapped workflows, cut steps, and tightened handoffs. But faster steps still meant losing weeks waiting for everyone to align. So they named the real problem — alignment latency, the lag between when work is created and when everyone understands it — and designed the environment for it. They built  [...]  steps. It comes from access to the information and making better decisions earlier." See the full story: https://lnkd.in/eWB2Yb_q
+
+7490391307614580736 | Miro | video | 96w
+    A line of feedback tells you what someone thinks. It rarely tells you why. Josh Loftis, Product Manager at Miro, built his prototype reviews differently. His team leaves feedback as Talktracks — short videos recorded right on the board, next to the work they're reviewing. Each one carries the reasoning behind the note, which AI can read and work from  [...]  In one pass, the team goes from scattered opinions to a shared view of what to build next.
+
+7490753634612191233 | Miro | video | 135w
+    How many versions of the same project exist on your team right now? There's a roadmap, a backlog, a planning board — all in different tools, with a dozen conversations trying to work out which one is actually current. When the same work lives in that many places, just keeping it in sync becomes the job. In this walkthrough, Vanessa  [...]  a new change One source of truth means less time maintaining tools and more time moving work forward.
+
+7491116051607224320 | Miro | text | 17w
+    If one of these called you out... you're not alone. 👀 Talktrack can help break the habit.
+
+7491481120979542018 | Miro | video | 74w
+    How do you protect your team's focus? Sometimes it's by knowing which work to hold onto, and which work to hand off. In this episode of How We Work, Miro's Staff Product Designer Ben Shih shares with Dominik Katz why he takes ownership of the final UI polish himself, so engineers can stay focused on building what matters most. Sometimes the best collaboration is giving each other the space to do their best work.
+
+7492565977356910592 | Miro | video | 141w
+    When AI can generate code, what exactly is a software services company selling? That was an existential question for Endava, a global technology and consulting services company with more than 11,000 people and around 60 delivery centers worldwide. Instead of sticking with what worked, the company chose to rethink how it delivers from the ground up. What came out of  [...]  of it lands in one place and flows straight through to the engineering. Read the full story: https://lnkd.in/en3rXRNP
+
+7492927957536178176 | Miro | video | 35w
+    Your team's AI problem isn't the AI. It's that everyone's got their own favorite tool, working alone. Miro is the collaborative layer your AI tools are missing: one board, the whole team, finally thinking together.
+
+7493290399466233856 | Miro | video | 63w
+    Time to introduce your coding agent to the rest of the team. Miro's MCP server makes that introduction, and it goes both ways: push your code to the canvas so the team can see how it fits together, and pull the board's context into your tools so your agent builds with the full picture. Set it up with your favorite coding tool: https://lnkd.in/ezepjqxU
+
+7493652741886656512 | Miro | video | 71w
+    Miro now supports Mermaid natively. With one prompt straight from your codebase, you can map every service and connection into one clean, readable diagram on the canvas. Your team comments on it, you edit it directly, and the Mermaid code updates as you go. It becomes a single surface for your team and your agents to work from. Watch Łukasz Sągoll, GM Engineering Products, walk through it. Try it today: https://miro.com/mermaid/
+
+7494015061775101953 | Miro | link | 82w
+    Every quarter starts with a plan: goals are set, priorities are clear, and everyone leaves the planning session feeling good. A few weeks later, updates are spread across different tools, reporting takes longer than it should, and it's harder to see what's actually moving. Carolina Poll wanted a simpler way to run OKRs, so she built her team's entire workflow  [...]  Planning, tracking, reporting, and retros: all connected in the same place. Take a look inside her workflow: https://lnkd.in/exvjwi6c
+
+7495102341189189632 | Miro | video | 55w
+    Your team's work can live across tools, but their context shouldn't. For Belfius, Miro gives 70 people one place to connect their work, see what's happening, and keep decisions from getting lost. As Stef Ceuppens, Product Owner, Mobile Banking App, put it: "We truly see Miro as our memory." Read the full story here: https://lnkd.in/emnVbANa
+
+7495466536124502016 | Miro | video | 52w
+    No more thinking stranded in a chat only you can see. With Miro MCP, you can turn what you've worked through in Claude, ChatGPT, Gemini, or Copilot into a board your team can build from — or pull that context back into your chat. Connected both ways, so nothing gets left behind.
+
+7495827219932532736 | Miro | multi-image(4) | 78w
+    Work used to get lost between people. Now it gets lost between people, tools, and a dozen AI windows that aren't talking to each other. Three chats solve the same problem three ways. An agent ships something no one reviews. The roadmap exists in four places and none of them match. The failure isn't that the work is bad. It's that the team isn't seeing it one place. That's the whole problem. Luckily, it's also the whole fix.
+
+7496189655692779520 | Miro | video | 74w
+    If your team runs on Teams and Copilot, this workflow changes what you get out of your meetings. Floriane Garde, Solution Engineer at Miro, shows how — turning the live discussion into content on the board as you go. Brainstorm to sticky notes, a user flow diagram, a task list, and a leadership deck — you drop off the call with the deliverables already done. Finally, a meeting that couldn't have been an email.
+
+7496551092336398336 | Miro | image | 130w
+    Collaboration isn't always comfortable, and that's the point. Friction is what makes it work. Dominik Katz, our Ways of Working Lead, believes collective intelligence has always run on friction — competing ideas grinding against each other until the strongest survives. Joan Miró — who gave this company its name — learned from Picasso and traded ideas with the Surrealists. Leonardo  [...]  no accountability for the outcome. So how do we put the friction back? Read Dominik's full piece: https://lnkd.in/eumNjKE9
+
+7497639243637284865 | Miro | video | 64w
+    Some of the best product decisions start with a little tension. At Flight Centre Travel Group's Luxury & Independents division, product managers and engineers use Miro to unpack problems together — sharing insights, surfacing disagreements, and getting to the richer conversations. The result, as Wendie Lee and Hans Barroga describe it: shorter sprints, happier stakeholders, and value delivered faster. See the full story: https://lnkd.in/eDt-nRYJ

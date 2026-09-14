@@ -1,0 +1,214 @@
+# batch 010  -  70 posts  -  label per research/CLASSIFICATION-PROTOCOL.md
+# labels: problem exploration requirements selection validation consensus
+#         recruitment culture event product-news csr unclear
+# write research/labels/r2_010.tsv as: <id><TAB><label>
+
+7475262661950316544 | Persefoni | text | 10w
+    Your cheat sheet on NY climate laws just dropped. ✅
+
+7475647524322672641 | Persefoni | link | 135w
+    UPDATE: California has updated its corporate greenhouse gas reporting timeline. The California Air Resources Board (CARB) is deferring the deadline for reporting entities to report Scope 1 and Scope 2 greenhouse gas emissions from August 10, 2026, to November 10, 2026. This three-month deferral will give companies additional time following the formal adoption of the Initial Regulation. The deferral follows  [...]  before reporting comes due. We will continue to track this rulemaking as the comment period opens. 🔗 https://lnkd.in/eGan6K_y
+
+7476325883134324736 | Persefoni | text | 50w
+    Thanks to the Partnership for Carbon Accounting Financials (PCAF) for bringing together important voices across the sustainability and finance community. We had a great few days in London connecting with financial institutions working through the practical challenges of managing climate risk, improving data quality, and turning emissions data into action!
+
+7477360309805092864 | Persefoni | image | 106w
+    For the third consecutive year, Persefoni is proud to be recognized as an accredited partner of the Partnership for Carbon Accounting Financials (PCAF). This relationship reflects a long-standing commitment to financed emissions disclosure. Persefoni was among the first PCAF-accredited SaaS vendors, and the first software company to recognize the importance of, and codify, the PCAF Standard back in 2021. For  [...]  on for consistent and comparable disclosure. Persefoni remains committed to upholding that standard on behalf of its customers.
+
+7477762198124101632 | Persefoni | image | 81w
+    June marked notable progress on net-zero standard-setting, even as several jurisdictions eased or deferred their reporting mandates. Here are a few highlights from our latest Climate Policy Roundup: → CARB proposes pushing the first SB 253 deadline to November 10 → The UK opened consultation on dropping product-level TCFD reporting → SBTi finalized Net-Zero Standard 2.0 → The EU Council  [...]  on SFDR and CBAM reforms → Brazil rolls back mandatory ISSB reporting Get the full breakdown 👉 https://prsfn.ai/4v7VBN5
+
+7479984428262334464 | Persefoni | image | 289w
+    We received a number of questions regarding CARB's June 24, 2026 announcement and its implications for SB 253 compliance. A brief summary follows to help clarify. CARB has proposed to defer the initial reporting deadline for Scope 1 and Scope 2 greenhouse gas emissions from August 10, 2026 to November 10, 2026. To effect this change, CARB withdrew its Initial  [...]  resources worth bookmarking 🔖CARB's June 24 notice: https://lnkd.in/eGan6K_y 🔖CARB program page: https://lnkd.in/emsPm6QD 🔖SB 253 compliance readiness checklist: https://lnkd.in/gnpm2Qgj
+
+7480325747878989824 | Persefoni | video | 88w
+    Your sustainability data holds the trends, outliers, and patterns your team needs to act on. Persefoni's Enhanced Dashboards make them easy to surface. Build fully custom views tailored to the question in front of you, whether you're preparing for an audit, briefing leadership, or comparing performance across business units. Choose from tables, tree maps, area charts, and more, with filters  [...]  you already manage in Persefoni. No exports, no BI tools, no workarounds. See it in action → https://prsfn.ai/42HXeFy
+
+7481064086378622977 | Persefoni | link | 116w
+    ICYMI: The California Air Resources Board (CARB) will host a virtual public workshop on July 21, from 9:30 am–12:30 pm PT, to support the development of California's Corporate Greenhouse Gas Reporting Program under SB 253, as amended by SB 219. Here's what to expect: - Updates on regulatory concepts for Scope 1 and Scope 2 GHG emissions reporting requirements for  [...]  here: https://lnkd.in/ezj3TrvN We will follow up after the workshop with a debrief on the discussion and materials presented.
+
+7482527056514342912 | Persefoni | image | 77w
+    With Persefoni Pro, companies can measure their Scope 1, 2, and 3 emissions across multiple reporting years, completely free. Really. Since launching Pro, we've seen many organizations return to calculate their emissions for a second and even third year. They can do so with confidence, knowing Pro uses the same carbon accounting methodology and rigor as Persefoni's Enterprise platform. That consistency is especially useful when their customers, investors, or other stakeholders also use Persefoni. Start free: https://prsfn.ai/49FElVn
+
+7483216982251663360 | Persefoni | image | 133w
+    When a member of their team left, one of our customers suddenly found themselves responsible for carbon accounting. There wasn't much of a handover, and a consultant had handled most of the reporting and calculations in previous years. They had to learn the process while working toward a creeping annual reporting deadline. Over the following weeks, they worked through the  [...]  can help people understand the work and feel confident owning it. Take control of your footprint 👉 https://prsfn.ai/48Q3z3P
+
+7483888619548766208 | Persefoni | image | 40w
+    Better climate action starts with better climate knowledge. Nearly 10,000 course enrollments later (and 1,000+ certifications issued), Persefoni Academy continues to help professionals build practical expertise in carbon accounting, disclosure, decarbonization, and more. Join a growing community of learners: https://prsfn.ai/4wU10Zz
+
+7485425687110119425 | Persefoni | image | 306w
+    The California Air Resources Board (CARB) shared several important updates today on how California's corporate greenhouse gas reporting requirements are expected to take shape under SB 253. For 2026, CARB intends to move the first reporting deadline to November 10, pending a forthcoming rulemaking package that will formalize the change and clarify parts of the initial regulation. Companies would report  [...]  receive it in your mailbox once it is out: https://prsfn.ai/46y0Egh CARB workshop slides can be accessed here: https://lnkd.in/eXtXFSqg
+
+7486131954409517057 | Persefoni | image | 148w
+    A carbon credit may be certified and still leave important questions unanswered. A systematic assessment published in Nature Communications (2024) examined 2,346 carbon-crediting projects. Across the project types studied, the researchers estimated that less than 16% of issued credits corresponded to real emissions reductions. That finding should not be interpreted as evidence that every carbon project fails. It shows why  [...]  evidence. Our guide explores different carbon offset programs and the factors businesses should consider when evaluating them: https://prsfn.ai/4fRKgw4
+
+7487605241908228096 | Persefoni | multi-image(4) | 121w
+    It was wonderful to spend an afternoon with so many of our customers in Tokyo this month. 🇯🇵💛 Our first in-person user event in Japan brought together dozens of companies to discuss recent climate disclosure and carbon accounting developments, including third-party assurance under Japan's SSBJ standards. Guest speakers from SOCOTEC, Nippon TV, Shiga Bank, Ltd., and DNP Dai Nippon Printing  [...]  together on decarbonization. Thank you to everyone who joined us. We look forward to doing it again soon!
+
+7488680913237725186 | Persefoni | image | 118w
+    A single net-zero target can lead to very different plans across a business. Each division brings its own timeline, available actions, and cost assumptions. Comparing those paths means looking closely at what sits behind each glide path. Persefoni's Net Zero Navigator, co-developed with Bain & Company, helps teams build and compare scenarios based on their industry, emissions data, targets, and  [...]  path and track progress against science-based or other reduction targets. Learn more about creating tailored decarbonization plans: https://prsfn.ai/441l66G
+
+7490155483975118848 | Persefoni | image | 89w
+    So much for a quiet summer. ☀️ The latest edition of our climate policy roundup is a little longer than usual, but there's plenty worth catching up on: → California publishes modified climate disclosure text and outlines proposals for 2027 → The GHG Protocol and ISO announce plans to develop a joint corporate greenhouse gas accounting standard. → The EU  [...]  disclosure standards And much more. Grab a coffee (or some tea) and get the full breakdown 👉 https://prsfn.ai/4yRZOHT
+
+7490832116709175296 | Persefoni | text | 30w
+    We're honored to support customers in the financial services sector like Oak Hill Advisors, L.P. as they measure and manage their climate impact and integrate sustainability considerations into investment decision-making.
+
+7491581072011509760 | Persefoni | video | 177w
+    What do people ask us most often about Persefoni Pro? These three questions usually top the list. Q: Is Persefoni Pro completely free? A: Yes. This is not a limited trial, and no credit card is required. You can sign up with your name, email, and company name. Q: Can I invite all my suppliers to use measure and share  [...]  in the comments below 👇, and we'll be happy to answer them. Create your free Pro account: https://prsfn.ai/4z5YzVm
+
+7492969236345118721 | Persefoni | video | 127w
+    Carbon accounting often comes with a generous supply of “it depends.” Persefoni Copilot helps customers understand what to look at next. The GPT-based AI assistant brings on-demand technical carbon accounting expertise into the Persefoni workspace, right alongside your inventory. Persefoni customers can use it to: 1️⃣ 𝗪𝗼𝗿𝗸 𝘁𝗵𝗿𝗼𝘂𝗴𝗵 𝗮 𝗱𝗮𝘁𝗮 𝗴𝗮𝗽 ↪ Ask which inputs may be needed when something  [...]  languages (and counting), and is included in the standard platform subscription. Office hours, minus the calendar invite. 😉
+
+7493752752993378305 | Persefoni | image | 87w
+    Scope 3 gets easier to map when you know where to draw the line. ↗️ Upstream emissions come from the goods and services your company buys and uses. ↘Downstream emissions come from what happens after your products or services are sold. And for categories that can fall on either side, like transportation, there's a useful question to ask: Who paid  [...]  Scope 3 emissions, with real examples and practical guidance for measuring them. Read the full breakdown → https://prsfn.ai/3EufOYW
+
+7494056361933168640 | Persefoni | image | 145w
+    Climate policy may change over time. The underlying business exposure associated with climate change remains. The World Economic Forum's 2026 Global Risks Report ranks extreme weather as the most severe global risk over the next decade. PwC's 2026 Global CEO Survey also found that 42% of CEOs view their companies as at least moderately exposed to the risk of significant  [...]  between carbon emissions and business risk, and how stronger emissions data can support more informed risk management. 🔖https://prsfn.ai/4avZNxj
+
+7495179758952058881 | Persefoni | image | 81w
+    Data granularity should increase where it gives you more ability to act. A company might use spend-based estimates to identify emissions hotspots, then use data such as kilograms or units purchased for priority categories, and eventually work directly with selected suppliers to incorporate supplier-specific emissions data. That progression can be much more practical than trying to improve every data point  [...]  latest article looks at how teams can approach carbon data collection with more focus. Read more → https://prsfn.ai/3ID1kZe
+
+7495488740019027970 | Persefoni | link | 70w
+    Persefoni has been recognized as one of Newsweek's America's Greatest Startup Workplaces 2026. We're honored to be included alongside companies like Anthropic, ElevenLabs, and Harvey, and especially glad to see so many teams working across climate, energy, transportation, and conservation represented this year! Most of all, thank you to every Persefonite who has helped shape the company and culture we have today. 💛 See the full list of honorees: https://lnkd.in/eURiD_VC
+
+7496228332972351488 | Persefoni | video | 147w
+    𝗡𝗘𝗪: Introducing Persefoni Data Agent 🎉 Carbon data prep can mean hours spent mapping fields, fixing formats, finding gaps, and checking data quality before it's ready for upload. Now, agents can take on that work for you. With Persefoni Data Agent, teams can: → Map data faster. Get AI-recommended mappings between source columns and Persefoni fields, then review and adjust  [...]  over time. You stay in control of the decisions. The agent gets your data ready. Learn more: https://prsfn.ai/4i3bamv
+
+7497623798905606145 | Persefoni | image | 87w
+    See what happens when you put agents to work on your carbon data. 👀 Join us on September 10 for a live walkthrough of Persefoni Data Agent. We'll show how sustainability teams can move from raw source data through AI-assisted data transformation, issue resolution, and human-in-loop reviews within the Persefoni platform. If you've ever spent hours (or days) manually restructuring  [...]  you could even begin working with your emissions data, this one's for you. Save your seat → https://prsfn.ai/3Uxjy3H
+
+7498001796519415809 | Persefoni | image | 116w
+    Persefoni has achieved ISO/IEC 42001 certification. ✅ As AI becomes part of more business software, the way it is governed matters as much as what it can do. ISO/IEC 42001 sets requirements for how organizations manage AI responsibly, including how they assess risk, establish accountability, protect information, monitor AI systems, and continually improve the processes around them. For customers, these  [...]  especially as AI becomes more deeply integrated into the tools businesses rely on every day. Learn more: https://prsfn.ai/4ismo3O
+
+7500554469701615616 | Persefoni | image | 93w
+    Before September picks up the pace, we're taking a quick look back at key climate and sustainability policy developments from August. Here are a few highlights from our latest roundup: → The IFRS Foundation announced a five-year plan and a new ISSB seat in Geneva → The EU published new guidance for CBAM implementation → The US presses for further  [...]  on PFAS → Australia opened a consultation on reforms to its climate-reporting regime Let's jump right in: https://prsfn.ai/3T20J8q
+
+7500984657501462528 | Persefoni | image | 243w
+    ICYMI: CARB releases 2026 SB 253 reporting guidance Yesterday, CARB released its guidance for SB 253 2026 reporting submittals. The deadline for Scope 1 and Scope 2 is November 10, 2026, assuming OAL approves the Initial Regulation. The guidance is consistent with the December 2024 Enforcement Notice and leaves flexibility for first-year reporting: → Entities can submit an existing annual  [...]  Guidance: https://lnkd.in/enc6u9mC 📌 Voluntary SB 253 Intake Platform: https://lnkd.in/ewtFhDzt 📌 CARB video tutorial for the intake platform: https://lnkd.in/es4AcTXY
+
+7501341298423992321 | Persefoni | image | 102w
+    LIVE DEMO → See how AI can take on the manual work of preparing your carbon data. Join us next week for a walkthrough of Persefoni Data Agent, new functionality that leverages AI agents to prepare, transform, review, and upload source data for carbon accounting. We'll show how Data Agent recommends mappings to Persefoni fields, flags data quality issues before  [...]  throughout the upload process. Join us September 10 at 11 a.m. ET / 4 p.m. BST → https://prsfn.ai/3Uxjy3H
+
+7503149682588708864 | Persefoni | video | 141w
+    A few weeks ago, we announced Persefoni Data Agent, your dedicated team of agents built to help prepare, transform, and upload your data within the Persefoni platform. Join us this Thursday (Sept.10) at 11 am ET / 4 pm BST for a detailed walkthrough of this new experience. We'll also answer some of the most popular questions we've been receiving,  [...]  on the spot to the demo live. Join us and bring all your questions! Save your spot: https://prsfn.ai/3Uxjy3H
+
+7503891988778438657 | Persefoni | image | 282w
+    We received a lot of questions after sharing that Persefoni is now ISO/IEC 42001 certified. - What does the certification cover? And why did you pursue it? - Does it apply to a specific AI feature or how to manage AI more broadly? - What does it mean for customers as we continue adding more AI and agentic capabilities? The  [...]  behind every release. You can learn more about what ISO/IEC 42001 means and why it matters here: https://prsfn.ai/4ismo3O
+
+7475994340759216128 | Procore | video | 27w
+    No this is not a scary movie. 😱 What was invented to cut bone is now redesigned to slice through timber, pipe and solid concrete. ⛓️ #chainsaws
+
+7476713758942494720 | Procore | link | 62w
+    The secret to building a massive commercial project? Doing the small things exactly the same way, every single time. 🛠 To keep their massive team completely aligned, Bernards did something game-changing, they standardized their entire business! 📱💻 Now, whether a team is building in LA or Orange County, they use the exact same digital playbook. Read more about Bernards operational excellence: https://lnkd.in/gVZ5eJdp
+
+7477497427650830336 | Procore | video | 19w
+    Fred Mills is out there doing the good work and making the world fall in love with construction. 🌍🛠️
+
+7477923023845515264 | Procore | video | 10w
+    "Just put it in Procore" is our love language. ❤️
+
+7478228746970288129 | Procore | link | 79w
+    When your job site changes with the tide, spreadsheets just won't cut it. 🌊🏗️ The crew at S.J. Hamill Construction builds the heavy civil and marine infrastructure that keeps our communities safe and connected. Managing massive coastal and bridge projects means dealing with crazy variables every single day. 💨🌧️ When the environment is unpredictable, your data shouldn't be. Learn more  [...]  how tracking multi-million dollar projects on messy, disconnected spreadsheets was a risk they weren't willing to take: https://lnkd.in/giMNM2jJ
+
+7478902546393362434 | Procore | video | 13w
+    In Iceland, multi million dollar highways can be stopped by... elves? 🧝‍♀️ 🏔️
+
+7479217541958004738 | Procore | link | 100w
+    Scaling a specialized trade shouldn't mean chasing paperwork across four different platforms. 🛠️📦 Every specialty contractor knows the drill: Your field crews are highly skilled, but your back-office data is scattered. You're using one tool for timecards, another for RFIs, a different system for drawings, and a spreadsheet for budgets. Before you know it, your project managers are spending more  [...]  Learn more about the operational foundation they needed to keep up with their rapid project portfolio growth: https://lnkd.in/gNMvsuJy
+
+7479849209492557825 | Procore | video | 10w
+    Vacationing with someone in construction? Prepare yourself now. 🤦 🤦‍♀️
+
+7480465722763030528 | Procore | video | 10w
+    The real secret sauce of construction? People + Tech. 💻🤝
+
+7480765214557249537 | Procore | link | 91w
+    Empowering the field means giving them answers in real time, no matter how demanding the jobsite. 🇳🇴 For Norway-based electrical and technical contractor Haneseth Bodø, excellence isn't just about designing sophisticated systems; it's about ensuring the installers in the field can execute them flawlessly. They are proving that the most productive field crews aren't just the hardest working, they are  [...]  helps their team power forward safely and efficiently! 🚀🔌 Read the full story of their digital journey: https://lnkd.in/gGdGmAz4
+
+7481072114607808512 | Procore | video | 9w
+    Building the Brooklyn Bridge while working from home?! 🤯
+
+7481757999926235137 | Procore | link | 78w
+    Big builds. Global teams. Zero room for error. 🌍 The team at Haskell Company build complex global infrastructure, advanced manufacturing hubs and massive commercial facilities. 🏢🏗️ When you're managing mega-projects across international borders, you can't afford to let critical details get lost in messy spreadsheets or separate apps. That's why Haskell centralized their entire operation. Now, they have one digital home to: 🙌 Connect Everyone ⚡️ Drive Performance 💰 Track the Portfolio Read the full case study: https://lnkd.in/gmF_pRG2
+
+7482384413427798016 | Procore | video | 35w
+    Building the world's longest and deepest subsea road tunnel from THREE different directions, all to meet perfectly in the middle, is the ultimate proof of what happens when incredible people and advanced tech collide. 🌊🚗🤯
+
+7483189886590685184 | Procore | image | 108w
+    We are proud to welcome Joyce (Chan) Hwang to Procore as our global Chief Marketing Officer. Joyce joins us at a definitive moment of scale for our platform, which now connects workflows and data across millions of construction projects worldwide. To navigate this next phase of global growth, bringing in an operational leader with deep enterprise platform experience is critical.  [...]  clear, tangible value to our customers. Welcome to the team, Joyce. Let's build together 🏗️ #Procore #ConstructionTech #CMO
+
+7483307968214593536 | Procore | link | 67w
+    2 hours vs. 30 seconds. Which one would your team choose? ⏳🛠️ For years, Mandere Construction had to manually download heavy drawing packages from general contractors, re-upload them internally, and hand-label each set. The process took up to two hours per set, buried office teams in duplicate data entry, and left field crews exposed to working off outdated blueprints. Learn how Mandere Construction killed administrative friction: https://lnkd.in/ehkhaxXH
+
+7483608065515171840 | Procore | video | 11w
+    Think your tape measure was invented for construction? Think again. 🤔
+
+7484292210839072768 | Procore | link | 89w
+    From the sketchpad to the fulfillment center—without losing the details. 📐📦 The team at Greek Development builds the massive, high-tech industrial hubs and logistics parks that keep our world connected. They handle everything in-house, from architectural design and engineering to general contracting. They were tired of critical project data getting lost during handoffs between departments. So, they leveled up their  [...]  Connect the Crew ⚡️ Accelerate the Field 💰 Protect the Budget Read more about their lifecycle journey: https://lnkd.in/e6xY_t2F
+
+7485366764864987137 | Procore | image | 47w
+    It's time to build your schedule. The Groundbreak agenda is here. 📝🙌 Explore keynotes, breakout sessions, and hands-on learning opportunities designed to help you build and win together in the AI era. Secure your spot now for $1,795 USD before prices go up to $1,995: https://lnkd.in/e2q8jwk #GBK26
+
+7485369373554302976 | Procore | link | 112w
+    Last week marked a monumental milestone as King Salman International Airport and TASAMA officially kicked off the Unified Digital Construction Management Ecosystem, powered by Procore. As one of the world's largest airport developments spanning a massive 57 million square meters masterplan, this visionary project is set to serve 100 million passengers annually by 2030, directly supporting the transformative goals of  [...]  as the project owner and transformation leader, alongside strategic delivery partner TASAMA. Read more about the announcement: https://lnkd.in/eYh96fNV
+
+7485802270434037761 | Procore | video | 10w
+    The first hi-vis vest was actually a wedding dress? 🤨🦺
+
+7486046974962737153 | Procore | video | 101w
+    The wait is over: Procore AI agents are now generally available. 🥳 With Procore AI, your day-to-day workload is going to feel lighter. We've launched 20 specialized agents to take on tasks like submittal reviews, RFIs, and daily logs. Today, we're taking it even further by introducing Digital Coworker packages to help construction teams put AI to work: 👥 Digital  [...]  operating procedures, helping AI output reflect how your company operates. Learn more about Procore AI agents today: https://lnkd.in/eP3NUEEz
+
+7486828919384559616 | Procore | link | 89w
+    When you're deploying billions in capital, delayed financial data is the ultimate risk. 📊🫣 Building the infrastructure for the AI era requires unprecedented capital deployment. DataBank is managing an incredible $8 billion plus expansion pipeline across their data center footprint. When you operate at this scale, waiting weeks for month-end accounting reports isn't just an inconvenience, it's a blind spot.  [...]  they needed real-time visibility into every single dollar spent. Read the full story of their financial transformation: https://lnkd.in/ehRcJUzs
+
+7487907811054493697 | Procore | video | 9w
+    Tag the crew so everyone knows who's who! 🧑‍🍳👇
+
+7488330054364753921 | Procore | video | 106w
+    Today, we announced that we have signed an agreement to acquire DroneDeploy, the robotics and visual intelligence platform for the built world. DroneDeploy captures visual information through 3D ground and aerial imaging, spanning drones, robotics, and mobile, fixed, and wearable cameras. When combined with Procore AI, we are creating the next-generation platform to see, understand, and act on the jobsite.  [...]  progress, spot risks earlier, elevate safety, and build with greater confidence. Read the full news release here: https://lnkd.in/eevvuGsB
+
+7489014103580233729 | Procore | image | 10w
+    For all of our regulars and Procorians out there 🤔
+
+7490075355995697152 | Procore | video | 17w
+    Rare footage of the elusive Excavator-saurus in its natural habitat. 🦖 Sound ON for full roar. 🔊😂
+
+7491118731436380160 | Procore | video | 91w
+    We're launching new Asset Management capabilities to help eliminate the construction handover gap and connect the entire project lifecycle, from installation to operations! 🙌 The construction industry loses billions annually in the gap between a building's completion and when it's ready for operations. Instead of gathering paperwork at project closeout, our new Asset Register allows teams to build complete, trusted  [...]  we are helping owners, general contractors, and specialty contractors manage fixed assets throughout the entire construction lifecycle: https://lnkd.in/exWuQVMy
+
+7491543012070563840 | Procore | link | 20w
+    Say goodbye to lost hours in project documents. 📄 Say hello to our Deep Search Agent. 👋 Learn more: https://lnkd.in/eknnujbu
+
+7491901092298051584 | Procore | link | 66w
+    Operating across multiple companies is tough. Managing them on different systems? That's where chaos lives. 🛠️🇨🇦🇺🇸 For decades, Trotter & Morton has been a trusted multi-disciplinary specialty contractor. As their multi-entity portfolio expanded, so did software sprawl. Different branches were using different tools for drawings, safety logs, and field tracking, creating data silos and administrative headaches. Learn more about how they managing their scaling business: https://lnkd.in/ekKwEvY6
+
+7492755501659787265 | Procore | video | 8w
+    Some miscommunications are more expensive than others. 🫣
+
+7493492052576411648 | Procore | multi-image(4) | 62w
+    Cheers to bright lights, a big milestone, and the incredible partners who built it with us. A company is only as strong as the community behind it. To our partners, clients, and champions: thank you for pushing us, growing with us, and building this future alongside us. This billboard is as much yours as it is ours. Built together. Celebrated together. 🥂
+
+7493717412656254976 | Procore | image | 93w
+    Exciting news! Procore AI was selected as a winner of the Overall Construction Tech Innovation of the Year by the PropTech Breakthrough Awards! 🎉 The awards honor and recognize the creativity, hard work, and success of companies, technologies, and products across real estate technology. We've seen our clients implement Procore AI in creative ways to free up time for workers,  [...]  to PropTech Breakthrough for the recognition, and congratulations to fellow award winners! Learn more: https://lnkd.in/eMy3XD4S #Procore #AgenticAI #ProcoreAI
+
+7494165859351900161 | Procore | video | 11w
+    Witching sticks... Field lore, pure magic, or a reliable tool? 🔮
+
+7495171122989076481 | Procore | video | 14w
+    When you speak in jobsite lingo and someone actually understands you in public 🤝🏗️
+
+7495523949481598976 | Procore | multi-image(8) | 95w
+    We are proud to announce the opening of our newest office in San Francisco, marking another significant milestone in how we show up for our people and our industry. 🌉 This purpose built space is designed to serve as an innovation and AI hub, providing a premier, state of the art environment for our teams and clients to collaborate, pioneer  [...]  as we continue to deepen our roots and footprint in the Bay Area! 🚀 #SanFrancisco #Procore #AI #ProcoreAI
+
+7496250736599719936 | Procore | multi-image(6) | 41w
+    Exclusive access to Universal Islands of Adventure? Say less. 🤩 Find us there for the Groundbreak Bash, and trust us, you don't want to miss this. 🎢 Orlando | Oct 21–22 Lock in your spot before it sells out: https://lnkd.in/gJ5XJuNN #GBK26
+
+7496695219522998272 | Procore | video | 27w
+    Great communication skills and the ability to log 20k+ steps a day should have been absolute requirements for this critical construction job back in the day. 🚶🚧
+
+7496982332206288896 | Procore | link | 48w
+    Transforming how a major city builds community spaces. 🏛️ For the City of Memphis, delivering key infrastructure, parks, public safety facilities, and community spaces meant navigating a complex maze of city departments, external general contractors, and strict regulatory standards. Read the full story of their municipal transformation: https://lnkd.in/edTFsAbq
+
+7498110481308569600 | Procore | multi-image(6) | 36w
+    The energy in San Francisco is truly undeniable! 🌉 Thank you for the warm welcome! We're already hard at work building out our new AI hub and setting the foundation for what's next. #SanFrancisco #AI #Procore

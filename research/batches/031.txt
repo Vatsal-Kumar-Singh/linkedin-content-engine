@@ -1,0 +1,169 @@
+# batch 031  -  55 posts  -  label per research/CLASSIFICATION-PROTOCOL.md
+# labels: problem exploration requirements selection validation consensus
+#         recruitment culture event product-news csr unclear
+# write research/labels/031.tsv as: <id><TAB><label>
+
+7504256251208527873 | Snowflake | link | 74w
+    VALID Systems rebuilt its fraud detection platform on Snowflake ML in about three months. The results: 15-17% more fraud caught, risk decisions on live deposits delivered in under 100 milliseconds, and built-in compliance checks. VALID's models now optimize for the dollar value of the decisions they make, not just whether they got a row right or wrong. Real-time ML at banking scale, with the governance banks require. See how VALID Systems built it: https://lnkd.in/eQJexAtz
+
+7483617635864285184 | Supabase | link | 119w
+    Unified Logs is now in open beta. Debugging a request in Supabase used to mean hopping between separate log pages, one per service, each with its own filters. Unified Logs puts them in one stream: the API gateway, Postgres, Auth, Storage, PostgREST, Realtime, and the connection poolers, all in one table, newest first. A few things worth knowing: - Filter  [...]  to your own tooling with Log Drains Rolling out to all projects during open beta. Read more: https://lnkd.in/gepXTvrq
+
+7483892034097971202 | Supabase | image | 22w
+    Our CTO Ant Wilson is joining the Dublin Meetup! Make sure to RSVP to the Supabase × Claude Community meetup today! https://lnkd.in/gSmHDxe7
+
+7484254917482807296 | Supabase | link | 55w
+    Drew Clayborn is a solo developer building a HIPAA-compliant home care charting app, so nurses walking into a new home know the patient before they ever touch them. He built the whole backend himself: Database, Auth, Realtime, Audit Logs, all on Supabase, without a compliance team or a budget for one. Full story → https://lnkd.in/gRz9jfGj
+
+7484979194293043200 | Supabase | image | 18w
+    Here is the list of languages/ frameworks that we have getting-started guides for. What should we add next?
+
+7485326511890137088 | Supabase | video | 21w
+    Introducing the Supabase plugin for Kimi. Now available on Kimi Code and Kimi Web. Enjoy building with Kimi K3 and Supabase.
+
+7485354699429253120 | Supabase | video | 105w
+    Introducing Supabase Pipelines. Your app runs on Postgres. Your analytics usually run somewhere else, like a data warehouse, and getting your data there reliably has meant building and maintaining your own pipeline. Supabase Pipelines does that for you. You pick a destination in the dashboard, and we run and monitor a managed pipeline that replicates your Postgres data there in  [...]  delete, and truncate, and keeps your destination schema in sync as your Postgres schema changes. Read more: https://lnkd.in/dXD_PAKV
+
+7485715399343357953 | Supabase | text | 15w
+    What's a task you used to love doing that you now fully delegate to AI?
+
+7486072834440601600 | Supabase | video | 40w
+    Grafana Cloud is now a one-click integration in the Supabase Dashboard. 🎉 Connect your project and get a fully-configured instance: auth, metric scraping, and a pre-built dashboard covering 200+ metrics. Available on every plan, including free. Learn more 👉🏼 https://lnkd.in/gUtJn2kz
+
+7486435302274686977 | Supabase | video | 56w
+    Say hello to the new Edge Functions Overview page. Open any function and you can see how it's running, without digging through the logs first. What you get: - Total invocations, plotted over time - Error rates - Average and max execution time - CPU time and memory usage The page loads faster too. Available now.
+
+7487153775149768704 | Supabase | image | 27w
+    We are teaming up with Datadog to host a meetup in New York City! Come hang out with us on August 4 at the Datadog office! https://lnkd.in/eKJvNuNt
+
+7487178104809992192 | Supabase | video | 7w
+    Supabase Select tickets available now at select.supabase.com
+
+7487878283599011840 | Supabase | text | 9w
+    What's the oldest side project you still haven't shipped?
+
+7488296249364766722 | Supabase | video | 38w
+    Sign in with ChatGPT is now in beta on Supabase. 💫 Sign in to Supabase with your ChatGPT account, or connect Supabase to ChatGPT on desktop, web, and mobile through the ChatGPT plugins directory. Learn more ↓ https://lnkd.in/gZHhYxCW
+
+7489047352075460608 | Supabase | image | 161w
+    Today we're open-sourcing Supabase Evals, our benchmark for how well AI coding agents build with Supabase. Agents are now a primary way people build with Supabase, through our MCP server, CLI, agent skills, and docs. Until now we measured how well that worked with manual testing and intuition. Supabase Evals measures that experience instead of guessing. It runs coding agents  [...]  stage, or eval - Open source, so the scenarios and scoring criteria are there to inspect Available now.
+
+7490052665016606723 | Supabase | video | 22w
+    Meet the founders! Get your tickets today to hear all the announcements we will make at Supabase Select on October 2! https://lnkd.in/em8Tsva9
+
+7490164760139677696 | Supabase | link | 23w
+    We are going LIVE in 1 hour! We are talking about Supabase Evals, the new Sign in with ChatGPT button, and more! https://lnkd.in/gbRHqH-e
+
+7490783683696664576 | Supabase | video | 132w
+    Postgres Changes now supports AND filters, more filter operators, and column selection. Postgres Changes lets you listen to row-level inserts, updates, and deletes over a WebSocket. Filters now compose with AND on a single subscription, and the operator set is closer to the filter syntax you already use elsewhere in Supabase. You can also choose which columns land in the  [...]  in. It needs @supabase/supabase-js 2.109.0 or newer; the filter changes work with what you already have Available now.
+
+7491527120297320449 | Supabase | video | 41w
+    Supabase is now a connector on Perplexity Computer. 🔌 Query your production data, look up users, and invoke Edge Functions from a Perplexity chat, or drop Supabase into workflows that span GitHub, Stripe, and Slack and more. Learn more ↓ https://lnkd.in/gEFjaWR9
+
+7492951792528306189 | Supabase | video | 41w
+    Sugu, the lead of Multigres, will be talking at Supabase Select 26! Multigres is Vitess for Postgres, and it's all open source, so you might be able to take a peek and guess what the talk will be about 👀 https://lnkd.in/dzZiN2Bf
+
+7494038878631346176 | Supabase | link | 58w
+    Supabase meetups/ hackathons are happening across the globe! - Supabase × Devin Hackathon Tokyo - 8/14 - 16 - Supabase Abuja Meetup - 8/14 - Supabase Ibadan - 8/15 - Hackathon Supabase - Manta - 8/21 - Demo Night SF: Ship AI Apps with Anthropic + Postman + Supabase + Vercel - 8/27 Find more details here: https://lnkd.in/enuRjvaW
+
+7494781531090235392 | Supabase | image | 25w
+    You can literally connect Supabase to any framework. You can also use it as a standalone Postgres database via ORMs or server-side frameworks. Your choice
+
+7495146041890058241 | Supabase | video | 10w
+    We added copyable AI prompts to our quick start guides
+
+7495245831294410752 | Supabase | link | 28w
+    Another week, another Changelog Live Stream in 30 min! Come hang out with us to talk about Supabase updates and all the updates happening in the industry! https://lnkd.in/gbRHqH-e
+
+7495527295802081280 | Supabase | image | 156w
+    For a long time, debugging across the boundary between your app and Supabase meant treating them as two separate systems. A slow request in your frontend trace and the matching log in Supabase had nothing connecting them, so you lined them up by hand, guessing at timestamps. That gap is closed. supabase-js, Swift, Flutter, and Python now propagate W3C Trace  [...]  of your trace in whatever tool you already use, at no extra cost. Available now. Read more: https://lnkd.in/gqMWNRyy
+
+7495872351914328064 | Supabase | video | 24w
+    Vercel is a headline sponsor at Supabase Select 2026. 💫 Deploy full-stack apps without leaving your workflow. See you October 2 in SF: https://lnkd.in/em8Tsva9
+
+7496205165406941184 | Supabase | image | 21w
+    We increased limits for the number of Edge Functions per project: Pro plan: 500 → 1,000 Team plan: 1000 → 2,000
+
+7496248671676817408 | Supabase | video | 28w
+    Stripe is a headline sponsor at Supabase Select 2026. 🌟 The financial infrastructure behind the internet economy, now powering agentic commerce. See y'all October 2 in SF: select.supabase.com
+
+7496938533320806400 | Supabase | video | 25w
+    Who will be the speakers at Select 26? We will give out a Supabase cap to 5 people who guess correctly. Drop your guess 👇
+
+7497745037443805184 | Supabase | link | 43w
+    Enterprise-managed auth for the Supabase MCP server, built with Anthropic and Okta, is generally available. 🪄 Admins authorize the Supabase connector once through Okta, and everyone on the team gets Supabase in Claude scoped to the permissions they already have. Learn more: https://lnkd.in/gGFnT6jU
+
+7497790035040169984 | Supabase | link | 22w
+    Supabase Changelog live stream is starting right now 🚨 Come hang out with us if you like building apps with Supabase! https://lnkd.in/gbRHqH-e
+
+7498046554134491136 | Supabase | video | 29w
+    Garry Tan, President & CEO of Y Combinator, is coming to Supabase Select 2026 for a fireside chat with Paul Copplestone. 🎉 We'd love to see you there: https://lnkd.in/em8Tsva9
+
+7498409150012641281 | Supabase | video | 30w
+    ⚡ bolt.new is a sponsor at Supabase Select 2026. What will you build today? Tell Bolt what you want and it ships. We'll be in SF on October 2: select.supabase.com
+
+7498808238985994241 | Supabase | video | 25w
+    Parag Agrawal, Founder of Parallel Web Systems, is coming to the Main Stage at Supabase Select 2026. 🎉 It's happening October 2. Join us: https://lnkd.in/eyvKNtq6
+
+7499621538623639552 | Supabase | image | 9w
+    Self-hosting Supabase on Linux is just a single command:
+
+7499813201870635008 | Supabase | image | 29w
+    We added Sign in with ChatGPT a few weeks back, and it has quickly become one of the most popular sign-in methods! Which sign-in method do your users prefer?
+
+7500230837691568128 | Supabase | video | 36w
+    Announcing Resend as a sponsor at Supabase Select 2026. ✨ Resend is building email for modern developers and agents. Send, receive, market, and automate emails that reach humans instead of spam folders. Come say hi: select.supabase.com
+
+7500591053939355648 | Supabase | video | 43w
+    We reviewed the footage from last year and have decided to do it again. 🎬 Supabase Select is back on October 2 in SF: select.supabase.com We're giving away 3 tickets. Reply with what you're building on Supabase and we'll pick our favorites. 👀
+
+7500945716647948288 | Supabase | video | 26w
+    We are welcoming Thomas Dohmke, CEO of Entire and former CEO of GitHub, to the main stage of Select 26! October 2. Don't miss it: https://lnkd.in/eyvKNtq6
+
+7501308081117503488 | Supabase | video | 21w
+    Y'all, Katelyn Lesse is speaking at Supabase Select 2026. Katelyn leads Platform Engineering at Anthropic. T-29 days. See you there: https://lnkd.in/em8Tsva9
+
+7501368431930273792 | Supabase | video | 23w
+    We've got Angela Jiang speaking at Supabase Select 2026. Angela leads Product for Claude Platform at Anthropic. Can't wait to see y'all: https://lnkd.in/em8Tsva9
+
+7501670669269520384 | Supabase | image | 18w
+    If you can ask one question to any of the speakers at Select 26, what would it be?
+
+7502002117751091200 | Supabase | image | 18w
+    manager: how the hell did you fix that bug? me who just asked GPT-6 Astra and hit accept:
+
+7502719821554343936 | Supabase | image | 5w
+    Devs joining standup at 8am
+
+7502863459072548864 | Supabase | link | 20w
+    🚨 The Supabase Changelog Live Stream is on 🚨 Come hang out with us to talk about anything Supabase: https://lnkd.in/gbRHqH-e
+
+7503467793120559104 | Supabase | video | 36w
+    Supabase is now a connector in Gemini Enterprise. ✨ Query your Supabase projects and take action in natural language, right alongside the tools your team already uses like GitHub, Linear, and Jira. Learn more ↓ https://lnkd.in/gUv82rp8
+
+7503845831826128896 | Supabase | video | 52w
+    The Select Hackathon is October 3 at YC. Presented by Supabase with Claude, Stripe, and Vercel. Hack solo or in teams up to 4. $100K+ in credits, swag, food, and the winning teams get breakfast with our founders, Ant Wilson and Paul Copplestone. 🥞 Applications close September 28. Apply now → hackathon.supabase.com
+
+7504191840980459520 | Supabase | text | 8w
+    See you all in London on Sept 15!
+
+7490388599960580096 | Thoughtworks | video | 92w
+    AI is changing how software gets built, but writing code is only one part of the job. As agents take on more of the delivery lifecycle, teams still need to understand what is happening, why decisions are being made and where human oversight is needed. On August 19, Karthik Srinivasan and Sandeep Reddy will share how Thoughtworks is approaching this  [...]  the role of an organization's own context in making agentic delivery useful in practice. Join us live 👇
+
+7491120516238450688 | Thoughtworks | video | 31w
+    Are decades of technical debt hiding your core business logic? Thoughtworks' AI/works™ gives complete visibility of your legacy codebase before writing a single line of new code. Find out more: https://lnkd.in/dx_22ahj
+
+7491478558125506560 | Thoughtworks | image | 95w
+    The biggest change in enterprise AI isn't that models are getting smarter. It's that they're starting to act. AI agents don't just answer questions anymore. They access data, trigger workflows and make decisions. That means your data platform has a new job. It isn't just a source of truth. It's where governance, trust and accountability come together to enable AI  [...]  age of AI agents, with perspectives from Thoughtworks, Databricks, OAG and other industry leaders. Read the playbook: https://lnkd.in/d2fCqciP
+
+7491795440313704448 | Thoughtworks | image | 83w
+    Nearly 90% of AI pilots fail to reach production, despite having access to more capable technology and clear business ambition. As agentic initiatives gather pace, the same barriers threaten to stall them. Leaders are asking the same question: why are we still getting stuck? In our upcoming edition of Perspectives, Amy Raygada and Jade Forsberg unpack the hidden adoption barriers  [...]  share practical strategies for building an agentic-ready data strategy. Save the date! Full insights launch on August 10.
+
+7492208988676329472 | Thoughtworks | image | 94w
+    Big ideas often begin as unfinished thoughts. Our Chief Technology Officer, Rachel Laycock , is launching Rachel's Ramblings, a new series published on Martin Fowler's website, where she'll share reflections, emerging patterns and the questions shaping the future of software engineering. Inspired by conversations at the Future of Software Engineering (FOSE) retreat, Rachel explores why thinking out loud matters in  [...]  important conversations. Read her first Rambling and join the discussion. We'd love to hear what resonates. 👉 https://lnkd.in/d-ruYScC
+
+7492550369571569665 | Thoughtworks | link | 108w
+    93% of leaders want AI agents. Only 5% have the data to drive them. In the race to scale AI, technology isn't what's holding organizations back. It's the reliability of the underlying data. Employees and customers are quietly abandoning AI tools due to substandard output and credibility concerns. Agentic initiatives risk a similar fate. Except with autonomous systems, unreliable data  [...]  getting back to basics and reveal the unexpected roadblocks holding enterprises back. Dive into the full insights: https://lnkd.in/dPkayqZC
+
+7492833429978275840 | Thoughtworks | multi-image(5) | 63w
+    Our Singapore office was decked out in red and white as Thoughtworkers came together to mark the nation's 61st National Day 🇸🇬 The celebration brought our team together with Singapore-themed games, local favourites, meaningful conversations and a warm welcome for our newest colleagues. A big thank you to our Fun Tribe for creating an experience that strengthened connections and kept the energy going.

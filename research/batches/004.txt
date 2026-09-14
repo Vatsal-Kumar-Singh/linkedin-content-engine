@@ -1,0 +1,169 @@
+# batch 004  -  55 posts  -  label per research/CLASSIFICATION-PROTOCOL.md
+# labels: problem exploration requirements selection validation consensus
+#         recruitment culture event product-news csr unclear
+# write research/labels/004.tsv as: <id><TAB><label>
+
+7494234157968076800 | Addverb Technologies | video | 63w
+    The freedom to imagine. The ambition to build. The people who make it happen. This Independence Day, we celebrate the people who protect our freedom, from the armed forces who guard our skies and borders to the innovators, builders, and dreamers shaping what comes next. Here's to the India we're building, together. EndureAir Systems Pvt. Ltd. x Addverb Happy 80th Independence Day! 🇮🇳
+
+7494611358529904640 | Addverb Technologies | multi-image(7) | 38w
+    We came together at our Indian headquarters in Noida to hoist the national flag and celebrate Independence Day with the Addverb team. A few moments from the celebration, and a day that brought everyone together. Happy Independence Day🇮🇳
+
+7495117292683296768 | Addverb Technologies | image | 126w
+    Louisville, Kentucky is Addverb's newest office location, and the latest step in a growing North American footprint. The new office strengthens project execution and customer delivery, serving as a strategic hub for Project Management and expanding expertise across Controls, Mobile Robotics, and Software. This investment is about more than a new location- it's about being closer to our customers and  [...]  with all four major robotic form factors under one portfolio- wheeled robots, robotic arms, legged robots, and humanoids.
+
+7495431687191875584 | Addverb Technologies | video | 136w
+    What if a smoother turn could move 70% more? When you're running a fleet of sortation robots, every turn is repeated hundreds or thousands of times. A small change in how each robot navigates can therefore create a significant impact across the entire operation. That's what Zippy AGV's curvilinear-path navigation is designed to do. Instead of stopping at sharp 90°  [...]  tuned for more - and connect with our experts to know what this means for your robotic fleet.
+
+7495789189335093248 | Addverb Technologies | multi-image(4) | 120w
+    At Intel ISB Connect 2026, Prateek Jain, COO & Co-founder at Addverb, spoke about the opportunities, trends, and challenges shaping the robotics market. The robotics industry is moving from individual automation use cases towards wider adoption across industries. But scaling robotics requires more than advances in technology. It requires reliable systems, seamless integration, viable economics, and solutions built for real-world  [...]  challenge is clear: turning technological possibilities into solutions that deliver reliably in the real world and at scale.
+
+7496151664866009088 | Addverb Technologies | video | 60w
+    Turn on the volume 🔊 - Experience the future, live at Addverb.ai Explore our work in Physical AI - from humanoids, quadrupeds, and cobots to the research, technology, and developer resources behind them. Designed to give you a closer look at how we're building robots that can understand and interact with the world around them. Swipe through. Explore Physical AI.
+
+7496513752452722688 | Addverb Technologies | image | 78w
+    We're opening the doors. 👀 We've been getting plenty of requests to visit our manufacturing facility Botverse at noida and see what happens behind the scenes at Addverb. So, if you've been curious about how our robots come to life, how we build them, and what goes on inside our facility - this is your chance to see it for yourself. Want to visit? Request your invite through the form link below. https://lnkd.in/gppizV9i See you inside Bot-Verse. 🤖
+
+7497148117583081472 | Addverb Technologies | multi-image(3) | 136w
+    At Business Today's India@100, Sangeet Kumar, CEO & Co-founder at Addverb, joined the panel “Manufacturing for Viksit Bharat” to discuss what it will take for Indian manufacturing to grow, scale, and compete globally. The conversation, moderated by Shailendra Bhatnagar, Chief Analyst & Editor - Markets, BTTV, and Krishna Gopalan, Executive Editor, Business Today Magazine, brought together Anil Gupta, CMD, KEI  [...]  of the journey - and the next decade will be about building the capabilities to make it happen.
+
+7497601015018520576 | Addverb Technologies | multi-image(2) | 110w
+    Another Addverb site is soon going live in the Netherlands at Peka Kroef B.V., one of Europe's leading producers of fresh chilled potato products. At the heart of the storage system is Addverb's four-way pallet shuttle, Cruiser 360, designed for high-density pallet storage and retrieval. Alongside it, Mother-Child Shuttle and Rail Guided Vehicle systems bring automated storage and material movement  [...]  The automation is coming together. The site is getting ready. More updates as we get closer to go-live.
+
+7497963778718945280 | Addverb Technologies | video | 114w
+    Meet Addverb's quadruped robot, Trakr 20 with QDD robotic arm - combining the mobility of a quadruped with the dexterity of robotic manipulation. Trakr 20 is built to navigate industrial environments where conventional mobile robots can struggle, including stairs, uneven terrain, and confined spaces. Adding QDD arms gives it another layer of capability: the ability to reach, pick, handle, and  [...]  the job. The next generation of robots needs to be able to do something when it gets there.
+
+7498326680219058176 | Addverb Technologies | image | 105w
+    Riyadh, we're coming, and we're bringing a simple question with us. What would your warehouse look like if speed, space, and scale didn't have to compete with each other? Next week, Addverb will be at the Saudi Warehousing & Logistics Expo 2026, showcasing automation solutions built around the challenges warehouses actually face. From pallet ASRS and tote & carton storage  [...]  rethinking how your warehouse scales, come find us. 📍 Booth 3C101 📅 8-10 September 2026 Let's talk warehouse.
+
+7498688387290353666 | Addverb Technologies | multi-image(3) | 121w
+    Boosting AGV uptime with smarter charging - Addverb × STÄUBLI When AGVs stop to charge, the warehouse shouldn't have to. For Addverb, autonomous charging needed to be fast, reliable, and able to handle real-world docking conditions without adding complexity to the vehicle. That's where our partnership with Stäubli comes in. The CombiTac align 4 solution enables reliable autonomous charging with  [...]  the demands of automated warehouse operations. The result: shorter charging stops, higher AGV availability, and simpler fleet operations.
+
+7499322553476460544 | Addverb Technologies | image | 61w
+    A little behind the scenes from our team at Blinkit's warehouse, getting a closer look at the operation and the automation that keeps it moving during the festive rush. Because behind every fast delivery is a team, a warehouse, and a lot of work happening behind the scenes. Festive season or not, the work keeps moving. And so do we. 🤝
+
+7500138570708602880 | Addverb Technologies | video | 132w
+    At Business Today's India@100, Sangeet Kumar, CEO & Co-founder of Addverb, shared why we chose to build much of our robotics manufacturing capability in-house. From electronics and steel processing to robot components, controlling more of the value chain gives us greater control over precision, speed, and iteration. For robotics, where manufacturing often happens at lower volumes and requirements evolve quickly,  [...]  beyond building better robots. It will be the ability to build them faster, at scale, and in India.
+
+7500500856405073920 | Addverb Technologies | image | 99w
+    What can a 2,500 kg AMR move? More than you might think. Addverb's Dynamo is built for heavy material movement across Automotive, 3PL, automotive, steel, manufacturing, chemical, consumer goods and more - moving everything from aluminium and steel rolls to components, pallets, and fully assembled cars. With LiDAR-based navigation, ±20 mm positioning accuracy, real-time obstacle detection, and fast charging, Dynamo  [...]  goods, Dynamo adapts to different loads, workflows, and industrial environments. One AMR. Multiple industries. Built for heavy-duty movement.
+
+7500802349570072576 | Addverb Technologies | image | 114w
+    Addverb has released its latest Sustainability Report, highlighting our progress across environmental, social, and governance priorities. This year's report reflects our continued focus on building sustainability into how we operate, innovate, and grow. A few highlights: → 1.51 water positivity index across our manufacturing facilities → 31.88% reduction in water consumption → 1,640 kWh of solar power generated daily, on  [...]  Sustainability Report on our website to explore our progress and commitments. Read the full report here - https://lnkd.in/dsf88J5Z
+
+7500915707350794240 | Addverb Technologies | image | 120w
+    Behind our 24×7 global after-sales support is a team that keeps moving too. This post is dedicated to them. Our After-Sales team spends a lot of time on the road - travelling from site to site across APAC, the Americas, and EMEA to support our customers where they need us. From preventive maintenance and troubleshooting to remote support and emergency  [...]  they're the people customers know they can count on. In many ways, they are the face of Addverb.
+
+7501226337278365697 | Addverb Technologies | video | 17w
+    If only you could sort your LinkedIn feed like Zippy sorts the parcels! Automate with Addverb today.
+
+7501510925062103040 | Addverb Technologies | image | 112w
+    Addverb is partnering with NABET-QCI and NAMTECH to launch the Warehouse Robotics & Automation System- an 8-week programme built to train the next generation of automation engineers. The programme combines hands-on training with real industry immersion, preparing participants for roles like Robotics Engineer, AMR/AGV Engineer, Automation Engineer, and Warehouse Automation Project Engineer. No prior robotics experience needed- just the drive  [...]  link in the comments. Quality Council of India(QCI) | QCI-NABET I Training & Capacity Building Division (NABET, QCI)
+
+7501860138648080384 | Addverb Technologies | multi-image(9) | 23w
+    Your teachers know you won't stop scrolling for 𝐋𝐞𝐬𝐬𝐨𝐧𝐬. But you'll stop for Doga & Doodle. Fair enough. Happy Teachers Day from Addverb
+
+7502674442402217984 | Addverb Technologies | video | 139w
+    Some operations need fixed automation. Others need flexibility. Many need both. So why should automation be one-size-fits-all? As volumes rise and operations become more complex, limited space and labor constraints can make it harder to keep material moving efficiently. The challenge isn't simply adding automation. It's building a system that fits the operation today and can adapt as it changes.  [...]  and room to scale. Automation works best when it fits the operations - not the other way around.
+
+7502965081446531072 | Addverb Technologies | image | 113w
+    Addverb is heading back to #SEMICONIndia2026 to explore where automation fits into this journey - from material movement and smart storage to accurate retrieval and the visibility needed to keep operations moving. As semiconductor manufacturing grows in India, so does the need for precise, reliable movement of materials across increasingly complex operations. The focus is simple: helping semiconductor operations handle  [...]  Booth 1446, Yashobhoomi (IICC), Dwarka, New Delhi 🗓️ 17–19 September 2026 #SEMICONIndia2026 #Semiconductor Inderpreet Singh | Anurag Mohan
+
+7503412780926984192 | Addverb Technologies | multi-image(3) | 166w
+    Addverb is at the Saudi Warehousing & Logistics Expo in Riyadh. With two more days at Booth 3C101, we're bringing our experience across 350+ clients and 500+ automated warehouses worldwide to conversations happening on the ground in the Middle East. And there's a pattern we've noticed across these projects. A warehouse operator tells us about a challenge they believe is  [...]  a solution. 📅 8–10 September 2026 📍Booth 3C101 | Riyadh International Convention & Exhibition Center (RICEC) #SaudiWarehousingExpo #SWLE2026
+
+7503762956258799616 | Addverb Technologies | video | 136w
+    A fast fleet can still get stuck in traffic. Two robots want the same aisle. A third is idling on a task that went to a robot on the far side of the floor. None of that is a speed problem. When multiple robots are moving through the same operation, speed alone isn't enough. They need to know where to  [...]  fleet that keeps working at its best. Moving more robots is easy. Coordinating them is the real challenge.
+
+7504124217517465601 | Addverb Technologies | image | 25w
+    As a warehouse manager, if you want to pick more than two of the below options - Automate with Addverb today. Inspired by Vincent Pierri
+
+7483129117689847808 | Agility Robotics | video | 85w
+    Scaling a powerful technology means understanding its ripple effects, economic and societal. In her latest perspective, our CEO Peggy Johnson lays out six pillars for a healthy regulatory environment for industrial humanoids: one that protects the dynamism innovation requires and the prudence people deserve. Humanoid robotics can strengthen America's industrial base, address persistent labor shortages, and improve the nature of  [...]  right is how we make that future real. Watch the full perspective below or at https://lnkd.in/e-qnU5wC #Agility #FutureOfWork
+
+7483902882245959680 | Agility Robotics | image | 100w
+    Worth a rewatch. When our co-founder and Chief Robot Officer Jonathan Hurst sat down with John Furrier for NYSE Wired at MACHINA Summit 2026, he made the case that physical AI isn't coming; it's already real, already deploying, already reshaping how work gets done. The whole conversation holds up: what's actually changed in humanoid robotics, why robots now adapt to  [...]  it the first time? Catch the full conversation on demand. Watch on demand here: https://lnkd.in/eZHUkQzD #Agility #DigitRobot #FutureOfWork
+
+7483938277432156160 | Agility Robotics | video | 171w
+    Yesterday we opened our new Fremont, California facility — a 60,000-square-foot hub in the heart of Silicon Valley, where our teams train, test, and advance both the physical AI that teaches Digit new skills and the hardware behind future robots. Fremont puts us next to the world's deepest AI talent and lets us develop new capabilities faster, then get them  [...]  we stay there. Explore open roles → https://lnkd.in/gXb-MRhn Read more at the link in comments. #PhysicalAI #FutureOfWork #HumanoidRobots
+
+7483940426958213122 | Agility Robotics | text | 9w
+    Agility has landed in Silicon Valley! More to come.
+
+7483991542643433472 | Agility Robotics | multi-image(3) | 46w
+    "We have commercialized." — Peggy Johnson, Agility CEO. One line in TechCrunch that captures why Fremont matters: AI scales what Digit can do. Safety is engineered, never improvised. That's what turns a robot into a coworker. Read more: https://lnkd.in/eDsztxTx Thank you, Tim Fernholz. #PhysicalAI #FutureOfWork #HumanoidRobots
+
+7485020007312109568 | Agility Robotics | video | 65w
+    Today, some humanoid components are still sourced internationally, a reflection of current limits in American manufacturing capacity, not a matter of preference. Closing that gap is a strategic opportunity: strengthen domestic production, reduce long-term reliance on foreign suppliers, and build resilience into a critical emerging industry, much as Congress has begun to do in semiconductors. Watch our CEO Peggy Johnson's full perspective: https://lnkd.in/e-qnU5wC #Agility #FutureOfWork
+
+7485041766040170496 | Agility Robotics | text | 95w
+    This is a must-listen for safety engineers, standards professionals, and anyone working toward humanoid deployment at scale. Kevin R., our Distinguished Robotics Safety Engineer, joined Erik Reynolds on "Safety Third: Autonomous Revolution" to unpack a deceptively hard question: how do you safely stop a robot that may fall when it stops? Kevin leads ISO 25785-1 as Project Leader — the  [...]  more than 65,000 hours of real-world operation have taught us that lab testing alone cannot. #Agility #Humanoids #FunctionalSafety
+
+7485368684018925568 | Agility Robotics | image | 99w
+    At Agility, rigorous testing leads to exacting results — and the robots that prove it are already deployed in production facilities. We're hiring a Senior Hardware Test Engineer to own design verification for the electrical systems at the core of our humanoid robots: PCBAs, battery systems, power electronics, and advanced sensors including cameras and lidar. What you'll do: build and  [...]  engineering rigor across the team. Hybrid in Fremont, CA. Apply via the link in the comments. #Agility #FutureOfWork
+
+7485722378426224641 | Agility Robotics | video | 163w
+    Why put a roboticist on stage at an energy conference? Because the labor shortage runs through all of it. Supply chains, construction velocity, and the skilled trades. At the Energy Future Forum 2026 in May, our co-founder and board chairman Damion Shelton sat down with Mark P Mills to make the case: in US warehouses alone, roughly 1 million manual-labor  [...]  keeping people safe matters more than how fast we scale. Watch the full interview: https://lnkd.in/eYMe9Tbm #Agility #DigitRobot #FutureOfWork
+
+7485785669789855744 | Agility Robotics | image | 104w
+    The robots that win won't be the ones doing backflips for a video. They'll be the ones showing up for a full shift, every day, without fail. That's the thesis at the center of a new DIGITIMES Asia interview with 🌱🤝🌍 Nicolas Sauvage, president of TDK Ventures (an early investor in Agility). Sauvage argues that "generality is a destination, not  [...]  full interview for Sauvage's take on why focus, not hype, wins in physical AI. 🔗 https://lnkd.in/esPMqTdx #Agility #DigitRobot
+
+7486111378131382272 | Agility Robotics | image | 138w
+    Yesterday, the U.S. House Energy and Commerce Committee's Communications and Technology Subcommittee took up the GUARD Act of 2026, bipartisan legislation that would direct national security agencies to review humanoid and quadruped robots tied to foreign adversaries. Our CEO, Peggy Johnson, wrote about why this moment matters in a new op-ed for Pirate Wires. Her argument: the viral clips of  [...]  Act at its introduction. Read Peggy's full case for why economic security is national security: https://lnkd.in/eZEgZUnF #Agility #FutureOfWork
+
+7486444410012975105 | Agility Robotics | image | 120w
+    Most conversations about humanoid robots and jobs start with displacement. We'd start somewhere else: the work nobody can staff, and the people who keep the machines running. Digit works in logistics, manufacturing, and warehouse environments, handling the repetitive, physically demanding tasks where injury rates run high. At GXO and Schaeffler, that's happening on live sites today. Those deployments create work  [...]  our new policy paper, Safeguarding America's Humanoid Future. Read the paper. Link in the comments. #Agility #FutureOfWork #DigitRobot
+
+7486452886659325954 | Agility Robotics | text | 63w
+    Business Insider spent an afternoon at our new Fremont hub: 60,000 square feet, and we're hiring nearly 200 people to work on the hardware, AI, and skills behind Digit. Fremont was a deliberate choice. Silicon Valley talent on one side, the East Bay's manufacturing base on the other, and enough floor space for machines to actually move. Thank you, Lloyd L. #Agility #DigitRobot
+
+7487537102104969217 | Agility Robotics | text | 112w
+    The argument about humanoid robots has changed. For years the question was whether they could do real work. That one's answered. They're already on factory floors, logging real hours in real production. The open question now belongs to Washington: does the United States lead as this scales, or repeat what happened with solar, batteries, and EVs? That's the subject of  [...]  pulled them together. No hype. Just the real state of the work. Read this month's edition. #Agility #DigitRobot
+
+7487538815734190080 | Agility Robotics | image | 56w
+    We've got news. Michael Beer has joined Agility as our Chief Financial Officer. Michael brings deep public-company finance and capital markets experience from Energy Vault, FreeWire, and more than a decade as an equity research analyst covering the transportation, logistics, and infrastructure sectors our customers work in every day. Welcome to the team, Michael. #Agility #FutureOfWork
+
+7487900924535861249 | Agility Robotics | image | 117w
+    We're hiring a Staff Robotics Software Engineer, Robot Behaviors, a hands-on technical lead to build the next generation of intelligent robot behaviors and expand what Digit can do in the real world. You'll own development end-to-end: behavior architecture, task planning, implementation, on-robot testing, and deployment. The behaviors you ship let Digit take on harder, more varied work — not in  [...]  leaves the lab and runs in the real world, let's talk. Apply at the link in the comments.
+
+7488247275798949889 | Agility Robotics | video | 46w
+    Getting multiple Digits to move in sync is a real test of multi-robot coordination. Each one runs its own balance and whole-body control while staying timed to the others. The same thing that lets a fleet work side by side on a warehouse floor. #Agility #DigitRobot
+
+7488622175277719552 | Agility Robotics | image | 118w
+    Why does Digit have backward-bending knees? Because we don't build for biomimicry. We build for the job. Our V4 legs bend the way they do for one reason: it lets Digit reach the floor, pick up a heavy tote, and lift it overhead onto a shelf without the knees throwing off its balance. The same thinking shapes our end effectors.  [...]  Gove on the StrictlyVC Download podcast to talk design, deployment, and what's next. Link in comments. #Agility #DigitRobot
+
+7488702695478849536 | Agility Robotics | link | 252w
+    Tuesday's decision by the Federal Communications Commission (FCC) to address the growing national and economic security risks posed by foreign-made advanced robotic devices, including humanoids, marks an important step toward addressing those concerns before they become deeply embedded across an entire industry, much like what happened in the drone market. By adding this new category to the FCC's Covered List,  [...]  https://lnkd.in/guXpamhf For additional details on our policy vision, read our recent white paper, Safeguarding America's Humanoid Future: https://lnkd.in/g-HeHEuB
+
+7490439279077396481 | Agility Robotics | image | 81w
+    More than 65,000 hours of real-world operation. Not a highlight reel. Real work, on real floors, measured every day. That is the difference between a demo and a deployment. Our CTO, Pras Velagapudi, wrote down exactly what it takes to get there: an honest conversation about whether a humanoid is even the right tool, the proof-of-technology phase, on-site validation, and  [...]  of operational data you leave with. The messy details are the point. Link in comments. #Agility #DigitRobot #FutureOfWork
+
+7490485464672673792 | Agility Robotics | image | 72w
+    Every Digit depends on precise calibration before it takes its first step and that calibration has to hold from the factory floor to the field. We're hiring a Senior Staff Software Engineer, Calibration to own our calibration systems end-to-end: algorithms, tooling, manufacturing deployment, and in-field recalibration. It's a hands-on technical leadership role, working on a humanoid that's already doing real work. Hard problems, shipped to real robots. Apply here: https://lnkd.in/gTejzU-H #Agility #FutureOfWork
+
+7490805141181489153 | Agility Robotics | video | 93w
+    There's a difference between a pilot and a partnership. Every customer in our pipeline has been vetted, with real deployment plans behind their proof of concept. Our Customer Acceleration Program takes companies from that first conversation to Digit on the floor — measured on the metrics that matter: throughput, accuracy, and uptime. TechCrunch's Connie Loizos covered the details last month,  [...]  Manufacturing Canada, Schaeffler, and Mercado Libre. That's what real commercial deployment looks like. Link in comments. #Agility #DigitRobot
+
+7491217537985081345 | Agility Robotics | video | 49w
+    What actually made humanoid robots work right now, not someday? At the Energy Future Forum 2026, Mark P Mills asked our co-founder and board chairman, Damion Shelton, for the real enablers. His answer wasn't a single breakthrough. It was a convergence. Watch the full interview: https://lnkd.in/eYMe9Tbm #Agility #DigitRobot #FutureOfWork
+
+7492611611082301441 | Agility Robotics | image | 59w
+    A backflip makes a great video, but it tells you almost nothing about whether a humanoid can do real work in a real facility. What closes that gap is a vertically integrated ecosystem: hardware, software, and the service and support that keep a fleet running. More from our CTO, Pras Velagapudi, at the link in the comments. #Agility #DigitRobot
+
+7492975445517172737 | Agility Robotics | image | 93w
+    We're hiring a Staff Robotics Software Engineer to build the teleoperation platform that teaches Digit how to interact with the physical world. As Teleoperations Architect, you'll design the production software foundation for low-latency human demonstration data collection — the infrastructure that directly enables us to scale our deployed humanoid fleet and expand what Digit can do on the floor. This  [...]  shape how humanoid robots learn from humans at scale. Apply via the link in the comments. #Agility #FutureOfWork
+
+7493433852338622464 | Agility Robotics | image | 139w
+    AI can make a robot smarter, but it can't change the physics of the robot it's running on. That's the argument our co-founder and Chief Robot Officer Jonathan Hurst makes in a new paper published today in Science Magazine: “Physical AI is enabled by mechanical hardware.” As some predict that humanoid hardware will become a commodity and software will do  [...]  important contribution to the field. Read the full paper in Science Robotics. Link in comments. #PhysicalAI #HumanoidRobotics #Agility
+
+7493746464964149248 | Agility Robotics | image | 130w
+    Safety is where the real work happens in humanoid robotics. You can't build a robot to do impressive things in a lab and then decide to make it safe around people. As our CEO Peggy Johnson put it in TechCrunch: "That's a redesign. You have to have all of the safety certified — the electrical system, all of the parts,  [...]  see the industry hold to it. Read Connie Loizos's full piece in TechCrunch. Link in comments. #Agility #FutureOfWork
+
+7494130801152782337 | Agility Robotics | image | 154w
+    The question that gets a robot out of the lab isn't "what can it do?" It's "what problem on the floor does it solve?" Our CEO, Peggy Johnson, made that case with The Wall Street Journal's CEO Brief this week. Building impressive technology, she says, is only the first step. The harder discipline is starting with the problem—the unfilled shift,  [...]  requirements of the facility it works in. Read the full conversation: https://lnkd.in/gUNAu2UW Thank you, Lila MacLellan! #Agility #FutureOfWork
+
+7495201485132038144 | Agility Robotics | link | 97w
+    Robots that do tasks, not robots that take jobs. That distinction sits at the center of our co-founder and board chairman Damion Shelton's conversation with Mark P Mills at the Energy Future Forum 2026. His argument: the hardest, most repetitive physical work—the jobs that go unfilled because few people want to do them all day—is exactly what humanoid robots are  [...]  unfilled US warehouse jobs as the real gap this addresses. Watch the full conversation: https://lnkd.in/eYMe9Tbm #Agility #DigitRobot #FutureOfWork
+
+7495512725079384064 | Agility Robotics | image | 79w
+    We're hiring a VP of Strategic Program Management, a newly created role reporting directly to the COO. Build and lead our TPM team, own the portfolio view across all new product launch programs, and drive the cross-functional alignment that keeps our most critical programs on track as we scale to high-volume production. 12+ years in technical program management, 5+ leading  [...]  team. Hardware or robotics background preferred. Apply or share with your network. Link in the comments. #Agility #FutureOfWork

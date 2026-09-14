@@ -1,0 +1,214 @@
+# batch 009  -  70 posts  -  label per research/CLASSIFICATION-PROTOCOL.md
+# labels: problem exploration requirements selection validation consensus
+#         recruitment culture event product-news csr unclear
+# write research/labels/r2_009.tsv as: <id><TAB><label>
+
+7501670545881485312 | Modern Treasury | image | 82w
+    Modern Treasury is growing, and we're looking for talented people to join us in making money movement simpler. Real-time payment rails continue to gain traction, stablecoins are becoming relevant to more businesses, and traditional rails like ACH and wire remain essential. Keeping up with this shift has left many teams managing fragmented systems and complex operations. We're changing that by  [...]  how money moves today. If that sounds exciting to you, take a look at our current openings: https://lnkd.in/gmnWFm4C
+
+7503437100642553856 | Modern Treasury | image | 191w
+    Breaking: There's a new way to build across stablecoins and fiat. Modern Treasury is introducing non-custodial Stablecoin Wallets to give startups and platforms one API for Global USD Accounts, embeddable wallets, and orchestration, plus a way to hand end-users direct control over on-chain assets. With Modern Treasury's new Stablecoin Wallets, startups and platforms can: - Give end-users in 90+countries direct  [...]  system." This is the wallet infrastructure startups and platforms asked us to build. Read the full announcement: https://lnkd.in/gv83f4pZ
+
+7504208888662036480 | Modern Treasury | image | 70w
+    Last night at Stablecon, we teamed up with Turnkey to bring together an incredible group of founders, operators, and builders. Over dinner, we exchanged ideas, made new connections, and shared thoughtful conversations about the future of the industry. The evening also marked our recently announced partnership with Turnkey as we collaborate to scale and secure non-custodial wallets globally. Explore our non-custodial Stablecoin Wallets and see what we're building together: https://lnkd.in/gv83f4pZ
+
+7470395096195289089 | Netguru | video | 192w
+    Most AI conversations in large companies miss the point. Rodrigo Álvarez Bandrés from Siemens Gamesa will soon break down how one of the world's largest wind energy companies actually approaches AI adoption. Three things every founder should hear: 1️⃣ The barriers aren't technical – they're human Resistance to change, constant firefighting, and underdeveloped workforce skills. These are what slow AI  [...]  time on the decisions that actually matter. The full Next in Commerce episode coming to YT soon! 🔥
+
+7470768277393383425 | Netguru | text | 157w
+    Shoppers don't fear AI. They fear being watched by it 👀 The numbers tell a clean story: >>> 58% want retailers using AI for product recommendations >>> 60% are fine with AI personalization >>> 54% would quit a retailer they thought was monitoring their purchases Not slow down. Quit. It's simple: AI that helps me decide, welcome. AI that watches  [...]  AI works are going to be the clear winners. Full breakdown in this week's Next in Commerce 👇
+
+7472949077387825152 | Netguru | video | 153w
+    99% of online stores look exactly the same. And it's not because of a lack of creativity. 🛑 The real culprit? Brands start with rigid, out-of-the-box platform templates - then they outgrow them. What feels fast at the beginning becomes a cage at scale. No customization, rigid layouts, and a storefront that looks like a copy of a copy. Your  [...]  video and try the exercise yourself. 👇 Grab your free copy of the Silk design system here: https://lnkd.in/egsaXZTR
+
+7473634430314565632 | Netguru | link | 131w
+    "Our most valuable asset is trust. Delivering safe, evidence-based answers was our prime objective, and we're very satisfied with the result." 🌟 That's Martin Tereh, Product Manager for Digital Education at ITI - International Team for Implantology, on the AI chatbot we built for their 20,000+ members. Here's where it started. ITI's evidence ran deep, but scattered across formats, so  [...]  the evidence says, not what to do in a specific case. Read the whole story here 👉 https://lnkd.in/g5_acSjB
+
+7473698604898025472 | Netguru | image | 149w
+    Most AI models look great in a lab. We need the engineer who can make them work in the wild. 🛠️ We're seeking a Senior Forward Deployment Engineer (GenAI) who bridges the gap between complex AI engineering and real-world, production-ready client solutions. If you love deep-diving into LLMs but thrive on the excitement of customer-facing delivery, this is your sandbox.  [...]  to focus on real innovation. Check out the link and deploy your career to the next level! 🚀
+
+7473699982655664129 | Netguru | multi-image(2) | 117w
+    Nothing like good food with cool people. This week, it was Berlin's Crackers. Theme: AI in product development, AI team upskilling, AI & security concerns. Fantastic to see some leaders from our long-standing clients like Moonfare or Solaris SE, speakers from our past live events, and new faces ✌ We kicked off with a welcome speech from Robert Scholz &  [...]  Peter Grosskopf, Brian Daly, Jake Lavrenko, Dennis Winter, Aishwarya Singhal, Ryan Wu, and Nikolas Schriefer! Till next one!
+
+7474779662255181824 | Netguru | video | 133w
+    Is there a 𝐦𝐢𝐝𝐝𝐥𝐞 𝐠𝐫𝐨𝐮𝐧𝐝 𝐛𝐞𝐭𝐰𝐞𝐞𝐧 𝐒𝐚𝐚𝐒 𝐚𝐧𝐝 𝐜𝐮𝐬𝐭𝐨𝐦 when it comes to AI chatbots? 🧐 Come hear Patryk Szczygło reveal what Netguru has been cooking lately. The global chatbot market is projected to reach $11.45 billion this year, and in five years, we're talking $32.45 billion. Everybody wants a chatbot. And for a good reason – they bring immediate,  [...]  2026 𝐚𝐭 2𝐩𝐦 𝐂𝐄𝐒𝐓 📍 Where? 𝐑𝐢𝐠𝐡𝐭 𝐡𝐞𝐫𝐞 𝐨𝐧 𝐋𝐢! Come and ask your questions in the chat!
+
+7475087791169785856 | Netguru | image | 134w
+    For an organization where trust is the primary asset, building a chatbot is a risky move. (We all know why ;]) Yet ITI, the global body of 25,000+ implant professionals, trusted us to ship a chatbot they could rely on. And it held. ✅ 98% answer accuracy. Near-zero hallucinations. In early testing, every user said no answer felt wrong or  [...]  Trust took ITI decades to build. We treated it that way. 🤝 Read the full story 👉 https://lnkd.in/egs4__Ve/?utm_campaign=%255BS%255D%255BRemarketing-General%255D&utm_source=linkedin&utm_medium=paid&utm_id=612605394&hsa_acc=507545357&hsa_cam=612605394&hsa_grp=201354816&hsa_ad=1461617304&hsa_net=linkedin&hsa_ver=3
+
+7475154208657256448 | Netguru | multi-image(3) | 125w
+    Gordon Ramsay doesn't walk into a failing restaurant and buy new pots and pans. He fixes the kitchen first 😎 The same logic applies to AI adoption in large organizations – and it's something Rodrigo Álvarez Bandrés, Enterprise Process Innovation Program Manager at Siemens Gamesa, put better than most: 1. Your biggest AI problem isn't technical. Resistance to change, teams  [...]  the cost of ignoring it. 🎙️ Full conversation with Mary Achinger on the Next in Commerce podcast: https://lnkd.in/gc6vFPwC
+
+7475830601002962944 | Netguru | text | 174w
+    The storefront might be on its way out 👀 DHL just dropped its 2026 E-Commerce Trends Report – 29,000 shoppers, 5,800 businesses, 29 countries. The finding worth pausing on: the gap between what shoppers expect and what retailers deliver is getting wider, not narrower. And AI is sitting right in the middle of it. 38% of shoppers already use AI  [...]  AI discovery layer That's what this week's Next in Commerce will be touching on. Full issue here 👇
+
+7475853943428808704 | Netguru | image | 137w
+    We almost missed it. Good thing Michał Zwoliński didn't. We usually talk about AI, technology, and building digital products. Today, Michał Zwoliński, our Delivery Manager, has a different kind of reminder for us. It's Global Beatles Day — and the message couldn't be simpler: all you need is love. 🎵 Michał is actually in a music video celebrating exactly that.  [...]  it would mean a lot to the people who made it. YouTube: https://lnkd.in/erVtF5JB Instagram: https://lnkd.in/ekXbi_Y3 ☮️ 💚 🎸
+
+7476182496372781056 | Netguru | link | 196w
+    98% of the time, the ITI chatbot gave specialists the answer they actually needed. ✅ We built it for ITI - International Team for Implantology, where 25,000+ implant dentistry specialists turn for knowledge. ITI's evidence was deep, but scattered. They wanted it in one place, easy to reach. The challenge was building an AI they could rely on, one that  [...]  Skrzypek, Adam Opalinski, Emilia Charatonik, Patryk Szczygło, Mateusz Witka-Jeżewski, Krystian Dziubinski, Katarzyna Dereszkiewicz, Sebastian Plochocki, Agnieszka Hyla-Pochrzęst 👏
+
+7477254634097635330 | Netguru | image | 156w
+    AI chat windows are no longer chat windows. Haha, we know, mind-blown statement, right? 😂 Bartosz Bialek, our Head of Design put it well: Claude Code didn't just give him a better chatbot. It changed how he thinks about what an AI interface actually is. Not a Q&A tool. A workspace where conversation is the input and the output is  [...]  at shaping that future. The ones who don't engage will inherit whatever defaults the big platforms decide on.
+
+7477269652721659904 | Netguru | image | 230w
+    98% of its answers were correct, relevant, and complete. 😮 That's the accuracy we measured for ITI Concierge, the educational chatbot for implant dentistry we built with the International Team for Implantology. A Nature Medicine* study published this month makes that number more interesting than it looks. Researchers tested specialized, RAG-based clinical AI tools against general-purpose models like GPT, Gemini,  [...]  That's the whole point. Read the full story 👉 https://hubs.ly/Q04mPlBM0 *Source: Vishwanath et http://al., Nature Medicine, June 2026
+
+7477330334955655169 | Netguru | video | 183w
+    Engineers don't hate Figma. They hate poorly made design systems. 😬 If every design handoff turns into a chaotic mess of endless questions, delays, and frustration, you're likely making one of these 3 mistakes: 1️⃣ Creating 10 components when you need 1 In Figma, duplicating a component takes seconds. In code, it wastes hours. The best systems don't add more  [...]  putting it so well (as always 😉)! 👇 Grab your free copy of the Silk design system: https://lnkd.in/egsaXZTR
+
+7477989959346614272 | Netguru | text | 129w
+    Meet Ela Durka, Project Manager at Netguru. At ten, she wanted to be an astronaut.👩‍🚀 Today she keeps scopes, budgets, and timelines from drifting into outer space instead. She's worked on over fifty projects at Netguru. The one she keeps coming back to: an application supporting emergency dispatchers who help people in crisis situations. Real impact, real stakes. ⛑️ What  [...]  One thing most Netgurals don't know: during her Erasmus year in Italy, she studied Chinese in Italian. 🤯
+
+7478400657490706433 | Netguru | image | 75w
+    ‼️ Missing: one Netguru backpack. 🎒 Last seen somewhere in the Scottish Highlands, enjoying Basia's well-deserved holiday. Even our backpacks know it's good to unplug sometimes. At Netguru, we believe it's important to fully disconnect when you're off. The only acceptable work-related task while you're on holiday? Sending your teammates a photo that makes them wish they were there too. 🏔️ Just like Barbara Rybicka did. P.S. If you spot the backpack, let us know.
+
+7479806369563406336 | Netguru | image | 175w
+    You'd think RAG means more accuracy. Nope. ❌ A new Nature Medicine* study explains why. Researchers tested specialized, RAG-based clinical tools against general models like GPT and Gemini. The specialized tools were built for the job. They still lost. Those RAG-based tools landed around 88 to 90% on a medical exam, roughly 1 in 10 answers off, even with a  [...]  and how well."😎 👉 Read the full case study https://hubs.ly/Q04mN85P0 *Source: Vishwanath et http://al., Nature Medicine, June 2026.
+
+7480531204572790784 | Netguru | video | 145w
+    98% response accuracy, near-zero hallucinations, and a chatbot specialists actually trust. 🤌 That's what we set out to build with ITI - International Team for Implantology, the global body for 25,000+ implant dentistry specialists. "Our most valuable asset is the trust. delivering safe, evidence-based answers was our prime objective, and we're very satisfied with the result." Martin Tereh, Product Manager  [...]  that was already prepared to be accurate, so it has little to invent. Full case study 👉 https://lnkd.in/g5_acSjB
+
+7480567813573767168 | Netguru | video | 219w
+    Kradzieże tożsamości zdarzają się każdego dnia 😠 Co ważne, można się przed nimi bronić w kilku prostych krokach w aplikacji mObywatel. Problem? Niewielu z nas to robi. [ENG below] mObywatel to aplikacja polskiego rządu, w której miliony z nas przechowują dokumenty cyfrowe i załatwiają sprawy urzędowe. Aplikacja umożliwia zastrzeżenie numeru PESEL – prostą czynność, która chroni przed wyłudzeniem danych. Ponieważ  [...]  problem. More on the topic coming soon! (Kudos ahead of more news to Mateusz Jankowski & Marcin Rzymek!!!)
+
+7480883821119242241 | Netguru | text | 153w
+    Everyone's chasing the same 30-year-old customer. Meanwhile, the fastest-growing segment in commerce just got ignored: people over 60. By 2030, that group hits 1.4 billion worldwide. Today's 70-year-olds test cognitively like 53-year-olds did in 2000. They travel, they work, they shop online. They also have the wealth most brands are optimizing away from. Most ecommerce experiences aren't built for them.  [...]  from real visitors right now. Find out more and what's Next in Commerce in this weeks issue. 👇
+
+7482382071508819969 | Netguru | video | 122w
+    Air Canada's chatbot promised a passenger a discount that didn't exist. No biggie? Well, the mishap became one of the top cited examples of what happens when LLMs roam free. (When Air Canada argued the bot was responsible for its own actions, the court had a different view and mandated a full refund) AI chatbots do make things up but  [...]  Tue, July 28, 2026 ⏰ 2PM CEST Conversation hosted by Mary Achinger, Content & Brand Lead at Netguru.
+
+7482744895846158336 | Netguru | image | 47w
+    LLMs flipped the script on product search and Aleksander Drubkowski from Decathlon can tell you all about 🙌 If you're interested to know how the largest sports goods retailer in the world approaches: -conversational solutions -agentic AI -LLM-based search ...watch the full conversation with Mary Achinger: https://lnkd.in/dhnRXmkW
+
+7483084520120803328 | Netguru | multi-image(4) | 229w
+    mObywatel umożliwia zastrzeżenie numeru PESEL – prostą czynność, która chroni przed wyłudzeniem danych. Dlaczego z niej nie korzystamy? 🧐 [ENG below] Mateusz Jankowski i Marcin Rzymek postanowili zmierzyć się z tematem i zaproponowali szereg prostych zmian w aplikacji, które podnoszą świadomość problemu, i zachęcają użytkownika do podjęcia działania 👏 Propozycje naszych ekspertów UX: 1. Ostrzeżenie już na głównym widoku 2.  [...]  the ability to add family members to your app and flag their PESEL numbers What do you think?
+
+7483430277453824000 | Netguru | link | 102w
+    A bad AI answer may cost you a tooth. Or two. 🫣 That is not a joke when the AI educates 25,000+ implant dentistry specialists. So we built a chatbot with one hard rule: answer only from vetted content. 📙 The result: 98% response accuracy, near-zero hallucinations, and every answer cited to its source. That accuracy did not come from  [...]  a system prompt that keeps the model grounded in the retrieved evidence. Read a full case study: https://lnkd.in/g5_acSjB
+
+7485955784326037504 | Netguru | text | 157w
+    Shopper's demand didn't disappear. It moved, slowed down, and started reading the fine print 👀 Our new issue of Next in Commerce is out, and the thread running through it is uncomfortable for anyone still planning around 2019 shopper behavior. "Grocery store near me" now pulls 11.1 million monthly searches. Second hand shopping like Vinted is up 308%. Discovery has  [...]  questions or fewer. On WhatsApp. With a strict no over-selling rule. Read the full issue and subscribe 🙌
+
+7485980637380685825 | Netguru | multi-image(2) | 139w
+    Joann Wu is excited about what's next in product design. "How often in your career do you get to be part of a moment that redefines an entire industry?" - she wonders. "Make that excitement part of your career!" Joann leads design at one of the most recognizeable brands out there – Uber. "The environment has changed, and worrying about  [...]  Product Design at Uber and Mary Achinger: https://lnkd.in/eu5nP8Yt The episode is available on Spotify and Apple Podcasts ✌️
+
+7487778988770222080 | Netguru | text | 108w
+    "Every time I said yes to something I wasn't ready for, it worked out." Meet Tomasz Grynkiewicz, who leads growth at Netguru 👋 His days swing from pipeline data in the morning to figuring out why a LinkedIn post died by the afternoon. 😅 Off the clock, you'll find him doing something most Netgurals don't expect: playing handpan in a  [...]  Clásico day. Not for the tactics — for the silence in the dressing room an hour before kickoff.
+
+7487827723663347712 | Netguru | text | 76w
+    Writing code is no longer the hard part of shipping AI. Trusting what it produces is. We built an educational chatbot for ITI - International Team for Implantology, the global network for implant dentistry, that answers member questions at 98% accuracy, grounded entirely in their own clinical content. That number wasn't the model doing something clever. It came from the unglamorous part: disciplined data preparation. Grzegorz Skrzypek broke down exactly how we pulled it off 👇
+
+7488901203142193152 | Netguru | video | 80w
+    𝐖𝐞'𝐫𝐞 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥𝐥𝐲 𝐚 𝐂𝐥𝐮𝐭𝐜𝐡 𝐆𝐥𝐨𝐛𝐚𝐥 𝐖𝐢𝐧𝐧𝐞𝐫 🚀🚀🚀 Big news: Netguru has been recognized as a Summer 2026 Clutch Global Winner across four categories: 1. AI Deployment 2. AI Strategy 3. Low/No Code Development 4. aaaand Ruby on Rails What does it mean? It means we are among the top IT and software development companies worldwide with focus on AI implementation.  [...]  our clients appreciate what we do every day. Massive kudos, team! See the full list of winners: https://lnkd.in/dE7wT5pQ
+
+7490745817088192512 | Netguru | image | 168w
+    This deal is pretty wild: Our client, Moove, just raised $250M (at a $2.1B valuation) and has quietly become THE INFRASTRUCTURE for robotaxi fleets 🔥 Here's the story. Moove started back in 2020 helping drivers in Africa get car loans. We've had the pleasure to deliver an all-in-one app that let ride-hailing drivers keep track of their KPIs, manage earnings,  [...]  and they've already locked in partnerships with Uber and Waymo to do exactly that. Massive congratulations, Moove!!! 👏
+
+7491051288760049666 | Netguru | text | 159w
+    71% of retailers are expanding their physical footprints this year, and AI is the reason 👀 A new issue of Next in Commerce is out, and these numbers will be telling you a story nobody predicted five years ago. Also, 85.1% of US retail sales still flow through physical stores. One in four online orders is now fulfilled through one.  [...]  patterns, real flows, and the anti-patterns that quietly kill supply-side liquidity. Read the full issue and subscribe 👇
+
+7491438608898375682 | Netguru | multi-image(3) | 49w
+    We love NYC. We travel there for biz. We travel there for fun. Krystian Bergmann just came back from a NYC holiday and brought back The Fearless Girl in NG swag 💚 Here's to all the fearless girls, at Netguru, in tech, in biz, in life ✌ Happy Friday!
+
+7492513750814736386 | Netguru | image | 156w
+    Walmart doesn't wait for a storm to hit before reacting. It simulates the impact first 👀 Their supply chain team runs predictive AI and machine learning models that combine historical weather data with real-time signals – forecasting how storms, wildfires, or other disruptions will ripple through stores, fulfillment centers, and delivery routes before they happen. That foresight drives real decisions:  [...]  redesign the network itself. What would it take to build that kind of foresight into your own operations?
+
+7493240962052276225 | Netguru | video | 62w
+    Constant change can stress you out. Joann Wu, VP & Global Head of Product Design at Uber repeats the good ol' recipe: Don't worry about things you can't control. Spend your time and energy on updating your skillset and ...go with the flow! If you stick to a growth mindset, your anxiety levels should go down. One adjustment at a time 👣
+
+7493639827901382656 | Netguru | image | 111w
+    Ok, it may not be as drastic, but then again, hey, who knows? Nobody likes being lied to ❌ When you move from simply matching the top ten results in a standard RAG system to using an agent that searches multiple times — two or three passes — for the top results, you get the best matches. That gives a  [...]  SaaS tools and expensive custom development. Wondering how it all works? Ask Krystian Bergmann or Patryk Szczygło ✌️
+
+7495030965774352384 | Netguru | video | 271w
+    "The learning is where the value is, NOT in the artifact" ❌ We love everything about the 'Next in Commerce' episode with Eric Ries 💚 Interview PACKED with insights that might change your perspective. 1. Lean Startup was always about long-term thinking. The MVP only makes sense in service of a long-term vision – without a big goal, you'd just  [...]  add a "director's oath," and consider employee/foundation ownership for built-in checks and balances Watch the full episode: https://lnkd.in/ezpp2sb7
+
+7495419800463052800 | Netguru | image | 148w
+    Every 26 seconds, a brand new entrepreneur gets their first sale on Shopify 🤯 Harley Finkelstein dropped a stat this week that's hard to ignore: traffic and orders flowing from AI platforms like ChatGPT and Gemini to Shopify stores have tripled over the past year. And it's not just the big players benefiting: 75% of AI-driven purchases last quarter came  [...]  roughly 17% after Shopify posted its fifth straight quarter of 30%+ GMV growth, with GMV nearing $116 billion.
+
+7495765984255954944 | Netguru | video | 341w
+    Kilka tygodni temu zaproponowaliśmy drobne zmiany UX w aplikacji mObywatel, które przekonują do zastrzeżenia PESELu. Nie sądziliśmy, że temat tak szybko okaże się bardzo pilny 😞 [ENG below] Potężny wyciek danych medycznych sprzed kilku dni wstrząsnął całą Polską. Warto pamiętać, że przed konsekwencjami takich ataków można się bronić – wystarczy kilka prostych kroków w mObywatelu. Ponieważ użytkownicy rzadko korzystają z  [...]  the proposed changes remain just that – a proposal. We encourage you to restrict your PESEL number today.
+
+7496090965775122432 | Netguru | text | 165w
+    The place where shoppers find a brand is no longer the place where they buy it ❌ The new edition of Next in Commerce is out, and the theme is a funnel that has split into two. 67% of online shoppers say they go to TikTok to discover new products, ahead of Amazon on 57%. But the sellers with serious  [...]  TikTok does not work and AI does everything. Both are wrong. Check out our new issue out now!
+
+7498302072916910081 | Netguru | image | 89w
+    AI can make one designer faster, but the product less coherent. Marcin Lasica, Head of Design Excellence at Allegro, joined our Next in Commerce podcast to share how AI can scale design without sacrificing quality. Topics we covered: • Make AI a first-class design-system user. • Shift designers from execution to strategy. • Replace one-off prompts with internal tools. If  [...]  protecting craft and consistency. 🎙️ Listen to the full episode on: YouTube: https://lnkd.in/dSDmXgE6 Spotify: https://lnkd.in/dUJ6M_VW Apple Podcasts: https://lnkd.in/dqK9CCEn
+
+7499091522110418944 | Netguru | text | 101w
+    Build a chatbot, buy it, or meet somewhere in between. 🤔 It's not an easy call. How you get there sets your launch timeline, your budget for years to come, and whether you actually hit the goals you started with. Krystian Bergmann, AI Consulting Lead at Netguru, will break down the trade-offs: ✅ SaaS vs custom build: what you actually  [...]  and budget ✅ The middle path: SaaS speed with custom flexibility Building conversational experiences? Join the conversation. 👇
+
+7500105716125470720 | Netguru | image | 139w
+    Deciding how to deploy an AI chatbot? Custom is too expensive. SaaS is too rigid. So what now? 🫠 Joke aside, both paths work great, just for different use cases. Custom build gives you full control, but the timeline and budget can stretch fast. SaaS gets you live in days, but you hit its ceiling the moment your use case  [...]  middle path: SaaS speed with custom flexibility Watch the full conversation. Streaming Sept 16, 2:00-2:30 PM. 👇 https://lnkd.in/d7YXfSNS
+
+7500458686985764864 | Netguru | link | 106w
+    Anyone can prompt something decent into existence now. 🧑‍💻 AI absorbs the mechanical layer of design and converges toward the same safe, average output. Left alone, it won't push past "good enough." Marcin Lasica, Head of Design Excellence at Allegro, puts it simply: speed was never design's real value. It was just a necessity AI has now taken over. We  [...]  why Allegro's designers build their own tools instead of just prompting. 🤔 Watch the full conversation 👉 https://lnkd.in/dSDmXgE6
+
+7500824865919184896 | Netguru | image | 356w
+    Who can influence a purchase decision better than your old (not so old) friend, ChatGPT? And now that trusted friend is getting ads. 🤔 ChatGPT Ads will expand to 31 European countries, including Germany, France, Spain, Italy, Sweden, Norway, Denmark, the Netherlands, and Austria. No keywords this time. Advertisers bid through context signals: the system reads the conversation, the landing  [...]  a better tool for buying decisions, or a harder one to trust? Poster made by Dominika Mielecka 💚
+
+7500860315283369984 | Netguru | text | 47w
+    Krystian Bergmann just became one of the first 200 ElevenLabs Certified Partner Deployment Engineers in the world (and this wasn't a badge-collecting exercise). 💪 The certification meant building a production-shaped agent, getting it graded, and having an ElevenLabs Forward Deployed Engineer review the work. Congrats, Krystian 👏
+
+7500893295795953664 | Netguru | video | 147w
+    Your commerce stack is only as smart as the data behind it.🤓 If customer identifiers don't match across your CRM, CDP, and e-commerce platform, even the best setup breaks in three places: personalization shows the wrong products, search returns the wrong results, and automation acts on the wrong signals. Duplicate records bias your predictions. Mislabeled data teaches your recommendation engine  [...]  for composable retail 3️⃣ Quick wins — seven fixes to start now Grab your copy here 👉 https://hubs.ly/Q04w23X40
+
+7501211521528606720 | Netguru | text | 120w
+    Shoppers have promoted AI to trusted advisor. Retailers are still treating it as a project. 🙊 Edition #21 of Next in Commerce is out, and the gap between those two positions is hard to ignore. 65% of consumers plan to use AI for at least one part of their holiday shopping. Only 8% of retailers feel very confident using it  [...]  The shopper didn't reject you. They never got the chance to consider you. Read the full issue 👇
+
+7501550125123788800 | Netguru | video | 130w
+    Every quarter, your catalog grows. New SKUs go in, old ones get half-updated, and small inconsistencies stack up until search and filters start working against you instead of for you. Conversion drops before anyone can point to why. We built a checklist across six areas: taxonomy, attributes, enrichment, AI tagging, duplicates, and naming. Each area has its own checkpoints to  [...]  area Put together by Netguru's e-commerce practitioners, based on hands-on project work. Grab your copy here 👉 https://hubs.ly/Q04w28DJ0
+
+7504124433784143873 | Netguru | video | 136w
+    💸 Why open a banking app just to send money? MagicPay lets bank customers pay straight from the keyboard, inside any messaging app. Cool concept. Hard problem: make it co-branded for every partner bank, bank-grade enough for a Santander or BBVA pitch, and consistent across a keyboard extension, an in-app hub, and a claim flow for people with zero account.  [...]  a white-label fintech product that has to look trustworthy on day one?This one's for you 👇 🔗 https://lnkd.in/dyjWNrhk
+
+7460703788723589120 | Persefoni | image | 216w
+    Only one in six of the world's largest companies is on track to meet its net-zero goals by 2050. It's not for lack of effort. Most sustainability teams are working harder than ever. The challenge is where that effort is going. Seven to eight months of the year, on average, go to preparing disclosures for different regulatory frameworks. CSRD, ISSB,  [...]  becomes a natural output of the work rather than the work itself. How this works in practice: https://prsfn.ai/4tEsn7V
+
+7461059601598287873 | Persefoni | text | 86w
+    Today, the Persefoni team is out of office as we observe IDAHOBIT, the International Day Against Homophobia, Transphobia, and Biphobia (recognized annually on May 17), as a company holiday. It's a day that means a lot to us, and which we're proud to recognize and take the time to reflect. Creating a workplace where every person feels welcome, supported, and  [...]  global team is mostly out today, we have our fantastic support team available if you need a hand.
+
+7462487324287987713 | Persefoni | video | 155w
+    More ways to explore your emissions data, now inside Persefoni. Meet 𝗘𝗻𝗵𝗮𝗻𝗰𝗲𝗱 𝗗𝗮𝘀𝗵𝗯𝗼𝗮𝗿𝗱𝘀, a native dashboard builder inside Persefoni that gives teams the flexibility to create fully custom views of their emissions data, tailored to the specific question, audience, or reporting moment in front of them. Here's what you can do with it: • Build custom dashboards using your emissions,  [...]  wait to see what your team builds with it. Available now in Persefoni Advanced. Learn more 👉 https://prsfn.ai/49aukl7
+
+7462878639781462016 | Persefoni | text | 129w
+    What would your team build if you could customize every view of your sustainability data? On June 4, John MacKinnon, MEnvSc, Director of Customer Solutions at Persefoni, will walk us through what the newly launched Enhanced Dashboards makes possible, live inside the platform. In 30 minutes you'll see: • How to build custom views using your emissions, energy, waste, and  [...]  with a clear picture of what you can build with the data you already have. Register below 👇
+
+7463671413389041665 | Persefoni | image | 229w
+    Not all emission factor databases are created equally. They can vary by geography, methodology, and the type of emissions they are designed to measure. Geography matters because emissions intensity varies by location. The carbon content of electricity in Washington state looks very different from that of electricity in Texas. A national average obscures that. The same logic applies across countries,  [...]  review. Those qualities are what give a carbon inventory its credibility when it is time for third-party verification.
+
+7465115013951967232 | Persefoni | video | 85w
+    Your sustainability data has answers. Now, you can ask for them directly. With Persefoni Analytics Agent, teams can now interact with their data using plain-language prompts, generating custom charts, tables, summaries, and follow-up insights to their questions, directly in the Persefoni platform. No exports. No spreadsheet rebuilds. No waiting on a dashboard to answer a question it was not built  [...]  to move from question to insight, grounded in your trusted system of record. Watch the platform walkthrough: https://prsfn.ai/3P6oZUR
+
+7465467702929969152 | Persefoni | multi-image(2) | 135w
+    Earlier this year, on February 26, 2026, the Korea Sustainability Standards Board published the Korean Sustainability Disclosure Standards (KSDS) — two standards closely aligned with IFRS S1 and S2. The FSC released a draft implementation roadmap the same day. Under that roadmap, KOSPI-listed companies with consolidated assets above ₩30T KRW (~$20.4B USD) will be required to report Scope 1 and  [...]  including who's in scope, what the standards require, and how to prepare, is linked in the comments. 👇
+
+7466134598880632832 | Persefoni | image | 97w
+    See your sustainability data from every angle. Persefoni's Enhanced Dashboards bring new flexibility to how teams explore and analyze their emissions. In this 30-minute session, John MacKinnon, MEnvSc will show you how to: 1/ Build custom views tailored to how your team works 2/ Filter by any dimension of your organizational structure 3/ Drill into facility-level performance 4/ Analyze emissions  [...]  the chance to ask your questions directly. June 4 | 12:00–12:30 PM ET | Sign up free: https://prsfn.ai/42HXeFy
+
+7467609837368057856 | Persefoni | image | 163w
+    Not every emission source demands the same rigor. The IPCC tiered framework is a useful way to think about the trade-off. Each tier represents a higher level of methodological sophistication, and therefore lower uncertainty. → Tier 1 applies default factors against broad national or global activity data. It's the entry point, and it carries the highest uncertainty. → Tier 2  [...]  factor is available. Next in the series: the five questions to ask every time you select a factor.
+
+7467953311711887361 | Persefoni | image | 83w
+    If "let me pull that report" is a personality trait on your team, this one's for you. Join us tomorrow at 12 PM ET for a free, 30-minute live demo of Enhanced Dashboards. A live platform walkthrough, the most popular use cases, and a simple way to approach building custom dashboards across your org. Thirty minutes, and your data finally  [...]  Save your spot 👉 https://prsfn.ai/42HXeFy P.S. Can't make it live? Register anyway and we'll send you the recording.
+
+7468697347074715648 | Persefoni | video | 53w
+    Yesterday, we got to spend time with dozens of companies walking through one of our latest releases, Enhanced Dashboards (sneak peek below). The discussion was great, and so were the questions. One of our favorites: "What's next on the roadmap?" As product teams know, that's always a good sign. More to come soon.
+
+7470137855336611840 | Persefoni | image | 24w
+    TIME has named Persefoni one of the World's Top GreenTech Companies of 2026. Two years running. ✌️ See the full list of honorees: https://lnkd.in/eNhWNEYk
+
+7470541171241607170 | Persefoni | link | 38w
+    Thank you to the Financial Times for featuring Persefoni in your latest article on why investor demand for climate-related information continues despite regulatory shifts, recognizing climate risk as a material business consideration. You can read more here: https://lnkd.in/eMgdXNrp
+
+7470857334471340032 | Persefoni | image | 148w
+    Choosing an emission factor can be one of the most judgment-driven steps in carbon accounting. This set of five questions helps keep it consistent: 1/ What footprint source (and scope) am I calculating? This determines which factors and databases apply. 2/ Can I use supplier or activity-specific data? Values that reflect your actual context give the most accurate picture. 3/  [...]  the most reliable. Next up, we'll cover the best practices that help keep factor selection rigorous over time.
+
+7472673684353286144 | Persefoni | link | 160w
+    Persefoni was recently named a Leader in the 2026 IDC MarketScape for Worldwide Carbon Accounting and Management Applications. A few of the strengths IDC highlighted in its assessment: → Flexible visualizations. Users consistently point to an intuitive, highly configurable interface, with dashboards that scale from enterprise-wide summaries down to specific business units and assets. → Intelligent Scope 3 mapping. Automated  [...]  you for the trust and the dedication behind this milestone. 🤝 Read more about the IDC MarketScape: https://lnkd.in/egvNFTa8
+
+7472973844669104128 | Persefoni | image | 150w
+    Companies with more than 500 employees in mainland France are legally required to report their greenhouse gas (GHG) emissions under BEGES, France's national GHG disclosure law. Bilan Carbone® is the approved methodology to do it. But the framework does more than satisfy a regulatory checkbox. Version 9, released in 2024, restructured the entire approach around transition planning. Organizations now follow  [...]  with methodological consistency across reporting periods. Our latest guide covers everything you need to get oriented 👉 https://prsfn.ai/4uDdcME
+
+7474874854647869440 | Persefoni | image | 191w
+    We've been connecting with a lot of companies over the last few months looking for deeper insights on how to cut through all the AI noise in the sustainability space, and which questions are best to ask when running vendor evaluations. The questions that separate mature, proven AI functionalities from well-marketed demos are specific and unglamorous. They're about governance, data  [...]  security audits, and how often? Vendors who can answer these clearly are the ones worth a second conversation.

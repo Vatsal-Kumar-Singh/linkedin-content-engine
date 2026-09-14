@@ -1,0 +1,169 @@
+# batch 006  -  55 posts  -  label per research/CLASSIFICATION-PROTOCOL.md
+# labels: problem exploration requirements selection validation consensus
+#         recruitment culture event product-news csr unclear
+# write research/labels/006.tsv as: <id><TAB><label>
+
+7503744585874079744 | Airtable | image | 75w
+    The Airtable Benelux Builder Crew is officially launching. 🇳🇱 🇧🇪 🇱🇺 Join us at STRAAT Museum in Amsterdam on 17 Sept. for an afternoon of sharing, learning, and meeting the people building with Airtable across the Benelux. Airtable and Optimeister will host interactive Table Talks — rotating conversations where members show what they've built, what they're building now, and what they need. Come early and you'll leave a Founding Member of the crew. Register: https://lnkd.in/gGZuwBGP
+
+7504072516160606208 | Airtable | image | 116w
+    Nous organisons une session en direct consacrée à Airtable, la plateforme de création d'applications optimisée par l'IA — et à la façon dont les équipes passent d'une multitude d'outils dispersés à une source d'information unique, flexible et partagée. Rejoignez-nous le 22 septembre ! Aucune expérience préalable d'Airtable n'est nécessaire. En moins d'une heure, vous découvrirez : ▶️ Comment structurer votre  [...]  le travail d'équipe lorsque tout le monde s'appuie enfin sur un système de référence commun Inscrivez-vous : https://lnkd.in/gRn8x2cE
+
+7381365880791711746 | Ambi Robotics | image | 77w
+    Next week at RoboBusiness, Ambi Robotics CTO Jeff Mahler and University of California, Berkeley Professor Ken Goldberg take the #PhysicalAI stage. They'll share what it takes to train robots in the real world. How simulation becomes reality. And how data enables robotic dexterity. Learn how Sim2Real training kicks off the AI Data Flywheel, enabling new innovations, faster commercialization, and a fountain of real world data for continuous improvement. You don't want to miss this. Register today: https://lnkd.in/ey3-V3S
+
+7383922124027023360 | Ambi Robotics | video | 33w
+    Clicking "buy now" online is easier than ever. Going from click to ship? Easier with AmbiSort. Effortless to integrate. Built to commercialize at scale. Reliable peak performance from day one. #HandleMore with #AmbiSort.
+
+7397339218714300416 | Ambi Robotics | image | 24w
+    We've got boots on the ground, installing more #AmbiStack systems. Peak season is here. And it's stacking up to be a good one. #HandleMore
+
+7401334877234925568 | Ambi Robotics | image | 122w
+    AmbiSort and AmbiStack systems are already boosting throughput 4x per associate. With nationwide operations, we recognize that even the most advanced robots are only as effective as the people working alongside them. During peak season, when associates rotate between roles and seasonal hires join the warehouse floor, training becomes a bottleneck. That's why we built a new and improved Robot  [...]  and empowering the workforce that keeps our supply chain moving. Read the full story: https://lnkd.in/gb8UDeXg #HandleMore during #PeakSeason
+
+7419860092264595463 | Ambi Robotics | video | 13w
+    With every robot we ship out. Truckloads of valuable real-world data come back.
+
+7424169948370989056 | Ambi Robotics | image | 16w
+    Real-world data. The equivalent of nearly three decades of uninterrupted, 24/7 industrial operations. Powered by AmbiOS.
+
+7425366494424989696 | Ambi Robotics | video | 11w
+    AmbiStack is scaling. Real-world data is stacking up. Skills are built.
+
+7425617913614831617 | Ambi Robotics | video | 4w
+    AmbiSort. Built on AmbiOS.
+
+7426671399383015425 | Ambi Robotics | video | 4w
+    AmbiStack. Built on AmbiOS.
+
+7426970785711452160 | Ambi Robotics | video | 57w
+    NEWS: Introducing AI Skill Suite, powered by AmbiOS. A growing marketplace of deployable, production-proven AI applications for Physical AI. AI Skill Suite enables select partners to license adaptable, hardware-agnostic AI apps and achieve 99.9% reliability from day one across diverse robotic form factors and real-world environments. One OS. Every Skill. Any Robot. Get the details: https://lnkd.in/ggwDVGaH #HandleMore
+
+7427784396012969984 | Ambi Robotics | video | 56w
+    AmbiOS is the physical AI operating system enabling robots to achieve industrial-grade reliability in any application by connecting robot bodies and brains to critical infrastructure for support, safety, and operations. Jeff Mahler explains how it works. Explore the AmbiOS platform and learn how you can access deployable AI skills today with AI Skill Suite: https://lnkd.in/gB2ncT2E #HandleMore
+
+7429581447319076864 | Ambi Robotics | image | 106w
+    "Like all good AI systems, AmbiOS learns from its previous experiences and teaches itself to improve over time, so that its robots only get better at the tasks they're assigned to do. So if a robot comes across an odd-shaped package it has never seen before, it will quickly work out the most efficient way to pick up that item  [...]  of the other robots powered by AmbiOS." As reported by SiliconANGLE & theCUBE. Read the full coverage: https://lnkd.in/gsnRr7dm
+
+7430308013833404416 | Ambi Robotics | image | 56w
+    Built on more than five years of real-world operational data collected across hundreds of robots deployed in live commercial operations, AI Skill Suite enables select partners to license adaptable AI applications for a wide variety of robotic hardware configurations and achieve over 99.9% uptime from day one. Reliability is built. Built with AI Skill Suite. #HandleMore
+
+7435384826628620288 | Ambi Robotics | video | 26w
+    AmbiOS is built for the physical world and the people moving it forward. Learn how Robot Operators are tapping into more productivity with AmbiOS: https://lnkd.in/gufHzuzc #HandleMore
+
+7437193513815007232 | Ambi Robotics | image | 67w
+    One OS. Every Skill. Any Robot. AmbiOS doesn't rely on a single model to do everything. Instead, it draws from a growing library of production-proven AI skills with 99.9% reliability, applying the right capability to each robot, task, and environment. By separating intelligence from hardware, AmbiOS enables the AI Skill Suite to run across different robots and form factors. With AmbiOS, AI works in the physical world.
+
+7437480510752346112 | Ambi Robotics | image | 81w
+    NEWS: Introducing AmbiVision. AI-powered item intelligence that identifies, tracks, and reads unlabeled items in motion. Built from AI Skill Suite. Powered by AmbiOS. AI Skills include: Measurement. Tracking. Reading. Inspection. Quality Control. Cognitive OCR interprets items in real time when barcodes are missing or labels are unreadable. AmbiVision is already operating inside customer facilities and is compatible with leading vision  [...]  DataMan 380 from Cognex Corporation. Designed for high-speed distribution centers and real-world operations. Read the announcement: https://lnkd.in/gT99H5zf #HandleMore
+
+7440437005626359808 | Ambi Robotics | image | 95w
+    🏆 Ambi Robotics leaders Stephen McKinley and Joe Mahaney have been named 2026 Pros to Know by Supply & Demand Chain Executive! 🏆 “Stephen and Joe are leading the work that matters most by deploying systems, strengthening customer partnerships, and driving operational performance, ensuring our solutions deliver measurable value in the most demanding supply chain environments. Their work directly supports  [...]  industry and where it is going next.” - Jim Liefer, CEO of Ambi Robotics. Read the announcement: https://lnkd.in/gyWyTNpv
+
+7446993554134183937 | Ambi Robotics | multi-image(5) | 143w
+    Built in Berkeley. Proven in the real world. The City of Berkeley's #DiscoveredinBerkeley campaign spotlights local businesses enriching the community and building a better world. Today's story takes you inside the founding of Ambi Robotics and what it takes to bring physical AI out of the lab and into daily commercial operations. From early research at University of California, Berkeley  [...]  reaching far beyond the community we call home. Read the full story from Berkeleyside: https://lnkd.in/gibsXACn #HandleMore | #DiscoveredinBerkeley
+
+7447689066940104705 | Ambi Robotics | image | 28w
+    Meet us at #MODEX2026! Atlanta. Next week. Jim Liefer Jeff Mahler Joseph Ruck Joe Mahaney John Zaremba Stephen McKinley Schedule time with our team. See you there! #HandleMore
+
+7452403471393116160 | Ambi Robotics | video | 45w
+    One OS. Every Skill. Any Robot. Every deployment feeds real-world data back into AmbiOS to train new AI skills, improve reliability, and accelerate the AI data flywheel. Explore how AmbiOS and a fleet-wide data flywheel enable physical AI to generalize across modular hardware: https://lnkd.in/gB2ncT2E #HandleMore
+
+7454589366724661248 | Ambi Robotics | text | 141w
+    AmbiOS: The Operating System for Physical Intelligence. One OS capable of powering any robot for every skill doesn't depend on one model trying to do everything. It draws from a growing library of production-proven AI skills, applying the right capability to the right robot, task, and production environment. The AmbiOS ecosystem is built on six core layers: • Sim2Real AI  [...]  robotic fleets smarter, faster, and more adaptable over time. One OS. Every Skill. Any Robot. #HandleMore with #AmbiOS
+
+7454932489657196544 | Ambi Robotics | multi-image(4) | 43w
+    A rare sighting of Jeff reading the headlines. He's usually too busy creating them. But this one hits close to home. Please join us in congratulating Jeff Mahler, Co-founder and CTO for being named to the San Francisco Business Times 40 under 40!
+
+7459667462217682944 | Ambi Robotics | image | 77w
+    One solution. For all the ways you stack. Inbound palletizing is one of the hardest operations to automate. AmbiStack does it at rates exceeding manual palletizing, while automatically scanning, dimensioning, and tracing every case. Its unique gantry form factor enables a drop-in footprint with scalable outputs. And Robot Operator safety zones mean AmbiStack keeps stacking while operators swap pallets. Uptime. All the time. Ready to #HandleMore? Read the solution guide today. Link stacked in the comments 👇
+
+7460359048148836352 | Ambi Robotics | image | 4w
+    Not a demo. #AmbiSort
+
+7460729505834237953 | Ambi Robotics | image | 77w
+    We're proud to announce that AmbiStack has been selected as a 2026 RBR50 Innovation Award winner! This award is a testament to the entire Ambi Robotics team and our relentless focus on bringing reliable physical AI into real-world warehouse operations at scale. Empowering people to #HandleMore. Three #RBR50 wins across five years of commercial operations. Each one earned in production, with the biggest names in shipping and logistics. Thank you to The Robot Report for this recognition!
+
+7462550973396332546 | Ambi Robotics | image | 39w
+    Congratulations to Sandra Kazee, CFO of Ambi Robotics! Proud to share that Sandra has been named a winner of the 2026 San Francisco Business Times Most Influential Women in Bay Area Business Award. Learn more about this recognition: https://lnkd.in/gUKn2ueB
+
+7465444668332433408 | Ambi Robotics | image | 108w
+    In 2015, a group of University of California, Berkeley engineering students pulled broken robots from a dumpster and got to work. Breakthroughs in Sim2Real AI, combined with good old-fashioned engineering, led Ken Goldberg and Ambi's fellow co-founders to a private demo in Palm Springs. They were told their robot was exactly what one of the world's largest ecommerce giants needed.  [...]  to share the philosophy that made it possible and what comes next. Grasp the full story: https://lnkd.in/d6Ni7zqA #HandleMore
+
+7467609994310553600 | Ambi Robotics | video | 9w
+    AmbiStack. In commercial operations. See it in action. #HandleMore
+
+7467980394886451200 | Ambi Robotics | link | 33w
+    We're scaling the team to meet customer demand. From field engineering to physical AI and robotics research to enterprise sales, we're hiring across the whole stack. Explore open roles and apply today: https://lnkd.in/gTZBkQpe
+
+7470509728406777857 | Ambi Robotics | video | 35w
+    One pick. Multiple cases. Double the throughput. AmbiStack's intelligent multi-zone gripper can pick, sort, and stack multiple cases at once, moving more product with every motion. That's just one more way to #HandleMore with AmbiStack.
+
+7472717935552253953 | Ambi Robotics | image | 80w
+    The reliability gap between 90% and 99.9% is the difference between a pilot and a commercialized platform. AmbiOS is the nervous system connecting robot brains and bodies to the infrastructure that makes mission-critical operations possible. We've reached an inflection point. Production data at scale is now powering AI Skills capable of generalizing across new robot tasks, industries, and use cases.  [...]  iOS unlocked an endless universe of apps, AmbiOS unlocks an endless universe of robotic applications. Read more: https://lnkd.in/gATj7vpT
+
+7475980163298545664 | Ambi Robotics | video | 173w
+    Ambi Robotics has been named Overall Robotics Company of the Year in the 2026 AI Breakthrough Awards program. "This award is a testament to the hard work of our entire team who is dedicated to building our AI-powered solutions and ensuring they solve real-world operational challenges." -Jim Liefer, CEO The recognition comes during a year of accelerated commercial growth, as  [...]  every winner recognized in the 2026 AI Breakthrough Awards. Read the announcement: https://lnkd.in/g_7Pv5aH #PhysicalAI, empowering people to #HandleMore
+
+7477389150737035264 | Ambi Robotics | video | 2w
+    Dock dock...
+
+7477680762985648129 | Ambi Robotics | video | 84w
+    Today, Ambi Robotics and Pickle Robot Company announce a first-of-its-kind integrated Physical AI solution to fully automate inbound logistics operations. This commercial integration between AmbiStack and Pickle Robot sets a new benchmark for Physical AI, proving how specialized robotic systems can seamlessly work together to fully automate inbound receiving operations. Pickle unloads the trailer. AmbiStack stacks the pallet. Two systems  [...]  live in a customer facility on infrastructure that's already there. No redesign required. Read the announcement: https://lnkd.in/dsBeVbw3 #HandleMore
+
+7479225825003995136 | Ambi Robotics | image | 4w
+    Happy Independence Day 🇺🇸
+
+7480292632271695872 | Ambi Robotics | link | 31w
+    Pickle Robot Company unloads the trailer. AmbiStack scans and stacks pallets. Two physical AI systems. One connected workflow. Read the full story from Kurt Knutsson in Fox News Media: https://lnkd.in/g9bf9MGA #HandleMore
+
+7483189926793072640 | Ambi Robotics | video | 21w
+    Every day is game day. ⚽ Our Field Systems Engineers are behind every customer win. That's their goal. #HandleMore | #WorldCup
+
+7485389353272102912 | Ambi Robotics | image | 35w
+    Is Berkeley the Bay Area's next physical AI and robotics hub? San Francisco Business Times points to Ambi Robotics as proof it may already be happening in the City of Berkeley. Read the story: https://lnkd.in/gWdtzRNE
+
+7488262656512905218 | Ambi Robotics | video | 54w
+    Choosing a palletizer, but going in circles? Get the technical comparison: AmbiStack Gantry vs. 6-Axis Robot Arm. AI will keep getting better. The architecture you choose determines whether your operation gets better with it. Download the free white paper to learn how form factor impacts throughput, pallet density, uptime, and long-term performance: https://lnkd.in/gwNgzSj2 #HandleMore
+
+7490466166675505152 | Ambi Robotics | video | 37w
+    Software gets updated. Hardware gets installed. As AI reaches new levels of performance, your hardware determines how much of that performance your operation can actually reach. Form factor matters. More than you think. Learn why: https://lnkd.in/gmzTp-Bh #HandleMore
+
+7495543985915113472 | Ambi Robotics | video | 28w
+    A dozen pallets. One touchscreen. See how AmbiOS puts Physical AI at your team's fingertips with the Ambi HMI: https://lnkd.in/gufHzuzc Less complexity. More productivity. That's how you #HandleMore
+
+7496246397999054848 | Ambi Robotics | multi-image(3) | 113w
+    Congratulations to Ambi Robotics CFO Sandra Kazee and Head of People Emily Yost, named winners of the 2026 Women in Supply Chain Award, presented by Supply & Demand Chain Executive. Sandra was recognized as a Trailblazer for the third consecutive year for her leadership advancing operational efficiency and building financial models that make robotics more accessible to customers at scale.  [...]  the people who make the technology work every day. Congratulations, Sandra and Emily! Read the full announcement: https://lnkd.in/eZAa239m
+
+7498389975059652608 | Ambi Robotics | image | 57w
+    Introducing CARGO, a new agentic Physical AI model for robotic stacking. Trained with Sim2Real reinforcement learning, CARGO reasons across sequences of picks and placements to build dense stacks from random packages. CARGO is already deployed in customer operations, delivering the density, speed, and reliability required for commercial production. Get the details from our research team: https://lnkd.in/eMc5tEsb #HandleMore
+
+7499144870259810305 | Ambi Robotics | image | 166w
+    Questions? Answered. Here's what you need to know about CARGO: What does CARGO do? CARGO is an agentic Physical AI reasoning model that decides which package to stack next and where to place it, optimizing each action for a denser completed stack. What problem does CARGO solve? Industrial stacking is like 3D Tetris with random packages arriving continuously. CARGO plans  [...]  and expanding Physical AI reasoning to more packages, materials, and industrial tasks. Get the details on CARGO: https://lnkd.in/eMc5tEsb
+
+7503145551711019008 | Ambi Robotics | video | 45w
+    Ambi Robotics Co-Founder and CTO Jeff Mahler joins the Scaling Robotics podcast to explain why mastery is the foundation Physical AI needs to scale, and what it takes to build systems customers can depend on. Tune into the full episode with host Vedant Nair: https://lnkd.in/eFgG3XMe
+
+7503876257990782976 | Ambi Robotics | image | 14w
+    Stack to anything. AmbiStack is configurable, by design. Stack it your way: https://lnkd.in/g85xRAY2 #HandleMore
+
+7378661966707605504 | Ather Energy | text | 92w
+    In this week's Step Up Stories, meet Sathish Kumar, Hareesh Tamboorkar, Preetham Kumar, and Ullas Poojary. From inspections to handling volume on the floor, they've turned new challenges into milestones, and built the kind of trust you can only earn by showing up every day. Step Up is our way of recognising and supporting growth that's built through consistency, learning,  [...]  Threads of the Line. And they remind us what it truly means to #BeTheStory. #AtherEnergy #StepUp #StepUpStories #Growth
+
+7379803515092869121 | Ather Energy | video | 89w
+    In the latest episode of #KnowOurCrew, meet Prasannakumar Shetty. In his 7 years at Ather, Prasanna has played different roles in our service team, and has contributed to building our service vertical from scratch. Listen to him talk about his team, his scuba diving experiences, and his experiments with creativity - both in and outside of work. Watch till the  [...]  follow our hashtag #KnowOurCrew to stay updated on the inspiring stories of our team members. #BeTheStory #AtherEnergy #PeopleOfAther
+
+7381274635096551424 | Ather Energy | multi-image(4) | 212w
+    Half a million and counting️! Last week, the 5,00,000th Ather scooter rolled out of our Hosur facility, a milestone that marks not just how far we've come, but who we've become along the way. This moment belongs to everyone who has built, tested, welded, coded, shipped, and supported an Ather. From a single line in Whitefield to two world-class facilities  [...]  quality, and heart. Here's to the next 5,00,000, built by people who truly #ThinkAsASpecies. #BeTheStory #PeopleOfAther #AtherEnergy #EV
+
+7381638537005297664 | Ather Energy | text | 106w
+    The journey to reimagine mobility was never just about making electric scooters. It's been about building an ecosystem of design, engineering, software, and manufacturing, that can move India towards cleaner, smarter mobility. That belief has always guided us: to think long-term, to build in-house, and to create products that aren't just sustainable, but genuinely loved. We're glad to see that  [...]  be. The article is pinned in the comments for those who'd like to read more. #AtherEnergy #BuiltByUs #MIT
+
+7383813928335843328 | Ather Energy | multi-image(3) | 148w
+    Learning, creating, and connecting! 🎨 We recently hosted a Sign Language and Doodling Workshop in partnership with Atypical Advantage. The workshop was hosted for the kids and family members of our team members and our alumni community, and was a part of Mosaic - our EDI philosophy. It was a joy to watch the little ones dive into the world  [...]  team, and all the little creators and their families for making this session meaningful! #AtherEnergy #Community #Learning #Creativity
+
+7384477679208697858 | Ather Energy | text | 189w
+    What is the future of performance vehicles? For us, it starts with Redux. Redux is our concept vehicle. It is what we envision for the future. With Redux, we want people to experience what Ather truly stands for. Our teams went back to the drawing board, with a vision to design a rideable concept vehicle. We explored the evolution of  [...]  instruction and reacts to it. A performance vehicle designed for the users of tomorrow. #AtherEnergy #Redux #ConceptVehicle #EV
+
+7386687722977095680 | Ather Energy | multi-image(3) | 183w
+    In a world where watches have become so much more than timekeeping accessories, how does one form a timeless bond with a timepiece? In this session of The Boring Conference, we had Mahendra Chauhan, who is heading design at Titan Limited, talk to us about the brand's design-first approach to horology. Mahendra spoke about weaving emotions into the design of  [...]  talk! If you'd like to contribute, please comment below, and we will reach out. #TheBoringConference #AtherEnergy #Learning #TitanLimited

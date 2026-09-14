@@ -1,0 +1,169 @@
+# person batch 008  -  55 posts  -  research/CLASSIFICATION-PROTOCOL.md
+# labels: problem exploration requirements selection validation consensus
+#         recruitment culture event product-news csr unclear
+# write research/labels_people/008.tsv as: <id><TAB><label>
+
+7083131493178376192 | Michael McGinley | text | 4w
+    Come join our team!
+
+7174477032653791233 | Michael McGinley | text | 8w
+    An amazing opportunity to join an awesome company!
+
+7224190260539273216 | Michael McGinley | text | 36w
+    More amazing work from my friends over at Envoy. Love to see them continuing to iterate on tools that meet the needs of the ever changing workplace. Congrats on this ship to the entire team 🎉
+
+7265491376639733763 | Michael McGinley | text | 21w
+    This is going to be great opportunity to join Notion and make a difference! DM me if you're interested in this!
+
+7290440229620961280 | Michael McGinley | text | 27w
+    To all my legal friends! This is a great role and one of the coolest teams at Notion. If you're interested DM me and let's talk more!
+
+7372023589920944128 | Michael McGinley | text | 4w
+    Come work with us!
+
+7384682575891484672 | Michael McGinley | multi-image(5) | 169w
+    Welcome to Notion! Earlier this week we opened our very own dedicated reception and Notion Cafe at 20 Annie Street! This helps close out our 685 Market St. buildout, providing dedicated amenity space all of our SF Notinos in our new HQ location. This ~5000 sqft cafe and reception space is ready to welcome visitors,  [...]  Skinner (RIVOT) - AV/IT/Networking: Lumibuild EverOps - Furniture: two* - Coffee Partner: The Coffee Movement #lifeatnotion
+
+7448174917071605760 | Michael McGinley | text | 50w
+    So glad to be part of this story! It's so much fun to see Akshay Kothari walk through the space, where you can see Notion's philosophy is embedded in every corner: design-forward, intentional, and unmistakably authentic. Take a peek and see how we represent our philosophy in our physical space!
+
+7470205533489098753 | Michael McGinley | text | 4w
+    Come join our team!!
+
+7491656648202231808 | Michael McGinley | text | 38w
+    This is super cool! A very cool blend of lightning speed, AI enabled identification and triage of threats, and thoughtful design by the Envoy team. Big props to the team for helping find the signal through the noise!
+
+7429250071222976512 | Abhijit Mitra | text | 33w
+    As agent building gets more and more commoditized, the role of the AI GTM Architect will become crucial in ensuring proper design for maximum adoption. Great post from Fabrice Buron on this topic.
+
+7433244044664791040 | Abhijit Mitra | text | 75w
+    In a world where anything labeled AI grabs the headlines, it's refreshing to celebrate something timeless: customer satisfaction. Honored that Outreach has received the IDC 2025 CX Customer Satisfaction (CSAT) Award for Sales, based entirely on feedback from our customers. Technology evolves. Trust endures. Thank you to our customers for your partnership and confidence in  [...]  for the recognition. Because in the end, innovation only matters if customers succeed. #CustomerSuccess #RevenueOrchestration #AgenticAI
+
+7442216198894751744 | Abhijit Mitra | text | 21w
+    Enjoyed my recent interview with Ben Fanning on Lead the Team. Shared some stories I haven't shared before, check it out!
+
+7447686519181451264 | Abhijit Mitra | video | 129w
+    What if every seller had the capacity of your best rep? That's the promise of agentic AI. In this conversation with Navin Chaddha at Mayfield, we go deep on how revenue teams are being re-architected, and why a new category, revenue orchestration, is emerging on top of CRM. At Outreach, we're building an agentic AI  [...]  intelligent system where humans and agents collaborate. That shift is already underway. Take a look: https://lnkd.in/genuTb5y
+
+7450492111860203520 | Abhijit Mitra | multi-image(4) | 81w
+    These past few days at the Semafor World Economy Summit in Washington, D.C. were a powerful reminder of why applied AI matters. This isn't just about driving shareholder value or serving customers better. The work we're doing is shaping livelihoods, influencing how businesses operate, and accelerating progress across the global economy. Grateful to Justin B.  [...]  entrepreneurs, policymakers, and thought leaders for such an open, thoughtful exchange in a truly unique setting.
+
+7454543889287467008 | Abhijit Mitra | video | 163w
+    For decades, SaaS was about hiring software, buying licenses and giving people tools to do the work. Agentic AI changes that. Now you can hire agents, bringing new skills and capacity to every revenue team, with AI agents augmenting people and orchestrating work on their behalf. That is the shift we've been building toward at  [...]  behaviors of top performers across the organization. More on where revenue work is headed at Outreach.ai.
+
+7460417803456606208 | Abhijit Mitra | image | 176w
+    Unleash is approaching, and I'm excited to spend time with our customers and revenue leaders shaping the future of go-to-market execution. This year, we're bringing together leaders who are not just talking about agentic AI, they're using it to win. As CEO of Outreach, my goal for this conference is simple: provide a clear point  [...]  growth. That's exactly what we're building toward at Outreach. See you at Unleash. Register here: https://lnkd.in/gxQNHH7U
+
+7461067883062710272 | Abhijit Mitra | link | 145w
+    Most AI in revenue today is still a passenger. It summarizes calls and scores deals, but the real work remains with your team. We are crossing a new line. The future belongs to agentic AI platforms where AI operates inside the revenue workflow on behalf of the seller to drive measurable outcomes. When you deploy  [...]  how agentic AI helps revenue teams turn insights into execution and win more market share. https://lnkd.in/gd-YDwNB
+
+7466240819981733888 | Abhijit Mitra | text | 48w
+    Excited to welcome Dennis Woodside to Unleash. Few CEOs have a better perspective on AI transformation. Dennis is helping customers and his own organization rethink how work gets done with AI. Looking forward to a great conversation on what it takes to lead in the age of AI.
+
+7471617753062326272 | Abhijit Mitra | video | 370w
+    Unleash 2026 was different. We deliberately made it smaller, more intimate, and more focused on one thing: helping customers learn from each other. There is no shortage of AI hype right now. What is far more valuable is hearing directly from practitioners who are deploying agentic AI at scale, sharing what works, what doesn't, the  [...]  Unleash, and it is what made this year's event so special. #Unleash2026 #AgenticAI #RevenueOrchestration #AI #SalesLeadership
+
+7474926754374025216 | Abhijit Mitra | image | 200w
+    One of the greatest privileges of leading a company is getting the opportunity to celebrate the people who make success possible. This past week in Monaco, it was an honor to spend time with our top performers and the people who support them - spouses, partners, parents, and loved ones - at Outreach President's Club.  [...]  journey with us - thank you. Your support means more than you know. #PresidentsClub #Outreach #Leadership
+
+7482955405204041728 | Abhijit Mitra | text | 44w
+    How much better could your customer win-back motion be with AI agents? 100% better! That's what SolarWinds achieved by putting AI agents to work identifying the right accounts, researching them, personalizing outreach, and automatically executing the campaign. In the end, outcomes are what matter.
+
+7487644717745135616 | Abhijit Mitra | text | 76w
+    The Outreach + Salesforce partnership is entering its next chapter. It is no longer just about connecting data and workflows. With the Outreach MCP Suite, agents across both platforms can share context, coordinate actions, and move work forward across the revenue process. Salesforce provides the single source of truth. Outreach extends that intelligence into execution  [...]  management to forecasting and deal acceleration. This is what agent-to-agent collaboration looks like for revenue teams.
+
+7496234602546671616 | Abhijit Mitra | video | 233w
+    As a leader, you have to stay constantly on top of AI technology. It's the only way to lead in this new AI-driven world of software. There is so much noise in the ecosystem that the best way to separate what actually works from what is just marketing is simple: 𝐭𝐫𝐲 𝐢𝐭 𝐲𝐨𝐮𝐫𝐬𝐞𝐥𝐟. Dennis Woodside  [...]  this era of AI, leaders can't just read about the technology. We have to use it.
+
+7500276243058118656 | Abhijit Mitra | link | 138w
+    Forecast confidence isn't just a finance metric. It's a leadership advantage. When confidence is low, every downstream decision gets harder: hiring, investment, resource allocation, and the commitments we make to the board. When it's high, finance and revenue teams can plan with conviction instead of guesswork. That's the point Drew Laxton makes in a recent  [...]  move fast, while questioning it enough to stay disciplined. That balance matters. Full piece here: https://lnkd.in/gPP3Qh5E
+
+7336103815537901569 | Peggy Johnson | text | 13w
+    If you are robot curious don't miss this talk by Jonathan Hurst !
+
+7350554208510586882 | Peggy Johnson | text | 17w
+    How would you react if the rug was pulled out from under you? #Digit does just fine!
+
+7367620554666799105 | Peggy Johnson | text | 6w
+    This is next level. Go #Digit!
+
+7383692370443374593 | Peggy Johnson | text | 12w
+    You heard right...deployed! No fancy videos. Digit's just getting the job done.
+
+7397846220146266114 | Peggy Johnson | text | 4w
+    Digit...never takes a break!
+
+7402031375043989504 | Peggy Johnson | link | 12w
+    Great to see this growing support for the US robotics industry: https://lnkd.in/gZvXpEud
+
+7405465662728560641 | Peggy Johnson | text | 27w
+    I had the honor of speaking with my distinguished colleague from Microsoft Jean-Philippe Courtois on the topic of leadership. Oh, and a little bit about robots, too.
+
+7420489263181586433 | Peggy Johnson | text | 6w
+    Never boring to talk about robots!
+
+7434735748731469824 | Peggy Johnson | text | 38w
+    And we have a new brand! It truly captures our deepest roots and expresses our team's fundamental purpose. Digit was made for work and Agility is where the future is being made. What will you build with us?
+
+7444499658967588864 | Peggy Johnson | text | 5w
+    Digit dancing - not bad!
+
+7448373352249065472 | Peggy Johnson | link | 22w
+    Here's an in-depth look at a busy day in the life of #Digit at Schaeffler's auto parts plant in Cheraw, SC: https://lnkd.in/guQdvbD4
+
+7459979341171625984 | Peggy Johnson | text | 3w
+    Run, #Digit, run!!
+
+7467308751159701504 | Peggy Johnson | image | 44w
+    When AI can coordinate and robots can execute, what exactly is the human job? That's the question I'll be wrestling with on stage at @Fortune #brainstormtech on June 9th alongside some sharp thinkers from CH Robinson and Deloitte. See you in Aspen next week.
+
+7475850841975844864 | Peggy Johnson | text | 26w
+    Congrats to the Agility Robotics team who have worked so diligently to reach this point. Thrilled to be on the journey ahead with each of you!
+
+7481065992190603265 | Peggy Johnson | text | 18w
+    Many thanks to Maria Bartiromo for hosting me this morning to share the latest news from Agility Robotics.
+
+7472256850990886912 | Giuseppe Silletti | text | 366w
+    AI gave pair programming its coup de grace. Convincing two engineers to sit at one keyboard and share a brain felt, to most people, like a great way to pay two salaries for one developer. Now those same developers are watching an agent crank out code on its own, and you want to tell them  [...]  have plagued us all along. AI is finally giving us the freedom to work this way.
+
+7474400737746190336 | Giuseppe Silletti | image | 87w
+    A quick update on what I've been working on behind the scenes for The Product Engineers Podcast! After wrapping up Season 1, I spent a lot of time thinking about what's next. And today, I'm super excited to announce that Season 2 of The Product Engineers Podcast is officially in the works! This time, we're  [...]  users directly, and navigate product development in the era of AI. Something's brewing... coming soon! ☕️
+
+7475514317572956160 | Giuseppe Silletti | text | 213w
+    We talk non-stop about AI context nowadays, "give the right context to the LLM", and I think it's the same for us. We need the right context to produce good outputs. If we only see one part of the whole, or get a diluted version of the truth, the output (or better, outcome) we produce  [...]  because I know the constraints ARE part of the design. They shape what's even worth exploring.
+
+7478055131851313152 | Giuseppe Silletti | link | 341w
+    Spending a full day in Claude Code leaves my head fried. An endless river of text scrolls past, and buried somewhere in there are the intentions of the LLM that created its own mental model of the problem at hand. Turns out there's a name for why this hurts: It's called Miller's Law. A 1956  [...]  skills to my new repo: https://lnkd.in/dZQKVk46 What have you done to improve your experience with agents?
+
+7480211080808558592 | Giuseppe Silletti | image | 249w
+    Hey network, anyone looking for a super-mega-fun product engineer to work with? I'm thinking about taking on a few contracting/freelance projects, so I'm writing this post in case someone in my network is working on something where I could be useful. The kind of work I'm best at is not super well-defined ticket work, but  [...]  send me a message. And if someone comes to mind, I'd really appreciate an intro. Thanks!
+
+7483882477476966400 | Giuseppe Silletti | link | 179w
+    Last year, I started a community for product engineers, but it had a problem: I didn't really know what it could be useful for. I had gathered people around an idea I care about, and that was it. No clear purpose, no obvious reason to come back. Predictably, it struggled to be useful, and that's  [...]  with the people in it. If that sounds like something you'd enjoy, come join us: https://lnkd.in/dJMY35uw
+
+7485661186965925888 | Giuseppe Silletti | text | 260w
+    "Significant burnout jumped from 44.7% to 55.7% in one year, while career optimism fell from 54.8% to 48.7%. A worrisome trend." I'm not surprised, and I think this trend started long before AI. Let's take software engineers. We engineers have always been at the end of the “assembly line”, taking tickets from Jira, implementing feature  [...]  across multiple roles. That's how we can focus on what we do best: solving real problems.
+
+7487473126520393728 | Giuseppe Silletti | text | 127w
+    Working with AI agents is the same as working with that developer who always had the camera off in meetings, never talked to anyone unless during standups to say "Still working on my thing", and who loves taking Jira tickets and spitting out code without thinking whether what they're building has any value at all  [...]  love to take your prompts and spit out whatever makes you happy. Monkey see, monkey do.
+
+7490356670187937792 | Giuseppe Silletti | video | 177w
+    Software engineers are being asked to think and act like product people. That's why I'm dedicating Season 2 of The Product Engineers Podcast all about how we actually learn to do that. "We're looking for product taste", "You need to be a cracked engineer", "Talk to users!". It's not uncommon to read these statements from  [...]  on Spotify, Apple Podcasts, and YouTube (@theproductengineerspodcast). Looking forward to having you on this journey! 🤙
+
+7492557227506049024 | Giuseppe Silletti | text | 58w
+    I remember when trunk-based development felt like the dream: Push small changes directly to main. Strong CI/CD. Great test coverage. Easy rollbacks. Commit small and often, catch issues early, revert quickly. Now we have AI writing code faster than ever, and somehow we're still obsessed with PRs, approvals, and code reviews. Why? We already knew the better model.
+
+7496553780658761728 | Giuseppe Silletti | text | 69w
+    I understand that a lot of us are worried about where this is going, but the only future I see is one with no “product team” and “engineering team.” We're all on the same team. Always have been, actually. In practice: fewer handoffs, more shared context, engineers closer to customers, product people closer to the code, and everyone accountable for the outcome, not just their part of the process.
+
+7498419690768121856 | Giuseppe Silletti | text | 164w
+    I've always been a bit of an "extreme programmer", "software craftsman" and, of course, product-minded engineer. I've been very vocal about this throughout my career, with mixed reactions (mostly positive), but with AI I think this is even more important because that's what agents need to thrive even in "dark factory mode". But still, in  [...]  things share the same goal, but we can ship less, quickly, and still ship it well.
+
+7500870334829596673 | Giuseppe Silletti | image | 328w
+    Every time I see “coding is solved,” I'm not quite sure what people mean by “coding.” Anyone who's been around building software for a while knows that software engineering is not one thing! There's the design part, for example, what should we create, where the boundaries are, what trade-offs are acceptable, and what the consequences  [...]  API, and spend its afternoon arguing with a YAML file, I'm perfectly happy to let it.
+
+7501927118008680449 | Giuseppe Silletti | text | 126w
+    I've been doing a few interviews lately, and damn, I'm really bad at live challenges. My brain just doesn't seem to enjoy that situation. Put me on camera with one or two strangers watching and judging me every step for 30–60 minutes, and I go straight into panic mode. A couple of questions for people  [...]  the f*k down and actually think clearly? I'm curious to hear how other people approach this.
+
+7503514946874372096 | Giuseppe Silletti | text | 103w
+    How can anyone build agentic products without thinking about product, design and engineering at the SAME time. Do you realize how weird that is? What the technology can actually do changes what is viable, what is desirable, and sometimes what the product even is. How much autonomy should the agent have? what happens when it  [...]  change in model capability can open up an entirely new product space. THIS IS SO FUN.

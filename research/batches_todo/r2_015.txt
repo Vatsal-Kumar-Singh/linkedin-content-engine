@@ -1,0 +1,214 @@
+# batch 015  -  70 posts  -  label per research/CLASSIFICATION-PROTOCOL.md
+# labels: problem exploration requirements selection validation consensus
+#         recruitment culture event product-news csr unclear
+# write research/labels/r2_015.tsv as: <id><TAB><label>
+
+7500826281153028097 | Sylvera | image | 133w
+    Not all J-Credits are worth the same. ByWill, a Japanese J-Credit developer, needed a way to prove it. ByWill uses Sylvera's ratings framework to validate J-Credit quality against globally recognised standards. It's a level of quality assurance that wasn't previously available in the Japanese market. Sylvera's pricing data and forward price estimates give ByWill the transparency to justify premiums that  [...]  rating standards. And a platform for growth across both voluntary and compliance markets. Read the full story: https://lnkd.in/ecqHNZf7
+
+7501247875750920192 | Sylvera | image | 171w
+    SBTi's Corporate Net-Zero Standard V2 gave you more levers to pull. It also made every procurement decision harder. Carbon credits. Lower-carbon commodities. EACs. Each one costs something different per tonne of carbon, and each one lets you claim something different. The comparison was never like-for-like, and V2 raised the stakes on getting it right. Next Wednesday, we're putting all 3  [...]  and buyer 4️⃣ A framework for sequencing decisions while the accounting rules are still moving Register now: https://lnkd.in/eNpzbwr9
+
+7501262973248851970 | Sylvera | image | 102w
+    Deep Sky has received an AAA-A Pre-Issuance Rating for Deep Sky One. This marks the first Pre-Issuance Rating we have issued for a Direct Air Capture project. The framework developed through this process is designed to be replicable across the DAC sector, giving other developers a credible, independent path to demonstrating project integrity as the technology scales. For large-scale DAC  [...]  early signal buyers and investors need. This is what that looks like in practice. Read more here: https://lnkd.in/ey4YfEXN
+
+7502998859149713409 | Sylvera | image | 104w
+    🛰️ How will AI, satellites, and digital MRV reshape carbon markets over the next five years? And what does it mean for Africa? Our CEO and Co-Founder, Allister Furey, is joining a webinar on next-generation carbon markets to dig into exactly that. Al will be on the panel alongside: - Claire Davis-Reddy: Director at Credible Carbon (moderator) - Lee Annamalai:  [...]  is hosted by Go Green Africa, Africa's Green Economy Summit, and Carbon Markets Africa Summit. Register here: https://lnkd.in/eGUakpYF
+
+7503453217582747648 | Sylvera | image | 171w
+    ⏳ 1 day to go! Tomorrow, we're putting carbon credits, lower-carbon commodities, and EACs in the same room, asking the questions buyers and producers are actually wrestling with. SBTi's Corporate Net-Zero Standard V2 gave corporates more than one way to hit a decarbonization goal. But more levers means harder choices: → What are the real options for me? → What  [...]  PDT Can't make it live? Register anyway and we can send you the recording! Save your spot: https://lnkd.in/eNpzbwr9
+
+7503801168599359488 | Sylvera | multi-image(3) | 345w
+    🇨🇴 Ayer en Bogotá nos reunimos para plantear una pregunta que está transformando el mercado de carbono en todo el mundo: ¿qué pasa cuando el mercado deja de pagar por volumen y empieza a pagar por valor? Colombia es un caso de estudio en tiempo real. Con un impuesto al carbono vigente desde 2017 y el PNCTE (el sistema nacional  [...]  thank you to everyone who joined us! Conversations like these are how the market moves forward on quality.
+
+7504886672694759424 | Sylvera | video | 103w
+    🇺🇸 7 days to go until Climate Week NYC! The bags are almost packed... In one week, Climate Week NYC takes over the city and we'll be right in the thick of it. We're hosting the rooms where the market's biggest questions get worked out. SBTi V2, converging carbon accounting standards, and what actually moves corporate decarbonization forward. Our CEO  [...]  be there all week alongside the wider Sylvera crew! Looking forward to seeing everyone in New York! 🍎
+
+7493697917724090368 | Vanta | video | 73w
+    You're 30 minutes into a major security incident. You need to make a call. Who are you speed-dialing first: your CEO, or general counsel? 👀 We put Sean Cassidy, CISO at Plaid, on the spot in our latest episode of The Tabletop. And when an incident is unfolding in real time, every decision sets up the next one. See who Sean says gets the call—and what happens next. Catch the full episode: https://lnkd.in/eFWqGVYy
+
+7493728180835430401 | Vanta | video | 18w
+    Black Hat 2026 was a blast 💥 Thanks to everyone who came by our booth and said hello!
+
+7493758351940542465 | Vanta | image | 6w
+    Respect your elders. They've seen things.
+
+7494067846302490624 | Vanta | image | 33w
+    What exactly IS "tokenmaxxing," and what are its hidden costs? Our SVP of Engineering, Iccha Sethi shares her thoughts on this tongue-in-cheek benchmark of AI performance this her recent TechRadar article. 🔗 https://bit.ly/4bNfemT
+
+7494098063460921346 | Vanta | video | 13w
+    Grateful to have engineers who are very committed to the user experience 👏
+
+7495147464753082368 | Vanta | video | 126w
+    What if the problem with GRC isn't the work... but the way we've been doing it? In this clip, Justin Pagano, Sr. Director of GRC Engineering at Vanta, gets into one of the fundamental problems with Legacy GRC: when the work becomes a cycle of requests, screenshots, PDFs, and annual audit prep, GRC teams can lose sight of the problems  [...]  practice, where to start, and how to automate without losing the human judgment that matters. Watch on-demand: https://lnkd.in/eknswMFV
+
+7495177780612161538 | Vanta | video | 48w
+    Less talking about AI. More building with it. Join Arthur Stromquist from LangChain and the Vanta team in NYC on August 27 for a hands-on session with Vanta MCP. You'll leave with a working workflow (and probably a few new ideas). Space is limited. Grab your spot: https://lnkd.in/efmSC8PQ
+
+7495509953110237186 | Vanta | text | 3w
+    Special delivery 📬
+
+7495540114014703616 | Vanta | image | 98w
+    Before writing a single line of product code, SIGQ founder Tak Kanetsuki made a bet: start with SOC 2. Not because anyone was asking for it yet, but because he knew the enterprise customers and investors he wanted eventually would. With Vanta, SIGQ earned SOC 2 Type 1 in 2–3 months (after watching the same process take nearly a year  [...]  compliance didn't become something to deal with after growth. It helped make growth possible. Read SIGQ's story: https://lnkd.in/e3TCyCye
+
+7495872349045719040 | Vanta | video | 126w
+    Clear your calendars: The GRC event of the year is coming November 11–12 💜 VantaCon 2026: Agents of Change is taking over San Francisco for two days, bringing 650+ people across the GRC community together. And with 30+ industry speakers (past presenters include companies like Anthropic, Ramp, Snowflake, and beyond) there'll be plenty to talk about. AI is changing both  [...]  your very specific work problems. This is the one you don't want to miss! Get early access: https://lnkd.in/g8m9s9ne
+
+7495902421689241601 | Vanta | video | 58w
+    A suspicious departure. A massive data transfer. And a lot of unanswered questions. 🔎 We handed C1 CISO William Bengtson the situation and asked, “what now?” in the latest episode of The Tabletop. The challenge: figure out what you actually know before deciding what happened. See how Will handles the incident when the evidence starts piling up: https://lnkd.in/eDCEMCtt
+
+7496234782020820992 | Vanta | video | 79w
+    Ok so here's our secret... ...on how we turn security from the "Department of No" to the "Department of No-body is Cooler than a CISO." 😎 Vanta lets you track and score all the AI apps your employees use, even if they don't go through procurement. So you can stress less about blocking tools (and being a total buzzkill), and  [...]  take action if something's too risky! Check out our latest ep. of Security Theater ft. Alexis Gay ⬇️
+
+7496265400444325888 | Vanta | video | 54w
+    📝 Pop quiz: Do you know the status of your compliance controls? As in, not from your last audit, but literally right this minute? On this episode of The Vanta Advantage, see how Vanta's depth of automation—our 1,400 automate tests, run hourly—keeps you compliant not just at audit-time, but all the moments in between.
+
+7496582017111814145 | Vanta | image | 49w
+    Over 65% of the companies on this year's Forbes AI 50 are Vanta customers 🤯 That's a lot of very smart people turning ambitious ideas into something real—and a pretty incredible group to support. Big congratulations to this year's winners! Very well deserved. 💜 See the full list: https://lnkd.in/eF5_ZwTJ
+
+7496612225181474817 | Vanta | video | 71w
+    Agents are forcing us to rethink what it means for software to be capable. In our latest Trustcraft piece, Vanta Sr. Software Engineer Brett Bush breaks down how we're designing capabilities that agents can actually put to work across MCP, CLI, APIs, the Vanta Agent, and beyond. It involves composability, a lot of engineering, and, somehow, an iced chai latte with two shots of espresso. ☕ Read more from Brett: https://bit.ly/4qpMLJV
+
+7496657451681894400 | Vanta | image | 4w
+    Did we miss any?
+
+7497684353456467968 | Vanta | video | 21w
+    Less “we should do something with MCP” More “look what I made” Come build with us! 📆 Thursday, Aug 27: https://bit.ly/4zvgLb8
+
+7497714368629948417 | Vanta | video | 37w
+    Legacy GRC has a problem. Five, actually.🖐️ Ayoub Fandi of Lovable and Vanta's Justin Pagano unpack each one, and explain how GRC Engineering offers a more automated, practical way forward. Watch the full convo on demand: https://bit.ly/4vdbAt2
+
+7498031733494243329 | Vanta | image | 150w
+    What would you build if your GRC platform worked the way you do? On September 10, join us live for Vanta Delivers: Build without Limits to see what becomes possible when your trust program becomes a platform you can build on. We'll reveal how Vanta's Trust Graph gives AI agents real-time context across your controls, evidence, policies, vendors, risks, and  [...]  on a trusted foundation. Join us live September 10 for Vanta Delivers: Build without Limits. Register now: https://lnkd.in/e5Uqtnva
+
+7498069289619456000 | Vanta | video | 37w
+    AI is part of everyday life now, which means trust and privacy aren't just security team questions anymore. So naturally, we needed to know how New Yorkers are handling it. Vanta on the Street is back 🗽🎤
+
+7498426617137090560 | Vanta | video | 41w
+    There's what you THINK you'd do in a security incident… And then there's what you do when the clock is ticking and the next problem lands. Welcome to The Tabletop. 😈 Watch the latest episode, ft. C1 CISO, William Bengtson: https://lnkd.in/ebSGqmyH
+
+7498446723506413570 | Vanta | video | 11w
+    Asked the AI if it was secure. It said yes. 🤷‍♀️
+
+7498771497608577025 | Vanta | video | 89w
+    What's new this month in Vanta? 🧠 Agentic onboarding—Upload your controls, policies, and custom framework docs. The agent builds your framework and suggests policies and evidence (nothing writes without your approval). 🌛 Dark mode—Now available, and follows your OS or browser setting automatically. 🇩🇪 C5:2026—Germany's leading cloud security attestation standard is now a supported framework. 🚨 Customer Commitments—A contract can  [...]  program and ranks them by the risk they carry. Watch the rundown, then log in to try them!
+
+7498869542337552384 | Vanta | text | 69w
+    What happens to your risk program when the risk changes faster than you can document it? 16 September, Sydney Opera House. The first Vanta Trust Tour in Sydney. CrowdStrike, Atlassian, Australian Payments Plus, McGrathNicol, and Atmos Legal on stage. New threats, ASIC and privacy obligations, and why “wait and see” stopped being a strategy. An afternoon for security leaders making decisions before all the answers are in. Details below!
+
+7499096085861122048 | Vanta | link | 67w
+    Meet our 5 AI Innovation winners from this year's 25 to Trust 🏆 The leaders in this category are setting the standard for responsible AI deployment, with real governance, controls, and risk management practices. 🎮 Adam Eickhoff | Hard Rock Digital 🦜 Arthur Stromquist | LangChain 🫆 Geert van Asperen | Snitcher ⛰️ Jeremy Carriger | Arcadia 🎥 Martin Tschammer | Synthesia https://bit.ly/4hYtdKm Congratulations to you all!
+
+7499148894014988288 | Vanta | text | 67w
+    Things that will never happen: • Your CEO will not text you about desperately needing gift cards • Your package is not stuck in customs pending a $2.99 fee • IT will never need your password to fix your password • The IRS will never DM you • A recruiter with a Gmail address is not offering you a $500k salary Happy scam awareness week. Stay cautious.
+
+7499186599327465472 | Vanta | image | 74w
+    Bonafi had four people, a go-live date, and early deals waiting on ISO certification. Traditional consultants quoted a 5–6 month process and eight hours of founder time every week. You can see the problem. Working with Vanta, Workstreet, and Prescient, Bonafi was certified across ISO 27001, 27017, and 27018 roughly six weeks after kickoff, with zero nonconformities at Stage 2. The deals that had been waiting are now closing. Read the full story: https://lnkd.in/e-ZJxE5U
+
+7500228486062571522 | Vanta | image | 145w
+    Some of the tasks on a CISO's list aren't overdue. They're undead. 🧟‍♂️ We looked at task data across 16K orgs and found that the first dedicated security hire closes 96% of their tasks... But by the time a CISO owns the program, half the list is sitting open, and a third of it hasn't been touched in over 2  [...]  variable nobody names. If half your list is open, that's structural. Here's what's actually in the pile: https://bit.ly/4wWlMac
+
+7500258558358401024 | Vanta | link | 180w
+    Your GRC team is already delegating work to AI agents. The question is whether those agents can be trusted with it. 🧐 At Vanta Delivers: Build without limits, we're covering what it takes to build agents your program can rely on, straight from the people already doing it: 🟣 Jeremy Epling, our CPO, will unveil the product innovations that let  [...]  take your questions and workshop your AI workflow ideas live. 📆 Sept 10 → Save your spot: https://lnkd.in/e5Uqtnva
+
+7500298983005876224 | Vanta | text | 76w
+    As companies scale, many struggle to keep up with the growing security and compliance workload. Key findings from Vanta's analysis of 16,000+ customers show: - CISOs have a 49% incomplete task rate - Almost 1/3 of incomplete tasks show no activity for 60+ days - Over 90% of a CISO's backlog is deprovisioning work, and almost 60% of those tasks remain unresolved for 30+ days Check out more data about this 🧟 zombie work 🧟 below...
+
+7500596612944134144 | Vanta | link | 77w
+    This year's VantaCon lineup is stacked 👀 Meet some of the GRC and security leaders taking the stage this November: Kenneth Thomas Moras, Cursor Ayoub Fandi, Lovable Mandy Matthew, Duolingo Upasana Tripathi , Replit Tom Brandl, Calm Gabriel Hubert, Dust Every one of them is shipping AI fast. Every one of them has had to figure out governance while doing it. That's the conversation. 📍 San Francisco + virtual 📆 November 11-12 Full lineup and registration: https://vanta.com/vantacon
+
+7500621042441265152 | Vanta | image | 8w
+    Compliance means saying it with your chest 😤
+
+7500944661658664961 | Vanta | video | 79w
+    Would you shut off the AI agent your entire company depends on? 😅 That's the call in front of Zlatko Unger 🧙‍♂️, CISO Expert at Wiz, in the new episode of The Tabletop. The agent is performing exactly as designed. It's also acting on orders it picked up from an inbound message. Now regulated data is in play, and there's  [...]  HIPAA question nobody wants to answer on a Friday afternoon. Watch him think through it out loud: https://bit.ly/4yfmnov
+
+7500975961060962304 | Vanta | video | 116w
+    95% reliability sounds pretty good. Until you need it 10 times in a row. That's one of the problems our engineering team ran into while building the Vanta Agent: the more work we asked the model to do just to retrieve data, the more opportunities we created for things to go wrong. So we changed the job. Let the model  [...]  into what we changed (and what we learned about designing tools for agents) in the latest Trustcraft: https://bit.ly/461DVbW
+
+7501308157097336833 | Vanta | video | 4w
+    Continuous Monitoring 🤝 you
+
+7501338265711497216 | Vanta | link | 63w
+    Meet our 5 Business Impact winners from this year's 25 to Trust 🏆 The leaders in this category are translating security and compliance into real customer trust and tangible business impact. 🦉 Nick Hardy | Samsara ↗️ Chuck Kesler | Pendo.io 🔺 Ryan Fullerton | Radar 💼 Joshua McKibben | Harvey 🌈 Dongting Yu, PhD | Clay https://bit.ly/4hYtdKm Thank you for your contributions!
+
+7501382458152681472 | Vanta | text | 49w
+    🔨 Build with Vanta was last week and we... - Built MCP workflows that customers could connect to their AI tools in real time - Connected with awesome security, GRC, & engineering leaders - Ate and drank some NYC deliciousness Thanks to all who joined us, 'till next time!
+
+7501621955192573952 | Vanta | link | 85w
+    Paris, champagne, and a room full of people who have a lot to say about security and compliance. 🥂 Trust Tour is coming to Paris, hosted by our CEO Christina Cacioppo! She'll be joined by Quentin B., CISO at Pigment, and Joanna Chen, CISO at Dashlane, for a fireside chat on navigating France's changing regulatory environment, building resilient compliance programs,  [...]  canapés, and plenty of time with fellow security and compliance leaders from across France. Request your spot: https://lnkd.in/gG6Sb4cF
+
+7501670626252742656 | Vanta | video | 17w
+    What? Vanta Delivers: Build without limits When? Sep 10 @ 9 AM PT/12 PM ET How? https://bit.ly/4qOR29N
+
+7501715860147830784 | Vanta | video | 92w
+    We just wrapped an incredible week at the AWS Startup Summit! 🚀 Our VP of Global Channel Sales & Partnerships, Bill Fitzgerald, sat down to share how Vanta + AWS help companies earn and prove trust without slowing down growth. A few numbers from the conversation: 🟣 10,000+ AWS companies trust Vanta for security & compliance 🟣 140+ automated tests  [...]  at Amazon Web Services (AWS) for another great year of partnership. Here's to going even bigger together! 🤝
+
+7503145067990384641 | Vanta | video | 102w
+    Your GRC program shouldn't depend on someone remembering the same task every week. Custom Agents let teams give Vanta Agent a recurring job in plain language and choose when it should run. Vanta Agent uses the context already in the program to do the first pass, then brings the team in to review any proposed action. The clip below shows  [...]  we'll show how the same model can carry more work across your program. 📅 Register to attend: https://bit.ly/4qOR29N
+
+7503165333948702721 | Vanta | image | 7w
+    Right where we want to be 💜
+
+7503482740932030465 | Vanta | video | 27w
+    Sometimes, all you you need is (1) bribery and (2) a little Al Pacino to meet your security training goals. One inch. One module at a time.
+
+7503512686832439296 | Vanta | video | 92w
+    Everyone wants the AI tool approved yesterday. ⏳ Before you say yes, Zlatko Unger 🧙‍♂️, CISO Expert at Wiz, says there's one place security teams should start: the data. Where does it live? Is it being used for training? Can you get it back? How is it deleted, and how long does the vendor keep it? The pressure to move  [...]  hand it over should probably move just as fast. Watch the latest episode of Vanta's The Tabletop: https://bit.ly/4yfmnov
+
+7503535252695613441 | Vanta | video | 16w
+    Raise your hand if you have ever been personally victimized by screenshotting evidence at 11pm 🙋‍♂️
+
+7503863716052918272 | Vanta | video | 207w
+    That's a wrap on Vanta Delivers: Build without Limits! 🚀 2 in 3 Vanta customers now work through an agent, bringing Vanta's data and context directly into their workflows. At Vanta Delivers, we introduced new ways for GRC teams to build anything, anywhere: ✨ Vanta Agent Skills turn repeatable work into reusable workflows, so your agents know how your business  [...]  built the Trust Graph, so you can build without limits. Watch the latest Vanta Delivers on demand: https://bit.ly/4gJQChF
+
+7503905172826288129 | Vanta | link | 66w
+    Meet our 5 Industry Influence winners from this year's 25 to Trust 🏆 The leaders in this category are actively advancing trust beyond their roles through community, influence, and knowledge sharing. ✳️ Akhila Chitiprolu | Sierra ⚡️ Andrew Becherer | Socket 🌈 Ayoub Fandi | Lovable 🔼 Phil Grove | Atlassian 🧡John Hoffoss | Ovative Group https://bit.ly/4hYtdKm Thank you for all you do in this industry!
+
+7504584687172923394 | Vanta | image | 4w
+    currently: feeling secure 🫂
+
+7386710447972057088 | Velocity Partners | text | 222w
+    So. Big news. The kind that people write “We are delighted to announce…” posts about. For years, we've told clients that the thing that makes you famous is often the thing that holds you back. Now, as a brand that absolutely crushed it on [checks notes] *Slideshare* during the content marketing goldrush, we're finally taking our own advice. Because the  [...]  business. It's the same Velocity in a glorious new shape. We're stoked. We hope you will be too.
+
+7424133579363942401 | Velocity Partners | text | 192w
+    It's been over a year in the making, but today is finally here: Agent3 x Pretzl, Twogether, Publitek, This Machine and Velocity Partners are now officially one big Pretzl. We started a new company together because there's a new shape to B2B buying — with twists, folds and loops (and often a little salt). It's a toothy problem to solve  [...]  chapter. If that's you, head over to the Pretzl page, or head straight to Pretzl.com to explore more.
+
+7479897004836421633 | Watershed | video | 137w
+    📊 Imagine prepping a deck comparing YoY emissions for leadership. With Watershed agents, it's ready in minutes. The agents pull two years of footprint data, surface the biggest changes, break emissions down by scope and hotspot, and return a polished presentation with every figure traced to source. When customers get a last-minute ask like this, their first thought is now:  [...]  👇 → 9am PT / 12pm ET / 5pm BST: https://lnkd.in/gniNwYS9 → 9am BST / 10am CEST: https://lnkd.in/gEN_yDqg
+
+7479936340755652608 | Watershed | link | 106w
+    The Simplified ESRS are adopted. Join Madhav Seth from Watershed, Beat A. Schweizer at EY, and Sarah-Jane Denton at Travers Smith on July 9 for a rapid-response briefing on what the finalized requirements mean for your CSRD reporting, and how to start preparing without fear of rework. We'll cover: 🔹 Which data points remain mandatory and which are now voluntary  [...]  data yet Can't attend live? Register to receive the recording. Save your spot: 👉 https://lnkd.in/gKTG8bVj #ESRS #CSRD #EuropeanCommission
+
+7480294155278249984 | Watershed | image | 197w
+    👋 Meet Katie Hogan, Sustainability Specialist at Shamrock Foods Company and a Watershed AI Fellow. Katie is a one-person sustainability team. That shapes how she thinks about AI. “As a one-person sustainability team, I am always looking for ways to enhance my productivity. AI is a tool with great potential, but as a sustainability professional, I always worry about the  [...]  was the missing piece. More from Katie and the rest of the cohort soon! #WatershedAIFellows #Sustainability #AI #WatershedAIFellowship
+
+7481026799372496896 | Watershed | image | 137w
+    👋 Meet Christine Trella, Senior Sustainability Specialist at Cimpress and a Watershed AI Fellow. For Christine, the promise of AI in sustainability is more trustworthy data. “I'm deeply passionate about the underlying infrastructure of environmental sustainability data: data quality, adherence to standards, and rigorous third-party assurance. I wanted a space to explore how AI can be used to automate and  [...]  treating sustainability data with the same level of rigor and integrity as financial data. #WatershedAIFellows #Sustainability #AI #WatershedAIFellowship
+
+7481382872667553792 | Watershed | image | 101w
+    CDP just announced its 2027 disclosure window will be a month shorter than before, running April to late June. Less time, but no major changes expected to the questionnaire. Watershed's CDP report builder is designed to help you meet these new, tighter timelines. With prior-year answer import, AI-drafted qualitative responses, predictive scoring, and direct sync to the CDP portal, you'll  [...]  updates to push that even further. CDP 2026 is live in Watershed now. See what's new: https://lnkd.in/gnPsAKsB #CDP
+
+7481425361293991936 | Watershed | link | 111w
+    How are The Hain Celestial Group, Pearson, and Booking Holdings (NASDAQ: BKNG) putting Watershed AI to work? At our London Climate Action Week Summit, they shared how they're using Watershed agents to: 🔹 Build the data foundation for Booking Holdings' supplier engagement program 🔹 Help Pearson clean and reconcile 20,000 tons of paper data across languages and formats, saving 6  [...]  and Barco are building the business case for climate action. Watch the full collection of recordings 👉 https://lnkd.in/g3Rk4HuZ
+
+7482453398316019712 | Watershed | link | 164w
+    Watershed customers have driven more than $500 million in new clean energy investment. 270+ solar and wind projects. Six countries. Almost 400 MW of new capacity on the grid. More than 375,000 tonnes of CO2e avoided annually—equivalent to taking 80,000+ gas-powered cars off the road. Corporate clean power purchasing agreements declined globally in 2025 for the first time in nearly  [...]  clean power through Watershed. The grid needs more clean energy. Our customers are building it. Read more: https://lnkd.in/gp3jWPyf
+
+7482811149323804673 | Watershed | multi-image(4) | 257w
+    Across Eastern India, spreading crushed volcanic rock on farmland is helping remove carbon while increasing tea yields by up to 20% and paddy yields by up to 35%. Alt Carbon, one of Watershed's decarbonization solutions partners, uses enhanced rock weathering to turn degraded agricultural land into a long-term carbon sink. By spreading finely crushed basalt across farmland, the company accelerates  [...]  the climate projects available to Watershed customers. Learn more about Alt Carbon: https://lnkd.in/gGyeWita Explore Watershed's decarbonization solutions: watershed.com/platform/act
+
+7482881634493456386 | Watershed | image | 106w
+    On July 23, join Dr. John Bistline, our Head of Science, and Cooper Elsworth from Google as they cover Watershed's new, open methodology for measuring corporate AI emissions. AI-related electricity demand is growing roughly 15% per year, and sustainability teams are increasingly being asked to account for it. But no standard methodology has existed—until now. You'll learn: 🔹 How to  [...]  selection to region choice 🔹 What AI providers need to disclose for better reporting Register today 👉 https://lnkd.in/gSYdBPri
+
+7483203287136092162 | Watershed | multi-image(4) | 233w
+    At Tufts Cove in Nova Scotia, Planetary became the first company in the world to deliver independently verified ocean alkalinity enhancement carbon-removal credits, with buyers including Shopify, Stripe, and British Airways. Planetary, one of Watershed's decarbonization solutions partners, helps the ocean do more of what it already does naturally: absorb and store carbon dioxide. Its coastal ocean alkalinity enhancement approach  [...]  available to Watershed customers. Learn more about Planetary Technologies: www.planetarytech.com Explore Watershed's decarbonization solutions: watershed.com/platform/act #carbonremoval #decarbonization #climate
+
+7483565775593865216 | Watershed | multi-image(4) | 251w
+    In Colombia's Western Andes, nearly 100,000 native trees are helping reconnect one of the planet's most biodiverse and fragmented ecosystems. This work is led by ClimeCo, one of Watershed's decarbonization solutions partners. In Antioquia, ClimeCo is working with Saving Nature and Fundación Bioconservancy to restore a cloud forest within the Mesenia-Paramillo Nature Reserve, in a region home to over one-sixth  [...]  projects available to Watershed customers. Learn more about ClimeCo: https://lnkd.in/gjt7EVMe Explore Watershed's decarbonization solutions: watershed.com/platform/act #reforestation #decarbonization #carbonremoval
+
+7485000591803576321 | Watershed | multi-image(3) | 219w
+    When diesel prices spiked after COVID, Manthrei Konyak's rice-hulling business in a remote Indian village became unprofitable. Today, he runs it on solar power instead—more days a week, at lower cost, with zero diesel spend. Powertrust, one of Watershed's decarbonization solutions partners, connects corporate buyers with distributed renewable energy projects across the Global South, including rooftop solar and mini-grids that  [...]  and economic opportunity to more communities. Learn more about Powertrust: https://powertrust.com/ Explore Watershed's decarbonization solutions: watershed.com/platform/act #decarbonization #renewableenergy
+
+7485344651822931969 | Watershed | multi-image(4) | 254w
+    Across 2.5 million acres of U.S. farmland, more than 1,400 farmers are turning healthier soil into a scalable climate solution. This work is supported by Indigo, one of Watershed's decarbonization solutions partners. Indigo helps companies support farmers in adopting lower-impact practices like planting cover crops, reducing tillage, diversifying crop rotations, and using nitrogen fertilizer more efficiently. These changes can store  [...]  available to Watershed customers. Learn more about Indigo Ag: https://www.indigoag.com/ Explore Watershed's decarbonization solutions: watershed.com/platform/act #decarbonization #agriculture #carbonremoval

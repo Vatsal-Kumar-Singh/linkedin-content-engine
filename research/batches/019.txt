@@ -1,0 +1,169 @@
+# batch 019  -  55 posts  -  label per research/CLASSIFICATION-PROTOCOL.md
+# labels: problem exploration requirements selection validation consensus
+#         recruitment culture event product-news csr unclear
+# write research/labels/019.tsv as: <id><TAB><label>
+
+7489039900458053633 | Locus Robotics | video | 90w
+    What if I told you the robots supporting your picking operation could also help replenish inventory and manage returns? Locus Putaway enables warehouses to use the same robots across multiple workflows. Powered by LocusONE, picking and putaway tasks can be intelligently interleaved throughout the day, helping associates complete more work with less unnecessary travel. The result: • Fewer empty trips  [...]  shifts Connected workflows give warehouse teams greater flexibility as priorities, inventory, and demand change. Learn more here: https://lnkd.in/gSdgDB-X
+
+7490315710494093312 | Locus Robotics | video | 108w
+    Order profiles change. Customer requirements shift. And what's originally planned can change fast once operations go live. That's exactly what happened at pharmaceutical leader MSK Pharma Group. Working across two distribution facilities in Bensheim, Germany, MSK and Locus Robotics deployed a new workflow in just one week — from initial consultation to implementation. No major operational disruption. No long redesign  [...]  conditions don't stay fixed for long. 🎥 Watch the video case study: https://lnkd.in/ggk3KZzG #LocusRobotics #WarehouseAutomation #SupplyChain #PharmaceuticalLogistics #FulfillmentOperations
+
+7490794275438247936 | Locus Robotics | image | 114w
+    We are ONE week away from Built for Fashion: Flexible Automation for Apparel Fulfillment! Apparel operations must manage more than one peak. Demand spikes, changing order profiles, growing SKU complexity, and rising customer expectations can put fulfillment performance under constant pressure. Join Gina Chung, Chief Strategy Officer at Locus Robotics, to learn how leading apparel and retail brands are using  [...]  aisle with fewer manual touches Register for the live webinar on August 12 at 11:00 a.m. ET: https://lnkd.in/eZTNHcvG
+
+7493003313823748097 | Locus Robotics | image | 87w
+    Only two Automation Advantage Tour stops remain this year. The best way to understand warehouse automation is to see it running in a live operation. Join us in Dallas-Fort Worth or Boston to see Locus Robotics in action, get hands-on with the technology, and talk with industry experts about the challenges warehouse teams are working through every day. If warehouse  [...]  learn more and join us at one of the final two Automation Advantage Tour stops in 2026. https://lnkd.in/eA6YMsa2
+
+7493199736318091264 | Locus Robotics | video | 144w
+    “What we planned was actually no longer 100% true.” That's a familiar reality in fulfillment operations. What looks right in the planning phase does not always match what operations need once volumes, product categories, and customer requirements become real. For MSK Pharma Group, the value was in being able to adjust workflows without starting a long redesign or conversion project.  [...]  helping the business manage long-term growth. 🎥 Watch the video case study: https://lnkd.in/ggk3KZzG #LocusRobotics #WarehouseAutomation #SupplyChain #FulfillmentOperations #PharmaceuticalLogistics
+
+7493301542893228032 | Locus Robotics | image | 102w
+    Last chance to register. We're live today at 11 a.m. ET. Apparel fulfillment gets harder when peak volumes, SKU complexity, and changing order profiles all hit at once. The question is how to maintain performance without adding more operational constraints. Join Gina Chung, Chief Strategy Officer at Locus Robotics, to learn how apparel and retail operations can use flexible automation  [...]  aisle, delivering unmatched SKU coverage with fewer manual touches. There's still time to join us! Register now: https://lnkd.in/eZTNHcvG
+
+7493763477283450882 | Locus Robotics | video | 102w
+    Walking a tote across the building is not picking work. But in most operations it takes up a real part of the day. Inventory moving between zones. Parts out to a line. Returns back to processing. Someone carrying a box to a station because there's no faster way to get it there. Locus robots handle that too. The same fleet  [...]  the work through LocusONE. One fleet covering more of the workflow, without adding equipment or changing the layout.
+
+7495011645140692992 | Locus Robotics | video | 111w
+    “I would never work without robots again.” That quote captures the everyday difference that automation can make for warehouse teams. At MSK Pharma Group, teams quickly saw the difference between automation that people have to work around, and automation designed to support the way associates move on the floor. For teams handling a wide range of pharmaceutical products, that matters.  [...]  supported their work rather than disrupting it. 🎥 Watch the full story: https://lnkd.in/ggk3KZzG #LocusRobotics #WarehouseAutomation #FulfillmentOperations #SupplyChain #PharmaceuticalLogistics
+
+7495884068157472768 | Locus Robotics | image | 117w
+    Join us at Locus Park on October 1 for a full-day experience inside one of the world's most advanced robotics facilities. During the event, you will: • See autonomous fulfillment in action. Watch Locus Array pick and put away orders directly in the aisle, removing more than 90% of manual touches. • See 100% SKU coverage. Learn how Locus Array,  [...]  confidence. This is the final Automation Advantage Tour stop of 2026. Space is limited. Sign up now: https://lnkd.in/euA6uhvA
+
+7496193093088624641 | Locus Robotics | image | 141w
+    Many warehouse teams still rely on manual labor for picking, putaway, and other shelf-level tasks. Locus Array brings autonomous fulfillment directly to the point of work. Using Physical AI, vision-guided execution, and patented robotic grasping, Locus Array picks, puts away, and moves work directly in the aisle, reducing manual touches by over 90%. Join us on Thursday, September 10 at  [...]  the greatest operational value, and how it fits into existing operations Register now to secure your spot: https://lnkd.in/giu9XpYW
+
+7497630022459924480 | Locus Robotics | image | 192w
+    Join us at ECR iN MOTiON 2026 by GS1 Germany this September. As fulfillment networks face increasing pressure to move faster, adapt quickly and stay resilient, flexible automation has an important role to play. That's why from 16–17 September at the World Conference Center Bonn, we'll be joining the conversation around the future of retail and consumer goods operations. As  [...]  Sept. 17, MOTiON STUDIO 7 Book a meeting with Malte: https://lnkd.in/gq2TFpbE #ECRinMOTION #GS1Germany #LocusRobotics #WarehouseAutomation #RetailLogistics #SupplyChain #Robotics
+
+7497918220704821248 | Locus Robotics | image | 222w
+    Viele Unternehmen investieren aktuell in KI und Automatisierung. Die eigentliche Herausforderung besteht jedoch darin, daraus messbare Ergebnisse im operativen Betrieb zu erzielen. Wie lassen sich Produktivität steigern, Prozesse skalieren und gleichzeitig der ROI im Blick behalten? Genau darüber sprechen Experten aus Logistik, IT und Supply Chain Management beim platbricks® Experience Day 2026, zu dem unser Partner Arvato Systems am 16.  [...]  und Interessenten persönlich in Köln zu treffen. #ArvatoSystems #platbricks #LocusRobotics #WarehouseAutomation #SupplyChain #Logistik #Automatisierung #Digitalisierung #GenAI #Robotics #Intralogistics
+
+7498031546231062528 | Locus Robotics | image | 86w
+    Warehouse robotics can deliver real value, but the right strategy makes the difference. Join Tryon Solutions' Mark Lewis and Locus Robotics' Steve Simmerman for Warehouse Robotics: Strategy & ROI Behind the Hype. You'll leave with practical guidance for evaluating where robotics fits, building a strategy around your operation, avoiding common mistakes, and preparing for a smoother path to ROI. Attendees  [...]  to help assess next steps. September 15 | 1:00 PM EST Register now to secure your spot: https://lnkd.in/e5HdrwNU
+
+7498375997944418304 | Locus Robotics | image | 108w
+    Which warehouse automation model is right for your operation? The answer depends on more than throughput. Warehouse leaders today are balancing changing demand, labor availability, SKU complexity, and future growth. That means choosing an automation strategy isn't simply about speed. It's about selecting an approach that can adapt as your operation evolves. Our latest guide compares three fulfillment models: •  [...]  you're evaluating warehouse automation, this is a useful resource to help frame the conversation. Read the guide: https://lnkd.in/gYeAMWUW
+
+7498817906613465089 | Locus Robotics | image | 104w
+    Warehouse priorities can change quickly. A shift that starts heavy on picking may need to move into putaway, replenishment, induction, or returns as conditions change. Locus Array brings autonomous fulfillment into the aisle, picking and putting away directly at the shelf while reducing manual touches by over 90%, without adding fixed stations or rebuilding the warehouse. Join our webinar to  [...]  through LocusONE to support 100% SKU coverage. Register to join us September 10 at 11 AM ET. https://lnkd.in/giu9XpYW
+
+7499180861754331136 | Locus Robotics | image | 81w
+    Join us in Boston on October 1 for the final North America stop of the Automation Advantage Tour. See Locus Array in action and experience fully autonomous fulfillment firsthand, including our patented robotic grasping technology designed to handle a broad range of SKUs. Learn how Locus Array can help automate more warehouse work, reduce manual touches, and support higher throughput  [...]  change. Space is limited. Request your invite today. October 1 | Boston, MA Registration link in the comments.
+
+7500281478493294592 | Locus Robotics | video | 71w
+    What if I told you one order could move across multiple warehouse zones, with different robots working together to complete it? With Pick and Pass, LocusONE coordinates Locus Array, Locus Origin, and Locus Vector so each robot handles the part of the workflow it is best suited for. As the order moves from one zone to the next, the right robot takes over and keeps fulfillment moving without a manual handoff.
+
+7500496467850211328 | Locus Robotics | video | 184w
+    What does a 2026 Customer Site Tour Experience day contain? Here, Senior Solutions Engineer Inés Alcántara Mayoral shares what to expect, from seeing flexible automation at work, to hearing first-hand from Locus experts and the teams running operations on the floor. Each half-day tour is designed to give you a practical view of how facilities across Europe use Locus to  [...]  sign up now! 👉 Apply here, to save your space: https://lnkd.in/erawCRm2 #WarehouseAutomation #Fulfillment #SupplyChain #WarehouseOperations #Logistics #Robotics #LocusRobotics
+
+7500997104257945600 | Locus Robotics | image | 99w
+    Locus Array extends assisted fulfillment toward more autonomous warehouse operations by bringing autonomous picking and putaway directly into the aisle. Array goes to the shelf to pick and move items within the flow of the operation. Through LocusONE, it can work alongside Locus Origin and Locus Vector as part of one connected automation system supporting 100% SKU coverage. In our  [...]  a broader range of warehouse workflows. Join us September 10 at 11 AM ET to learn more. https://lnkd.in/giu9XpYW
+
+7502651648054489088 | Locus Robotics | image | 192w
+    As retail evolves, so do demands on warehousing, material flows and store logistics. Understanding those shifts and how best to respond to them is critical. That's why from 16–17 September at ECR iN MOTiON 2026 by GS1 Germany, we're joining the conversation in an interactive World Café workshop, “Future Dynamics of Intralogistics in Retail”. Based on EHI study findings into  [...]  Sept. 17, MOTiON STUDIO 7 Book a meeting with Malte: https://lnkd.in/gq2TFpbE #ECRinMOTION #GS1Germany #LocusRobotics #WarehouseAutomation #RetailLogistics #SupplyChain #Robotics
+
+7503153964134248450 | Locus Robotics | image | 77w
+    Just two days to go!! Join us on Thursday for a closer look at where Locus Array fits in warehouse operations, from shelf-level picking and putaway to broader automation through LocusONE. Hear from Neil Bentley, VP of Product Management, and Roy Belak, Sr. VP of Robotic Grasping, where they will cover the best-fit use cases for Locus Array and how it works alongside Locus Origin and Locus Vector through LocusONE. Register now to secure your spot! https://lnkd.in/ewYUs2S3
+
+7503385390616199168 | Locus Robotics | image | 150w
+    How can you scale pharmaceutical fulfilment without major disruption or investment in fixed automation infrastructure? Our 2026 Customer Site Tour Experience day at UniPharma, Middelburg, Netherlands is designed to show you how a real pharma facility has built more resilient operations with flexible automation. Apply now to join the half-day tour, and explore: ✅ How operations improve throughput while reducing  [...]  October, 2026 👉 Apply now, to save your space: https://lnkd.in/erawCRm2 #pharmaceutical #WarehouseAutomation #Fulfillment #SupplyChain #WarehouseOperations #Logistics #Robotics #LocusRobotics
+
+7503804829778001921 | Locus Robotics | image | 68w
+    Last chance to register! Join us today at 11:00 AM ET for a closer look at Locus Array and where autonomous shelf-level automation can make the biggest impact in warehouse operations. Neil Bentley, VP of Product Management, and Roy Belak, Sr. VP of Robotic Grasping, will cover best-fit use cases for Locus Array and how it works alongside Locus Origin and Locus Vector through LocusONE. Register now: https://lnkd.in/ekUwVgUX
+
+7440352012795486209 | Markforged | text | 57w
+    Faire avancer la maintenance aéronautique avec l'impression 3D : une mission que nous menons avec fierté aux côtés de l'Armée de l'air et de l'espace française pour garantir une disponibilité opérationnelle optimale. Driving progress in aerospace maintenance with additive manufacturing: we are proud to partner with the French Air and Space Force to guarantee peak operational availability.
+
+7441803167761186817 | Markforged | image | 81w
+    “We're interested in additive… but we don't really know where it fits.” We hear this often. And that's exactly where most teams get stuck. Because it's not about replacing what already works. It's about understanding when additive actually adds value. That's exactly what we'll explore together with Varbergs Precision AB. We'll walk through real parts they're producing today and how  [...]  their existing workflow. If these are the kinds of questions you're working through, join the conversation 👇 https://lnkd.in/eHKZ4qw3
+
+7444304914219941888 | Markforged | image | 54w
+    This Wednesday, we're hosting a virtual roundtable with Arno van Schaik from Varbergs Precision AB to take a closer look at how they're applying additive in real production environments. Using real parts as the starting point, we'll explore where additive fits and how it integrates alongside traditional processes. Join the discussion here 👉 https://lnkd.in/eHKZ4qw3
+
+7449441790509608961 | Markforged | multi-image(5) | 133w
+    Western Australian company Hydratune has developed a digital platform for the safe and accurate maintenance of hydraulic equipment that substantially reduces losses caused by hydraulic inefficiency on mine sites worldwide. “The flexibility of AM makes it easy and inexpensive to customize the product to meet unusual equipment configurations. Unit cost of the bracket has been slashed from $300 to $90,  [...]  thing to be able to do,” said Shane. Learn more in our full Customer Spotlight blog here: https://lnkd.in/eKnkw2NX
+
+7449819262325514240 | Markforged | video | 60w
+    Go from photo to printing in minutes. Introducing: Visual Search. No more searching through thousands of part files. If a part breaks, any team member can snap a photo, locate the digital part in Eiger, and Press Print. This is the future of AI-driven manufacturing workflows that help manufacturers today. Now in Open Beta, try it for yourself inside Eiger.
+
+7449984853040644096 | Markforged | image | 106w
+    Industrial drones & VTOL are scaling fast. The real question: can your manufacturing keep up? Join Markforged for a live webinar: https://lnkd.in/e4FtS6f4 Industrial Drones Are Scaling Fast – Is Your Manufacturing Ready? 📅 Thursday, 7 May ⏰ 10 AM SGT / 12 PM AEST Discover the 5 bottlenecks slowing UAV & VTOL innovation and how leading teams are overcoming them  [...]  Drone Federation India (DFI) DronTech Asia Drone Association Thailand Association of Aerospace Industries (Singapore) #drone #3dprinting #manufacturing #innovation
+
+7450469238407860224 | Markforged | image | 67w
+    We often hear the same thing: “Traditional manufacturing has its limits…”. That's exactly what we'll be discussing at Elmia 3D, where additive actually fits in real production environments, from composites to metal, and what's next with metal binder jetting. If you have parts that are slow, expensive, or just frustrating to produce, bring them by our booth and let's chat. That's usually where the best conversations start!
+
+7452492743278366724 | Markforged | link | 84w
+    Companies like Gamma Rotors, Autodesk, BRINC, Boduk, Raphe, and Dotterel are already using industrial 3D printing to move faster. Learn from their journey - what worked, what didn't, and how they're scaling production. 📅 7 May 2026 | ⏰ 10 AM SGT / 12 PM AEST Register Here: https://lnkd.in/e4FtS6f4 AAUS - Australian Association for Uncrewed Systems UAVNZ – The Commercial  [...]  (DFI) DronTech Asia Drone Association Thailand Association of Aerospace Industries (Singapore) #drone #3dprinting #manufacturing #innovation #dronetechnology #UAV #advancedmanufacturing
+
+7454712230396219392 | Markforged | video | 153w
+    From lightweight UAV surveillance to large UAVs operating in swarms, companies like Raphe mPhibr rely on Markforged technology to accelerate production and scale manufacturing without sacrificing performance or control. • Faster production cycles from design to part • Lightweight, high-performance components without compromising strength • Secure, in-house manufacturing to protect IP and reduce external dependency • Combined additive + subtractive  [...]  Association of Aerospace Industries (Singapore) Phillips Machine Tools India Private Limited #drone #3dprinting #manufacturing #innovation #dronetechnology #UAV #advancedmanufacturing
+
+7454812718114570240 | Markforged | image | 71w
+    At Danone's dairy plant in Bieruń, Poland, a set of vacuum grippers was redesigned for 3D printing, resulting in an 80% reduction in part cost and dramatically shorter lead times. It's a small change on the surface, but one that directly impacts uptime, flexibility, and how quickly production can adapt. This is where additive starts to make immediate impact. Want to explore where it could fit in your process? → https://lnkd.in/eySyVMz4
+
+7455313275493335040 | Markforged | multi-image(4) | 121w
+    In the automotive world, one size rarely fits all. For Sky AutoNet, the challenge was clear: every car has a unique camera position and shape, making traditional mock-ups for monitor housing covers a slow and expensive hurdle. By bringing Markforged technology in-house, they've completely rewritten their production playbook. The Breakthrough: 1️⃣ - 80% Cost Savings: Per-part costs dropped from $800  [...]  and verification, Sky Autonet has boosted human productivity and accelerated their entire development cycle. #3DPrinting #AutomotiveEngineering #AdditiveManufacturing #Innovation
+
+7457348496740798465 | Markforged | image | 92w
+    Most manufacturing teams don't have a cost problem, they have a *waiting* problem. Waiting on suppliers. Waiting on parts. Waiting to make a change. Spectrum Technology ran into exactly that with something as simple as guide plates. They were machining them for ~€220 each. Now they print them in-house for ~€27, and if something needs to change, they don't wait.  [...]  and adapt.” Are you looking to identify where that shift could happen in your own process? → https://lnkd.in/eUawd7hd
+
+7457784141544321025 | Markforged | image | 113w
+    Industrial manufacturing is changing fast, but most production challenges still come down to the same things: lead times, cost, flexibility, and keeping operations moving. That's what we'll be focusing on at Elmia 3D this year. 📅 19–22 May 2026 📍 Elmia 3D | Jönköping, Sweden We'll be showcasing real production applications across composites and metal, including tooling, fixtures, replacement parts,  [...]  interesting applications. 🎟️ Get your free ticket(s) to join us at Elmia 3D: https://lnkd.in/gcUzqs8i See you in Jönköping!
+
+7459868802097463296 | Markforged | image | 92w
+    Most production delays don't come from machining. They come from waiting around it. Waiting on fixtures. Waiting on tooling changes. Waiting to adjust a setup. Varbergs Precision AB started printing magnetic vice fixtures to make CNC setup operations faster and more flexible in-house. The biggest improvements come from small tooling changes: • shorter lead times • faster setup changes •  [...]  manufacturers move faster when production needs change. Where could you remove waiting from your own process? → https://lnkd.in/eUawd7hd
+
+7460301350237601792 | Markforged | image | 95w
+    Join us at Eurosatory 2026 We would like to thank the European Defence Agency for organizing the AM Village at this pivotal event for the defense community. We look forward to showcasing how our industrial 3D printing platform helps defense and enterprise manufacturers—from the US Navy to European organizations—maintain combat readiness through secure, distributed manufacturing. Ready to harden your supply  [...]  our defense specialists during the show. #AMLovers, #AM, #EDA, #AMVillage, #strongertogether, #EUdefence, #military, #logistics, #EU, #Europe, #AdditiveManufacturing, #3Dprinting.
+
+7462403520223281153 | Markforged | video | 75w
+    What happens when advanced design meets agile manufacturing? Autodesk showcases how modern manufacturing teams are using digital workflows and additive manufacturing to solve real production challenges. Faster iteration, reduced complexity, and more agile production. Real applications. Real impact. This is where additive manufacturing creates the biggest shift: helping teams adapt faster when designs change, timelines tighten, and production needs evolve. Curious about where manufacturing agility can make the biggest impact in your workflow? → https://lnkd.in/eUawd7hd
+
+7462764960302002176 | Markforged | multi-image(3) | 67w
+    Day 2 of Elmia 3D 2026 starts now! Printers are running and we're ready for another day of great conversations where additive manufacturing fits into real production. From tooling and fixtures to composite and metal applications. If you're visiting the show today, stop by Booth C06:23 and meet the team at Markforged. We'd love to talk through your applications, challenges, and opportunities for faster, more flexible manufacturing.
+
+7462864360240005120 | Markforged | multi-image(4) | 123w
+    Today at Elmia 3D, we handed over 4 printed cooling jackets to KTH Formula Student for their motors as part of our ongoing collaboration supporting the next generation of engineers and innovators. Over the past season, their team ran VEGA cooling jackets directly on their electric motors under demanding race conditions. This helped optimize packaging, reduce weight, and maintain stable  [...]  Formula Student team for the collaboration and trust. Looking forward to seeing this year's updated design in action!
+
+7464968944479518720 | Markforged | image | 66w
+    As drone technology continues to evolve, so does the need for faster, more flexible manufacturing. From lightweight components and custom mounts to tooling, fixtures, and replacement parts, additive manufacturing helps organizations reduce lead times and adapt more quickly when requirements change. The result? Faster iteration, greater design freedom, and shorter development cycles. Where could greater manufacturing agility make the biggest impact in your workflow? → https://lnkd.in/eUawd7hd
+
+7465336900086796288 | Markforged | image | 62w
+    Build strong, accurate parts for every defense requirement—from factory tooling to field-ready components—using the industrial 3D printing platform engineered for your mission-critical production needs. Join us at Eurosatory in Paris to see how the Digital Forge delivers mission readiness at the tactical edge. Special thanks to the European Defence Agency #AMLovers, #AM, #EDA, #AMVillage, #strongertogether, #EUdefence, #military, #logistics, #EU, #Europe, #AdditiveManufacturing, #3Dprinting.
+
+7467189291891367937 | Markforged | video | 80w
+    In the world of advanced R&D, "good enough" doesn't cut it. To look five to ten years into the future of manufacturing, Autodesk Research needs hardware that matches their ambition. "What really matters to us are machines that work well. The reports from my team were: they always work." Autodesk Research relies on its suite of Markforged printers to rapidly  [...]  for their research project, like their 300 pound UAV. Learn more from the full customer story here: https://lnkd.in/ezGJffwZ
+
+7467853537897758720 | Markforged | video | 170w
+    How many times during the design of an automated packaging line have you been forced to iterate on countless parts, only to face late-stage modifications? The "old way" doesn't just drive up costs—it drains your most precious resource: time. In the race to commissioning, every wasted hour is a hit to your bottom line. This is where #AdditiveManufacturing transforms the  [...]  a real industrial environment. Want to cut your lead times? Contact our technical team for a consultation: https://lnkd.in/dX3Pxbmz
+
+7468687548983332864 | Markforged | link | 123w
+    "For every 10 people that leave the manufacturing sector as machine operators, only one comes in" - Jordan Kretchmer, Co-Founder and CEO of Rapid Robotics. How do businesses solve complex manufacturing problems during a skilled labor shortage? For ‪Rapid Robotics, it all comes down to being fast, economical, and easy-to-use. Enter Markforged. Rapid Robotics uses The Digital Forge to 3D  [...]  Now, they're able to meet their customers' needs, and face the labor crisis head-on in the process. https://lnkd.in/gqxus-8u
+
+7469769666794618881 | Markforged | image | 62w
+    The countdown to Eurosatory 2026 is on. In just one week, Paris will welcome thousands of Defence & Security professionals, industry leaders, experts, and official delegations from around the world. Five days of conversations, collaboration, and opportunities to shape the future of Defence. We look forward to seeing you there. #AMLovers, #AM, #EDA, #AMVillage, #strongertogether, #EUdefence, #military, #logistics, #EU, #Europe, #AdditiveManufacturing, #3Dprinting.
+
+7469906041204498433 | Markforged | link | 92w
+    🚀 WEBINAR INVITATION: Additive Manufacturing for Aerospace How are aerospace leaders such as Airbus, NASA, Lufthansa, and Sidus Space using additive manufacturing to accelerate innovation and strengthen supply chains? Reserve your Seat: https://lnkd.in/gpKMB2H8 Join Markforged to discover how aerospace, defense, UAV, and UAM manufacturers are leveraging Continuous Fiber Reinforcement (CFR) and Digital Inventory to reduce lead times, replace metal parts,  [...]  strategies for building more resilient manufacturing operations. Register now: https://lnkd.in/gpKMB2H8 #aerospace #defence #additivemanufacturing #UAV #3dprinting #advancedmanufacturing #digitalmanufacturing #supplychain
+
+7470015351041339392 | Markforged | video | 52w
+    Up to 75% cost reduction. That's the reality for German manufacturer WESCAD GmbH using the FX10. By leveraging our industrial additive manufacturing platform, they now produce high-strength reference products and fixtures with significantly higher efficiency than traditional methods. Ready to identify where this shift can happen in your own facility? → https://lnkd.in/eUawd7hd
+
+7472301116366499842 | Markforged | multi-image(2) | 77w
+    Our team has been having excellent discussions at Eurosatory 2026. If you're in Paris, visit us in the AM Village, supported by the European Defence Agency (Hall 4, Booth 101), to meet the team and see the X7 FE in action. Discover how distributed manufacturing can help strengthen program resilience and reduce supply chain dependencies. We look forward to connecting with you at the show. #AMLovers, #AM, #EDA, #AMVillage, #strongertogether, #EUdefence, #military, #logistics, #EU, #Europe, #AdditiveManufacturing, #3Dprinting
+
+7472623559043960832 | Markforged | video | 132w
+    In the automotive sector, every gram matters—not just on the vehicle, but on the assembly line. Reducing robotic weight means faster cycle times and less wear. That's why Italian automation specialist McService turned to our industrial 3D printing platform. Watch their video to see the custom end-of-arm tooling in action. Printed in under 48 hours—saving weeks compared to traditional manufacturing  [...]  This translates into reduced costs, lower weight, and faster production." Ready to optimize your production line? → https://lnkd.in/eUawd7hd
+
+7472649190897217536 | Markforged | video | 121w
+    Introducing Onyx GF. Bring Functional Color and Industrial Strength to your factory floor. In high-pace manufacturing facilities, color functions as one of the fastest and most reliable visual signals for communicating critical operational information at a glance. It facilitates everything from immediate hazard warnings and part classification to clear product line differentiation. Onyx GF is available immediately in six highly  [...]  Onyx GF is naturally non-conductive, rendering it ideal for applications requiring robust electrical isolation. Learn more here: https://lnkd.in/dF59k2iV
+
+7472898666656108544 | Markforged | image | 59w
+    Eurosatory is underway, and our team is on the ground. Visit us in the AM Village, supported by the European Defence Agency (Hall 4, Booth 101) to connect with our experts, learn more about our solutions, and explore opportunities to collaborate across the defense and security ecosystem. #AMLovers, #AM, #EDA, #AMVillage, #strongertogether, #EUdefence, #military, #logistics, #EU, #Europe, #AdditiveManufacturing, #3Dprinting
+
+7473182214596345856 | Markforged | image | 109w
+    🚀 Just 1 Week to Go: Additive Manufacturing for Aerospace [Webinar] How are industry leaders like Airbus, NASA, Lufthansa, and Sidus Space using additive manufacturing to accelerate innovation, improve supply chain resilience, and reduce production lead times? Join Markforged to explore how aerospace, defence, UAV, and UAM manufacturers are leveraging Continuous Fiber Reinforcement (CFR) and Digital Inventory to replace metal  [...]  2026 at 12pm SGT 🎟️ Reserve your seat: https://lnkd.in/gpKMB2H8 #aerospace #defence #additivemanufacturing #3dprinting #UAV #UAM #advancedmanufacturing #supplychain #markforged
+
+7473390214917566464 | Markforged | video | 110w
+    For PakTech, maintaining the integrity of container seals is a critical quality control metric. To measure the force required to remove an anvil from sealed containers across their product range, the Quality Department historically relied on plates machined from aluminum. While functional, aluminum was over-engineered for the application. It was heavy, expensive to replace, and tied up the facility's tool  [...]  right tool for the test in front of them... Until now. Meet Onyx GF. Learn more here: https://lnkd.in/dF59k2iV

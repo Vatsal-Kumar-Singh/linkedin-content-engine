@@ -1,0 +1,169 @@
+# person batch 006  -  55 posts  -  research/CLASSIFICATION-PROTOCOL.md
+# labels: problem exploration requirements selection validation consensus
+#         recruitment culture event product-news csr unclear
+# write research/labels_people/006.tsv as: <id><TAB><label>
+
+6888558334065160192 | Kenzo Fong | text | 75w
+    Some thoughts I shared with Fast Company about how we can bring some sanity back to the workplace and move away from this avalanche of meetings, distractions, and never-ending workdays. Part of it is to be open to a different way of working. Part of it is to use tools like Rock that bring order  [...]  you to be more thoughtful about how you want to communicate with your team. #futureofwork #teamcollaboration
+
+6902429559304658944 | Kenzo Fong | text | 74w
+    I had the chance to chat with Kathleen Davis and Josh Foreman from InDebted on Fast Company's The New Way We Work podcast about the future of workplace flexibility. With Rock – we're playing our role by rethinking how productivity tools should work in a way that allows for more focus, less meetings, and a  [...]  Listen in on our conversation about the benefits of asynchronous work and four-day work weeks here:
+
+6950149432348749824 | Kenzo Fong | text | 46w
+    Beyond building a product that brings order to chaos with Rock, we're also building a fully distributed company that allows anyone to work from anywhere. Check out how async work has allowed Nicolaas Miguel Spijker to be highly productive while traveling the 🌎. #work #async #startups
+
+6978009294608756736 | Kenzo Fong | link | 42w
+    Rock is going live on Product Hunt in less than 24 hours! Excited to share the hundreds of features & improvements we've launched to bring some sanity back to workplace collaboration. Sign up to get a notification when we go live: https://lnkd.in/gccfD8Gg
+
+7122639247848706048 | Kenzo Fong | text | 67w
+    Bash helps with analyzing, writing, and sharing information and provides 18 marketing templates incorporating best practices, frameworks, and more to help you level up your marketing in no time. This can significantly speed up analysis, ideation, and drafting of marketing briefs, product messaging, creative, content, and so many more things. What is something you're doing today that you would love to have AI help with? #marketing #ai
+
+7124831843333373952 | Kenzo Fong | text | 25w
+    We just published the inaugural edition of The Weekly Bash focused on practical implications of AI on productivity. What have you been reading this week?
+
+7127386454753759232 | Kenzo Fong | link | 36w
+    This week's Bash is focused on how AI will change the job market and what you can do to prepare. Want to go deeper into everything in the newsletter? Check out this topic on Bash: https://lnkd.in/g2wDAJTY
+
+7130344112033034241 | Kenzo Fong | link | 37w
+    AI is now negotiating contracts with other AIs, McKinsey & Company shares insights on how you can massively improve your productivity, and OpenAI introduces GPTs. Want to find out more, check out this topic on Bash: https://lnkd.in/e8Z3cmyt
+
+7252728442440298496 | Kenzo Fong | text | 49w
+    37% of your time at work is spent in meetings and if you're a manager this gets closer to 50%. Wouldn't it be nice if you could get some help not just with meeting minutes, but also get a head start with writing briefs, project plans, and planning docs?
+
+7257879906334748673 | Kenzo Fong | text | 29w
+    Super insightful article from Ellen Merryweather. Too much jargon in your meetings or are you just struggling to connect with your cross-functional partners? Check out the tips below 👇
+
+7386052587910905857 | Kevin Dunn, PMP® | multi-image(2) | 210w
+    Wooooohoo! I'm thrilled to share that both Airtable Academy and I have been nominated for Program of the Year and Voice of the Year in this year's ACE Awards, which recognize the people and programs who are moving customer education forward. 🏆 ACE Program of the Year recognizes customer education programs that truly raise the  [...]  the link in the comments obv. 🗳️ 😉 #Airtable #AirtableAI #AirtableAcademy #AirtableCommunity #ACEawards #CustomerEducation #CE #CEdMA
+
+7392608429418180608 | Kevin Dunn, PMP® | text | 90w
+    Joining us at Airtable London next month? Come find the #AirtableAcademy and #AirtableCommunity teams! Madeline Johannsen, Anne Marie Rützou Bruntse, and I will be leading the AI Masterclass event in the morning, the Builder Lab session in the afternoon, and we'll be stationed at our demo booth all hours inbetween! (Fun fact: Builder Lab is  [...]  called "Dragon's Den" in the UK and it actually came *before* Shark Tank in the US...)
+
+7402043569131188224 | Kevin Dunn, PMP® | multi-image(4) | 185w
+    London showed *up* last month. 🇬🇧✨ It's been exactly 3 weeks since Airtable hosted our biggest EMEA event to date and the Digital Programs team brought our AI Masterclass and Builder Lab events across the pond... and the energy was unreal. From hands-on prompting and use-case design to Shark-Tank-style (or I guess Dragon's Den-style?) pitch  [...]  would *you* want to see in an AI Masterclass next year? 🤔 #Airtable #AirtableAcademy #AirtableCommunity #AirtableAI
+
+7407101538013229057 | Kevin Dunn, PMP® | image | 122w
+    Most conversations about product adoption focus on features... but the *real* story happens elsewhere: ...in the friction users experience the first time they try something new ...in the hidden moments where enablement actually happens ...in the speed at which teams can understand, practice, and repeat On Dec 18th (tomorrow!), I'm joining Sébastien Chatelier and the  [...]  Join us for the LIVE stream via the link below 👇 #CustomerEducation #CustomerSuccess #SoftwareAdoption #DigitalCX #ProductEnablement
+
+7415430160558039040 | Kevin Dunn, PMP® | link | 87w
+    Last call (and last shameless plug) for CMX Community Industry Awards and the *SIX* awards that Airtable Community is up for -- voting closes today! If the Airtable Community has ever helped you out, answered a question, unblocked a blocker, or sparked some inspo... whether it be from our forums, one of our user groups,  [...]  MVP, or from Madeline Johannsen and Grace Cheung themselves... consider voting for the team here: http://cmxhub.com/awards
+
+7430267035215077376 | Kevin Dunn, PMP® | text | 160w
+    The Airtable Effect's February 2026 edition is live! This month's newsletter is packed with big builds, big launches, and even bigger opportunities for the Airtable community 👇 🧠 The brand new, first ever Airtable Buildathon is here: 300 builders. $100K+ in prizes. One day to build AI-powered solutions live in NYC (March 19) 🦸 Meet  [...]  you share, or join the conversation in the Airtable Community. #Airtable #AirtableAcademy #AirtableCommunity #AirtableAI #AI #NoCode
+
+7432795477949079552 | Kevin Dunn, PMP® | text | 40w
+    In my completely objective, unbiased, non-hyperbolic perspective, this will be the greatest corporate event in the history of corporate events. Winners build with AI, and if you join us in NYC next month, you can be the winner who wins.
+
+7435412573321056256 | Kevin Dunn, PMP® | text | 19w
+    The first ever Airtable Buildathon is coming to NYC in two weeks and it's going to be frickin sick
+
+7437848043556745216 | Kevin Dunn, PMP® | text | 92w
+    The March edition of The Airtable Effect is live! This month's edition is a DOOZY and is packed with AI-powered building, the launch of the Airtable Creators Club, brand new Academy courses on building custom interfaces with Omni, and big moments from the Airtable community. (a quick tl;dr if this is the first time this  [...]  product launches and Academy updates to community stories and upcoming events) #Airtable #AirtableAI #AirtableAcademy #AirtableCommunity #NoCode
+
+7440055878545739776 | Kevin Dunn, PMP® | text | 26w
+    If, hypothetically, you were scheduled to MC the inaugural Airtable Buildathon and had to pick a song for your walk out/entrance music... what would it be?
+
+7454911504811905024 | Kevin Dunn, PMP® | image | 168w
+    At Airtable, we've been building around a simple belief: builders are the heroes of the story. Community-led growth works because the people closest to the work usually have the best answers -- and in an AI-first era, that matters more than ever. AI is changing how work gets done, but the story worth telling lives  [...]  and even more, the Airtable builders proving the point every day 🙏 #Airtable #NoCode #Top100CLG2026 #CLG
+
+7462923902973980673 | Kevin Dunn, PMP® | text | 40w
+    🗣️Calling all Airtable builders in Boston -- join us for #BOSTechWeek and get hands on with Airtable's AI and agentic capabilities. Word has it there's a (sick) prize up for grabs for whoever demos the coolest build of the day...
+
+7468011763549114370 | Kevin Dunn, PMP® | video | 234w
+    Big news for Airtable builders and AI practitioners: we've launched the new Agentic Systems Design certification, available now in #AirtableAcademy. For years, we've designed apps for the people using them. Clean schemas, engaging interfaces, the works. But now, it's not just people opening your base. It's AI agents. And they read your app very differently  [...]  that brought this one to life and excited to see it out in the world 🙌
+
+7470124534109597696 | Kevin Dunn, PMP® | text | 169w
+    The June edition of the Airtable Effect is live! This month was a big one for builders, AI practitioners, and the whole Airtable community 🤘 A few highlights: • We launched the new Agentic Systems Design Certification, focused on designing Airtable systems where AI agents can reliably read, reason, and take action. Go take it  [...]  in Airtable and what you're delegating out to agents these days. 👇 #Airtable #AirtableAcademy #AirtableCommunity #AI
+
+7493323985565356032 | Kevin Dunn, PMP® | text | 135w
+    🚀 The August edition of The Airtable Effect is live! And with Airtable Summer Camp underway, AMAs all over r/Airtable, upcoming Airspace events, and some can't-miss early reactions on the new Agentic Systems Design certification... there's a lot to recap. Product-wise, this month we're digging into how Airtable is making it easier for AI agents  [...]  community events. Check it out, smash that like button, and subscribe plz 👇 #Airtable #AirtableAcademy #AirtableCommunity
+
+6774892165781975040 | Manish Jha | text | 1w
+    #botvalley
+
+6788469470080860160 | Manish Jha | text | 1w
+    #AIforALL
+
+6790658873150853121 | Manish Jha | text | 8w
+    #AMR #pathplanning #trafficmanagement #itaskscheduling #taskclustering #fleetmanagement #flexibleautomation #machinelearning
+
+6885241857090170880 | Manish Jha | text | 37w
+    Prabhjot Singh is very dedicated and detail oriented individual, who never shied away from complicated or challenging problems. He is a brilliant software development engineer and would clearly be a great asset for every tech team. #thanksforyoursupport
+
+6889558504886149120 | Manish Jha | text | 3w
+    #Addverb #BotValley #robotics
+
+7177241193645240320 | Manish Jha | video | 47w
+    Experience the incredible journey of Addverb revolutionizing warehouse operations through automation and robotics, fueled by our unwavering commitment to innovation and empowering India's makers. Proud to contribute to building a robust robotics ecosystem in India with Addverb. #Addverb #Automation #Robotics #Innovation #MakeinIndia Invest UP CM Office, GoUP
+
+7476180676027838464 | Manish Jha | multi-image(7) | 191w
+    10 Years. One Incredible Journey. 🤖✨ A decade ago, Addverb started with a bold belief that humans, robots, and possibilities could coexist to transform the way the world works. Today, standing in our office surrounded by the people who made it happen, I feel nothing but deep gratitude and immense pride. I've had a front-row  [...]  Human | Robot | Possibilities. 🚀 #AddverbTurns10 #10YearsOfInnovation #10nnovate #Robotics #WarehouseAutomation #Milestone #Leadership #Innovation #TeamAddverb #DecadeOfGrowth
+
+7482861725986443265 | Mark “Doobles” Deubel | text | 6w
+    In Rust we Trust. We're hiring!!!
+
+7483399298425044992 | Mark “Doobles” Deubel | text | 15w
+    Installing PostHog should not be painful… Oh wait.. It isn't! Our wizard has you back!
+
+7483496319559397376 | Mark “Doobles” Deubel | text | 6w
+    From PostHog, for you (the builder)
+
+7486389799948365824 | Mark “Doobles” Deubel | image | 81w
+    As you can see from the attached picture, I've decided to deploy a temporary feature flag for [Real-World Relaxation Mode] I'll be spending some time channeling my inner PostHog mascot, paddleboarding on a crystal clear lake, enjoying the mountains, the sun, and strictly avoiding any form of digital data ingestion. Since I'll have zero bars  [...]  mode] but terrible for answering messages, I won't be checking my inbox. I'll be back soon
+
+7490861226407665664 | Mark “Doobles” Deubel | text | 327w
+    A year ago today, I was enjoying break. A nice long break. After grinding through 3 high-growth startups, of which 2 went IPO, I took time off to recharge with my family and figure out my next move. My plan was simple: enjoy the summer, keep my head down, and stay on vacation for a  [...]  as I'm enjoying some time off with my family. i'll be back refreshed and energized soon!
+
+7494286767534071808 | Mark “Doobles” Deubel | text | 6w
+    And that's how the cookie crumbles
+
+7495376402188296192 | Mark “Doobles” Deubel | text | 10w
+    _build mode_ our new newsletter is here... check it out!
+
+7498625923487932416 | Mark “Doobles” Deubel | text | 26w
+    1: Dennis Ivy is amazing 2: This is a solid video! 3: at PostHog we get this, and candidates that go through our process love it
+
+7498998174498357249 | Mark “Doobles” Deubel | link | 56w
+    Stop being the code review bottleneck. PostHog we're merging 6x as many pull request now as just a few months ago. Want to know how we do this? 8 minutes of your time watching Dennis Ivy will give you hours and hours back. Talking about ROI !! Check out the video now. Don't procrastinate ! https://lnkd.in/eRqAPZ_M
+
+7499146422034817024 | Mark “Doobles” Deubel | image | 218w
+    Here's to the tech writers. The translators. The simplifiers. The sense-makers. The ones who look at a labyrinth of APIs, LLMs, and data infrastructure, and see a story waiting to be told. They're not fond of jargon. And they have absolutely no respect for generic SEO fluff or "AI slop." You can edit their drafts,  [...]  other cases, apply directly or reach out to Zbynek! More about the role below the post
+
+7500821007750930432 | Mark “Doobles” Deubel | text | 35w
+    This is Michael Kutsch.. He's saying smart things... Want to work in his team? We have two SRE positions open in US timezones! Check our website, fall in love, and apply ;) #SiteReliabilityEngineer #SRE #Infrastructure
+
+7500889046244691968 | Mark “Doobles” Deubel | image | 157w
+    The brief was simple: "Make it iconic, bold, and unmistakably PostHog." The result: A massive airship floating silently past Salesforce Tower that looks suspiciously like a giant 🍆. Expected outcome: Establish brand authority in self-driving for your product. Actual outcome: 4,000 tweets asking why an eggplant is judging everyone's PRs from the stratosphere. If you  [...]  next? Drop your worst ideas below. (Airships are legally off the table). And yes we're hiring!
+
+7501247648449101824 | Mark “Doobles” Deubel | link | 106w
+    Internal developer platforms usually assume that an engineer is the user. But as product teams delegate more work to coding agents, the interface to infrastructure is changing. A portal alone cannot tell an agent which patterns are current, which legacy examples to avoid, or when a deterministic operation should take over. Michael Kutsch, Team Lead  [...]  dangerous. And the best news? We're hiring for two SRE's (US timezones) on his team! https://lnkd.in/enjFarmy
+
+7503033158188109824 | Mark “Doobles” Deubel | link | 72w
+    For my Technical Customer Success Managers out there ❤️ If you have solid technical chops, love working with customers, and have a commercial acumen sharp enough to rival a hedgehog's instincts. Then you might be who we are looking for here at PostHog Oh, and don't send all your DM's to me (unless I really  [...]  you)... You can send them to Júlia Esteban Edo! Or just apply of course ;) https://lnkd.in/p/eAKpmANc
+
+7504085621599211520 | Mark “Doobles” Deubel | image | 90w
+    It's Friday... a beautiful day to help... you! At PostHog we believe in transparency and we bring it into practice. Especially when it comes to getting a job at PostHog, we share a lot already. https://lnkd.in/eJatj2kf https://lnkd.in/eAViYCmt https://lnkd.in/eQW9K9ai We even go more specific! https://lnkd.in/ekZ6PQgS https://lnkd.in/eDmmEdxk If you're thinking about applying at PostHog, I encourage you  [...]  If you are hiring for your company/team, take a look as well, it might inspire you.
+
+7414687474209476608 | Matt Farrell | text | 44w
+    Excited to share that Novo Nordisk International Operations is moving to #VaultCRM! With agentic AI, Vault CRM will support global business and compliance needs to help their field teams be most effective. Thanks to the Novo Nordisk team for your ongoing partnership. #lifesciences #VeevaAI
+
+7420095720252268545 | Matt Farrell | image | 102w
+    Veeva Systems's 2026 predictions are in: https://lnkd.in/g8ssTE5j This year, the most successful biopharmas won't just have the best science, they'll have the most connected processes. The shift is clear, the industry is moving toward high-impact AI that prioritizes the people behind the process. It's about AI with purpose, shortening the path from trial to treatment  [...]  moving towards a unified commercial engine where every insight leads to the right action. #VaultCRM #2026Predictions
+
+7430597162360733697 | Matt Farrell | image | 165w
+    The passion in the life sciences community makes progress possible, but often, it's those casual, in-person conversations that turn that passion into action. This May, Veeva Systems Commercial Summit is back in Boston to showcase exactly how to drive commercial efficiency and better patient outcomes. Register and explore the full agenda https://lnkd.in/eRYgdBhV packed with sessions  [...]  drop a note below about what you're most looking forward to this year. #2026CommercialSummit #LifeSciences #VaultCRM
+
+7434583519462469632 | Matt Farrell | image | 93w
+    125+ customers globally – including multiple top 20 biopharmas – are now live on Veeva Vault CRM, marking a significant milestone in the industry's move towards agentic customer engagement. https://lnkd.in/gdwvcvc2 It's rewarding to see this momentum as we deliver the next generation foundation for commercial execution. With the availability of Veeva AI, we are focused  [...]  partnership as we work together to drive the next chapter of commercial excellence. #VaultCRM #LifeSciences #VeevaAI
+
+7437170287416135680 | Matt Farrell | text | 43w
+    Very excited to welcome Ostro to Veeva! Great people and a perfect fit with Veeva's mission driven culture. We are shaping the future of AI-driven customer engagement in Life Sciences and I look forward to working with the Ostro team to deliver it!
+
+7445824934603513857 | Matt Farrell | image | 106w
+    After a couple of false starts, it feels like Spring is here... finally! 🙂 This time of year always gives me a boost of energy. It's more than just the warmer temps or the increased daylight (or baseball starting!), it's the feeling of opportunity. I find it to be a great time for some professional  [...]  are a lot of exciting opportunities ahead, and I'm looking forward to it! #GrowthMindset #Perspective #SpringForward
+
+7452745901351264256 | Matt Farrell | image | 168w
+    Last week we held our 2nd Annual Veeva Global Executive Forum. It was a gathering of truly inspiring leaders, and in an industry as complex as life sciences, the opportunity to step outside of the day-to-day and engage in open, collaborative conversations is invaluable. As you might have guessed, there was a lot of conversation  [...]  the link in the comments. I hope to see many of you there! #2026CommercialSummit #LifeSciences #Innovation
+
+7460395935362228226 | Matt Farrell | text | 42w
+    Honored to be sharing the stage with Sopheara Peoples to talk about how GSK is reimagining customer engagement in the agentic era and the tangible outcomes they are achieiving. Sure to be fantastic insights and lessons learned- hope to see you there!

@@ -1,0 +1,214 @@
+# batch 004  -  70 posts  -  label per research/CLASSIFICATION-PROTOCOL.md
+# labels: problem exploration requirements selection validation consensus
+#         recruitment culture event product-news csr unclear
+# write research/labels/r2_004.tsv as: <id><TAB><label>
+
+7495501059310931969 | Deel | video | 11w
+    Drop everything. 26/27 Arsenal Football Club squad energy incoming 💥 🎬
+
+7495772081054318592 | Deel | video | 87w
+    ⏰ Lost time waiting for answers to data questions? Not around here. Nobody should have to wait for workforce data insights. And yet, most reporting still routes through one team, or even just one person. So we fixed it. ✨ 🗣️ Ask a question in plain English (headcount cost, hiring pace, payroll variance) and AI builds the report in seconds.  [...]  sees the data their role gives them access to. ⚡ No waiting. No pivot tables. Just the answer.
+
+7495801888454590464 | Deel | video | 13w
+    Squad assemble! Time to roll up our sleeves 💪 🤝 Arsenal Football Club
+
+7496216961924796416 | Deel | text | 36w
+    Doing HR and payroll yourself is hard. But doing it through the wrong PEO is even worse. Skip the buyer's remorse by asking these three questions during the selection process. (And save 🔖 for future reference.)
+
+7496224529967370240 | Deel | image | 101w
+    At Deel, we believe that how you give matters as much as what you give. This year, our team voted on where Deel directs its charitable giving, and two organizations rose to the top: Talent Beyond Boundaries and Technovation. Both align with what we do: expanding opportunity across borders and building skills for tomorrow's workforce. But this wasn't just a  [...]  🤝 That's funding, hours of hands-on volunteering, and real support for organizations doing work that mirrors our mission.
+
+7496552216439345152 | Deel | video | 54w
+    Admit it. It's Friday and you're mentally somewhere with a worse signal and a better view 🏖️ Don't fight it. Just make it official. Open the Deel app. Request the days. Go back to comparing flights. Work, pay, everything in between. In the Deel mobile app. Available on iOS and Android, link in comments.
+
+7496578138370547713 | Deel | video | 72w
+    Claire is an aspiring chef who books the biggest DJs in the world from the corner of her bedroom.…🪩 So we brought the party to her. See the glow-up in episode 3 of "Bless This Desk", our series giving the world's worst work-from-home setups a $2,000 makeover. ✨ Do you have a desk that needs blessing? Drop yours in the comments to be featured in the next series! 👇 -- Studio: PATHETIC
+
+7497673022040977409 | Deel | video | 15w
+    Yes, this is real. Snoop Dogg and Dr. Bombay are hiring. Applications open 8/27. 🌍
+
+7498043167838081024 | Deel | image | 36w
+    Applications officially open this Thursday (8/27) for Dr. Bombay's International Ice Cream Taster position. If you have the skills and the palate, location isn't a factor. 🌎 Know someone perfect for this? Tag them below. 👀
+
+7498471664247050240 | Deel | image | 94w
+    Most expense tools flag what they're told to, then stalls on the receipt that doesn't fit the pattern. Akai's expense review agent handles what traditional AI can't by reading receipts, pulling policy context, and asking for clarification instead of rejecting outright. All of this is done within the rules your team sets, keeping compliance and governance at the center. It's  [...]  150+ countries. The result? Over 90% of expense reviews now go through it, covering 1,300+ documents a week.
+
+7498756314257326081 | Deel | video | 104w
+    Snoop Dogg isn't just dropping ice cream flavors—he's expanding his team globally. 🌎 Dr Bombay is hiring an International Ice Cream Taster, and accepting applications worldwide through Deel. This isn't a publicity stunt dressed up as a job posting - it's a real position with real compensation ($10k a month), managed by a platform built to make global hiring actually  [...]  finding the best flavor combinations on the planet. 🍦 Your geography doesn't limit your opportunity. Apply today: deel.com/snoop
+
+7499095646994452481 | Deel | video | 101w
+    With Deel, payday is whenever you say. Sometimes it's the vet bill you didn't plan for. Sometimes it's the flight that's cheaper tonight than it will be tomorrow. And sometimes it's nothing urgent at all, just wanting your money in savings the day you earn it instead of two weeks later. Whatever it is, you control your payday. Open the  [...]  Work, pay, everything in between. In the Deel mobile app. Available on iOS and Android, link in comments.
+
+7499194750269308928 | Deel | video | 52w
+    Snoop Dogg is serious about finding the perfect Ice Cream Taster for Dr. Bombay, and the global search is officially underway. 🌎 International candidates welcome - apply and work from anywhere in the world (France, Japan, Brazil, seriously anywhere.) $10k/month. Applications open through 8/31. Think you've got the palate? Apply today: deel.com/snoop
+
+7500182597759590400 | Deel | video | 68w
+    Retirement is #2 most desired benefit though 70% of workers are worried they won't have the right plan. It's time for a change. Deel Retirement brings your 401(k) into Deel, connected to payroll, with plans powered by Basic Capital and Human Interest. Track progress right next to pay, with the same login your team already uses every day. Live in the US today 🇺🇸, UK coming soon 🇬🇧
+
+7500198566779412481 | Deel | multi-image(9) | 82w
+    In search of the best Ice Cream Taster candidate in the world for Dr Bombay, we opened the doors of Snoop Dogg's LA compound - and hundreds of people showed up to prove they had what it takes. Founders, creators and people from across the industry came together for a very special night with DJ Snoopadelic, Lady of Rage, DDG  [...]  around one very special global hire. The best opportunities (and the best talent) can come from anywhere. 🍦
+
+7500592568217407488 | Deel | video | 48w
+    When you're hiring globally, the job ads should travel too. From London to LA, local artists have helped us turn our search for Snoop Dogg's Ice Cream Taster into something impossible to miss. 🎨 Great taste (and talent) can come from anywhere, so we went looking everywhere. 🌍
+
+7500930865972232193 | Deel | video | 47w
+    Part Two: Snoop's Benefits Package Want to know more about what it's like working at Dr. Bombay? Unlimited ice cream. Company car. Flexible time off. Work from anywhere. Snoop Dogg as your boss. Over 200,000 applicants. One reason: actual benefits. Applications are still open at deel.com/snoop 😎
+
+7501277850302402564 | Deel | video | 47w
+    What do a coffee tin, a shoebox, and the Bible have in common? They're Will's laptop stand. We've seen enough. Time to Bless This Desk… 🎬 Episode 4 of Bless This Desk, the show where we give the world's worst work-from-home setups a makeover. -- Studio PATHETIC
+
+7502060664383885312 | Deel | text | 41w
+    This is what hiring without borders looks like. We took Snoop Dogg's search for Dr Bombay's next International Ice Cream Taster worldwide — because global hiring means showing up in every corner of the world. Got taste? Apply today 👉 deel.com/snoop
+
+7503107786306826242 | Deel | video | 44w
+    Part Three: Workplace Safety When Dr. Bombay first started, HR was a mess. Then came Deel. Whether it's taxes, compliance, or brain freezes, you're fully covered. 🍦 Apply for the International Ice Cream Taster role @ deel.com/snoop Know someone with great taste? Tag them.
+
+7503466349768327168 | Deel | image | 44w
+    Happy National Payroll Week! Did you know that payroll withholding accounts for roughly two-thirds of the US Treasury's annual revenue, funding programs like Social Security and Medicare? This week, we're recognizing the payroll professionals behind that work. 💪 Thank you for everything you do.
+
+7503526556330389504 | Deel | link | 34w
+    You've probably heard we're helping Snoop Dogg hire. But how are we processing 200k+ applications and how will we choose the winner? Amaya Nichole dives into the recruitment behind the scenes in Inc. https://lnkd.in/eS7m7sJU
+
+7503831023298875393 | Deel | text | 62w
+    Have you heard the term "clopening"? 👀 It means an employee closes a shift late at night, then opens the next shift early the same morning — and Fair Workweek laws increasingly restrict it across the US. Continuous compliance is built into Deel, flagging any issues so payroll teams can act fast and stay compliant. This National Payroll Week, we're celebrating them.
+
+7482823430921179136 | Flexport | video | 97w
+    Spot rates look cheaper when the air cargo market is soft. But when something disrupts capacity, spot volumes are the first cargo bumped or rolled by the airlines. "If you want any kind of security, you need to favor an allocation contract where you get guaranteed space. Your bump risk is much lower, and you get priority loading when capacity  [...]  Director. 📺 Watch the full "The Capacity Squeeze Nobody Budgets For in Air Cargo, 2026–2030" webinar here: https://lnkd.in/ghppYqqR
+
+7483179511300186112 | Flexport | image | 44w
+    [LAST CHANCE TO REGISTER] Tomorrow (July 16), join Flexport's Dharshini Shegran, William Contessa, and David Grinevald at our next North America Freight Market Update Live webinar. We'll discuss the Trans-Pacific Eastbound (TPEB); the Indian Subcontinent, and the air freight market. Save your spot: flx.to/july-fmulive-LI
+
+7483612905502822401 | Flexport | link | 52w
+    We're honored to be named a winner of FreightWaves' 2026 AI Excellence in Supply Chain Awards. The rate our tech teams are shipping has never been faster. And even better, our AI is delivering real results for our customers including saving up to 10% on ocean freight costs. Read more here: https://lnkd.in/gQttg2cn
+
+7483624637654794240 | Flexport | link | 456w
+    This week in global logistics: a draft Senate bill proposes up to 100% secondary tariffs on China and India over Russian energy purchases, DOJ opens a new trade enforcement unit, Section 301 tariffs on Brazil take effect July 22, the Strait of Hormuz closes to commercial transit amid renewed U.S.-Iran conflict, container freight rates climb for a fifth straight week,  [...]  subscribe for future updates: https://lnkd.in/gBeEBxbk #supplychain #logistics #freightmarket #freightindustry #oceanfreight #oceancargo #oceanshipping #airfreight #aircargo #airshipping #trucking #intermodal #railfreight
+
+7483708589153353728 | Flexport | link | 150w
+    We're thrilled to welcome Rick Tang as General Manager of Greater China. 🇨🇳 Greater China is one of the most important markets in global trade, and Chinese exporters are navigating more complexity than ever: new markets, more trade lanes, and rising expectations for speed and visibility. Rick knows this world inside out. He brings 27 years of freight forwarding and  [...]  reach for customers moving goods in and out of China. Welcome, rick tang! Read the full announcement: https://lnkd.in/gnPCMJjW
+
+7483929764479795200 | Flexport | video | 72w
+    Weekly ocean capacity from Northwest India to the U.S. East Coast is dropping. About 38,000 TEU on June 1, falling to about 28,000 TEU by August 1. That's a 28% reduction, as the number of major services on the corridor drops from six to four. Watch William Contessa, Manager of Ocean Procurement at Flexport, break down what's behind the drop ⬇️ Watch the full North America Freight Market Update Live here: https://lnkd.in/gH2TAvZe
+
+7485328253834907648 | Flexport | link | 138w
+    For the first time ever, the U.S. is using Section 338, and Canadian imports are the target. On July 20, the White House signed three proclamations placing a 50% tariff on a wide range of Canadian goods, from wine and spirits to lumber, furniture, dairy, and yes, hockey skates. They take effect August 19. Three things importers should know: →  [...]  what's not, and how to use your 30 days to prepare. Read more in the post below. https://lnkd.in/gM_S4qgt
+
+7485397448446664705 | Flexport | video | 85w
+    CAPE phase three has no confirmed launch date yet, but based on a CBP appeal filed with the Court of International Trade in early June, phase three is expected by the end of July. We expect the scope to include "finally liquidated entries": those 81 days or more past their liquidation date, which missed CAPE phase one's 80-day window entirely.  [...]  Advisory Associate at Flexport, break it down. ⬇️ Catch the full "CAPE Phase 2 Explained" webinar here: flx.to/cape-phase-2-LI
+
+7485728326939090944 | Flexport | image | 52w
+    On August 6, join Flexport's fulfillment experts for a deep dive into peak season. Learn how to ensure timely and cost-effective inventory, manage storage fees and auto-replenishment, analyze past sales trends and forecast peak growth, and communicate effectively with your 3PL about anticipated volume spikes and promotional activities. Sign up now: https://lnkd.in/gUPAsi-M
+
+7486165789449031680 | Flexport | link | 451w
+    This week in global logistics: the proposed 50% Section 338 tariff on Canada faces an Aug. 19 deadline with legal challenges expected, NFTC warns Congress on the Russia sanctions bill's tariff mechanics, the Strait of Hormuz reverts to war conditions, Houthi forces declare a maritime blockade targeting Saudi-linked shipping, and freight rates begin topping out as Panama Canal restrictions tighten  [...]  3. Read the full July 23 Global Logistics Update: https://lnkd.in/gnQGHgrg #supplychain #logistics #freightmarket #freightindustry #oceanfreight #oceancargo #oceanshipping #airfreight
+
+7486199258316988418 | Flexport | link | 230w
+    Tomorrow morning, the U.S. tariff landscape shifts again, and this time it's built to stay. Today, USTR announced final action in its Section 301 forced-labor investigations: tariffs of 10% or 12.5% on 60 economies that together make up about 99% of what the U.S. imports. So nearly everyone is in scope. They take effect at 12:01am ET on July 24,  [...]  and exemptions, here: https://lnkd.in/g-a8rh59 And we're going deeper live tomorrow. Register for our Tariff Trends 2026 webinar: https://lnkd.in/gJKFCdHt
+
+7486403627826429952 | Flexport | link | 108w
+    We've just updated our European Customs & Trade Compliance Hub: a live resource that strips the legal jargon out of EU and UK customs, tariffs, and trade policy, and tells you what actually changes for your business. Today's addition breaks down the 🇪🇺 EU's Packaging and Packaging Waste Regulation (PPWR), which takes effect on 12 August 2026, and what importers  [...]  into force to enforcement ✅ Practical next steps for importers, manufacturers, and platforms Read the latest here: https://lnkd.in/eihYVGWe
+
+7487918914488705024 | Flexport | video | 94w
+    Section 338 targets discrimination against U.S. products that isn't applied to other countries. Canada's new 50% tariffs came from three specific complaints under that standard. "All but two Canadian provinces have stopped the import and sale of U.S.-made wine, spirits, and beer for over a year now," said Marcus Eeman, Customs Direct at Flexport. The other two: a decades-long dairy  [...]  Watch Marcus break down the new Canada tariffs ⬇️ 📺 Watch the full Tariff Trends webinar here: flx.to/tariff-wbn-clip-LI
+
+7488705489753616386 | Flexport | link | 447w
+    This week in global logistics: The sponsors of the Russia sanctions bill reach a bipartisan deal on secondary tariffs, Section 301 tariffs prove harder to challenge in court, the Strait of Hormuz transit collapses to 17% of pre-crisis volume, and Houthi forces open a new front against Saudi-linked shipping. 🌐 Russia Sanctions Bill: Sponsors of the Senate bill pairing Russia  [...]  change. Read the full July 30 Global Logistics Update: https://lnkd.in/gvyqgVgr #supplychain #logistics #freightmarket #freightindustry #oceanfreight #oceancargo #oceanshipping #airfreight
+
+7490408001372110848 | Flexport | multi-image(2) | 124w
+    Flexport is now open in São Paulo. 🇧🇷 Brazil is one of the hardest places in the world to move freight and one of the most important. Layered customs rules, port congestion, lead times long enough to wreck a season of inventory planning. Solving that takes people on the ground who know the local rules and the local players. Our  [...]  have in Shanghai. If you're moving goods into or out of Brazil, we'd like to meet you. https://lnkd.in/dWTxmdH2
+
+7490828802068180992 | Flexport | image | 62w
+    [LAST CHANCE TO REGISTER] Tomorrow, August 6, join Flexport's Darby Meegan, Erin Troy, and Umesh Karthy Loganda for a deep dive into peak season. Learn how to ensure timely and cost-effective inventory, manage storage fees and auto-replenishment, analyze past sales trends and forecast peak growth, and communicate effectively with your 3PL about anticipated volume spikes and promotional activities. Sign up now: https://lnkd.in/gUPAsi-M
+
+7490833411897692160 | Flexport | multi-image(4) | 125w
+    Nearly 500 Flexporters came to Las Vegas last week for Momentum, our annual sales and operations summit. We built the week around empowering our teams to solve customer problems. Our customers, Ooni, Life Fitness, Ruggable, and MeUndies joined us for a panel to share how they partner with Flexport on a day-to-day basis, and how we can continue to grow  [...]  If you want to help solve problems and join our high-performing team, check out our open roles: https://lnkd.in/e-MbjG9i
+
+7491152878674358272 | Flexport | video | 27w
+    Ryan Petersen joined Ed Elson on Prof G Markets to talk through the current state of trade with the ever-evolving tariff landscape, and the Strait of Hormuz.
+
+7491244329450201088 | Flexport | link | 458w
+    This week in global logistics: BIS proposes expanding Section 232 tariffs to cables, cranes, and other copper, steel, and aluminum goods, new Section 201 tariffs land on quartz surface products while U.K. pharma duties drop to zero, Section 301 forced-labor tariffs draw a new state lawsuit as China unveils countermeasures, the Strait of Hormuz toll-free window nears its Aug. 17  [...]  6 Global Logistics Update: https://lnkd.in/dHANYDpE #supplychain #logistics #freightmarket #freightindustry #oceanfreight #oceancargo #oceanshipping #airfreight #aircargo #airshipping #trucking #intermodal #railfreight
+
+7491529588167036929 | Flexport | image | 47w
+    Looking for the latest trade lane updates? On August 13, join Flexport experts at our next North America Freight Market Update Live webinar. We'll cover the latest on North America operations, ports, and labor; the Trans-Pacific Eastbound (TPEB); and the air freight market. Sign up here: https://lnkd.in/g9xe7H-K
+
+7491539107492319233 | Flexport | video | 29w
+    Today, Ryan Petersen joined CNBC's Squawk on the Street to discuss the state of trade. Watch for updates on the Panama Canal, Strait of Hormuz, trucking rates, and more.
+
+7492584309959118849 | Flexport | multi-image(2) | 75w
+    Super Typhoon Dolphin is on a tear, and you can see the effect on the water. Ships are bunched up near Taiwan and Korea, waiting for the system to clear. Others are hugging the Japan coast to stay out of heavy seas. Expect a bumpy few days on the western Pacific. If you have cargo on these ships, make sure to check for damage when they arrive. Monitor the situation live with Flexport Atlas: atlas.flexport.com.
+
+7492637598872428544 | Flexport | image | 57w
+    On August 19, join Flexport's Director of Customs Marcus Eeman and Director of Trade Advisory Jennifer Park at our next webinar on the latest U.S. tariff developments. We'll cover the latest tariff updates and their impact on your shipments, along with the insights you need to navigate customs clearance and ensure accurate imports. Sign up here: https://lnkd.in/gFGQi26s
+
+7493095366255435777 | Flexport | link | 85w
+    A container ship paid $4 million on Monday for a fast pass at the Panama Canal. We had 14 customers, and 30 containers on board. Thank you to ONE for your commitment to on-time performance. Panama's auction calendar is empty for the rest of August. Next slot is September 7. Meanwhile 103 ships are waiting, and one tanker has been  [...]  looks like arithmetic. Read more about how this happened, and what it means for your Q4 planning: https://lnkd.in/gjFw-5HW
+
+7493338660369539072 | Flexport | image | 47w
+    [LAST CHANCE TO REGISTER] Tomorrow (August 13), join Flexport's Nathan Strang, Kyle Beaulieu, and David Grinevald at our next North America Freight Market Update Live webinar. We'll discuss North America operations, ports, and labor; the Trans-Pacific Eastbound (TPEB); and the air freight market. Save your spot: https://lnkd.in/g9xe7H-K
+
+7493419615272816640 | Flexport | multi-image(2) | 67w
+    Cambodia exported roughly $8 billion in garments, footwear and travel goods in the first half of 2026, up 6.2% year over year. We're excited to announce our office in Phnom Penh. As brands shift production across Southeast Asia, having people at origin matters. Our Phnom Penh team gives you local expertise and direct supplier relationships, on the same platform you already use to book, track and clear.
+
+7493779033206337536 | Flexport | link | 460w
+    This week in global logistics: the Senate passes a bill allowing tariffs of up to 100% on countries buying Russian oil and gas with a House vote pending, new Section 232 minimum-price tariffs on polysilicon take effect Dec. 4, the government objects to a blanket IEEPA refund order while letting narrower ones stand, Typhoon Dolphin shuts down China ports and  [...]  while carriers shift freighter capacity toward AI-hardware and data-center cargo on other lanes. Read the full GLU: https://lnkd.in/gQxJVwgk
+
+7494039082923368449 | Flexport | link | 59w
+    CBP has started telling brokers how to vet foreign importers, and the list is longer than most importers expect. Executive Order 14411 will require foreign importers of record to join the Customs Trade Partnership Against Terrorism (CTPAT) program or file through a CTPAT-validated broker. We laid out what your broker will ask you for and how to prepare: https://lnkd.in/d6pTftet
+
+7495514889206067200 | Flexport | image | 56w
+    [LAST CHANCE TO REGISTER] Tomorrow, August 19, join Flexport's Director of Customs Marcus Eeman and Director of Trade Advisory Jennifer Park for a webinar on the latest U.S. tariff developments. We'll cover Section 338 and Section 232, along with the insights you need to navigate customs clearance and ensure accurate import filings. Sign up here: https://lnkd.in/gFGQi26s
+
+7496595067156066305 | Flexport | video | 107w
+    Starting September 19, U.S. Customs and Border Protection will begin voiding importer of record numbers that were registered incorrectly, disallowing companies from importing until the issue is fixed. One trigger could be listing a PO box as your principal place of business instead of a physical address. CBP is also flagging missing phone numbers, names, or emails on file, and  [...]  check your registration before the deadline ⬇️ Check out the full August 19 “Tariff Trends" webinar here: https://lnkd.in/gtrU5wH9
+
+7496643264763314176 | Flexport | link | 220w
+    A liquefied petroleum gas (LPG) carrier just paid $4.6 million to skip the line at the Panama Canal. That fee is about to get more expensive. Starting September 3, the Panama Canal Authority is capping daily transits at 34, down from 35. On September 15, it drops again to 32. The reason isn't a queue problem. It's rain. This hydrological  [...]  it before the caps hit: https://lnkd.in/grashkdR Is your Q4 plan still running on spring transit times? #SupplyChain #PanamaCanal
+
+7498070484861771777 | Flexport | video | 84w
+    CBP has delayed the launch of CAPE phase three. Filing was set to open August 20, but CBP found during final testing that duties weren't calculated correctly, and there's no new launch date yet. Phase three is limited to the roughly 3,700 importers who filed a civil suit and received import-specific relief under Judge Eaton's mid-July order. Watch Jennifer Park,  [...]  the status on CAPE phase three ⬇️ Check out the full August 19th "Tariff Trends" webinar here: https://lnkd.in/gtrU5wH9
+
+7498766778299371520 | Flexport | image | 47w
+    Looking for the latest trade lane updates? On September 10, join Flexport experts at our next North America Freight Market Update Live webinar. We'll cover the latest on North America operations, ports, and labor; the Trans-Pacific Eastbound (TPEB); and the air freight market. Sign up here: https://lnkd.in/grU7tm-m
+
+7498861974894809088 | Flexport | link | 354w
+    This week in global logistics: Canada's dollar-for-dollar retaliation on $20 billion of U.S. exports takes effect Sept. 8, CBP's Section 338 guidance bulletin is corrected after errors, the IEEPA refund pipeline tops $130 billion while CAPE's next phase stays stalled, TPEB rates hit a four-year high, and Middle East transshipment congestion spreads to new ports. 🇨🇦 Canada's Retaliation: Canada will  [...]  27 Global Logistics Update: https://lnkd.in/gDgfwqVS #supplychain #logistics #freightmarket #freightindustry #oceanfreight #oceancargo #oceanshipping #airfreight #aircargo #airshipping #trucking #intermodal #railfreight
+
+7500474999376596992 | Flexport | image | 84w
+    Webinar 📅 | 8 September at 16:00 CEST / 15:00 BST Join Flexport's Jannik Amstutz, Arno Hausch and Ruben Bel for our European Freight Market Update Live webinar. They'll cover how to navigate bookings through the upcoming Golden Week plus the latest on Suez transits and Q4 bunker prices; whether we're headed for an air freight peak this year and  [...]  and what's next on EUDR, CBAM and the Free Trade Agreements currently in negotiation. Sign up here: https://lnkd.in/dcmyWgXN
+
+7500917940897284096 | Flexport | image | 91w
+    Flexport fulfillment is now live in Canada and the United Kingdom. Customers can hold inventory in market and fulfill domestically, with the same platform, the same account team, and the same freight and customs relationship they already use. Our Mississauga facility sits minutes from Toronto Pearson and holds Health Canada certifications for medical products, supplements, and consumer goods. In Manchester,  [...]  every market our customers sell into. Continental Europe is next, in 2027. Read the full announcement here: https://lnkd.in/dFw_7Ffr
+
+7502737571156787200 | Flexport | image | 87w
+    📢 Tomorrow 8 September at 16:00 CEST / 15:00 BST Join Flexport's Jannik Amstutz, Arno Hausch, and Ruben Bel for our European Freight Market Update Live. They'll cover how to navigate ocean bookings through the upcoming Golden Week, plus the latest on Suez transits and Q4 bunker prices; whether we're headed for an air freight peak this year and where  [...]  events from this year, key 90-day deadlines, and newly negotiating Free Trade Agreements. Sign up here 👉 https://lnkd.in/dcmyWgXN
+
+7502867053746315264 | Flexport | link | 104w
+    The moment you put data on a spreadsheet, it becomes obsolete." For Australian brands expanding into the US, UK, and Europe, managing multiple global vendors across ungodly time zones often leads to delay, friction, and guesswork. Nick Barber, our head of commercial APAC, sat down with Inside Retail Australia to discuss what challenges Australian retailers are facing in an ever  [...]  feature Inside Retail Australia wrote on how Flexport is helping Australian businesses move from chaos to confidence. https://lnkd.in/eR49a7Mk
+
+7503147288215584768 | Flexport | image | 60w
+    On September 16, join Flexport's Director of Trade Advisory Jennifer Park and Senior Trade Advisory Associate Calum Coulter, LCB, CCS at our next webinar on the latest U.S. tariff developments. We'll cover the latest tariff updates and their impact on your shipments, along with the insights you need to navigate customs clearance and ensure accurate imports. Sign up here: https://lnkd.in/gUsxZVqD
+
+7503485367329820672 | Flexport | image | 46w
+    [LAST CHANCE TO REGISTER] Tomorrow (September 10), join Flexport's Jack Sheehan, Kyle Beaulieu, and David Grinevald at our next North America Freight Market Update Live webinar. We'll discuss North America operations and ports; the Trans-Pacific Eastbound (TPEB); and the air freight market. Sign up here: https://lnkd.in/grU7tm-m
+
+7503607212364152832 | Flexport | image | 114w
+    Meet Flexport's new General Manager for Singapore & Malaysia. Zoe Chan joins us with 20 years in supply chain and logistics across Asia, most recently as Regional Director at Hellmann Worldwide Logistics, where she led Consumer Goods and Fashion vertical development across APAC. Before that, she held senior roles at DSV, Panalpina, and LF Logistics. Singapore and Malaysia sit at  [...]  become a critical semiconductor center where high-value components move across borders daily. Read the full announcement here: https://lnkd.in/gwFXkgPf
+
+7503813994210738176 | Flexport | image | 106w
+    We are excited to be back at Clarion Events Delivery & Logistics Leaders' Summit 2026 in London next week 🚀 Elizabeth Anslow and James Bailey will be moderating roundtables on 'Driving Supply Chain Resilience: Data, Integration, and AI' 💡 They'll be discussing how supply chain systems could talk to each other, how the data behind them can be trusted and  [...]  if you're there, let's connect! Elizabeth Anslow Waqas Khan James Bailey Jordan Hourihane #SupplyChain #Logistics #Flexport #SupplyChainResilience #DeliveryLogisticsSummit
+
+7503822151406419970 | Flexport | image | 113w
+    Five executive orders came out of the White House this week, and they hit Canadian imports two different ways. Starting September 15, more Canadian goods land on the 50% Section 338 duty list, including furniture, paper products, and aluminum profiles. For products already paying Section 232 duties, the two now stack. Some aluminum profiles will pay 100%. Starting September 29,  [...]  Section 301 duties, not Section 338. We broke down the details in our latest blog post here: https://lnkd.in/gixSkyRa
+
+7504095105277145088 | Flexport | video | 150w
+    Connecting Copenhagen's maritime history with the future of modern supply chains🇩🇰 Last week, we hosted Flexport Forward Europe at Soho House Copenhagen - housed in the city's former harbor customs building. It was a privilege to bring together trade leaders for an evening focused on technology, transformation, and collaboration. Douglas Brown and Rogan Dolan shared where Flexport is headed and  [...]  event recap below Asif Akhtar Anders Joensen Mayura T. Anton Sitnikov Daniel Lowe Jimmy Sevakon Petersen Victor Andersen
+
+7381008745201324032 | Gorilla 76 | text | 72w
+    Next week at #MTForecast in Schaumburg, Gorilla 76's Joe Sullivan and Brendon Forrest 🪖🦍 take the stage. On Oct. 15, Brendon and Joe lead a positioning workshop for manufacturing leaders who value word of mouth – but are ready to scale that trust by clarifying their message for the right audience. Then on Oct. 17, Joe returns as a keynote speaker, tackling how manufacturers can align marketing ROI with business strategy. 👇
+
+7381722673703284736 | Gorilla 76 | video | 108w
+    Like a lot of manufacturers, the work we're most proud of often happens behind the scenes. But being the best-kept secret isn't doing your bottom line any favors. So when it's time to bring that work to light, we believe it should be done with thoughtful purpose. Our content team knows how to turn complex value propositions into clear, compelling  [...]  stories in a visual way. Give our new reel a watch below, and get hyped with us. 🎥
+
+7382810969254793216 | Gorilla 76 | video | 67w
+    If you've had the pleasure of working with our content director, James Boeckmann, you know it's just that: a pleasure. We've been fortunate to have him on our team for four years now. Each day he shows up with care for others, passionate to make Gorilla an even better place to work and hell bent on delivering value to our clients. Happy Gorillaversary, James! #Relationships #Improvement #Results

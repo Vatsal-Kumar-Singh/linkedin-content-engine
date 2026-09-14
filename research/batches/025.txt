@@ -1,0 +1,169 @@
+# batch 025  -  55 posts  -  label per research/CLASSIFICATION-PROTOCOL.md
+# labels: problem exploration requirements selection validation consensus
+#         recruitment culture event product-news csr unclear
+# write research/labels/025.tsv as: <id><TAB><label>
+
+7496602040547147776 | Prusa Research | image | 27w
+    The first wave of INDX conversion kits for the Prusa CORE One/+ has started making its way to customers. 📦 So, orders are open again! 🚀 https://lnkd.in/gHnMH5UN
+
+7497673113669730304 | Prusa Research | multi-image(2) | 66w
+    The XL was already built for huge prints and projects combining multiple materials or nozzle sizes. With the XL+, we wanted its print quality and everyday experience to match our latest generation of printers. ✨ The new 360-degree cooling system delivers more airflow and distributes it more evenly around the nozzle. The result is better overhangs, bridges, and small details - especially on demanding models. https://lnkd.in/dUuRGPPx
+
+7497993270686433280 | Prusa Research | image | 76w
+    We're heading to IFA Berlin, September 4–8. 📆 Come meet the Prusa Research team, get hands-on with our latest 3D printers, and chat with us about anything 3D printing. IFA brings together the latest in tech, covering everything from computing and gaming to smart home, AI, robotics, and future tech. So, if you're heading to Berlin, make sure to stop by and say hi. We'll be happy to meet you there. ✨ Find out more: https://lnkd.in/dxg56jm
+
+7498032927243427840 | Prusa Research | image | 87w
+    Less waiting, more printing. ‼️ On the CORE One+ (Gen 2), we redesigned the heatbed mounting so the bed can warm up and stay flat without the extra wait. ✨ For PLA, PETG, and any material printed at a bed temperature of 85 °C or lower, the “Absorbing heat” step is gone. Higher-temperature materials start sooner, too. Why? Because the  [...]  check the first layer, get on with your day, and spend less time watching the printer prepare. https://lnkd.in/dcCjE4w8
+
+7498378851824173057 | Prusa Research | image | 127w
+    Good design in 3D printing is not about making a machine look good. It is about making complex technology easier to use, easier to understand, and better suited to the work it was built for. That is why we are especially happy to see our approach to product design recognized for the second year in a row by the Red  [...]  across very different parts of our portfolio. Read the full article on DesignWanted: https://lnkd.in/e_WXnCkb #Prusa #ProductDesign #RedDotAward #3DPrinting
+
+7498393968221642752 | Prusa Research | multi-image(10) | 61w
+    Linus Tech Tips summed it up pretty well: “And basically no waste.” That's probably the simplest way to explain what makes INDX so exciting. Up to 8 tools, fast nozzle switching, different colors and nozzle sizes - without turning half your filament into purge waste. 🗑️❌ See what Linus thinks in his video, “This Obsoleted Every 3D Printer I Own.” https://lnkd.in/gu4YB_eY
+
+7498749878903271424 | Prusa Research | image | 44w
+    The wait is over! 🚀 The highly anticipated INDX for the Prusa CORE One L/+ is here. Orders are now open! Turn your CORE One L/+ into the most efficient multi-material 3D printing machine on the market. Discover what makes INDX so special: https://lnkd.in/gpMERXGv
+
+7499018249309966336 | Prusa Research | video | 13w
+    INDX for Prusa CORE One L/+ is here! Ready to order! ✨ https://lnkd.in/gcA_B_9F
+
+7500205996628381696 | Prusa Research | multi-image(4) | 100w
+    We've been following this project for a while, and seeing it finally come to life is just awesome. Printables maker Suit took the idea of a “CORE One Mini” and, after months of CAD work, redesigns, custom parts, sheet metal, testing, and plenty of problem-solving along the way, turned it into a real, working 3D printer. This is exactly the  [...]  it whatever you want. What a beautiful project, Suit. Hats off. 👏 Read more about it here: https://lnkd.in/gw4H5Y8i
+
+7500579856833961984 | Prusa Research | image | 55w
+    The first public preview of PrusaSlicer 3.0 is out. ✨ We rewrote a huge part of it from scratch - with a completely redesigned UI, a project system, profiles built around the hardware you actually have instead of forcing it into one fixed combination of settings, much better performance, safe plugins, and much more. https://lnkd.in/gnPg4zTu
+
+7500586474317385728 | Prusa Research | video | 25w
+    Today we're releasing the first public preview of PrusaSlicer 3.0. And this is a big one. It's the biggest upgrade in PrusaSlicer's history. ✨ https://lnkd.in/gnPg4zTu
+
+7500925150888882176 | Prusa Research | image | 76w
+    CNET compared our Prusa CORE One with a range of competing FDM 3D printers, using the same test print to measure accuracy. With just 0.18% variance, the CORE One was the most accurate printer CNET tested. ✨ The MK4S followed closely behind at 0.19% - the kind of precision that makes a real difference when printing functional parts, tight tolerances, and components that simply need to fit. Check out the full article to see more: https://lnkd.in/gBEZSmqa
+
+7501302782159638528 | Prusa Research | image | 71w
+    Our Back to School deals are here! 🎒 From September 3 to 30, get free Prusament and a Prusa Academy course with selected CORE One+ (Gen 2) and CORE One L+ printers, save 20% on the assembled MK4S or 10% on the MK4S Kit, get 15% off Prusament PLA, PETG and resins, and save up to 50% on selected Prusa Academy courses. Check out all the offers on our website. https://lnkd.in/gVqC_psv
+
+7501549651972587520 | Prusa Research | image | 200w
+    We're looking for testers for a new product! ✨ We're about to start testing a new product that we can't go into detail about just yet. We're looking for printer users to help us figure out what still needs improving before launch. What's involved? An in-person visit in Prague, at least 1 hour of your time. As a thank-you, you'll  [...]  Zajímá vás víc a chcete se přihlásit? Vyplňte krátký dotazník: https://lnkd.in/gBtYy38J ⏰ Přihlásit se můžete do 9. 9.
+
+7502725158420291584 | Prusa Research | multi-image(4) | 165w
+    It's no secret that we keep improving our printers long after release. When we develop something useful for one product, we often look for ways to bring it to others as well. And honestly, we're just not the kind of company that can leave a printer untouched once it's out in the world. That's how we've always worked. ✨ One  [...]  like to use the new holders too, no worries - you can simply print them yourself. 🦾 https://lnkd.in/gGj5zjHd
+
+7503142713685356544 | Prusa Research | image | 93w
+    Five filament spools, up to 45 color shades (and more). That's our Prusament PLA ColorMix. 🎨 💡 To make the most of it, we're introducing new semi-translucent PLA: Cyan, Magenta, Yellow, White and Black for smoother blending, Gold and Silver Glitter for adding sparkle without changing the color tone, and adding new opaque colors, Cyan, Magenta and Yellow for brighter  [...]  the right colors, settings, and models for the best results. Read more in our new article. 👇 https://lnkd.in/gfzMuAUz
+
+7503375864936542208 | Prusa Research | video | 16w
+    Prusament PLA ColorMix: Print 45 color shades using just five filament spools (and more)! 🎨⁣ ⁣https://lnkd.in/gfzMuAUz
+
+7503480307854221312 | Prusa Research | image | 61w
+    Found a great STL, but need to change one small thing before printing? 🛠️ That's exactly what our new Prusa Academy course, Beginner's Guide to Blender for 3D Printing, is about. You'll learn how to resize holes, adjust proportions, fix meshes, add or remove details, and remix existing models in Blender. No previous Blender or 3D modeling experience needed. 🦾 https://lnkd.in/g-qzYphQ
+
+7503724305730514945 | Prusa Research | image | 229w
+    A new generation of hardware shouldn't automatically make the previous one obsolete. ❌ That's why we design Prusa 3D printers with future upgrades in mind. Your printer can evolve with your business, gain new capabilities over time, and keep delivering value long after the initial purchase. 📈 🛠️ A good example is the Original Prusa MK3. Through successive upgrades, a  [...]  ♻️ Upgrade instead of replace isn't an afterthought for us. It's part of how we design our printers.
+
+7503845122988580864 | Prusa Research | image | 63w
+    Cleaner starts, smoother surfaces, easier maintenance. That's CORE One+ (Gen 2). ✨ New nozzle wiper, GT1.5 belts, redesigned heatbed mounting and snap-on top panel mean faster starts and less attention before each print. 🎁 For Back to School, we're adding 2× Prusament PLA + Prusa Academy course with the assembled version, or 1× Prusament PLA + Prusa Academy with the kit. 🎓 https://lnkd.in/g8FQrirq
+
+7504091311700938752 | Prusa Research | image | 195w
+    Refreshing the entire lineup of our 3D printers brought new hardware with the Prusa XL+, CORE One+ (Gen 2) and CORE One L+, but a big part of that progress also happens in firmware. ✨ Recent releases added support for the new Nozzle Wiper, GT1.5 belts and second-generation expansion joints, which significantly shorten the heat-absorption phase on the CORE One+  [...]  Our Prusa 3D printers keep getting better - sometimes through new hardware, but very often through firmware. 🦾
+
+7473096447316516867 | Raspberry Pi | video | 53w
+    When maker Cameron Paczek moved into a new home directly beneath a flight path, he came up with an ingenious idea to project the planes flying overhead onto the ceiling inside using real-time flight tracking data. Now he can plane spot from the comfort of his sofa. Come fly with us ✈️ https://lnkd.in/dgdBuNP3
+
+7473684706211995648 | Raspberry Pi | link | 100w
+    We're #hiring ! We're looking for a Principal Software Engineer to join our Web Team here at Raspberry Pi. This is a senior, high-impact role sitting at the heart of how we build and evolve our web presence! This is the kind of position where your decisions shape the platform, not just a single feature. 👉 Apply here: https://lnkd.in/e8Eixn2H And  [...]  a great fit for Raspberry Pi, now's a great time to share. https://lnkd.in/dY67ARp #Hiring #SoftwareEngineering #WebDevelopment #RaspberryPi #Cambridge
+
+7474832255933194240 | Raspberry Pi | link | 146w
+    Imagine being three years old and struggling to hear your teacher, your parents, your friends. Glue ear is one of the most common causes of hearing loss in young children, and for many it goes unnoticed at exactly the age when listening and language matter most. Dr Tamsin H. Brown has dedicated her career to changing that. As a paediatrician  [...]  https://lnkd.in/e_MaTTap The headphones are available in the UK from The Pi Hut: https://lnkd.in/e2tDA4rv #HearGlueEar #RaspberryPi #Accessibility #AssistiveTechnology #ChildHealth
+
+7475149395685134336 | Raspberry Pi | image | 63w
+    Day 1 down. Day 2 loading. The team has had an incredible first day at Automate Show 2026 in Chicago. Stand 2281 has been busy, the demos have been running non-stop, and the conversations have been exactly the kind we love having. If you are at the show, come and say hello. You will find us in the South Building of McCormick Place.
+
+7475611367480274944 | Raspberry Pi | link | 53w
+    What is the Cyber Resilience Act? If you manufacture and deploy digital products in the EU, the CRA is something you need to understand. The CRA raises the bar significantly for connected-device security. Encouraging engineers to make products secure by design will help ensure that customers and end users are better protected. https://lnkd.in/d8ABydzR
+
+7475869171369689088 | Raspberry Pi | text | 219w
+    Our June edition is live. We've had a heatwave, a downpour, and England fans convincing themselves that this is finally the year it's coming home… On the whole, a perfectly normal start to a British summer. With the EU Cyber Resilience Act deadline moving ever closer, we know it's front of mind for many of our customers. To help provide  [...]  from 1928 to digitise his father's high school footage. Subscribe so future editions land straight in your feed!
+
+7475935480979701760 | Raspberry Pi | image | 59w
+    Even as global connectivity slowly improves, some locales around the world can still have very little to no internet, for various reasons such as geography and economics to name just two. Working with AID India, the team at Tech for Equality tried to create a solution for such remote areas so that they can access vital educational materials. https://lnkd.in/eqCK2ADe
+
+7476246693156483072 | Raspberry Pi | multi-image(8) | 82w
+    Automate Show 2026 ✅ Chicago ✅ The Bean ✅ We came, we explored, we networked and we had an absolute blast doing it. The energy on the floor this year was electric. So many brilliant minds, bold ideas, and exciting conversations. Exactly the kind of thing that reminds you why you love this industry. Shoutout to all the incredible people  [...]  made the trip. See you next year! 🙌 📸 Swipe for proof we actually went outside. #Automate2026 #Chicago
+
+7478171018663145472 | Raspberry Pi | text | 3w
+    Listen to Tom…
+
+7478433366233649152 | Raspberry Pi | image | 110w
+    NEW EPISODE: The AI Edge, How Raspberry Pi Brings Big Brains to Tiny Boards. The cloud isn't the only place AI can live anymore. In Episode 3, Ken Okolo talks with Naushir Patuck, Software Engineering Manager at Raspberry Pi, about running serious AI on hardware small enough to hold in your hand. They get into why on-device AI might be  [...]  to miss this episode! Spotify:https://lnkd.in/eWesjw_e Apple: https://lnkd.in/e8ENV44x Amazon: https://lnkd.in/eHzH2ipV Youtube:https://lnkd.in/eS7QCAbT RSS Feed: https://lnkd.in/eNpkBWPF #EdgeAI #RaspberryPi #ArtificialIntelligence #Podcast #TechInnovation
+
+7478740805097160704 | Raspberry Pi | image | 57w
+    This is pretty much a real-life Tricorder, like the one used by the Starfleet crew in Star Trek. But take a look under the hood, and you'll see that it's actually a powerful tool designed to help the user survive unforgiving terrain. And it's all running on RP2350, our secure, high-performance microcontroller. Read all about it: https://lnkd.in/dXzvsWK2
+
+7480260067955671040 | Raspberry Pi | video | 53w
+    10 cents more. Double the CPU. That's the story of RP2350. Paul Sherry and Chris Boross go inside the silicon to explain exactly how Raspberry Pi pulled it off. Listen now wherever you get your podcasts: Spotify https://lnkd.in/eQvVeZpi Apple Podcasts https://lnkd.in/eCi4HwEd Amazon Music https://lnkd.in/ex8TJRhh YouTube https://lnkd.in/ei7BaqdM Other apps RSS: https://lnkd.in/eNpkBWPF #RaspberryPi #RP2350 #Podcast
+
+7480930828147965953 | Raspberry Pi | link | 33w
+    We're looking for a Principal Software Engineer. At Raspberry Pi, we are proud to foster an environment where those who work with us can do what they love and do it well. https://lnkd.in/dYMGnytt
+
+7482432101116690432 | Raspberry Pi | image | 82w
+    MANCHESTER, UK! 🐝 We are coming for you. (In a nice way). This summer, the Raspberry Pi Store will be popping up in two UK locations. If you've never been to the store in Cambridge, this is your chance to shop a selection of our hardware, accessories, books, magazines, and third-party products. First stop: Manchester Arndale Friday 24 to Sunday  [...]  – 8pm Saturday: 9am – 7pm Sunday: 11:30am – 5:30pm You can find us opposite the LEGO store!
+
+7483160607018573824 | Raspberry Pi | image | 93w
+    Raspberry Pi is a common target for practical computer vision. It can sit next to a camera, inside a prototype, near a machine, on a lab bench, or in a small service that needs to run without a workstation nearby. Friends of ours from Intel and Ultralytics created a guide showing you how to deploy Ultralytics YOLO computer vision models  [...]  how models become deployment artefacts, how compilation and caching affect startup, and how builds become repeatable. 👉 https://lnkd.in/dDip46VX
+
+7483842698047770624 | Raspberry Pi | image | 39w
+    Need to send data from a Raspberry Pi–based project located beyond your home's Wi-Fi network range? Sure, you could a wifi extended, but there are other, more reliable solutions that we'll be exploring in today's blog! Check it out:https://lnkd.in/eRbqR_FN
+
+7485289482632540161 | Raspberry Pi | image | 59w
+    AI Projects with Raspberry Pi is out now! If you're the sort of person who wants to understand AI rather than simply use it, this book is for you. You'll learn how models are trained, what they can and can't do, and where they're genuinely useful by building practical AI projects on hardware you already know and love. https://lnkd.in/egUCbnPY
+
+7485574950876069888 | Raspberry Pi | image | 26w
+    Introducing the biggest Raspberry Pi Touch Display yet. A 10" screen with more room for your dashboards, data, and applications. On sale now at $80. https://lnkd.in/ebcm8nKZ
+
+7486415043677528064 | Raspberry Pi | text | 30w
+    ALL Raspberry Pi Pico boards - that's both Pico 1 with RP2040 and Pico 2 with RP2350, including W variants with wireless - are now supported by .NET nanoFramework 👏
+
+7487485241775828992 | Raspberry Pi | multi-image(5) | 43w
+    We've launched a new product for anyone who's ever squinted at their dashboard, entertainment system, or home automation panel and thought, “I need more space.” Introducing the 10" Raspberry Pi Touch Display 2: our biggest touch display yet, on sale now at $80.
+
+7487535915431669760 | Raspberry Pi | multi-image(3) | 33w
+    From aerial displays to prototyping tools, Raspberry Pi–accredited hardware enables it all. Here are some highlights from the latest batch of third-party products to join the Powered by Raspberry Pi roster. 👉 https://lnkd.in/d9BF5Hzm
+
+7487833709304528897 | Raspberry Pi | image | 26w
+    Pay what you like for a whole bunch of Raspberry Pi e-books and support the Raspberry Pi Foundation at the same time. Go shopping 🛒 https://lnkd.in/div85Uy5
+
+7488537279771131904 | Raspberry Pi | text | 227w
+    Our July edition is live. Between the heatwaves and the odd thunderstorm, it's been a properly eventful month. Plenty has been happening across the Raspberry Pi ecosystem, too — and we've got the round-up to prove it. This month, we went three inches bigger with the launch of the 10" Raspberry Pi Touch Display 2, available now at $80. We  [...]  computers keep turning up in the most unexpected places. Subscribe so future editions land straight in your feed!
+
+7490358627938242560 | Raspberry Pi | image | 77w
+    BRISTOL! The Raspberry Pi Store is coming to visit you... Well, not this exact one. We will have a pop-up kiosk stocked with Raspberry Pi hardware, accessories, merchandise, books, magazines and our new limited edition t-shirts. 🗺️ Find us: Friday 28 to Sunday 30 August The Mall at Cribbs Causeway, Merlin Road, Patchway, Bristol, BS34 5DG, UK (Raspberry Pi kiosk will be opposite JD Sports) Friday: 9:30am – 8pm Saturday: 9am – 8pm Sunday: 11am – 5pm
+
+7490632549921202176 | Raspberry Pi | image | 92w
+    AI has been knocking about since the days of the Turing test; it's just quietly getting better at fooling us into thinking we're talking to a person. The real shift is that we've swapped old statistical tricks for deep learning, which produces far better results but at the cost of serious computational muscle. The latest episode of the Raspberry Pi  [...]  making an impact in edge AI. Read more and listen to or watch the new episode 👉 https://lnkd.in/da5k49QU
+
+7491116583554162688 | Raspberry Pi | image | 95w
+    Hands up if you know what Dijkstra's algorithm does... or even is? In the 1950s, Dutch computer scientist Edsger Dijkstra developed a route-finding algorithm so important that, 70 years later, it is still part of the computer science curriculum. Computer Science educator Rob Miles wrote this tutorial for us explaining what Dijkstra's algorithm does, how it works, and discovering where  [...]  treasure, and learn how to build a pocket route finder using Raspberry Pi Pico. *Nerds assemble* 👉 https://lnkd.in/dVbsH6vf
+
+7491446786818109440 | Raspberry Pi | multi-image(3) | 40w
+    Aiming to mitigate delays in the diagnosis and treatment of sick animals, Fast Medical Devices designed OneSight, a portable, AI-powered ultrasound machine built on Raspberry Pi Compute Module 5. The machine guides veterinarians, analyses images, and generates diagnostic reports: https://lnkd.in/d6f8FruY
+
+7493233192074723329 | Raspberry Pi | link | 34w
+    Amazing to add another name to our Powered by Raspberry Pi Product Catalogue! Read more about it here:https://lnkd.in/ex28fauH And if you too would like to say you're Powered by Raspberry Pi, apply here: https://lnkd.in/eZk_42yQ
+
+7495735720054046721 | Raspberry Pi | image | 51w
+    Provision Raspberry Pi Compute Module 5 at scale with the Raspberry Pi Compute Module 5 Programming Jig, on sale now. Designed for developers building products with Compute Module 5, the Compute Module 5 Programming Jig makes it easier to program our modular computer with an operating system and security configuration. https://lnkd.in/dTDSYV4y
+
+7496136411331424256 | Raspberry Pi | link | 145w
+    We're delighted to announce that the Raspberry Pi team will be exhibiting alongside our friends from EDATEC-Industrial Raspberry Pi at IOTE-China International IoT Expo Shenzhen, taking place 26 to 28 August 2026. Come and meet us to explore our full range of technology, including Raspberry Pi single board computers (up to Raspberry Pi 500+), the Raspberry Pi Pico family, RP2350  [...]  sure you can talk to us? Book a meeting with us: https://lnkd.in/ePe3dG_S #RaspberryPi #EDATEC #IOTE2026 #Shenzhen #IoT #IndustrialIoT
+
+7496157490317963265 | Raspberry Pi | text | 22w
+    You love to see it! And in aid of an amazing cause ? It's ticking all the boxes of a lifetime movie!
+
+7496475495988027392 | Raspberry Pi | link | 108w
+    Ever wondered what it actually takes to work out the carbon footprint of a circuit board? There's no meter for that. We break every product down to its bill of materials: every PCB, capacitor and connector weighed and mapped against the ecoinvent database. Then we work with LCA specialists to build a bottom-up picture of embodied carbon, from raw materials  [...]  to build greener products. Read the full story on how we measure what's inside: https://lnkd.in/emKadBma #Sustainability #RaspberryPi #CarbonFootprint
+
+7497639219486650368 | Raspberry Pi | multi-image(2) | 46w
+    It seems as though we haven't been able to get away from cyberdecks this year, with the maker community falling back in love with these homemade machines. This #MakerMonday, we thought it high time we shared a tutorial to help you build your own. 🔩 https://lnkd.in/d7rm_2eq
+
+7498627984698818560 | Raspberry Pi | multi-image(9) | 49w
+    Day one at IOTE 2026 Shenzhen done and dusted yesterday! Great catching up with everyone at the Raspberry Pi stand alongside EDATEC-Industrial Raspberry Pi with some brilliant conversations and even better energy on the show floor. Two more days to go, let's keep it up! #IOTE2026 #RaspberryPi #EDATech #IoT

@@ -1,0 +1,169 @@
+# batch 035  -  55 posts  -  label per research/CLASSIFICATION-PROTOCOL.md
+# labels: problem exploration requirements selection validation consensus
+#         recruitment culture event product-news csr unclear
+# write research/labels/035.tsv as: <id><TAB><label>
+
+7501263276480233472 | UiPath | link | 28w
+    Curious what coding agents really do? 🤖 UiPath Academy's new 45-minute course covers files, tools, context and the full agent loop. Learn to stay in control - https://ow.ly/wjuP50ZIcK7.
+
+7501308320138518529 | UiPath | image | 35w
+    Testing is changing. Ready to keep up? See how the dark testing factory helps teams keep quality moving at AI speed, with testers guiding the decisions that matter. Watch the webinar on demand 👉 https://ow.ly/KmX350ZIe35
+
+7501371476780949505 | UiPath | video | 29w
+    Our quarterly business update: 2Q ‘2027 revenue of $410M, up 13% year-over-year, with $1.938B in ARR, which is growing 12% year-over-year. Read more in our full earnings release: https://ow.ly/RKOE50ZIZEl
+
+7501632751842877443 | UiPath | link | 25w
+    Your agent's only as smart as the data it can securely reach. 🧠 Ground AI agents with live enterprise context using UiPath Data Fabric: https://ow.ly/ew5650ZIWg6
+
+7501700843541401600 | UiPath | link | 35w
+    What happens when enterprise AI forgets the humans in charge? 🧑‍🤝‍🧑 Our CEO Daniel Dines brings philosophy to the diginomica Executive Intelligence podcast - and explains why cutting people first can destabilize your architecture: https://ow.ly/Kcys50ZIWkw
+
+7502655717380808704 | UiPath | image | 15w
+    Our interns are going back to school with varsity status. 😎🎓 Join the crew: https://ow.ly/fSKQ50ZIWpJ
+
+7503054603488481280 | UiPath | image | 91w
+    The future of financial crime compliance is coming to Japan. 🇯🇵 WorkFusion, a UiPath company, is bringing its proven, purpose-built AI Agents for financial crime compliance to banks and financial institutions across the Japanese market. Together, WorkFusion's deep anti-money laundering (AML) expertise and AI Agents—combined with UiPath's business orchestration and automation platform and established presence in Japan—can help financial institutions  [...]  focus on higher-risk work. Pictured in Tokyo: Adam Famularo, CEO of WorkFusion, with Koichi Hasegawa, Chairman, UiPath Japan.
+
+7503150175344046081 | UiPath | video | 16w
+    Million-dollar mistakes often start with a tiny configuration error. 💸 See how #AgenticOrchestration prevents them: https://ow.ly/jeMX50ZiORn
+
+7503444682568540160 | UiPath | multi-image(6) | 23w
+    Someone in this album went home and automated the process everyone said couldn't be automated. 📸 Your turn is coming at #UiPathFUSION: https://ow.ly/AcmC50ZL3RJ
+
+7503482791742033920 | UiPath | link | 37w
+    AI is accelerating software development and testing needs a new operating model to keep up. Ingo Philipp explains how the Dark Testing Factory uses autonomous testing, guided by human judgment, to keep quality running 24/7 - https://ow.ly/y6mS50ZL825
+
+7503512787600650241 | UiPath | link | 34w
+    Most enterprise data isn't hard to reach. It's just been copied so many times that no one is sure which version is right. 🧐 See how UiPath Data Fabric puts zero-copy to work: https://ow.ly/BHJm50ZL3C6
+
+7503806997134336001 | UiPath | video | 24w
+    Manual control testing leaves blind spots. 👀 See how #AgenticOrchestration helps audit teams collect evidence, evaluate controls, route exceptions, and generate traceable reports: https://ow.ly/Cj5p50Zs8wT
+
+7503844797162606592 | UiPath | video | 24w
+    How do you know if your AI agent is actually doing its job? 🤔 Our Sr. Product Manager, Maria Vimer, breaks down evals: https://ow.ly/v8Tr50ZwQE8
+
+7503875467641249792 | UiPath | link | 13w
+    When markdowns become the plan 📉, it's time for a better one. https://ow.ly/IYqf50Znwmk
+
+7504131780770377729 | UiPath | image | 25w
+    Three agents, three jobs: KAI answers, Ellie prepares, ERICA assesses risk. 🤖 Learn how they're saving PLDT tens of thousands of hours a year: https://ow.ly/WYpQ50ZMohO
+
+7504207525941141505 | UiPath | image | 28w
+    Welcome to the Dark Testing Factory🌑 A self-running quality system that plans, executes, and improves testing at scale, while humans focus on the decisions that matter - https://ow.ly/IeqE50ZMrS8
+
+7504237357949235200 | UiPath | video | 18w
+    Scale business orchestration and #automation with trust, security, and governance. 🛡️ Hear from our CISO Scott Roberts: https://ow.ly/tbuX50ZMohx
+
+7493038357896359936 | Veeva Systems | multi-image(2) | 101w
+    É com enorme satisfação que anunciamos a participação de grandes experts da indústria farmacêutica no Veeva Summit R&D + Quality Brasil 2026, confira: Track Clinical: Descubra os avanços na área com o case do Aché Laboratórios Farmacêuticos "Digitalização com Propósito: A Nova Era da Pesquisa Clínica", apresentado por Renata Herrera, Clinical Operational Manager. Track de Qualidade: Venha acompanhar o case  [...]  conferir mais detalhes da agenda e garantir a sua participação acesse:https://lnkd.in/dmVnu7xc #Veeva #VeevaSystems #VeevaSummit #VeevaRD #Qualidade #VeevaBrasil #VeevaLatAm
+
+7493214750873579520 | Veeva Systems | image | 70w
+    Disconnect between commercial systems slows down field execution and creates disjointed HCP experiences. Leading biopharmas like Bayer and Otsuka Europe are solving this by connecting Vault CRM and PromoMats. By unifying your systems, you can: 🔸Accelerate MLR approvals and eliminate duplicate assets 🔸Sync content and metadata automatically across channels 🔸Get approved, personalized content to field reps instantly See how industry leaders are transforming their content supply chain: https://lnkd.in/gAuCTsTE #pharmaceuticals #contentmarketing
+
+7493275225522995200 | Veeva Systems | video | 82w
+    Document-based validation is difficult to manage and lengthens the time spent preparing for inspections. In this video with The Medicine Maker, Nadia El Mahrad - Williams, head of IT compliance solutions at UCB, shares how the company is replacing paper and fragmented tools with a single source of truth for validation content and data. Learn how UCB is: ✅ Reducing  [...]  centralized data ✅ Establishing end-to-end visibility and data trust ✅ Achieving time savings across the validation process https://lnkd.in/ehpry7Vp
+
+7493577191109345280 | Veeva Systems | video | 76w
+    Are you capturing all the valuable conversations happening at congresses? Pascal Vande Gucht shares how UCB maximizes their engagement impact by making it easy for cross-functional teams to plan collaboratively and easily record interactions. By complementing CRM engagement data with real-time notes and follow-up actions from head office teams, UCB is driving: ✨ More coordinated planning ✨ Highly personalized engagement for every customer Curious how they do it? Watch the video and learn more here: https://lnkd.in/gPTWRBCJ
+
+7493592413995720704 | Veeva Systems | video | 71w
+    Hearing about the latest innovations is why Daniel Jardanhazi-Kurutz from Bayer attends Veeva Commercial Summit, Europe. Commercial and medical life sciences leaders will come together in Copenhagen in November to explore the future of customer engagement in life sciences and discover innovations that will drive value. Join us to see how Agentic Commercial™ changes everything about the commercial model, from data to digital to field engagement to content operations. https://lnkd.in/gpDR3AmT #VeevaSummitEU
+
+7493939603934994432 | Veeva Systems | link | 52w
+    See how industry leaders at Corcept Therapeutics, Crinetics Pharmaceuticals, Pacira BioSciences, Inc., and Ionis Pharmaceuticals are building a strong AI foundation to support the HCP journey. With the Agentic Call Report unlocking Commercial Evidence, they are empowering field teams with real-world insights to drive precise strategy for every customer. Discover more: https://bit.ly/3UwA1VG
+
+7495132395742937088 | Veeva Systems | video | 71w
+    "Vault CRM allows us to rapidly innovate with AI. We're launching Agentic Call Report and AI-powered media search that will enable the field to focus on high-value engagements." Frank Armenante, Director, Field Systems at Novo Nordisk, explains how upgrading to Veeva Vault CRM provided the platform to rapidly deploy AI tools and streamline administrative tasks for field teams. Innovation moves fast when you have the right foundation. #VaultCRM #AgenticCallReport #LifeSciences #Biopharma
+
+7495450705592295425 | Veeva Systems | image | 48w
+    Proactive preparation for eCTD 4.0 can help regulatory teams reduce document rework, avoid late-night filing pushes, and support more efficient and predictable submission processes. Learn about key technical and operational changes, the move toward greater global harmonization, and key considerations for preparing for eCTD 4.0. Learn more: https://lnkd.in/gxzXT4Yv
+
+7495751459498549249 | Veeva Systems | link | 126w
+    AI can optimize execution, but only the business can decide what is worth optimizing. In an industry where decision-making is distributed across markets, brands, and functions, fragmentation creates a significant structural challenge. Because the Agentic Commercial model relies on interconnected workflows, only business leaders can define the strategic direction and underlying decision logic to drive cross-functional alignment. This requires reevaluating  [...]  standard operating architecture. Read the full paper to understand why business ownership is key to AI success: https://lnkd.in/gMiwxeYG
+
+7495781671473029121 | Veeva Systems | image | 116w
+    📣 Ready to shape the future of commercial and medical? Join over 1,200 life sciences leaders at Veeva Commercial Summit, Europe in Copenhagen, 18-19 November. Connect, learn, and collaborate with your peers to explore how connected software, data, and agentic AI are accelerating impact across the industry. 🟠 Commercial: Discover how Agentic Commercial™ and omnichannel CRM transform field and digital  [...]  medical affairs enable stronger cross-functional collaboration and more impactful scientific engagement. Register now to secure your spot: https://lnkd.in/gbjPANVP
+
+7495813068837265409 | Veeva Systems | video | 133w
+    Can open source technology and AI reshape the future of clinical data management? Opening season 5 of Unblinded: A Clinical Trial Podcast, Novo Nordisk leaders Rhona O'Donnell and Ibrahim Kamstrup-Akkaoui discuss the value of open source, and why collaborative innovation, targeted risk-based data management, and site-focused eSource tools are setting a brand-new standard for clinical trials. They break down: -  [...]  the industry is rewriting the rules of clinical data. Spotify: https://lnkd.in/gcD47YJu Apple Podcasts: https://lnkd.in/g8iUn_Cm Youtube: https://lnkd.in/gHvDQm7a #UnblindedPod #ClinicalData
+
+7495843912348123136 | Veeva Systems | video | 38w
+    Are you putting AI on top of old go-to-market models? Stefan Schmidt shares how Bayer is defining new processes to remove administrative burden and focus on personalized customer interactions. Learn more in our latest podcast: https://lnkd.in/eVzY_Rqq #AI #DataFoundation
+
+7496144050501255168 | Veeva Systems | image | 72w
+    What does "Medical Impact" actually look like? Read the latest whitepaper to see the Insight-to-Impact model: https://lnkd.in/gBUU6n6d Capturing an insight is just the starting point. To truly elevate Medical Affairs, we must link insights directly to: • Scientific belief alignment. • Clinical practice optimization. • Improved patient outcomes. By standardizing how we prioritize and action these insights, we ensure that the "voice of the physician" actually changes the trajectory of patient care.
+
+7496174275637350400 | Veeva Systems | image | 70w
+    Clinical trial complexity is growing, regulations continue to evolve, and research sites are increasingly strained. Yet, as study dynamics change, the way trial stakeholders work together remains fragmented. Jim Reilly offers a new framework that challenges the traditional collaboration model in clinical research. One Clinical is an alternative approach to studies for increased consistency, transparency, and engagement throughout a trial. Read his take in Applied Clinical Trials. https://lnkd.in/ebVuGahg #ClinicalTrials #ResearchSites
+
+7496234597454823425 | Veeva Systems | video | 73w
+    "By revealing individual HCP barriers, drivers, and sentiment, Commercial Evidence allows the field to personalize their next engagement and progress them along the adoption journey." Kavitha Parthasarathy shares how Corcept Therapeutics uses AI in Vault CRM to drive smarter, more targeted engagements. Embedded AI capabilities help capture qualitative data at the HCP and account level to generate actionable insights (Commercial Evidence) that help uncover referral patterns and boost field efficiency. #LifeSciences #VaultAI #VaultCRM
+
+7496476244767834112 | Veeva Systems | image | 57w
+    Modernizing regulatory operations requires a strong data foundation and effective change management to maximize operational efficiency and business value through AI. Get insights from Alfasigma, CSL, mAbxience, MSD, and Sandoz on how they're leveraging automation and AI to improve data quality, reduce administrative work, and focus on complex regulatory tasks and continuous process improvement. Learn more: https://lnkd.in/gPTngUtS
+
+7496536673749520384 | Veeva Systems | image | 66w
+    Learn how GSK uses AI-powered quality coaching to turn field observations into evidence that shapes scientific strategy and patient impact. Join us on August 25th for an exclusive livestream demonstration of Vault CRM's new Agentic Insight Quality capability. See how embedded AI validates MSL entries in real time, transforming raw observations into standardized, high-value actionable intelligence without adding administrative overhead. Register here: https://lnkd.in/gUNjv2NJ #medicalaffairs #pharmaceuticals #medicalscienceliaison
+
+7496582030063738880 | Veeva Systems | image | 83w
+    Are you tracking your return on AI (ROAI)? 💡 Delivering guidance and medicines to HCPs and patients in a timely manner requires a new commercial biopharma foundation. On a recent podcast, Veeva Asia Pacific GM Tristan Theurier shared three immediate actions to establish an Agentic Commercial™️ advantage: • Compliantly capture Commercial Evidence™️ • Redesign content for humans and AI using  [...]  desired outcomes before investing in AI = ROAI Learn how to navigate the shift: https://lnkd.in/eifQrknw #AgenticCommercial #CommercialEvidence #Biopharma
+
+7497563499330564097 | Veeva Systems | video | 48w
+    Micheál O'Toole, senior director of global sales force, explains why AstraZeneca is moving away from resource-intensive approach to field deployment. Discover how leveraging the "wisdom of the crowds" helps them identify the right HCPs for their ambitious $80Bn revenue goal. Watch the video and learn more here: https://lnkd.in/gvKztD7v
+
+7497925825997123584 | Veeva Systems | link | 72w
+    While most life sciences organizations view CRM as a technology requirement, high-performing commercial teams use it to design new ways of working that drive long-term growth. Veeva Business Consulting has released a three-part thought starter series exploring the roadmap from CRM go-live to sustained value: 1️⃣ Rethink: Move to business-owned transformation https://lnkd.in/g9GnDD-u 2️⃣ Engineer: Link outcomes to field behaviors https://lnkd.in/gSunGvaQ 3️⃣ Execute: Apply behavioral science for lasting adoption https://lnkd.in/gztHnVfQ #VaultCRM #VeevaBusinessConsulting #LifeSciences
+
+7497956001019641856 | Veeva Systems | image | 65w
+    Every day your content is stuck in the supply chain is a missed opportunity with an HCP. A unified platform removes that friction. Approved materials move seamlessly from creation and approvals straight into the hands of field reps, ensuring every HCP interaction is timely and impactful. Read our latest blog to see how connecting Vault CRM and PromoMats helps biopharmas get there: https://lnkd.in/gAuCTsTE #pharmaceuticals #contentmarketing
+
+7498318370828804096 | Veeva Systems | video | 62w
+    Better HCP engagement starts before the meeting begins. At Bayer, commercial teams use real-time insights from Veeva Link Key People to better understand an HCP's recent activities, publications, and collaborations, helping transform cold outreach into more informed, meaningful conversations. Hear Daniel Jardanhazi-Kurutz explain the value of what Bayer calls a “warm handshake.” Watch the full video series here: https://lnkd.in/gK87jDyd #CommercialOperations #LifeSciences #VeevaLink
+
+7498650524578254848 | Veeva Systems | video | 73w
+    For Ivo Huybrechts from UCB, hearing new perspectives is one of the reasons he attends Veeva Commercial Summit, Europe. Join your commercial and medical peers, from top biopharmas to innovative biotechs at the largest commercial and medical life sciences gathering in Europe. Book your seat in Copenhagen in November to exchange ideas and discover how to harness agentic AI to uncover treatment barriers and drive better patient outcomes. See the agenda here: https://lnkd.in/gpDR3AmT
+
+7498680767577960459 | Veeva Systems | image | 58w
+    Curious to see how AI is transforming MLR? https://lnkd.in/e2_t-n-g Pooja L. and Rolando Sa are hosting a live Q&A on September 22 to explore the future of MLR. Join us to explore the latest core features in PromoMats and how Vault AI is setting the foundation for the future of MLR. 🔗RSVP and submit your questions. #pharmaceuticals #contentmarketing
+
+7499138584399163392 | Veeva Systems | video | 65w
+    Every conversation in the field holds valuable insights, but too often they're lost or left untapped. The Agentic Call Report™️ in Vault CRM compliantly captures call details via agentic voice and free text to uncover actionable Commercial Evidence™️ — insights into HCP sentiment, treatment barriers, and unmet needs that help sharpen your commercial strategy. See how in this 2-min video 👇 #VaultCRM #AgenticAI #LifeSciences #Biopharma
+
+7500126566174203904 | Veeva Systems | video | 38w
+    Struggling with fragmented customer data and inconsistent definitions? Discover how Orion Pharma fixed inefficiencies and standardized their reference data into a single source of truth, aligning their sales, marketing, and medical teams. Raffaele Torti shares their story: https://lnkd.in/dk4288dH
+
+7500161729008500736 | Veeva Systems | image | 74w
+    The industry shift toward AI and automation in clinical trials requires the right data foundation. With clinical trials becoming more complex, we can no longer afford to send redundant site requests or rely on manual updates. High-quality data enables modern clinical operations. By establishing a clean data strategy, study teams can replace fragmented and reactive data cleanup with a curated, global list of investigators and sites. Learn how reliable data streamlines clinical operations: https://lnkd.in/gyWCmgZy
+
+7500191922867679233 | Veeva Systems | video | 77w
+    🗨️ “We stopped chasing information and started governing information.” Discover how Alfasigma is transforming regulatory operations and driving business value by creating a connected and consistent approach to managing regulatory information across a diverse portfolio, with a lean team. Michele Malossi, Manager, Global Regulatory Digital, shares how they created a unified regulatory foundation that enables them to: ✅ Manage regulatory information in one place ✅ Improve visibility and traceability ✅ Reduce rework and handovers ✅ Increase efficiency
+
+7500855104309370880 | Veeva Systems | image | 57w
+    🗓️ Join Pooja L. and Rolando Sa for a live Q&A on 22 September. They will be unpacking the newest PromoMats innovations and exploring exactly how AI is transforming the future of MLR workflows. Bring your toughest questions, they'll be answering them live! 👇 Secure your spot and submit your questions in advance here: https://lnkd.in/e2_t-n-g #pharmaceuticals #contentmarketing
+
+7501187337641553920 | Veeva Systems | video | 77w
+    Being customer-focused is no longer enough. To succeed, field teams must focus on the right customers. By providing a clear, data-driven view of the most important KOLs, managers can guide their field-based colleagues to ensure they are engaging the exact right people for their therapeutic area. Listen to Daniel Jardanhazi-Kurutz share how at Bayer, objective data from Veeva Link Key People keeps their teams razor-sharp and on target. Watch the full video here: https://lnkd.in/gK87jDyd #CommercialOperations #LifeSciences #VeevaLink
+
+7501217505559011328 | Veeva Systems | video | 79w
+    Gaining roadmap insights, learning how other companies approach deployment, and connecting with colleagues is why James Richards from Astellas attends Veeva Commercial Summit, Europe. Commercial and medical life sciences leaders are coming together in Copenhagen on 18-19 November to explore the future of customer engagement with Agentic Commercial™, the new commercial model, leveraging AI to get the right medicines to  [...]  patients. Join us to hear the latest innovations and exchange best practices. Check out the agenda: https://lnkd.in/gpDR3AmT #VeevaSummitEU
+
+7501247853789630464 | Veeva Systems | video | 78w
+    Hear Stacy Singer Stone, MS from Pacira BioSciences, Inc. share how their field team evolved their CRM strategy from a system of record to a system of insight, and now on the path towards agentic commercial. By adopting #VaultCRM, Pacira built the foundation for true omnichannel experience. Capturing field feedback allows them to understand where HCPs are in their product journey, ensuring reps deliver the right message at the right moment. Watch the full conversation 👇 #VaultCRM #LifeSciences
+
+7501655515593166848 | Veeva Systems | image | 51w
+    Build your AI strategy alongside commercial and medical peers at #VeevaCommunityForums: https://lnkd.in/ezmKrvy8 Reserve your seat to collaborate with Veeva experts, and explore upcoming innovations across the Vault CRM Suite, PromoMats, and Medical Suite – including Vault Medical and Link. ⏱️ Only 3 weeks until kickoff. Select your city and register now.
+
+7502636914148200448 | Veeva Systems | video | 81w
+    When commercial teams spend less time handling administrative tasks and more time acting on clean data, they build stronger HCP relationships and improve customer engagement. By consolidating commercial workflows on Vault CRM, biopharma leaders can create a solid AI-ready foundation, allowing their teams to deploy practical capabilities like the Agentic Call Report and unlock Commercial Evidence™. Watch the video to  [...]  life sciences companies are unifying their commercial execution on Vault CRM, turning daily field interactions into strategic action.
+
+7502999226876940289 | Veeva Systems | image | 46w
+    Scaling content strategies in 2026 requires a modern MLR solution. By rethinking the division of human and agentic labor, biopharmas can remove < 70% of manual MLR work within five years and boost content speed to market by < 80%. Learn more: https://lnkd.in/eVwjxyvX #pharmaceuticals #MLR #pharmamarketing
+
+7503029443775483904 | Veeva Systems | video | 49w
+    It's time to redefine the data narrative and move from simple cost-saving to proving real business value 📈. Learn how Orion Pharma transformed their approach to create a unified 360 customer view, unlocking predictive modeling, and deeper internal data connections. Check out the video to find out how: https://lnkd.in/dk4288dH
+
+7503361609935822849 | Veeva Systems | image | 49w
+    How do you reduce product launch admin efforts from days to months and allow reps to focus more on their engagement with HCPs? ➡️ Watch the video to discover how Teva transitioned to an automated system and gained clear visibility into performance goals and objectives: https://lnkd.in/g-gJR6_y #fieldplanning #lifesciences #biopharma
+
+7503724479395647490 | Veeva Systems | image | 61w
+    ⏳ Save your spot! Join Pooja L. and Rolando Sa for a live PromoMats Q&A on September 22. https://lnkd.in/e2_t-n-g They'll cover: • How AI in MLR is advancing the agentic experience • What's new in PromoMats across the content lifecycle • How to modernize your MLR operating model Register and submit your questions to get them answered live! https://lnkd.in/e2_t-n-g #pharmaceuticals #contentmarketing

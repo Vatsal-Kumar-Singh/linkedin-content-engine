@@ -1,0 +1,169 @@
+# batch 030  -  55 posts  -  label per research/CLASSIFICATION-PROTOCOL.md
+# labels: problem exploration requirements selection validation consensus
+#         recruitment culture event product-news csr unclear
+# write research/labels/030.tsv as: <id><TAB><label>
+
+7500951710383755264 | Slalom | image | 74w
+    We're proud to be named a 2027 Salesforce Partner of the Year Award winner for System of Agency. This recognition reflects what our teams do every day: helping customers connect strategy, technology, and experience so work moves smarter across the business. Thank you to our customers for trusting us with their transformation journeys, and to the teams who brought this work to life. Heading to Dreamforce? Let's connect and talk about what's next. https://slalom.ws/3T94bhy
+
+7501309040749084672 | Slalom | image | 68w
+    AI adoption in manufacturing starts with a simple shift: focus on the business need first. Don Rogers shares why manufacturers need stronger alignment between IT and operations to turn AI and data into meaningful outcomes. When both teams define the problem, workflow, data, and decision points together, technology has a clearer role to play. Read Don's perspective on why manufacturing's AI problem is really a relationship problem: https://slalom.ws/4qXgYAk
+
+7501673985471012865 | Slalom | multi-image(7) | 77w
+    New space, same unmistakable Slalom energy. Our Guadalajara team recently celebrated the opening of their new office, bringing together local colleagues and leaders from across LATAM and the US to mark the moment. With 200 team members now in Guadalajara, this space represents more than growth. It's a home for the community, collaboration, and momentum already taking shape in the region. And yes, the celebration came with music, dancing, and a Mariachi moment worthy of the milestone.
+
+7503119481867694081 | Slalom | multi-image(5) | 63w
+    The countdown is officially on: Dreamforce is one week away. Looking back at Dreamforce 2025, we're reminded what makes this week so memorable: big ideas on the floor, conversations that carry past the booth, and a city full of Trailblazer energy. This year, we're coming back ready to talk about what's next for Salesforce, AI, and customer transformation. Join us at Dreamforce: https://slalom.ws/4wZkmN2
+
+7503464005261434881 | Slalom | image | 36w
+    The organizations seeing the greatest AI impact aren't treating it as a standalone initiative.​ See how Slalom and Amazon Web Services (AWS) help embed AI across workflows, systems, and teams to create measurable business value. https://slalom.ws/4qYtteZ
+
+7503841638172012545 | Slalom | text | 69w
+    AI is changing what it means for customers to discover, evaluate, and buy. For brands, the next challenge is not just whether AI can find you. It is whether AI agents can understand your products, work with your data, and complete the actions customers expect. In our latest newsletter, we explore why discoverability is becoming an infrastructure question and what leaders should know about the rise of agentic commerce.
+
+7504207273611780096 | Slalom | multi-image(6) | 77w
+    A new chapter for our Bogotá team, and a celebration to match. Our new office opening brought together team members and leaders from LATAM and the US to recognize the people, culture, and momentum behind this growing community. With 255 team members in Bogotá, the day was full of pride, connection, and local energy, including music from San Jacinto Gaiteros that brought everyone into the moment. Congratulations to everyone who helped bring this new space to life!
+
+7491565169253269504 | Snowflake | video | 65w
+    AI scales best when you empower your team to do more with the right tools. Giving teams flexibility with different clouds and models helps manage costs and keep things efficient 💪🏻 Tredence Inc.'s Sumit Mehra joins Snowflake's Thanikai Sokka to discuss AI Forge. The initiative equips 5,000 employees with AI tools to boost productivity across the company without shrinking the workforce. Watch here 👉🏻 https://bit.ly/3TIkBxq
+
+7491614216198533120 | Snowflake | image | 53w
+    Scaling a company from 100 to 500 employees without your data flow collapsing isn't easy 🚀 Silverfort connected their entire data lifecycle using Snowflake and Boomi to build a clean, AI-ready data foundation. The result? Unified GTM data and improved sales and marketing efficiency as the business expanded. Check out their journey: https://bit.ly/3TFm4Vi
+
+7492446084191997952 | Snowflake | text | 55w
+    New month, new Snowflake AI features. Snowflake AI Pulse is back. Join our product team to see what just shipped, how it works in production workflows, and a real-world use case up close. Stay current on Snowflake AI without digging through release notes, and learn how to go from experimentation to production faster. Register now.
+
+7492610845017874432 | Snowflake | image | 90w
+    Ready to move your AI initiatives from experimentation to real-world impact? Snowflake World Tour is coming to 23 cities worldwide with practical strategies for building, deploying, and governing AI directly on your data. Here's what's in store: 🔹 Hands-on sessions on Snowflake Cortex 🔹 Generative AI for the enterprise 🔹 Data governance in the age of AI 🔹 Customer stories  [...]  new ways to turn your data into intelligent applications! Register today for a city near you! 📍 https://bit.ly/4hmdlRK
+
+7492727525328986112 | Snowflake | video | 65w
+    Real-time data freshness shouldn't force you into a brutal cost trade-off. 📈 Thrive proved you can keep high-performance analytics scaling smoothly without ballooning the cloud bill. By engineering custom incrementalization directly into Snowflake Dynamic Tables, their team shifted to processing strictly modified data. The result? They cut auto-clustering costs by 99% while keeping their dbt lineage completely intact. Read the technical walkthrough here 👉🏻 https://bit.ly/3UgXUQZ
+
+7492867489714962433 | Snowflake | image | 44w
+    Marketing attribution shouldn't require a data engineering ticket. Snowflake gives CMOs a single, AI-powered view across every campaign, channel and customer touchpoint, so you can answer the board's hardest questions on the spot. Faster decisions. Smarter spend. No more guessing. Download the one-pager: https://bit.ly/4hltDdw
+
+7493000123208118272 | Snowflake | video | 55w
+    Unifying SAP and Snowflake data is a game-changer for enterprise AI. 🤖 Christopher Dinkel and Gil Gomez, MBA of Deloitte discuss how combining transactional data creation with governed management removes data movement friction. Now, joint customers can seamlessly feed live, unified data directly into AI models with total control and speed. Watch here 👉🏻 https://bit.ly/3S2Lbko
+
+7493385654244909056 | Snowflake | video | 59w
+    Building AI models just got an upgrade with Snowflake guardrails to enhance human creativity. 🎨 EDO's Kevin Krim joins Data Cloud Now to discuss how putting guardrails on AI models prevents hallucination by restricting the data sets they use. These tools are designed to enhance and empower human judgment, not replace it. Watch the full conversation here 👉🏻 https://bit.ly/4ze4xDF
+
+7493433680107909120 | Snowflake | image | 49w
+    SAP and Snowflake zero-copy integration is now available on Google Cloud ☁️ – for both SAP Snowflake and SAP Business Data Cloud Connect for Snowflake, letting organizations unify SAP and enterprise data without replication. Build a governed, AI-ready platform on the business data you already trust. Learn more: https://bit.ly/4z8VLXP
+
+7493652817488973824 | Snowflake | video | 180w
+    ❄️ The August Snow Report is LIVE ❄️ Two GA launches for Snowflake CoCo, warehouse tuning that handles itself, and #SnowflakeWorldTour in 23 cities. 🚀What's new Snowflake CoCo Desktop is GA A native IDE inside your governed Snowflake environment, so it knows your data models and access policies from day one. Up to 2X faster on complex tasks with 51%  [...]  of Summit 2026, 40+ top-rated sessions ➡️ Watch the full report and get everything in one place. https://bit.ly/4bNplrJ
+
+7493735731807371266 | Snowflake | video | 70w
+    Deploying enterprise AI agents used to take months, but now it takes days. ⏱️ Atlan's Prukalpa ⚡ Sankar joins Data Cloud Now and shares how joint customers are accelerating time to value. By pairing Atlan with Snowflake CoCo, organizations provide AI with the exact business context required to deliver real results. Together, teams can cut agent deployment timelines from months down to a couple of days. Watch here 👉🏻 https://bit.ly/4zuxonE
+
+7494450119086452738 | Snowflake | image | 80w
+    The countdown to the Opening Ceremony of the LA28 Olympic & Paralympic Games Opening Ceremony is officially on. 🏅 In two years, Los Angeles will host its first Paralympic Games. Delivering a world-class experience for millions of global fans and elite athletes takes massive scale behind the scenes. As the Official Data Collaboration Provider for LA28, Snowflake is powering the  [...]  lifecycle on a single, secure platform to connect every moment. See how data collaboration drives peak performance: https://bit.ly/4bOUzia
+
+7495288890497523713 | Snowflake | text | 83w
+    The closing bell rang a little louder today. We spent the day at the NYSE with CISOs, customers, and partners with a keynote on governing AI agents at enterprise scale, a roundtable on the security challenges defining the agentic era, and celebrated the introduction of Cortex AI Gateway. Then we rang the bell. And we welcomed the Natoma team –  [...]  AI security shouldn't be bolted on. Today was proof the industry is ready to build it in. ❄️
+
+7495464086789574656 | Snowflake | video | 116w
+    Not every AI request needs the most intelligent frontier model available. Some tasks need deep reasoning. Others need speed, lower cost or the right data residency. The challenge is making that choice automatically as AI scales across teams, apps and agents. Today, we're introducing dynamic model routing in Cortex AI Gateway and expanding open model access in Snowflake Cortex AI  [...]  AI economics: using compute, models, data and context more effectively to drive measurable business outcomes. Read more: https://bit.ly/3SlpsEr
+
+7495510758772948992 | Snowflake | text | 39w
+    The benchmark result is worth calling out: DeepSeek-V4-Flash scored 74.4% on ADE Bench, outperforming every proprietary model we tested. Both new models run inside Snowflake's existing RBAC, access controls, and audit trail. Governance keeps pace with model access. 📊
+
+7495555196748664833 | Snowflake | video | 79w
+    Security teams have specific questions before approving AI access at scale: Who can use it? What can it cost? What data, roles and external tools can it reach? What gets enforced before a session starts, and what gets governed at the tool-call level? Now, Snowflake CoCo gives them concrete answers. Per-user AI quotas are generally available, and new enterprise controls  [...]  governance from spend to access, behavior and external tooling. Check out what's new and dive in here: https://bit.ly/4qoldnX
+
+7495600510285103104 | Snowflake | image | 80w
+    Data scale means nothing if your teams and AI agents interpret it differently. 🤖 When AI agents and analytics dashboards pull conflicting metrics from raw data, decision-making stalls and trust breaks down. By building a unified semantic context layer, our internal product data science team transformed petabytes of complex telemetry into a single, governed source of truth, boosting natural language  [...]  from 20% to over 90%. Learn how to model a scalable context layer for your enterprise 👉🏻 https://bit.ly/4cvrGb3
+
+7495645764636049408 | Snowflake | link | 75w
+    Scaling customer intelligence shouldn't mean compromising performance. ⚡️ Built on Snowflake and Google Cloud, Optimove processes billions of customer signals daily – combining Google Cloud's real-time event processing with Snowflake-powered segmentation, analytics, orchestration, and secure data sharing. The result? Marketers get timely access to predictive customer insights to deliver smarter personalization, with AI-selected audiences driving 19% better campaign performance and customers seeing a 33% average increase in lifetime value. See how it works. 👉🏻 https://bit.ly/4zoFpKL
+
+7495875042992566274 | Snowflake | link | 65w
+    “When you can identify issues or opportunities more quickly, the benefits can add up to millions. There's a huge value in having more frequent data-driven analysis and decision-making, and that's what Snowflake Cortex AI enables.” Learn how Cleverbridge combines more than 20 years of global software commerce experience with natural language data queries to help teams access insights faster and make better revenue decisions: https://bit.ly/4iikUZW
+
+7496302602628993024 | Snowflake | link | 75w
+    Enterprise AI only works if you can see what's happening inside it. 🔍 Since Observe, Inc. joined Snowflake, here's what's shipping: ⬩Observability data now stores as Apache Iceberg™ tables in your own S3 bucket – your storage, open standards, no lock-in. ⬩AI agents can now query telemetry directly via the redesigned Observe MCP server and CLI. When AI runs at enterprise scale, the team that sees everything has the advantage. Explore Observe by Snowflake: https://bit.ly/4qv8Oig
+
+7496347881709350913 | Snowflake | image | 51w
+    Your AI agents are only as smart as the data they can reach, but success requires more than just access. 🔐 As enterprises shift from experimenting with AI to building governed, scalable agentic workforces, the real challenge isn't just technology; it's adopting a new management model. Download the ebook 👉🏻 https://bit.ly/3SqFRr0
+
+7497940964800503810 | Snowflake | video | 87w
+    The companies moving fastest on AI aren't waiting for the perfect model. They're working with the right data foundation. See it in action at #SnowflakeWorldTour Berlin on September 29. Product announcements and live demos from Snowflake CEO Sridhar Ramaswamy. Breakout sessions on modernizing your data estate, building AI-ready pipelines and deploying agents at enterprise scale. Plus hands-on labs and a  [...]  with a clear roadmap for making AI real for your business. View the full agenda and register: https://bit.ly/4xiLozh
+
+7498045934447046656 | Snowflake | text | 48w
+    Snowflake AI Pulse returns in September. Connect live with our product team to explore newly released features, see them applied in production environments, and walk through real-world case studies. Skip the release notes—stay up to date on Snowflake AI and accelerate your path from experimentation to production. ❄️
+
+7498099655591895040 | Snowflake | text | 16w
+    Curious how your vote compares to 818 decision-makers? New research by The Futurum Group drops Thursday.
+
+7498137281518551040 | Snowflake | video | 64w
+    The next big leap in enterprise AI isn't replacing human judgment – it's empowering it 🧠 Debashish Nagendra Barai of Piramal Finance and Snowflake's Vijayant Rai breakdown how systems are driving smart decisions while keeping humans in the loop. By serving live Snowflake data directly to relationship managers, they are unlocking faster customer outcomes and driving real AI in action. Watch here 👉🏻 https://bit.ly/4zCzLVr
+
+7498393113036599296 | Snowflake | text | 76w
+    A new month, and new Snowflake AI features are available. But who has time to dig through release notes? Snowflake AI Pulse is back. In one session, our product team walks you through what just shipped — from the latest AI capabilities to updates in security and governance — and shows you how it works in real production workflows. Build faster. Stay compliant. And leave with a use case you can apply straight away. Register now.
+
+7498441426163351552 | Snowflake | video | 55w
+    Pitch decks don't move the needle, running software in production does. 🤝 EY's Julie Linn Teigland joins Snowflake's Ryan Green on Data Cloud Now to break down how the EY-Snowflake alliance enables teams to deeply master the platform, ensuring customers enjoy a seamless implementation that brings enterprise AI to life instantly. Watch here 👉 https://bit.ly/4gxxwdo
+
+7498726530894872576 | Snowflake | text | 81w
+    Most places make you guess what it takes to build AI-native technology, but we prefer giving away the answers. Starting with how to nail your Snowflake interview. Once you've cracked the code (you're welcome), here's what you will be stepping into: Cortex AI Gateway making its debut, Snowflake World Tour as seen from Down Under, and a team of builders  [...]  enterprise look easy (connected and trusted). Sound familiar? 😉 Tap in for everything #LifeAtSnowflake in this month's Snowcast.
+
+7498758971088949248 | Snowflake | link | 46w
+    The results are in: the inability to write back to systems of record is a top blocker for roughly 1 in 4 enterprises, felt most acutely in Financial Services. Read-only agents stay advisory. Governed, closed-loop agents actually execute. Here's the architecture that closes the gap: https://bit.ly/4wLpsvr
+
+7498806827183226881 | Snowflake | text | 72w
+    Your AI strategy isn't stuck because of the model. It's stuck because of where the model lives relative to your data. We commissioned independent research with The Futurum Group, surveying 818 enterprise decision makers on what's actually blocking organizations from running autonomous AI at scale. The findings point to an infrastructure gap most teams aren't talking about yet. Swipe through for the key findings. Full report link in the first comment below.
+
+7500343083616706560 | Snowflake | video | 106w
+    Shadow AI is one of the biggest security risks most enterprises haven't fully reckoned with: ungoverned agents built across multiple platforms, accessing critical data without the right identity and access controls needed to govern their actions. Saviynt SVP for Business Development Akhil Kapoor walks through how that risk plays out for joint customers, specifically how third-party agents can gain access  [...]  authorized to perform the specific actions required for a task before they execute. Watch the full conversation 👇
+
+7500575986346926080 | Snowflake | link | 100w
+    When you're processing billions of customer signals daily across 500+ brands, the gap between "we have the data" and "we can actually act on it" is where marketing performance lives or dies. Optimove closed that gap by building on Snowflake and Google Cloud. Zero-copy data sharing gives their clients instant access to the intelligence they need, while Dynamic Tables keep  [...]  themselves: 19% better campaign performance, 33% increase in customer lifetime value, and 49% higher response rates. 👉🏻 https://bit.ly/4x5hbmi
+
+7500699513515339776 | Snowflake | video | 82w
+    We're bringing same-day availability of Claude Fable 5.1, Anthropic's latest model, to Snowflake Cortex AI in private preview. Fable 5.1 sets a new bar for long-running agentic coding, knowledge work and problem-solving, with adjustable effort levels and built-in self-verification for more autonomous runs with less supervision. Put it to work across Snowflake CoWork, CoCo, Cortex Agents, Cortex AI Functions and  [...]  Snowflake's security and governance perimeter from day one. More model choice, same governed platform. See what's possible: https://bit.ly/3SHmNoA
+
+7500900444278394880 | Snowflake | link | 76w
+    Most AI agents are stuck in advisory mode because their architecture can't handle the execution. But the tide is turning. 44.5% of enterprises are now aggressively investing in unified semantic layers to ground their agents, while 35% are forcing a move to zero-copy storage portability. They aren't just building chatbots; they're building an Agentic Control Plane. Along with The Futurum Group, we've mapped the four non-negotiable pillars that separate experimental pilots from autonomous, production-ready systems. https://bit.ly/4x7d1dR
+
+7501672827176030208 | Snowflake | text | 50w
+    There's no AI strategy without a data strategy. In just 20 minutes, our experts will show you how Snowflake's AI Data Cloud gives you a unified, trusted platform to eliminate silos, accelerate enterprise AI, and build the data foundation your business needs. → Register for our next free EMEA session
+
+7501685636899262464 | Snowflake | link | 86w
+    More than $1.9 trillion in annual consumer card spend flows through checkout lines every year, but most businesses still report performance quarterly, if they report at all. Facteus set out to close that gap, and with Snowflake Interactive Analytics, dashboard queries went from two minutes to under a second, chat responses are 6x faster, and the warehouse now runs around  [...]  simple filter. That's what we mean by moving from informed to ready to act. See how 👇 https://bit.ly/46G6s72
+
+7502757715027353600 | Snowflake | link | 72w
+    The AI debate is still about which model to choose. But model choice rarely explains why AI makes the wrong call. Better models are available to everyone. What competitors struggle to replicate is your company's accumulated business context: how you value customers, balance margin and growth, protect the brand. Snowflake Horizon Context gives that understanding a governed home – so your AI reasons from trusted definitions, not guesses. Read more 👉 https://bit.ly/4qTiwuW
+
+7503074828065841152 | Snowflake | video | 59w
+    Most AI stories stay in the slides. This one changed the direction of a live meeting. 🎯 dbt Labs' Tristan Handy and CarGuru's Parag Shah join DCN to share what building with AI looks like in practice, from real-time insights in live meetings to a PII-scanning agent built with Snowflake CoCo in about 10 minutes. Learn more 👉🏻 https://bit.ly/3UqBKfz
+
+7503126791629279232 | Snowflake | image | 95w
+    Snowflake Ventures is excited to invest in Dust and Gray Swan, two companies helping define the next phase of enterprise AI. Getting to the agentic enterprise takes more than better models. It takes a trusted foundation: a single source of enterprise truth, built-in security, and governance that lets agents operate reliably in real business workflows. Dust gives teams a shared  [...]  is building the runtime security layer that lets organizations deploy AI with real confidence. Learn more 👉🏻 https://bit.ly/3TjPdp5
+
+7503175487301713920 | Snowflake | video | 97w
+    AI agents don't wait for quarterly access reviews. They act in real time, and there are usually a lot more of them than the humans they work for. SailPoint Chief Product Officer Levent B. breaks down some of the biggest risks with autonomous agents: proliferation, and the lack of real-time protection. Static policies built for human governance can't keep up.  [...]  real-time protection to shut one down the moment it drifts from its purpose. Watch the full conversation. 👇
+
+7503490009606467587 | Snowflake | video | 81w
+    Model choice matters more when AI moves from experimentation to real work. OpenAI GPT-6 Astra is now available in private preview on Snowflake Cortex AI, giving customers OpenAI's most intelligent and most aligned model option inside Snowflake's secure, governed environment. With GPT-6 Astra in Cortex AI, teams can use OpenAI's latest reasoning and computer-use capabilities in Snowflake. Available across Snowflake  [...]  Cortex Agents, Cortex AI Functions and Cortex Inference. More choices. More flexibility. Same Snowflake governance perimeter. 👉 https://bit.ly/4gVBlJj
+
+7503552590538797056 | Snowflake | image | 124w
+    AI agents are only as good as the data they operate on. Without governed, cross-domain enterprise data, even the smartest agents fall short. That's why the agentic enterprise won't be built by any single company. It takes an ecosystem. And the results are already showing up: CitiusTech used Snowflake CoCo to compress a major enterprise migration from 7.5 months to  [...]  in years to keep that momentum going. Read more from Amy Hirst-Kodl, SVP Worldwide Alliances & Channels: https://bit.ly/4d5Tsew
+
+7503595639470129152 | Snowflake | link | 80w
+    "Pilot purgatory" is where most enterprise AI goes to stall. Moving from experimental projects to operational autonomous AI requires a shift in how you build. Along with The Futurum Group, we've mapped out the 5 moves needed to operationalize your AI agents. From auditing your semantic foundation and demanding model optionality to aligning AI strictly to business pain points, this  [...]  pragmatic checklist for decision-makers. If you're ready to move from pilot to production, get the playbook. 👇 https://bit.ly/468A0Kl
+
+7503799691017445376 | Snowflake | video | 177w
+    ❄️The September Snow Report is LIVE❄️ Three GA launches, AI cost controls, and Expedition 2026 registration is open. 🚀What's new Per-User Quotas are GA Set daily or monthly spending limits per user for CoCo, CoWork, Cortex AI Functions, or warehouse compute – and Snowflake blocks access automatically when limits are hit. Deep Research in Snowflake CoWork is GA Multiple agents  [...]  World Tour, 3 regions, 23 cities ➡️ Watch the full report and get everything in one place. https://bit.ly/3SCQmbb
+
+7503846317534760961 | Snowflake | image | 102w
+    Most data teams adopted AI to get ahead of the backlog. Now the backlog is bigger. Eight in 10 organizations have deployed AI-based data engineering tools. And yet data engineers report more complexity than ever, with data security and privacy as the top challenge. The problem isn't the tooling. The processes haven't changed. Autonomous data engineering is the shift from  [...]  of that journey – from hand-built pipelines to self-healing data estates. Where does your team sit? 👇 https://bit.ly/4inmv0F
+
+7503890138381512707 | Snowflake | image | 101w
+    Join us for Snowflake Expedition 2026 – a global virtual experience designed to turn data engineering, analytics, and AI into high-impact, business-ready workflows. Whether you're a builder or a leader, Expedition offers tailored learning paths so you can go heavy on execution and focus on real business outcomes! What to expect: ⚡ Hands-on technical bootcamps, live demos, and minimal slides.  [...]  Data Cloud. 📅 Dates: November 3–6, 2026 💻 Location: Free Virtual Event 🔗 Register now for free: https://bit.ly/3V5xFgU
+
+7503945991880912897 | Snowflake | video | 59w
+    Jumbotrons used to run on Excel. Now they run on agents. 🎯 Feld Entertainment's Scott Wruble and Domo's Mark Boothe join DCN to share how Feld manages millions of media assets and their metadata with Domo and Snowflake at the core, building an agent that automatically delivers the right content to jumbotrons around the world. Watch here 👉🏻 https://bit.ly/4yADmSK
+
+7504209438157852672 | Snowflake | video | 34w
+    Booking.com teams use Snowflake Cortex AI to connect the right data across every system so teams can work fast, decide fast, and act faster. See how Snowflake helps data and AI do more: https://bit.ly/4yymX0Y

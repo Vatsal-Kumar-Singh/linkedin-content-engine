@@ -1,0 +1,73 @@
+# person batch 013  -  23 posts  -  research/CLASSIFICATION-PROTOCOL.md
+# labels: problem exploration requirements selection validation consensus
+#         recruitment culture event product-news csr unclear
+# write research/labels_people/013.tsv as: <id><TAB><label>
+
+7491081509609652224 | Charles C. | multi-image(5) | 69w
+    People were asking me, so I wrote a bit about why and how PostHog spends $45,000 per month on doing weird stuff. Turns out you can actually operationalize (ew) doing weird - it's not just randomly doing stuff for the sake of it. And please please don't make it your marketing team's responsibility to make your company weird, as that's how you end up in corporate try-hard territory... https://lnkd.in/ec-_EJHW
+
+7495920528625430528 | Charles C. | image | 75w
+    PostHog's very own Ian Vanagas wants to save you money on your token bill by doing things like: - learning how to track costs real gud - choosing the right model for the task (actually useful not hypeboi nonsense!) - stopping your MCPs from destroying your context window read more in his very good article,  [...]  to, why not stop tokenmaxxing, start tokenrelaxxing (damn that would have been a killer title too)
+
+7497717559622889473 | Charles C. | text | 102w
+    no PostHog news for once - I'm on holiday and trying to catch up on my 50 books/year target! The StoryGraph tells me these are the 6 books I've rated ⭐⭐⭐⭐⭐ this year, and I think you might like them too: - The Goldfinch - Donna Tartt - North Woods - Daniel Mason - Americanah  [...]  and the Business of Life - Alice Schroeder only 2/6 aggressively tech bro-coded, must try harder
+
+7498645741104517121 | Charles C. | link | 28w
+    joke's on you, i was never reviewing code in the first place (you should watch this though if you want to peek inside Paul D'Ambra's brain, terrifying/inspiring?) https://lnkd.in/erZXQ7Ba
+
+7500593853343748096 | Charles C. | video | 12w
+    friendship with billboards is OVER, PostHog blimp is my new best friend
+
+7501228077012766721 | Charles C. | video | 18w
+    PostHog blimp takes to the SF skies, what a time to be alive. What should we do next?
+
+7502302971737665536 | Charles C. | text | 20w
+    sometimes I have thoughts about stuff deemed too random for the PostHog blog, but I'm inflicting them on you anyway
+
+7503549003763126272 | Charles C. | text | 18w
+    sometimes I wonder if we've gone too far and then I think no, we haven't gone far enough
+
+6641789780264919040 | Xavier Uzcategui | text | 0w
+    
+
+6670690654810632194 | Xavier Uzcategui | text | 0w
+    
+
+6671238175257632768 | Xavier Uzcategui | text | 0w
+    
+
+6671789994409046019 | Xavier Uzcategui | text | 0w
+    
+
+6675955455568740352 | Xavier Uzcategui | text | 0w
+    
+
+6701202909159329792 | Xavier Uzcategui | text | 0w
+    
+
+6714659301723561984 | Xavier Uzcategui | text | 12w
+    Happy and grateful to be part of this experience! Thank you #inbound2020
+
+6729523508143124480 | Xavier Uzcategui | text | 0w
+    
+
+6775133159248982016 | Xavier Uzcategui | text | 0w
+    
+
+6775891352577208320 | Xavier Uzcategui | text | 0w
+    
+
+7123370689822142464 | Xavier Uzcategui | text | 20w
+    Always feels great to be part of a rebrand project and see all the work behind the scenes come together.
+
+7123679703307030528 | Xavier Uzcategui | text | 22w
+    Shoutout to Jordan Stokes for putting all her knowledge and experience into this playbook! A must-have for B2B SaaS businesses out there.
+
+7475661315001364480 | Xavier Uzcategui | link | 257w
+    Most B2B SaaS product videos are just glorified screen recordings. Then there's HubSpot. Instead of showing dashboard clicks, they built video ads around the chaos of mismanaged data. They exaggerated real office pain points, made the videos relatable, and positioned their CRM as the ultimate sigh of relief. The Revenue Impact: > According to data  [...]  pages. Check out the HubSpot YouTube Channel (youtube.com/hubspot) to see how they pace their product breakdowns.
+
+7476012458550341633 | Xavier Uzcategui | video | 125w
+    Just tested Figma Motion, here's what stood out: • No need to install or switch to a separate app, everything lives in the browser, in the same file you're already working in • Export directly to MP4 for video production, WEBM for web, GIF, SVG, no extra steps, no conversion tools • AI agent builds  [...]  tools just for simple UI animations, this is worth trying. Open beta is live now: https://lnkd.in/dfA_M74F
+
+7496308978025582592 | Xavier Uzcategui | video | 15w
+    I turned a flat screenshot into a fully editable, animated vector layer, with one prompt.

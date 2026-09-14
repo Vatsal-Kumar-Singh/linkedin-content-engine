@@ -1,0 +1,214 @@
+# batch 008  -  70 posts  -  label per research/CLASSIFICATION-PROTOCOL.md
+# labels: problem exploration requirements selection validation consensus
+#         recruitment culture event product-news csr unclear
+# write research/labels/r2_008.tsv as: <id><TAB><label>
+
+7495562423198810113 | Lattice | link | 47w
+    AI adoption isn't stalling because of the technology. It's stalling because of trust. In her latest piece for HRO Today, Sophie Hurcombe, Lattice's Chief People & Operations Officer, makes the case that successful AI adoption is a culture challenge, not a technical one. 📖 Read more: https://lnkd.in/ewEfQT-i
+
+7495828235671502849 | Lattice | image | 100w
+    Big news from Lattice! 🚀 We've acquired Pando, the just-in-time performance platform, and Pando founder and CEO Barbra Gago is also joining Lattice as our new Chief Marketing and Strategy Officer. Together, Lattice and Pando are advancing a more continuous, AI-native approach to performance, grounded in trusted context, and embedded in the flow of work. Excited for what this means  [...]  Pando team! PS Join our CEO Sarah Franklin and Barbra for a fireside chat on Sep 24: https://lnkd.in/e8MyAjsV
+
+7496266963329896449 | Lattice | image | 49w
+    Before rolling out Evidence-based Review Drafts to our customers, we used it ourselves. The result: our team spent 42% less time on Q1 reviews, the first cycle we ran with it enabled. Cody's experience says the rest. Built by people who use it. Tested by people who trust it.
+
+7497745332529844224 | Lattice | link | 85w
+    As AI transforms every role, organizations need more than access to AI tools. Join Lattice's own Noel Banerjee, M.S. Senior Learning & Development Program Manager and Mollie West Duffy, Director of Learning & Development for a live session on how to build a best-in-class AI upskilling program. You'll learn how to: ✅ Test and decide AI upskilling offerings at your  [...]  actually improve AI fluency ✅ Define what AI fluency looks like for your organization 📍Save your spot: https://lnkd.in/gbMd_N3Z
+
+7498055348117954560 | Lattice | image | 47w
+    Everyone has an opinion on the future of work. We've got the data 👀 Our 2027 State of People Strategy Report launches on September 9th. A year's worth of HR data, trends, and hard truths, straight from 1,000+ HR leaders navigating it all. 🔗 Pre-order now: https://bit.ly/3UTcI8J
+
+7498425697619808256 | Lattice | image | 128w
+    Leaders are counting on AI to improve performance and deliver results. But many employees lack the skills, confidence, and mindsets to use AI effectively at work. Join us and our friends at Hone for Forward: AI Transformation in Practice, a free, half-day virtual event on Wednesday, September 9. You'll learn how to: ✨ Build AI fluency across your teams ✨  [...]  If AI transformation is a priority for your organization, this is a must-attend event. Save your spot: https://bit.ly/4y3yQeT
+
+7498842830820409347 | Lattice | video | 42w
+    We're excited to welcome Kayshia Kruger, MSOD, Vice President of People & OD at ORC to Lattice's CPO Council! Hear Kayshia's perspective on how AI will impact HR and what's next for HR leaders in our latest CPO Council Playbook episode 💫
+
+7499138750845837312 | Lattice | image | 51w
+    Recency bias. Affinity bias. Halo effect. The same patterns show up in performance reviews, cycle after cycle. AI doesn't fix manager judgment, but it can ground it in real evidence. Our new guide shows HR teams exactly how to use AI-generated review drafts without losing the human in the loop: https://bit.ly/4qIu9F8
+
+7500620630166286336 | Lattice | video | 14w
+    Mark your calendars. The report every HR leader waits for is almost here. #SOPS2027
+
+7500958603105861634 | Lattice | text | 50w
+    Most teams still manage performance by looking backwards, but we believe there's a better way. That's what our Fall/Winter '26 Product Release is all about: capturing what happens in the flow of work, turning it into workforce intelligence, and driving continuous performance. See what's coming to Lattice this season 👇
+
+7500987919390810112 | Lattice | image | 55w
+    We're thrilled to share that Sophie Roberts has been promoted to Chief Product and Technology Officer at Lattice! In her expanded role, Sophie will oversee Lattice's Engineering, Product, and Design teams as we build on our commitment to delivering trusted workforce intelligence that connects People + AI strategy to measurable business outcomes. Congratulations Sophie! 🎉https://bit.ly/4qOVK7s
+
+7501726431392104448 | Lattice | link | 83w
+    Work rarely happens in isolation. Every day, we show up differently for peers, managers, and direct reports. Each of them sees a different side of our work. That's why 360-degree feedback matters. But it only works when you ask the right people the right questions. We put together a full guide on building a 360 feedback program that actually works  [...]  reviewer type and competency, and how to turn feedback into real development plans. 📖 Read it here: https://bit.ly/4qXk8nE
+
+7503148076954685440 | Lattice | image | 185w
+    Most companies' AI fluency frameworks measure the same three things: tools used, frequency, and tokens consumed. Those metrics tell you how frequently someone reaches for AI. They don't tell you whether that person is producing better work or making smarter decisions. At Lattice, we think a lot about what it means for humans and AI to work well together. That's  [...]  when we learn from each other. We've packaged the framework into a free template for people leaders: https://lnkd.in/gC5e-SGF
+
+7503452427036270592 | Lattice | image | 47w
+    Extra! Extra! Our 2027 State of People Strategy Report is here 📰 Everything HR is dealing with right now: AI, burnout, tech, culture, performance – in one report, backed by 1,000+ HR leaders. Access the full report for the data every HR leader needs to see: https://bit.ly/4xjvdB1
+
+7503881009025957888 | Lattice | video | 18w
+    The reactions say it all 👀 Grab your copy of Lattice's 2027 State of People Strategy Report: https://bit.ly/4xjvdB1
+
+7504226001997041664 | Lattice | link | 89w
+    Most AI tools give managers one thing: a shortcut. The Lattice AI Agent gives them something better: a coaching partner that works all year long. After every 1:1, managers get personalized coaching insights. So do employees. Both leave with something to work on. And when review season hits, the Agent has already been building the evidence. It scans months of  [...]  blank page. No scrambling. Better conversations. Stronger reviews. A team that's actually growing. See how it works: https://lnkd.in/ghnw-H7j
+
+7485767930589163520 | Mercury | image | 26w
+    The checkbooks scoreboard on launch day: 2,088 Iris 1,036 Verdigris 417 Coral That's 3,541 orders in seven hours. Pick a color and order yours now: https://t.co/35fvAOtQHP
+
+7485811545936048128 | Mercury | multi-image(5) | 258w
+    She'll use AI to plan a road trip, trivia and all. To stop being “human middleware” between her firm's previously disconnected systems. And she still doesn't use it to handle her clients' actual money. ______ Megan Murray spent 15 years in corporate finance before founding Leoluna Finance Collective, a fractional CFO practice built to fix a problem she kept seeing:  [...]  Want to be a part of the Mercury Movement? Visit the link in the comments to learn more.
+
+7487931151043584000 | Mercury | video | 41w
+    SŌHN x Mercury To thank our San Francisco customers, swing by SŌHN this Wednesday, July 29th for food and drinks on Mercury, a live DJ, and a few surprises. RSVP at the link in the comments. We'd love to see you.
+
+7488294350536310784 | Mercury | link | 20w
+    We spoke to creative executive Kwame Taylor-Hayford about defining what “great” looks like in public. Read it here → https://lnkd.in/et7gE3rm
+
+7489014503276253185 | Mercury | multi-image(7) | 108w
+    If you were at SOHN in Dogpatch on Wednesday, you probably overheard a founder's origin story while sipping our custom collab berry matcha (a.k.a. The Liquid Asset) and listening to vinyl. That was us turning a coffee run into the hottest spot for founders this week — a packed house, a DJ set, and a lot of people swapping notes  [...]  or Breadbelly, details and eligibility linked in the comments. And we're coming to another city soon. Stay tuned.
+
+7490147724470771712 | Mercury | video | 169w
+    Mercury is launching something for founders and their teams (spoiler: it'll make spending and expenses easier than ever). As part of the celebration, we're bringing Mercury to NYC and we'd love for you to join us. Tomorrow, August 4, we're taking over Leon's Bagels (169 Thompson St Ste B) with the Mercury community. Stop by anytime between 9am and 3pm  [...]  you stop by on Aug 4 or swing by that week, we'd love to hang out. RSVP: https://lnkd.in/e7GvHWmT
+
+7490831535839850496 | Mercury | multi-image(5) | 250w
+    For a decade, Rafi T. thought of software the way most people think about plumbing: invisible, functional, not worth a thought. His experience with a new browser broke that first. Now, he uses AI to help create the same jolt for his customers on FUEGO.io — an AI-native platform that turns any brand's Shopify store into a fully custom mobile  [...]  Want to be a part of the Mercury Movement? Visit the link in the comments to learn more.
+
+7491195626253172737 | Mercury | multi-image(12) | 43w
+    We partnered with Leon's Bagels to treat NYC teams to bagels, coffee, and fans on us. The line was wrapped around the block, filled with founders and teams catching up before the day got going. There's still time to get reimbursed → https://lnkd.in/e7GvHWmT
+
+7492620375445549056 | Mercury | image | 79w
+    Pittsburgh is the new Silicon Valley. At least according to Mark Cuban, who says it's now the country's second leading center for AI and robotics. The facts: → 130+ robotics companies within 150 miles. → Nearly 7,500 jobs across Southwestern PA. → Mark even backed a $1.75M pitch competition for Pittsburgh startups. All that growth shows up in the unemployment  [...]  too. Pittsburgh's rate is 3.5% now, lower than the national average. The story behind the drop → https://lnkd.in/e9chjbfV
+
+7492672545171611648 | Mercury | multi-image(3) | 69w
+    Tech companies discovering that merch can be cool — and more than just slapping their logo on something — is having a moment. Meanwhile, we've been making things worth keeping for a while 👀 Care is what turns merch into something people keep instead of toss. What's the best piece of tech merch you've actually held onto — and what made it worth keeping? Some of our latest drops:
+
+7492959009105227776 | Mercury | video | 165w
+    Mercury Spend just dropped. Today, founders will sign in and find a major expansion to the way their team (and agents) can build. Here's the highlight reel: → Establish spending limits per person, team, or card with budgets and policies that enforce themselves. No manual review, no chasing. → Make receipt uploads effortless with email scanning and texting. → Issue  [...]  Debit Cards are issued by Choice Financial Group and Column N.A., Members FDIC, pursuant to licenses from Mastercard®.
+
+7492997923572568065 | Mercury | text | 194w
+    Meet Kyle. He's on Mercury's engineering team. He goes to a handful of industry and team-related events a year. Tracking and coding his transactions used to require adding Kyle to a special spend category on the accounting side before each trip or outing — then someone had to remember to remove that option for Kyle once he was back. Now,  [...]  Debit Cards are issued by Choice Financial Group and Column N.A., Members FDIC, pursuant to licenses from Mastercard®.
+
+7493019895455059969 | Mercury | image | 139w
+    Every part of running your team's finances should be designed with craft and care. Even your expense management flow. Even the credit cards powering it. That's why every new IO card will be eligible to ship with a special-edition design by multidisciplinary artist Simone Bodmer-Turner (while limited supplies last). Link → https://lnkd.in/e_i6GJ_H Get your team on Spend and build with  [...]  FDIC, pursuant to licenses from Mastercard®. Mastercard and the circles design are registered trademarks of Mastercard International Incorporated.
+
+7493387719990177793 | Mercury | video | 74w
+    You want your agent to help, but it needs a card… and a budget… and spending guardrails. Now it has all three. Issue an IO card for your agents with Mercury Spend. → https://lnkd.in/eiWD42cT Mercury is a fintech company, not an FDIC-insured bank. Banking services provided through Choice Financial Group and Column N.A., Members FDIC. The IO Card is issued by Patriot Bank, N.A., Member FDIC, pursuant to a license from Mastercard International Incorporated.
+
+7493406008967467008 | Mercury | video | 83w
+    Never chase a tiny piece of paper again. Text or upload a photo, receipt submitted. That's it. No portals. No email chains. No “can you send the receipt pls. ” No end-of-month scramble for you or accounting. It's all part of Mercury Spend. Mercury is a fintech company, not an FDIC-insured bank. Banking services provided through Choice Financial Group and  [...]  IO Card is issued by Patriot Bank, N.A., Member FDIC, pursuant to a license from Mastercard International Incorporated.
+
+7494092829426642944 | Mercury | multi-image(3) | 384w
+    Hannah had three budgets on one card and no idea which one dinner was about to hit. She was at a Mercury onsite, testing the thing she'd spent months designing. Budgets is new in Mercury: rather than issuing an employee three cards for three purposes, a company sets money aside for each purpose — the lunch perk, the onsite, the  [...]  our communication be really respectful and not overwhelming, but still reach them in the moments where it's useful.”
+
+7494120477385277440 | Mercury | multi-image(3) | 146w
+    Simone Bodmer-Turner's work spans ceramics, furniture, lighting, sculpture, and installations, all of it exploring a common theme: objects that carry intention. That same care and attention to craft and detail is why we asked Simone to collaborate on a new special-edition IO card to commemorate the release of Mercury Spend. Simone made an original sculpture specifically for this collaboration —  [...]  Debit Cards are issued by Choice Financial Group and Column N.A., Members FDIC, pursuant to licenses from Mastercard®.
+
+7495176366124945408 | Mercury | video | 167w
+    For the launch of Mercury Spend, we worked closely with artist Simone Bodmer-Turner to create a special-edition IO card that simulated the look and feel of stone on the card itself. “Early brainstorming was very open-ended and conceptual. We even considered whether we might be able to make the card partly out of stone,” Mercury Senior Brand Designer Serena E.  [...]  Debit Cards are issued by Choice Financial Group and Column N.A., Members FDIC, pursuant to licenses from Mastercard®.
+
+7495555569316016128 | Mercury | image | 156w
+    Startups have never held this much cash. Global venture funding topped $500 billion in the first half of this year alone, and most of it sits parked in an account. Founders are usually left choosing between two options to put the cash to work / to invest it: take on more risk for a better rate, or play it safe  [...]  Management, will go live in the coming weeks. Available only inside Mercury Treasury. Fund details, in full: https://lnkd.in/g4mByZeK
+
+7495880682267815936 | Mercury | image | 90w
+    A lot of headlines this year insist AI is coming for entry-level jobs. Reality: hiring isn't going anywhere. 82% of early-stage companies are hiring the same or more junior talent than they would have without AI. And the heaviest AI adopters are the ones most likely to be hiring more entry-level talent. That's one finding from The New Economics of  [...]  they spend, what they raise, what they pay themselves, and what AI actually changed. Live now → https://lnkd.in/egFmsUAG
+
+7495933440123428864 | Mercury | image | 73w
+    The New Economics of Starting Up in 60 seconds: → 95% of companies deployed AI agents → 83% are leaning further into stablecoins → 77% saw AI spend jump (some by 200%+) → 80% changed something because of the economy → 84% feel more confident in their business this year Founders got more confident in a year they spent restructuring around costs they didn't plan for. See where your company falls → https://lnkd.in/egFmsUAG
+
+7496259066944536576 | Mercury | image | 70w
+    Casa Bosques crafts chocolate with the same care that you put into building your business, right down to the cards your team carries and the system behind them. If you believe every part of running your business — including how you spend — should be designed with intention, we'd love to send you some of these exquisite chocolates to share with your team. Quantities limited. Get yours here → https://lnkd.in/eMmWMFAU
+
+7496622666964041728 | Mercury | multi-image(4) | 228w
+    Brand Designers Sarah Mohammadi and Serena E. spent weeks on one texture. Not the color, not the shape. Just how it would feel against your thumb. Mercury's IO card, designed by artist Simone Bodmer-Turner, shipped last week. A sculpture is a three dimensional object, layered, catching light from a dozen angles. A card is a flat rectangle that has to  [...]  to get the right balance of detail and abstraction." Get yours at the link in the comments 🔗
+
+7497693484729016320 | Mercury | multi-image(4) | 22w
+    Some things are just built to move fast. Rockets. Cheetahs. F1 pit crews. Tomorrow, Mercury adds something that belongs on this list.
+
+7498063252082470912 | Mercury | video | 93w
+    Real life doesn't run on banking hours. Your payments shouldn't either. That's why we've launched real-time payments on Mercury Business and Mercury Personal. Now you can move money in seconds, day or night, weekend or holiday, and it's free on both. So, whether you're paying someone at 9pm on a Friday or settling an invoice the moment it's due, whatever  [...]  always-on payments were even possible, now they are. Free and 24/7 for eligible Mercury Business and Personal accounts.
+
+7498123646318702592 | Mercury | image | 159w
+    This week, Mercury launched real-time payments: money that lands in seconds, any hour, any day, for free. Product Manager David Hill, and Product Designer Jen Pearce on what it took to make that real ↓ The hardest part wasn't just building the rail. It was competing with muscle memory. ACH and wires have had decades to become the default. Your  [...]  are live this week for eligible Mercury Business and Personal accounts. Free, instant, and yours to use today.
+
+7498832585972666368 | Mercury | link | 304w
+    Our Treasury customers moved into two new mutual fund products, each over a single weekend, and it was so seamless almost nobody noticed. Fund migrations can take months and cause disruption along the way. For cash that businesses use to run payroll and pay vendors, that wasn't an option — so before Trevor J. Walters and the Investments team could  [...]  accounts are not FDIC insured, are not bank deposits, and may lose value. See full disclosures here: https://lnkd.in/gRHHXaXs
+
+7501308175913140224 | Mercury | video | 7w
+    Money is your material. Give it shape.
+
+7503138940699398145 | Mercury | video | 115w
+    A thought partner for business decisions is more useful when it actually knows your numbers. Connect your Mercury account to ChatGPT for live access to your finances, and ask in plain language – only what you're authorized to see, never shared beyond your conversation. No exporting a fresh file every time you want a current view, no custom integration, no  [...]  and records for reconciliation - Build recurring runway and cash-flow reports Live data, straight from the source. https://lnkd.in/gQY6ckHB
+
+7503486098002575360 | Mercury | link | 96w
+    Nobody in a crowd is thinking about how the music was engineered. They just want to experience how it makes them feel. Financial tools should work the same way. Most don't — you notice the engineering, usually right when something breaks. So we spend our time on the parts you'll never see, so you can stay in your flow. For  [...]  VIP tickets for both days. Request to attend at the link for your chance at a pair. https://lnkd.in/gWNTUskF
+
+7477755939886899201 | Modern Treasury | image | 158w
+    How can we create faster feedback loops for developers and AI agents? For years, we optimized our cloud Continuous Integration (CI) runs by improving caching, upgrading hardware, and streamlining pipelines. But even with those gains, feedback still arrived too late to keep developers and agents in flow. In our latest journal, Harsh D., our Software Engineer, shares how we accelerated  [...]  faster iteration, fewer interruptions, and more time spent building instead of waiting. Read the full breakdown here: https://lnkd.in/gy5vwRyn
+
+7478479319367905280 | Modern Treasury | image | 153w
+    Stablecoin payment volume is accelerating, and that means compliance needs to evolve just as quickly. At an ACAMS event on Monday, Brian Frankel, our BSA/AML Officer and Head of Payments Compliance, joined Thomas A.(TRM Labs), Peter Piatetsky (Castellum.AI), and Tiffany Patrick CSPO MBA CAMS CBP (Citi) to discuss how financial institutions can navigate the intersection of sanctions, digital assets, and  [...]  hosting an engaging discussion and to the panelists for sharing their perspectives on the future of payments compliance.
+
+7479927870090264576 | Modern Treasury | image | 129w
+    A major milestone for real-time payments: Modern Treasury has completed FedNow Service certification. In May, 73% of the payment volume flowing through Modern Treasury's PSP moved over real-time rails, and we expect that number to keep growing. As adoption accelerates, we've continued investing in the infrastructure that powers these experiences. Completing FedNow Service certification for Credit Transfers (Send/Receive) and Request  [...]  real-time payments - What's next as real-time payment rails and stablecoin networks continue to converge Read more: https://lnkd.in/gcut63Ba
+
+7480652013672849408 | Modern Treasury | image | 124w
+    Stablecoins are becoming the connective tissue of global payments, and Depa is building the infrastructure to drive enterprise adoption at scale. Depa handles 14,000+ payments daily for fintechs and corporates moving money across 200+ countries. Under the hood, they're using stablecoins to connect fragmented payment systems into one seamless experience. By integrating Modern Treasury's Payments API, Depa can now: -  [...]  of stablecoins, global access to U.S. rails, and the infrastructure to scale both without compromise. Learn more: https://lnkd.in/gyzbdeCi
+
+7481014398946299904 | Modern Treasury | image | 62w
+    Come build the future of payments with us. Money is moving faster, farther, and across more rails than ever before. We're building the world's most trusted infrastructure so businesses can move money with confidence across any payment rail through a single API. If that mission excites you, we're hiring across Customer Success, Sales, Marketing, Engineering, and Product. See where you fit: https://lnkd.in/gnGAjuAM
+
+7482826637005250561 | Modern Treasury | video | 104w
+    Behind every great financial product is a surprising amount of integration work. For Spritz Finance, building a premium crypto app that combines fiat and stablecoins means connecting to a wide range of infrastructure partners, each with its own roadmap, priorities, and technology stack. As Laurence Davies, Head of Engineering at Spritz, shares, some integrations are modern. Others still depend on  [...]  infrastructure. By bringing together fiat, stablecoins, compliance, accounts, and ledgering, teams can launch in days instead of months.
+
+7483520839733137408 | Modern Treasury | image | 89w
+    Our Head of Stablecoins, Dan Mottice, has been named to Stablecon's Stablecoins Most Influential 2026 list as a Payments & Infrastructure leader. Dan has long championed a simple idea: money should move like data. Today, he helps customers bring that vision to life by combining the speed, reach, and programmability of stablecoins with the familiarity of traditional payment rails. The  [...]  possible before. We're honored to see Dan recognized alongside the industry leaders advancing the future of money movement.
+
+7485408701021966336 | Modern Treasury | video | 92w
+    Every KYC decision is a product decision. In our Tech Talk, Laurence Davies, Head of Engineering at Spritz Finance, explains why KYC is a system that's constantly being refined as a platform grows. Every change to an onboarding flow shapes who makes it into a product. Add too much friction, and legitimate users drop off. Remove too much, and bad  [...]  New features, new user segments, and new fraud vectors constantly shift the balance between security and user experience.
+
+7485725568504733697 | Modern Treasury | image | 99w
+    Modern Treasury has reached a major milestone in money movement. $600B in total payment volume reflects the scale at which businesses rely on our platform to move money, from everyday payouts and collections to complex, multi-rail payment operations. With more payment rails in use than ever, from ACH and wires to RTP, stablecoins, and beyond, money movement is only becoming  [...]  how or where it needs to go. Learn more about the infrastructure behind $600B in payment volume: https://lnkd.in/gRa6EKse
+
+7486087735988989952 | Modern Treasury | image | 110w
+    Modern Treasury has been named to CNBC's World's Top Fintech Companies. CNBC's list recognizes the companies driving innovation across financial services, and we're honored to be included alongside organizations around the globe that are shaping the future of the industry. Every month, businesses trust Modern Treasury to move tens of billions of dollars through our platform. That trust is what  [...]  recognition, and to our customers, partners, and team for choosing to build the future of payments with us.
+
+7486450164799385601 | Modern Treasury | image | 153w
+    How can we leverage AI to investigate complex operational questions across documentation, code, production data, and incident history? In our latest engineering journal, Ankit Kumar, our Engineering Manager, shares how we built a Bank Operations Agent to help our Technical Account Managers save hours on customer support cases by orchestrating tools across our internal systems. Ankit, who leads our AI  [...]  system that continuously improves as it uncovers gaps in documentation and workflows. Read more about our agent: https://lnkd.in/gE_BH4nA
+
+7487899555573706752 | Modern Treasury | video | 129w
+    The gap between what's possible and what's intuitive is where payment friction lives. In our Tech Talk with Laurence Davies, Head of Engineering at Spritz Finance, he shared how the team experienced this firsthand. Their initial on-ramp relied on customers sending ACH credits to fund virtual accounts, which was a technically sound approach that revealed an unexpected insight: many users  [...]  named U.S. accounts, so customers can choose the funding method that works best for them. Learn more: https://lnkd.in/g5Zp2dxT
+
+7488262233911828482 | Modern Treasury | image | 98w
+    100+ SPVs formed. $100M+ in equity under management. All running on a real estate platform that promises sponsors a fixed timeline and a fixed cost. That kind of promise doesn't work if money movement is the bottleneck. We're excited to share that GrowIt has selected Modern Treasury to power the payments behind every deal on its platform, from opening named  [...]  GrowIt gets to stay focused on the syndication experience instead of the plumbing underneath it. Read more: https://lnkd.in/gth-y68F
+
+7490799182933487616 | Modern Treasury | image | 183w
+    Building payout products that reach virtually all U.S. bank accounts just got easier. Today, Modern Treasury is launching a new developer experience for push-to-card that supports instant, 24/7/365 payouts to U.S. debit cards over Visa Direct and Mastercard Send. To help developers launch faster, our new developer experience means: - Integrate quickly with a cleaner codebase - Resolve implementation questions  [...]  build an instant U.S. payout capability with the broadest reach possible for always-on payments. See what's new: https://lnkd.in/gprsd27P
+
+7491162289681846272 | Modern Treasury | image | 112w
+    Access to every U.S. instant payment rail shouldn't come with integration overhead. That's the problem we set out to solve. In our latest Journal, Nora H., our Product Manager behind Modern Treasury's expanded push-to-card offering, shares: - Why the best instant payments strategy requires access to RTP, FedNow, and push-to-card - How a unified API reduces integration overhead while expanding  [...]  that keeps pace with the ecosystem and powers a growing range of platform use cases. Read more: https://lnkd.in/g4a4fgkG
+
+7493335361100853248 | Modern Treasury | image | 148w
+    New from Modern Treasury: Physical and digital checks are now live in our PSP. Checks are not disappearing. According to the Federal Reserve's latest data, 9.2 billion checks are used annually and account for $24.45 trillion in volume. Platforms shouldn't need legacy infrastructure to support a payment method that remains this important. With check support built into Modern Treasury's PSP,  [...]  first-of-its-kind unified payments API that combines instant payments, stablecoins, ACH, wires, and checks. Read the full announcement: https://lnkd.in/e_exe7JF
+
+7493698085454467072 | Modern Treasury | image | 91w
+    In the era of instant payments and stablecoins, why are we still building support for checks? In our latest journal, Matt Craig, our Payments Product Manager, explains why checks still power more than 9 billion transactions each year, and why some payment workflows remain especially difficult to move to another rail. What the data reveals: - Why check volume and  [...]  checks for critical workflows - Why the future of payment infrastructure is multi-rail See why checks persist: https://lnkd.in/ejebV4kv
+
+7495162571822354434 | Modern Treasury | image | 84w
+    We're teaming up with Persona for an evening of padel with Bay Area leaders building across payments, stablecoins, identity, and compliance. We've reserved three private courts for two hours of play, food, drinks, and conversation with a small group of executives and operators shaping the future of financial infrastructure. Whether you're an experienced player or picking up a racket for  [...]  are welcome. This is a social gathering, not a sales event. RSVP to join us this Thursday: https://lnkd.in/gQKV3GuM
+
+7495559239625633792 | Modern Treasury | image | 48w
+    A night of good food, great people, and all things payments. A big thank you to the Fintech Brainfood team for joining us for dinner. It was a great evening filled with thoughtful conversations, fresh perspectives, and plenty of ideas about where the payments industry is headed next.
+
+7498046554151211008 | Modern Treasury | image | 71w
+    We're proud to be featured on Stablecon's 2026 Stablecoin Ecosystem Map alongside the companies shaping the industry across North America. Trillions of dollars move through U.S. payment rails each business day, and stablecoins are expanding how businesses around the world can access them. We're honored to be recognized for building the infrastructure that connects these systems and powers global money movement. Heading to Stablecon next month? Connect with our team: https://lnkd.in/gcpYZzPY
+
+7498409048543854593 | Modern Treasury | multi-image(3) | 80w
+    A little friendly competition goes a long way in bringing the fintech community together. Last week, Modern Treasury teamed up with Persona and Finix to host Padel & Payments in San Francisco. The event brought together builders from across the industry for an evening on the court. We loved seeing new connections form between matches and catching up with familiar  [...]  to everyone who joined us and to our partners at Persona and Finix for making the event possible.
+
+7498771509469921281 | Modern Treasury | image | 64w
+    Heading to Stablecon USA in two weeks? Make sure to stop by booth #516 to connect with Modern Treasury. Meet the team and learn how Modern Treasury's Payments API supports multi-rail money movement across fiat and stablecoins. Explore our full Stablecon lineup, including the Modern Treasury team attending, our speaking sessions, and opportunities to join us for dinner. Get all the details here: https://lnkd.in/gcpYZzPY
+
+7500583503449903104 | Modern Treasury | image | 102w
+    Data crosses borders in milliseconds. Why can't money? Next week at Stablecon, Matt Marcus, our Co-Founder & CEO, will join Mo Ali Yusuf of Fuze Finance and Prabhakar Reddy of OpenFX for “Making Money Move Like Data: The Race to Real-Time Global Settlement,” moderated by Marc Palet of OM Venture Capital. Together, they'll examine what needs to change across FX,  [...]  we're speaking, and how you can join us at side events throughout the week. Find us there: https://lnkd.in/gcpYZzPY
+
+7501308330565394433 | Modern Treasury | image | 112w
+    More than 3,300 independent grocers are getting a stronger payments foundation. We're proud to partner with AppCard, Inc. to power the payments infrastructure behind their growing suite of offerings for grocery retailers. With a single Payments API, AppCard can now: - Scale ACH collections without adding operational overhead - Send payouts across ACH, wires, RTP, and FedNow - Ledger transactions  [...]  We're proud to help AppCard keep shipping new capabilities for grocers, faster. Read more about the partnership: https://lnkd.in/gEkbMZDN

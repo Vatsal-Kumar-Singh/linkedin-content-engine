@@ -1,0 +1,169 @@
+# batch 034  -  55 posts  -  label per research/CLASSIFICATION-PROTOCOL.md
+# labels: problem exploration requirements selection validation consensus
+#         recruitment culture event product-news csr unclear
+# write research/labels/034.tsv as: <id><TAB><label>
+
+7491176272618811394 | Retool | video | 39w
+    Early access to the Retool CLI is here. Use your coding agent to write and validate apps directly on your machine, then let Retool handle governance, permissions, resource access checks, and publishing behind the scenes. Sign up → https://lnkd.in/gXDdYHXW
+
+7491549978260250624 | Retool | image | 70w
+    Whether it's your data, your access controls, or your audit trail, every SaaS subscription is a small handoff. AI just made the alternative to buying fast enough to be real. On Aug 20 at 10am PT, Retool's Angelik Laboy Torres walks through how leaders are rethinking their SaaS footprint: what's actually worth replacing, what should stay put, and how to build the guardrails in from day one. Register → https://lnkd.in/g6sJq_ey
+
+7493740221524520960 | Retool | text | 53w
+    Vibe coding made replacing SaaS tools feel like a real possibility. But how does governing those tools factor into the build vs. buy equation? On Aug 20, Retool's Angelik Laboy Torres walks through what makes a tool a strong candidate for replacement and how to govern new tools after they're built. Register ↓
+
+7494090550858477568 | Retool | text | 17w
+    Day 1: "We built this in an afternoon." 🚀 Week 3: "Wait...who has access to this?" 🙃
+
+7494845530775207936 | Retool | image | 19w
+    That Sunday-night dread? It's usually an access review you skipped. Approve before it ships (not after it's already in).
+
+7495525015673810944 | Retool | image | 20w
+    Governing what you build is the new build vs. buy. Angelik Laboy Torres breaks it down Aug 20 → https://lnkd.in/g6sJq_ey
+
+7495902472385806336 | Retool | link | 63w
+    So you built an app in Lovable, Replit, or Claude Code. Before it goes to production, here's what it still needs: Audit logging. Authentication. Source control. Access control. Server-side secrets. Dependency scanning. Parameterized queries. Governance for risky changes. That's eight things to set up and maintain for every vibe-coded app. Or deploy into Retool, where they're handled by default. Full checklist → https://lnkd.in/dins7adv
+
+7496295058955202560 | Retool | link | 83w
+    Three questions tell you whether you're actually governing AI, or just have a policy that says you do: Who's acting: human, agent-as-user, or agent-as-service? What can they reach: is that access scoped, or broad by default? Can you stay in control: deterministic rules, audit trails, bounded spend? If those answers come easily, governance is working. If they don't, you've found  [...]  leads Product for Governance & Infrastructure at Retool, broke it down in a new blog post → https://lnkd.in/dnh9TuUz
+
+7496612160165474304 | Retool | text | 27w
+    Day 1: "We built it in hours." 🏎️ Week 3: "We need approvals, permissions, and audit logs." 🥴 The trick is not having to retrofit them later.
+
+7497714416818212865 | Retool | text | 52w
+    Our Senior Developer Advocate Angelik Laboy Torres tested whether an app could be built entirely by voice with no keyboard, only using Claude Code connected to Retool through MCP. The result was a published engineering onboarding tracker with role-based permissions built entirely through spoken prompts, and production-ready. Watch the full video ↓
+
+7498126666494300160 | Retool | image | 182w
+    Retail's next decade is being built now, and we're excited to help shape what comes next. At RetailClub AI Festival, we'll be joining leaders from across the industry to talk about all things secure vibe coding and how it's reshaping how retailers and global brands use software to run their business. If you'll be in Huntington Beach September 22–24, add  [...]  to $1,250 in travel and hotel reimbursement through the Breakthru Hosted Program: https://lnkd.in/gcErMFfw See you at the beach!
+
+7498408992281415680 | Retool | video | 27w
+    See how flaschenpost SE is using Retool to replace a sprawling toolchain with a governed platform built to move from problem to working solution, fast → https://lnkd.in/gKeKtJ-f
+
+7498439167216050176 | Retool | text | 65w
+    As James MacDonald takes on the Monuments Time Challenge, a team of Retool engineers built a custom dashboard to help his crew monitor everything from power output and heart rate to core body temperature, pacing, and navigation in real time. A very cool use of Retool, and an even cooler challenge to be part of. Good luck, James. We'll be watching the dashboard and you!
+
+7498801640515395585 | Retool | image | 43w
+    Queue messages while your agent builds and stay in your flow. Send up to five messages while the agent is working. They'll send automatically once the agent responds, and you can even edit or remove messages from the queue before they are sent.
+
+7499133775637819392 | Retool | text | 17w
+    Day 1: "No one's touching the prod database." 😌 Week 3: "Someone touched the prod database." 🪦
+
+7500258989105020928 | Retool | video | 38w
+    Introducing Retool's App Gallery: a brand new library of fully interactive apps built with our AI-native builder. All apps are live, editable, and solve a real problem you may have had too. Explore all of them here: retool.com/app-gallery
+
+7500281315116793856 | Retool | text | 13w
+    Day 1: "I'll add auth later." 🤝 Week 3: "Later is now." ⏰
+
+7500638960516276224 | Retool | video | 94w
+    You built a Retool app, but you hover over “Publish” and think “wait … where is this even being published?” Here's exactly what happens when you click: → It becomes available only inside your Retool workspace, not online or indexable → Access is limited to those that have permission (and you control that) → The published version is always saved  [...]  can always send a preview link instead. Ready to hit that “Publish” button? Ship your app today: https://lnkd.in/dr8k3sur
+
+7500908057498025984 | Retool | image | 41w
+    Your AI models are getting smarter, but where is the ROI? The bottleneck may be governance, not the model. Join Retool's Bruno Costa on September 9th to learn how visibility, policy, approvals, and audit can help move AI to production. https://lnkd.in/g9n5iXXz
+
+7501259973193117696 | Retool | text | 15w
+    An app that works is a demo. An app your company can trust is software.
+
+7501300639952609280 | Retool | image | 60w
+    43% of technical leaders are over their 2026 AI Budget. Yet, almost none of them are pulling back. We surveyed 101 senior technology and security leaders at enterprise and mid-market companies. Faced with a hypothetical 20% increase in AI costs, only 19% said they'd absorb it, vs. 32% that would consolidate to fewer vendors first. Full survey results here: https://lnkd.in/gPm7mfDG
+
+7503121965067636737 | Retool | image | 39w
+    Your AI models are getting smarter, but where is the ROI? The bottleneck may be governance, not the model. Join Retool's Bruno Costa on tomorrow to learn how visibility, policy, approvals, and audit can help move AI to production.
+
+7503423255878418432 | Retool | image | 12w
+    “ship the app” and “pass security review” should not be competing priorities
+
+7503485227915419648 | Retool | video | 41w
+    From pipeline to forecast, all in one view. With this Retool app, your data securely shows up with a clear view of forecast, commit, pipeline coverage, win rate, and individual deals. Start with the app and connect your data → https://lnkd.in/gmVPb5JK
+
+7503801008473395200 | Retool | image | 94w
+    We're at LeadDev NYC next week, September 15–16, at the Javits Center. If you lead a team that, ships AI-powered software, keeps AI-generated tools secure, or spends too much time on the glue work between systems, here's where to find us on the schedule: Tuesday, 9/15 🎤 Live Demo @ 11:00 AM 💬 Table Talk @ 11:50 AM 🛠️ Workshop  [...]  PM We'll also be at booth 604 between sessions. Come meet the team and see Retool in action!
+
+7503884978557071361 | Retool | text | 83w
+    2026 started as the year of tokenmaxxing. Now the bill's coming due. 43% of the 101 IT leaders we surveyed are already over their 2026 AI budget, and just 5% of CIOs, CISOs, and CTOs say they have real visibility into what AI is running in production. A lot of that murkiness traces back to vibe coding. 52% of leaders  [...]  to AI spend, because the sticker price is rarely the final cost. More in this month's newsletter 👇
+
+7504147825539223553 | Retool | text | 19w
+    A reminder: you can @-mention a specific resource in your prompt to tell Retool exactly which data to use.
+
+7495102380254859264 | UiPath | image | 6w
+    21 looks good on us. 🎉
+
+7495555140138123264 | UiPath | video | 16w
+    #Automate what's predictable with our Sr. Dir. of Platform Product Marketing, Kuber Sharma. 💻 Register: https://ow.ly/kNkZ50ZAInM
+
+7495857275018903552 | UiPath | video | 25w
+    Build at agent speed. Run it all on one operating layer. Meet UiPath Maestro™ Flow, orchestration designed for developers on the UiPath Platform. 🔀 https://ow.ly/vplh50ZBuQ0
+
+7495864836199895040 | UiPath | image | 26w
+    You've met UiPath Maestro™ Flow—now see how it actually works. Our Deputy CTO, Vikram Kakumani, dives into the developer canvas that keeps agent-built work legible: https://ow.ly/avSX50ZBuYE
+
+7495887336925392896 | UiPath | video | 30w
+    Now, let's get hands-on. 💻 Get a first look at UiPath Maestro™ Flow at #UiPathDevDives, where you'll build a governed flow that connects agents, robots, people, and APIs end-to-end: https://ow.ly/Re1i50ZBvoi
+
+7496201947348111360 | UiPath | image | 34w
+    New code, same old testing drama? Cute. ⚡ The dark testing factory takes care of the grind behind the scenes, so teams can keep moving without losing the plot. See it in action: https://ow.ly/CNc850ZAosl.
+
+7496240902873620481 | UiPath | video | 26w
+    The messy work is finally in reach. 📄 Judy Lee shares how agents can turn unstructured documents, ambiguous decisions, and exception-heavy work into dependable action: https://ow.ly/V7qm50ZBVmb
+
+7496551725546446848 | UiPath | video | 28w
+    Bring speed and consistency to your credit approvals. ⚡ Watch how #automation and orchestration enhances data collection, risk analysis, and decision support while keeping humans in control: https://ow.ly/6GsI50ZC5Q6
+
+7496627352253353984 | UiPath | link | 29w
+    While everyone's chasing the best AI model, we know scale is the real race. 🏁 Our own Rajesh Undaviya and Sharath Harshvardhan Keshavamurthy share their insights via ETCIO: https://ow.ly/4i0c50ZAIr6
+
+7497676313806262272 | UiPath | link | 18w
+    Six new performance testing capabilities, built from real customer implementations, just landed in UiPath Test Cloud. ☁️ https://ow.ly/SkX650ZEPN6
+
+7498022536241205248 | UiPath | video | 31w
+    Have you heard? 📢 UiPath Autopilot™ in Studio is a full coding agent. Not an upgrade - a rebuild: it plans, builds, runs, debugs, explains, and refactors automations alongside you. https://ow.ly/MNc450ZFeZt
+
+7498042839365451776 | UiPath | link | 27w
+    Automating tasks got Banco Azteca far. Orchestrating entire processes is taking them to the next level. 🆙 Discover how they connected people, AI, systems, and partners: https://ow.ly/k8CQ50ZFhpv
+
+7498371177527046147 | UiPath | video | 35w
+    Your enterprise is complex. AI makes it more so. We'll help you navigate the journey—connecting the systems you already have, orchestrating how work gets done, and creating a clear path to AI results. 🛤️ https://ow.ly/xAy150ZFsAs
+
+7498409345559441409 | UiPath | link | 23w
+    The better the context, the bigger the impact. 💥 Data Fabric brings agents the governed context they need to do meaningful work: https://ow.ly/hNCc50ZFsAI
+
+7498718912939806720 | UiPath | image | 38w
+    Our CEO, Daniel Dines, spent 21 years building #automation software and three years writing about the question it kept raising: what work stays human, and why? The Work That Remains is out today, free to read. 📘 https://ow.ly/sNCS50ZG2Fl
+
+7498801806941134848 | UiPath | image | 38w
+    The future of testing doesn't need a night shift.🌙 The Dark Testing Factory is a new operating model where autonomous systems handle the routine work, while testers stay above the loop, bringing context, judgment, and control - https://ow.ly/jvef50ZG1u8
+
+7499095964578783232 | UiPath | video | 11w
+    Build with UiPath Maestro™ Flow anywhere—even on your commute. 😉 https://ow.ly/hEOo50ZGgHc
+
+7499133789277868033 | UiPath | video | 23w
+    You've got the right capabilities in place. The next step is orchestration. ✔️ Our SVP of Product Management, Arun Mehta, shares more: https://ow.ly/U19B50ZFPSh
+
+7499164138993082368 | UiPath | link | 21w
+    You bought more #automation tools. So why is your team doing more manual work? 🤷 Read about the reliability paradox: https://ow.ly/obpZ50ZGgLb
+
+7500183186359013376 | UiPath | image | 26w
+    Software testing is rarely a life-or-death job. But in #HealthcareIT, it could be. 🏥 Discover how TQA implemented AI and #automation into this leading hospital: https://ow.ly/R7uE50ZwI8r
+
+7500220881290428416 | UiPath | video | 27w
+    More capabilities mean more possibilities - and more moving parts. ⚙️ Our Principal Product Manager, Mounish Kothapally, shares how orchestration brings agents, robots, and people together: https://ow.ly/RuJX50ZH51t
+
+7500251080090370048 | UiPath | video | 19w
+    Build it locally. Deploy it to production. 🔄 Explore the full lifecycle of #OpenAI agents on our platform: https://ow.ly/peNJ50Zt0mK
+
+7500545582982270976 | UiPath | link | 42w
+    The next phase of AI adoption isn't about deploying more agents. It's about orchestration and oversight to know what every agent is doing, where its limits are, and who is accountable for the outcome. 💡 Ben Fiechtner shares more via iTWire: https://ow.ly/x7F750ZHpZV
+
+7500583272633024512 | UiPath | video | 36w
+    AI is advancing software delivery faster than organizations can confidently test it. Join Colleen Bensen to explore how a self-improving dark testing factory can help teams scale AI, automation, and software delivery with confidence - https://ow.ly/NoJn50ZHzbC
+
+7500613668678696960 | UiPath | link | 26w
+    Your team can build orchestration and governance, but is it worth a year of their time? ⏱️ Here's why you should buy instead of build: https://ow.ly/MWLq50ZHq9a
+
+7500907970965295104 | UiPath | image | 44w
+    Robots are entering the workplace. 🤖 Dr. Kate Darling, author of The New Breed and a leading expert on robotics, AI, and society, will explore what our relationship with technology—and even animals—can teach us about working alongside intelligent machines. Hear her at #UiPathFUSION: https://lnkd.in/erVJXACK
+
+7500946082743369729 | UiPath | link | 21w
+    The Odyssey offers lessons for another journey: software testing maturity. ⛵ Here's what Homer's epic can teach testing teams today: https://ow.ly/EzLE50ZIkMc
+
+7500975840118349824 | UiPath | video | 9w
+    Double claims? One solution: #AgenticOrchestration. ☝️ Learn more: https://ow.ly/HI0550ZlLB9

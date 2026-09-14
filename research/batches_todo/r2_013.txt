@@ -1,0 +1,214 @@
+# batch 013  -  70 posts  -  label per research/CLASSIFICATION-PROTOCOL.md
+# labels: problem exploration requirements selection validation consensus
+#         recruitment culture event product-news csr unclear
+# write research/labels/r2_013.tsv as: <id><TAB><label>
+
+7483883249153445889 | Samsara | image | 80w
+    The Road Commission of Kalamazoo County covers 1,200+ miles of road with fewer than 40 operators. Finding a single pothole used to mean crews driving a three-mile stretch off a resident's rough directions. With Samsara Ground Intelligence for Public Sector, every defect surfaces with an exact location, severity rating, and video. Assistant Operations Director Rusty McClain says crews that once  [...]  service requests a day now do 100% more, because they know exactly what's there before they arrive. https://lnkd.in/eU7AbT-B
+
+7485318704218664960 | Samsara | video | 66w
+    Today, we're unveiling a new brand for Samsara. Like everything we do, it was built with operators. It's tactile, bold, and grounded, shaped to reflect the real world your teams work in every day. The look is new, but our focus hasn't changed. This is us doubling down on it, and on the operators who shaped us. Get the full story behind the brand: https://lnkd.in/gdGwhwZ9 #BuiltWithOperators
+
+7485724051328397312 | Samsara | video | 14w
+    This is what built with operators looks like. Meet the new Samsara. https://lnkd.in/gdGwhwZ9 #BuiltWithOperators
+
+7486097786950782976 | Samsara | text | 33w
+    Before the new Samsara showed up in the world, it showed up at Beyond. At Allegiant Stadium, customers got a first look at our new brand: built with operators, for operators. #BuiltWithOperators #SamsaraBeyond
+
+7486455902103842816 | Samsara | video | 39w
+    Built with operators. Live on the NYSE billboard in Times Square. Our new brand is officially out in the world. Thank you to the incredible team who built it and the operators who shaped every part of it. #BuiltWithOperators
+
+7487600676773183488 | Samsara | link | 53w
+    How do you protect technicians who spend their day in attics, trenches, and 100-degree heat? For Goettl Air Conditioning & Plumbing, that protection has to follow them between job sites too. Samsara AI Dash Cams and driver recognition helped their team cut accidents by 73% across 520+ vehicles. Read the full story: https://lnkd.in/g8K-73tf
+
+7488246712017489920 | Samsara | video | 41w
+    The Samsara Community is here. Built with operators, for operators. The Community gives Samsara customers a place to connect with peers, find answers, share what's working, and turn real-world experience into knowledge that helps the entire community grow. Join today: https://lnkd.in/gqbmzegS
+
+7488594316307623937 | Samsara | image | 54w
+    La comunidad Samsara ya está aquí. Creada con las personas que realizan el trabajo, la comunidad ofrece a los clientes de Samsara un lugar para relacionarse con colegas, encontrar respuestas, compartir lo que funciona y convertir la experiencia del mundo real en conocimiento que ayuda a crecer a toda la comunidad. Únete hoy: https://lnkd.in/g5CAmP54
+
+7488623192861794304 | Samsara | video | 49w
+    Last week, we unveiled the new Samsara. This week, we're showing more of it. The new brand is true to who we've always been, and to where we're headed next: from the lab to the field, grounded in the real world of work. Every detail, built with operators. #BuiltWithOperators
+
+7488678939075452928 | Samsara | text | 45w
+    Meet our 2026 interns 👋 This summer, 50 interns joined Samsara across our offices in San Francisco, London, Phoenix, Atlanta, and Bengaluru. The interviews are long over and the real work is underway. Cold calls, hackathons, demos, and shipping code directly to customers. Happy #NationalInternDay!
+
+7489031427318018048 | Samsara | video | 74w
+    New drivers often learn the ropes with a senior driver riding along to watch, coach, and give feedback at the end of the route. Samsara's team built the AI-powered version: automated ride-alongs that observe how drivers actually operate over time, then deliver an objective performance report at a scale no manager can match. Samsara CTO John Bicket breaks down how it works on The Neuron - AI News. Listen to the full podcast: https://lnkd.in/gquRKdGC
+
+7490089845105635328 | Samsara | image | 83w
+    Samsara is now a member of MIT Center for Transportation & Logistics. We're excited to join a community of researchers, students, and industry leaders working through the biggest questions and opportunities shaping the future of physical operations. To kick things off, we recorded a live podcast at Beyond 2026: Jason Del Rey sat down with Dr. Angi Acocella from MIT  [...]  Gal to talk AI adoption, cargo theft, and what's actually working in freight technology today. Listen here: https://lnkd.in/eQ4GUJmM
+
+7490439989592227840 | Samsara | image | 82w
+    Las operaciones más inteligentes no se construyen con más esfuerzo. Se construyen con mejor información. Operaciones Inteligentes es el punto de encuentro para quienes están liderando la transformación de las operaciones físicas en México. Últimas innovaciones, inteligencia artificial, historias reales de transformación y una visión clara de lo que viene para las empresas que quieren operar de manera más inteligente,  [...]  futuro no se espera. Se construye. Regístrate para descubrir las nuevas innovaciones de Samsara en vivo: https://lnkd.in/gQ-wDAYU #OperacionesInteligentes26
+
+7490797990069280768 | Samsara | video | 52w
+    More students ride with First Student every day than passengers fly on every airline combined. Beyond the Frontlines brings Sanjit Biswas, Samsara's CEO and Co-Founder, and David Perez, VP of Safety at First Student, together to talk about safety, coaching, and moving 5M+ students a day. See the full conversation below ↓
+
+7491162430392180736 | Samsara | video | 61w
+    This summer, our engineering interns got a real look at how we build. Hear them describe it: build something in the morning, and by late afternoon it's already in production. Samsara builds for the physical world, so our interns do too. Real code, real hardware, customers responding the same day it ships. Intern and new grad roles are now open: https://lnkd.in/gvUYmFJg
+
+7491536188999315456 | Samsara | video | 116w
+    Where is your highest-value shipment right now? If your honest answer is somewhere between the last scan and here, you're not alone. David Gal, VP of Product & Engineering at Samsara, explains why that blind spot has been so hard to fix. RFID only works up close. GPS needs its own hardware. Bluetooth needed something it never had: a network  [...]  the MIT Supply Chain Frontiers Podcast, recorded live at Samsara Beyond 2026. Listen to the full episode: https://lnkd.in/eQ4GUJmM
+
+7492650243264524288 | Samsara | video | 78w
+    We asked our engineering interns what's most interesting about building physical AI. Their answer: it's a completely different problem than building AI in a browser tab. Trucks travel 500 miles and can lose connection for days, and the system still has to work, safely, the entire time. Interns are working with firmware, not just software, and solving edge cases that don't exist anywhere else. Sounds like a cool problem to solve? Early talent roles are now open: https://lnkd.in/gvUYmFJg
+
+7492991365417459714 | Samsara | image | 29w
+    Samsara is a 2026 AI Excellence in Supply Chain Award winner, recognized by FreightWaves among a select group of organizations leading AI adoption across freight and supply chain: https://lnkd.in/gQttg2cn
+
+7493340511479521280 | Samsara | image | 44w
+    Sanjit Biswas has been named a Glassdoor Best CEO for 2026. It's strong leadership that keeps Samsara moving forward, building smarter solutions for our customers and operators who keep the world running. Congratulations to Sanjit and the whole team! View the full list: https://lnkd.in/eQT9_Q3m
+
+7493354309284257792 | Samsara | multi-image(6) | 140w
+    Hoy comienza Operaciones Inteligentes 2026 y con él, un nuevo horizonte para las operaciones físicas en México. 🚀 Damos inicio a una jornada dedicada a mostrar cómo la inteligencia artificial, la automatización y las operaciones conectadas están redefiniendo la manera en que las empresas operan, protegen sus activos y toman decisiones en tiempo real. Arrancamos con nuestras innovaciones más recientes  [...]  están generando impacto real en las operaciones de miles de empresas mexicanas. ¡Bienvenidos a Operaciones Inteligentes 2026! #OperacionesInteligentes2026
+
+7493453569006829568 | Samsara | image | 128w
+    Ahora en Operaciones Inteligentes 2026: “Ampliando el horizonte: Lecciones de líderes que están transformando la eficiencia y la seguridad.” Las conversaciones que están ocurriendo en este panel reflejan el verdadero poder de las operaciones conectadas: líderes que están utilizando tecnología, datos e inteligencia operativa para impulsar mayor eficiencia, fortalecer la seguridad y transformar la forma en que operan sus empresas.  [...]  Tomza, estamos escuchando experiencias reales de quienes están marcando el rumbo de las operaciones físicas en México. #OperacionesInteligentes2026
+
+7493712344045207552 | Samsara | image | 37w
+    Gracias a nuestros partners por sumarse como patrocinadores de Operaciones Inteligentes. Su confianza y apoyo hicieron posible este espacio de innovación y colaboración. Marsh Latinoamérica Element Fleet Management México Ubiknos Mexico, S.A. de C.V. MAS Seguros TotalCloud
+
+7493727040248967168 | Samsara | video | 104w
+    Part of James Trendell's role as Director of Strategy & Execution at Market Express LLC is to find what can be automated while keeping his team focused on serving their customers. At Beyond, James and Sanjit Biswas tackled one of his biggest opportunities live: driver communication that eats up time without needing a person on the other end. Using Agent  [...]  came before them. What took minutes to build can now run every time a truck crosses that line.
+
+7494072543025246208 | Samsara | link | 91w
+    Ever wonder what it takes to move mail across the country, on time, every time? For Pitney Bowes, it means moving more than 17 billion pieces of mail a year. It's the largest presort network in the U.S., sorting and consolidating mail before it ever reaches the United States Postal Service. Spreadsheets and paper reports used to be the system.  [...]  fleet holds a nationwide Safety Score of 99. See how they built an operation that stays ahead: https://lnkd.in/gyBZJRWb
+
+7495162045831557120 | Samsara | video | 53w
+    Cars can appear in a blind spot faster than a mirror check can catch, and that's the exact moment our new Vehicle in Blind Spot AI Detection was built for. The Samsara AI Multicam alerts drivers to vehicles in blind spots with a color-coded overlay and audible alert, before a lane change happens.
+
+7495530170716680192 | Samsara | image | 39w
+    Dohrn cut accidents by nearly 20% after deploying Samsara's dual-facing AI dash cameras across their fleet. Learn how they're using real-time data from Samsara to coach smarter, reduce risk, and catch maintenance issues in the latest from FreightWaves: https://lnkd.in/gUjppQKQ
+
+7495852320593817601 | Samsara | text | 22w
+    Five Samsara updates are here to help teams turn insights into action across fuel, routing, safety, reporting, and maintenance. Read more ⬇️
+
+7495951092434853888 | Samsara | video | 76w
+    "You get to work on solutions and actually see them pay off, helping real people in real-world situations." That's how one of our engineering interns described this summer. They see the actual problems customers run into, then ship the fix and watch it work. It's the exact same loop senior engineers run, just with an intern's name on the commit. Hear from this year's interns on why they chose Samsara, and check out open roles: https://lnkd.in/gvUYmFJg
+
+7496275536298524672 | Samsara | video | 62w
+    James Banner started as a lineman at Pike Corporation to learn the business from the ground up, long before he became SVP of Administration and Safety there. Now he's running safety across a fleet of 6,500+ Samsara-connected vehicles and 12,000 employees who keep the power on. His story is the new episode of Object Stats with John Bicket and Johan Land: https://lnkd.in/gEEk647e
+
+7496347386030592000 | Samsara | image | 31w
+    Ya están aquí cinco nuevas actualizaciones de Samsara para ayudar a los equipos a convertir el conocimiento en acción en materia de combustible, enrutamiento, seguridad, presentación de informes y mantenimiento: https://lnkd.in/gyhY8GZ5
+
+7496586520892469248 | Samsara | video | 22w
+    You do the work. You know the operation. That's why we build with you. To your spec, proven in the field. #BuiltWithOperators
+
+7497699392041431040 | Samsara | image | 41w
+    Samsara is presenting at Anyscale's Ray Summit this week. Members of our Machine Learning team, Hao Yuan, Freeman Mak, and Eagle Lo, are sharing how we use Ray to run inference for physical AI. Come check it out if you're there!
+
+7498061454701379584 | Samsara | video | 68w
+    Natural gas heats hundreds of millions of homes and powers a lot of our global infrastructure, from commercial buildings to power generation. Most of us never think about where it comes from. Sanjit Biswas spent a day alongside the Liberty Energy crew to see the scale of the work up close and how they prepare teams to do it safely, in the latest On the Frontlines episode ⬇️
+
+7498409354191265793 | Samsara | image | 75w
+    Holding the #1 spot for one quarter is an achievement. Holding it for two full years shows a level of consistency that customers can count on. Samsara has now ranked No. 1 on G2's Overall Grid Report for Fleet Management for eight consecutive quarters. Since fall 2024, Samsara has earned 134 No. 1 Grid Report rankings, nearly nine times more than the closest competitor. See the full results behind two years at the top: https://lnkd.in/gKUdznaQ
+
+7498756519820312576 | Samsara | multi-image(12) | 49w
+    We've opened the doors to our second office in Bengaluru. The new space supports our growing team and gives people across departments a place to connect and build together. It was fantastic spending time with the team, seeing the space come to life, and celebrating the momentum they're building.
+
+7499136344661610496 | Samsara | video | 86w
+    This week, inspectors are checking commercial vehicle brakes across North America as part of Brake Safety Week. Last year, 1 in 7 trucks inspected had brake-related out-of-service violations. The warning signs usually exist before the inspection does. They're just scattered across systems. Samsara Connected Maintenance brings inspection findings, fault codes, and brake performance into one view, so your team can  [...]  When you're ready every week, Brake Safety Week is just another week. See how Samsara can help: https://lnkd.in/gHuH-zGM
+
+7500223683521617920 | Samsara | multi-image(2) | 48w
+    Congratulations to Illinois on the State Team Trophy and to Jeff Davis of Walmart Transportation on the Neill Darmstadter Professional Excellence Award at American Trucking Associations' National Truck Driving Championships. Both honors recognize the best of the best on America's roads. Samsara was proud to help present them.
+
+7500626058455474176 | Samsara | video | 67w
+    Hats off to you, drivers. Drivers keep the world moving, and now it's time to thank them for it. All September, Samsara is celebrating drivers, amplifying their stories, and rewarding them for the work they do every day. You'll meet drivers from all kinds of industries and places, see what pride in this work looks like, and give them the recognition they've earned. Let's say thanks: https://lnkd.in/eB_pii6U
+
+7500951319239663617 | Samsara | video | 68w
+    Hats off to Monica. Monica Williams is a driver and driver trainer at First Student, a role that carries real responsibility. Every day, she's ensuring safe transport for students while mentoring the next generation of drivers. With back-to-school season in full swing, her expertise and commitment to safety are more critical than ever. This month, we're celebrating professional drivers like Monica with spotlights, perks, prizes, and more: https://lnkd.in/eB_pii6U
+
+7501389277851766784 | Samsara | video | 46w
+    Our Q2 FY27 results: Samsara crossed $2.1B in ARR and added 242 $100K+ ARR customers and 20 $1M+ ARR customers, both quarterly records. More large enterprises are choosing Samsara to connect and improve their physical operations at scale. Read more about our Q2 FY27 results: https://lnkd.in/gVd6rFCa
+
+7502742531617550337 | Samsara | video | 35w
+    Today is for everyone who puts in the work and sets the bar. Thank you for showing up consistently, and keeping the world safe and connected. Happy Labor Day from all of us at Samsara.
+
+7503121612146135040 | Samsara | link | 93w
+    Crashes are rare. But the driving behaviors most associated with them often emerge as patterns over time — not isolated events. Our new Compounding Risk Report uses Samsara's patent-pending Risk Model to show how risk compounds when driving behaviors appear together and where it concentrates across a fleet. In the analysis, about half of crashes occurred among the 10% of  [...]  time where it matters most and gives drivers more opportunities to build safer habits. Read the report: https://lnkd.in/gmeghzSe
+
+7503355334305091584 | Samsara | text | 30w
+    The EV Rally 2026 is underway, and we're proud to support Speedy Hire as they put their EV fleet to the test, tracking charging, range, and performance along the way.
+
+7503491543236788224 | Samsara | multi-image(3) | 85w
+    How many product designers get to patch potholes on the job? At Samsara, they do. As the product designer for Ground Intelligence, Aravindh Ramesh skipped mockups and built a working prototype on his own, using real customer data. Then he hit the road for feedback, patching potholes alongside the crews who'd use it. The result: Ground Intelligence, a new product  [...]  into real-time pothole detection for city governments. Read the full story on the design behind Ground Intelligence: https://lnkd.in/gK3msTUr
+
+7503829138693304321 | Samsara | video | 79w
+    Introducing Samsara Driver Perks, a free benefit that gives professional drivers at Samsara customer organizations access to discounts from more than 50 brands across food, wellness, gear, travel, and more. It's the first rewards program built for professional drivers that's free to drivers and requires no cost to the fleet. Available now in the U.S., with plans to expand globally,  [...]  offers give each eligible driver up to $350 USD* in annual savings. Learn more about it here: https://lnkd.in/gZ7Uh8v4
+
+7504192250092916736 | Samsara | video | 82w
+    Retention, safety adoption, and day-to-day support all come down to one thing: understanding what drivers actually experience on the road. For Driver Appreciation Month, Samsara is creating space for that perspective to take center stage. Join us for a candid conversation with professional drivers from Trican Well Service Ltd., Whitewater Management, and Caron Transportation Systems on life behind the wheel,  [...]  their work, and what genuinely makes them feel supported. Join us on September 17 and register here: https://lnkd.in/gFCSXCNB
+
+7485366793084153856 | Snyk | image | 59w
+    Lions and tigers and vulns, oh my! Follow the yellow brick road with Snyk and Torq at an exclusive Black Hat night at The Sphere, The Wizard of Oz reimagined on a screen the size of a stadium. Plus, a party bus getting you there and back that might honestly steal the show. Get on the guest list: https://lnkd.in/g33D6f-a
+
+7486116415729754113 | Snyk | multi-image(8) | 63w
+    This week, Snykers took over San Francisco for our first-ever Mid-Summer SKO: Agentic Summer. R&D and GTM came together to make sure Snyk delivers on securing software at build speed: one team, one north star, one architecture that secures every loop in the agentic development lifecycle. Thanks to every Snyker who showed up ready to build Comment your highlight from the week below!
+
+7486148136160276484 | Snyk | image | 86w
+    Nobody code-reviews an agent at 2am, and that's exactly when it's fanning out across your repos and shipping code faster than any human can catch up. On August 3rd, Snyk, Docker, Inc, and Keycard are hosting a session at Black Hat on securing coding agents, presented with Insecure Agents and moderated by Allie Howe of the Insecure Agents Podcast. We're  [...]  that gap: one governed boundary for identity, sandboxing, and supply chain, instead of three separate bets. RSVP: luma.com/insecure-wbn3
+
+7487944330423279616 | Snyk | image | 62w
+    The countdown to Black Hat is on 🎰 It's officially one week until we'll see you on the show floor. You'll find us at booth # 3752 with live demos, a hands-on challenge, and swag worth grabbing. Swing by to see the Snyk AI Security Platform in action and get all the answers to your agentic security questions. Learn more here: https://lnkd.in/eGBjiqDy
+
+7488215865323175936 | Snyk | image | 140w
+    An OpenAI model got put in an isolated test environment last week, found a real zero-day nobody knew about, and used it to break into Hugging Face's production servers. It was trying to get the answer key to its own benchmark Two of the most safety-conscious labs in the industry, and neither one could fully validate its own model's boundaries  [...]  down what happened and what it means for teams shipping AI-assisted code. Read the full story here: https://lnkd.in/eVd4A5MU
+
+7488282446602399744 | Snyk | text | 31w
+    Echo images ship at zero CVEs. Snyk keeps them there, scanning for new threats and everything you build on top. Result: fewer CVEs, faster fixes, better KPIs, no extra engineering work.
+
+7488608546406735874 | Snyk | video | 67w
+    Developers don't want to leave their flow to be secure. So we stopped asking them to. Snyk now integrates directly with Snowflake Cortex Code via MCP, scanning AI-generated code and dependencies the moment they're written, delivering real-time detection and fixes as the agent builds. Vincent Luongo and Javier Garza sat down to discuss what this renewed partnership means for builders. Learn more about the integration here: https://lnkd.in/gr3FfTcY
+
+7488670842936188928 | Snyk | video | 92w
+    Snyk, Docker, Inc, and Keycard have teamed up to create Agent Baseline. It closes a gap most security practices weren't built for: agents that hold real access and real permissions, and can be reprogrammed at runtime by a single prompt. Agent Baseline is vendor-neutral reference architecture for identifying agents, bounding their authority, controlling their actions, and proving their outcomes. It's  [...]  to be implemented and challenged. Read the white paper here: agentbaseline.org Register for the Black Hat panel: https://lnkd.in/g7Cyx6ER
+
+7488949109035454464 | Snyk | image | 51w
+    Booth # 3752 is going to be busy 🔥 We packed a full week of demos, challenges, and panels into one spot on the Black Hat floor, everything you need to know is right here. Save this so you know exactly when to show up. Catch you on the floor: https://lnkd.in/eGBjiqDy
+
+7488979295109976064 | Snyk | image | 61w
+    An AI broke out of its sandbox and walked into production, no permission needed. Vandana Verma is unpacking why that happened, and why the labs building these systems can't also be the ones grading them. Join her on August 10 for a conversation on why self-validation fails by structure, and what independent validation looks like in practice. Save your spot: https://lnkd.in/eDKDzdYS
+
+7490016121199337473 | Snyk | image | 169w
+    In January, a third of agentic adopters were running the full stack. Six months later, it's a majority of companies. That's from Volume II of our State of Agentic AI Adoption research: 3,000+ enterprise accounts, 1.39 million repositories. Organizations aren't testing one layer of agentic architecture and stopping, they're deploying agent frameworks and MCP servers together, the connective layer that  [...]  why half of organizations still can't trace the data behind their own models. Read the full report: https://lnkd.in/eCU6W5nM
+
+7490378571543199744 | Snyk | video | 83w
+    Today we're delivering the largest Snyk AI Security Platform expansion to date 💥 Evo Continuous Offensive Security, the adversarial proving layer enterprises have been asking for, is now in GA. Alongside it: Snyk Secrets in GA, a major AI-SPM upgrade, and a first look at Evo Agentic AppSec. It's security that keeps pace with how software is built, governed, and  [...]  every stage of the agentic development lifecycle. Watch the video below and read the full story here: https://vist.ly/5dhqq
+
+7490801661481975810 | Snyk | video | 116w
+    There's no better place for an unscripted security conversation than a nightclub with a pool, amirite? 🌊 That's where Snyk's Ezra Tanzer joined Eli Aleyner from Docker, Inc and Ian Livingstone from Keycard during Black Hat to talk through what it actually takes to secure a coding agent, from every angle at once — grounded in Agent Baseline, the open  [...]  the Black Hat floor today, August 5th at 1pm. We're walking through it live at Snyk's booth #3752.
+
+7491276858248941568 | Snyk | video | 6w
+    Snyk @ Black Hat 2026 🕹️👾
+
+7491552515201732609 | Snyk | image | 58w
+    The average pentest still covers 15 days a year. Attackers get the other 350. Join John Carione, Ricardo Alves ,and Gabriel Brolo, Staff Security Engineer at Yalo, on September 2, 11am ET. See how Evo Continuous Offensive Security closes that gap with reasoning-based testing that runs on every meaningful code change with a live demo. Register here: https://vist.ly/5dz4j
+
+7493300664148713472 | Snyk | video | 42w
+    We took to the floor of Black Hat to ask security practitioners about their first-hand run-ins with rogue agents, and whether AI is making security better or worse. Turns out there's no clean answer. Got a hot take? Drop it below ⬇️
+
+7493678375136571392 | Snyk | link | 88w
+    Snyk, Docker, Inc, and Keycard published something rare in this market: a vendor-neutral, open source security baseline for AI agents. No product pitch. Just 6 outcomes and 35 controls anyone can build against. According to Krzysztof Huszcza and Ezra Tanzer, the checklist isn't the hard part, the sequence is. A developer running a coding agent and a production agent touching  [...]  same 35 controls. Read their in-depth analysis and watch the panel we took to Black Hat here: https://lnkd.in/ej2vfdje
+
+7494118148233826304 | Snyk | image | 157w
+    Press Roundup🗞️ Lets get into it: WIRED's Will Knight broke the story on the technique itself: a shared encryption key flaw across Claude, GPT, and Gemini that let researchers, Snyk included, decode over 315,000 published reasoning blocks and recover 182 live credentials. Decrypt's Jose Antonio Lanz and TechTimes's Kyle Belmonte covered the scale of what got exposed and what it  [...]  keep an eye on as more of these conversations play out across the industry in the months ahead.
+
+7495133840726740992 | Snyk | video | 100w
+    We caught up with our partner Ron (Vinny) Valenzuela at Deloitte at Black Hat and asked what's actually breaking in enterprise security programs right now. The answer wasn't a gap in tooling. It was arithmetic: findings arrive faster than any team can triage them, and the backlog becomes a permanent record of what nobody got to. That's the problem Snyk  [...]  with prioritization grounded in real application context and fixes that land inside the developer workflow. Listen below ⬇️
+
+7495456714046050304 | Snyk | image | 70w
+    Most AI pentesting tools find bugs nobody asked about. Evo Continuous Offensive Security finds the ones that actually cost you: flaws in what your app is meant to do, not just how it's coded 👾 Join John Carione, Ricardo Alves, and Gabriel Brolo form Yalo, on September 2, 11am ET, for reasoning-based pentesting that chains findings into real exploit paths, backed by platform context and independent validation. Register here: https://vist.ly/5f8fj
+
+7496302566188769281 | Snyk | image | 126w
+    We just launched vulnbench.com — a new home for Snyk VulnBench, our ongoing research into how reliably AI coding agents find security vulnerabilities. The question behind the first release: if you ask an AI coding agent to review the same code twice, does it flag the same vulnerabilities twice? We ran 300 identical security scans, in controlled conditions, to find  [...]  not just headline claims. Worth a look if AI-assisted security review has come up in your world: vulnbench.com
+
+7497738476877066241 | Snyk | video | 62w
+    The sun's out in San Francisco, and Javier Garza is soaking it in between building demos, talking to developers, and everything else that comes with being a Staff Developer Advocate at Snyk. Watch below to follow along with him for an inside look at a day in his life working from Snyk's SF office. See open roles in San Francisco here: https://vist.ly/5fz53
+
+7498047361756065792 | Snyk | multi-image(4) | 62w
+    Last week, the Snyk Boston team traded keyboards for golf clubs and let's just say the swings were more...enthusiastic than accurate 🫣 Summer SnykOut is one of the traditions we look forward to every year. This year's theme was Adventure awAIts, and Boston made sure it lived up to the name. Cheers to the summer and cheers to our amazing Snykers 💜
+
+7498460761216827392 | Snyk | image | 99w
+    Three assessments came back clean last quarter. 🔗 None of them asked whether the model could be steered into reaching the one low-severity bug that mattered. That's chained risk: harmless-looking findings that compose into real impact. Dynamic scanning shows what's exposed, AI pentesting shows what's exploitable, AI red teaming shows what an adversary can pull off — run them separately  [...]  all three, including why the costs differ by two to three orders of magnitude. Read more here: https://vist.ly/5g9gk

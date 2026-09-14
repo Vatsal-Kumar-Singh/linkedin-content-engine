@@ -1,0 +1,214 @@
+# batch 014  -  70 posts  -  label per research/CLASSIFICATION-PROTOCOL.md
+# labels: problem exploration requirements selection validation consensus
+#         recruitment culture event product-news csr unclear
+# write research/labels/r2_014.tsv as: <id><TAB><label>
+
+7498772675205705728 | Snyk | video | 89w
+    Agents are only as powerful as the supply chain behind them is trustworthy. 🔐 Manoj Nair sat down with with Allie Howe on Insecure Agents to unpack packs what Snyk's research found when we looked at agent skills and MCP servers up close: architectural issues that don't map to typical software vulnerabilities — toxic flows, toxic skills, and access to  [...]  supply chain locked down, agents don't get more powerful. They get riskier. Watch the full conversation here: https://lnkd.in/e6dqhwz5
+
+7499127443073544192 | Snyk | image | 97w
+    The tools shaping tomorrow's workplace are being built today — the question is who's in the room deciding what they optimize for. 🤖 Women in Revenue just launched its AI Leadership Council: senior leaders from business, tech, academia, and public policy coming together to study how AI is reshaping who gets hired, credited, and promoted. Snyk is honored to be  [...]  we're hosting the Council's inaugural session in Boston. Learn more about Women in Revenue and the Council: https://vist.ly/5ggvf
+
+7500211057433456642 | Snyk | image | 135w
+    Attackers aren't smarter. They're just faster now. Join The Register's JAMES HAYES in conversation with Snyk's CTO & Chief Innovation Officer Manoj Nair and Anthropic's Head of Applied AI Alon Krifcher on September 17 at 10am ET for a direct look at what's actually changing and what a credible response looks like. AI finds architectural flaws at machine speed, then  [...]  layer and the application layer, and practical next steps you can actually act on. Save your seat: https://lnkd.in/gQ-7DR3a
+
+7500620766166585344 | Snyk | image | 135w
+    Coding agents are shipping more code than most teams can actually review. That's the tension at the center of the "dark factory" vision of software development, and it's the thread running through our next Boston meetup. We're teaming up with the AI Security Engineers Community at Snyk's Boston office on Sept 17, 6pm ET, to bring together the people building  [...]  Qodo's Max Binshtok makes the case for an independent verification layer at the PR boundary. Register here: https://lnkd.in/enBXmAd2
+
+7500969169182466048 | Snyk | video | 65w
+    As Snyk CEO Ken MacAskill puts it: the way we build is evolving as fast as the threats coming for it. Not an annual shift. Not quarterly. Weekly — new models, new automated threats, a different curveball every Friday. That's what Evo by Snyk is built for: a unified agentic security layer that delivers what this market needs, when it needs it. Listen below ⬇️
+
+7501335750072963072 | Snyk | image | 118w
+    There's a terrace in Boston with your name on it, drinks and bites in hand, and good conversations with women shaping the future of AI 🥂 Join us September 11 at 5PM as Women in Revenue takes over the Rose Terrace at The Fed to celebrate the launch of the AI Leadership Council. Come straight from the office, no outfit  [...]  a simple idea: there's room at the table for every woman building a career. Save your spot: https://lnkd.in/gzQ76gsg
+
+7503151587406749697 | Snyk | text | 51w
+    Every AI security headline this year has told two different stories: smarter triage and faster remediation on one side, faster exploit development and automated vulnerability discovery on the other. Same tech, two very different outcomes depending on who's using it. So...who's actually winning right now, defenders or attackers? Vote below ⬇️
+
+7503864549348114434 | Snyk | image | 127w
+    Most security programs weren't built for an attacker that moves at machine speed, and next week is when that gap gets put on the table. Next week, The Register's JAMES HAYES talks with Snyk's Manoj Nair and Anthropic's Alon Krifcher about the gap most security programs aren't built to close: AI finding architectural flaws faster than anyone can patch them,  [...]  the application layer. If your program still runs at ticket speed, this is the session. Register here: https://vist.ly/5hz4y
+
+7470494370857873408 | Stripe | video | 27w
+    New providers now available on Stripe Projects: Wix Laravel HeyGen Prisma Automattic Parallel Web Systems Exa Base44 ClickHouse supermemory Blaxel (YC X25) Metronome AgentPhone E2B PostalForm KERNEL
+
+7470544995326787584 | Stripe | video | 51w
+    John Collison sits down with Barney Hussey-Yeo, the founder and CEO of AI financial assistant Cleo. They discuss the realities of delivering personalized financial advice to the 99%, the critical need for "creative destruction," and why deep vertical AI applications will ultimately outperform broad frontier models. Watch the full conversation: https://lnkd.in/gzyQB5MR.
+
+7470882737390940160 | Stripe | image | 157w
+    Last week, agent traffic surpassed human traffic on the internet for the first time. Agents browsing webpages account for some of that traffic, but our data points to a more significant reason for this growth: agents building software. Agent traffic to our documentation grew more than 10x in 2025 and now makes up nearly 40% of docs traffic. We've also  [...]  to solve this with new agent integrations, additional providers, and new developer controls. Read our blog post: https://lnkd.in/dWQaTpAM.
+
+7472993950933569537 | Stripe | link | 93w
+    In 2022, we launched Frontier to send a signal to scientists and entrepreneurs: build carbon removal technology, and we will buy it. In four years, the field went from a dozen or so companies to hundreds, removing tens of thousands of tons of CO2 from the atmosphere. Today, we are committing to buy an additional $915 million alongside Google, Shopify,  [...]  match the pace of technological progress. Frontier's “Growth AMC” is designed to bridge that gap. Read more: https://lnkd.in/g-V3_FEA.
+
+7474838911408685056 | Stripe | video | 20w
+    Introducing Stripe Directory, a new way for you (and your agents) to search for businesses on the Stripe network. https://stripe.directory
+
+7477765322079567872 | Stripe | text | 14w
+    We're making Open USD the default for businesses using stablecoins on Stripe. Coming soon.
+
+7477791740645564416 | Stripe | video | 63w
+    Conor McNamara sits down with investor and tech analyst Philipp Klöckner to discuss the impact of AI on the global economy, arguing that regions with the most affordable energy and natural resources will win. They explore what the automation wave means for Germany's labor shortages, and the critical need for a cultural shift, where engineers build new companies that accelerate economic growth: https://lnkd.in/gpbJvvnF.
+
+7481376718868643840 | Stripe | video | 98w
+    "More people will become entrepreneurs with AI. It's never been as easy to test ideas, and if you strike gold, you're going to grow much faster than ever before. We're starting to see solo entrepreneurs on track to build $1 billion businesses on Replit." — Michele Catasta, President and Head of AI at Replit Stripe Head of Product, Data and  [...]  to 50 million users, and how to lead a company-wide shift to AI. Watch the full interview: https://lnkd.in/g9fYCTTK.
+
+7483235745420369920 | Stripe | video | 25w
+    New: templates for Stripe Projects. Generate a working starter app with services like hosting, auth, databases, and billing integrated. See the demo from Michael Selander.
+
+7483253516766109696 | Stripe | video | 21w
+    New providers on Stripe Projects are available now: Chatbase Composio NodeOps Customer.io Datadog Depot Klaviyo Pydantic RevenueCat Schematic Spaceship.com Steel.dev Tabstack
+
+7491527475970105344 | Stripe | video | 39w
+    Connect Stripe to Perplexity Computer for Builders. • Check revenue, MRR, and churn • Look up your customer's subscriptions, invoices, charges, and disputes • Refund a charge, cancel a subscription, apply a coupon, or create a payment link https://lnkd.in/gR8Q2nwR
+
+7495253758512271360 | Stripe | video | 68w
+    "We think of Stripe as having inverted its value proposition. We began as a payments company with add-ons. Today, we're a multiproduct platform built around financial infrastructure. Everything we build is designed to help businesses grow by reducing friction and increasing their agency—to adapt their business models, operate in more countries, and move faster across everything that touches revenue and cash." —William Gaybrick on the Andreessen Horowitz podcast
+
+7495386426793000960 | Stripe | image | 58w
+    New currency capabilities to help cut FX costs: • Convert instantly between 15 currencies 24/7 and see rates in real-time. • By the end of 2026, businesses in 37 markets—including Australia, Hong Kong, and Singapore—will be able to settle payments in up to 18 currencies. Available in the Stripe Dashboard, API, or on mobile. Read the blog: https://lnkd.in/g5mqXzPh.
+
+7495512334262644737 | Stripe | image | 25w
+    Gartner has named Stripe a Leader in the 2026 Gartner® Magic Quadrant™ for Recurring Billing Applications for the third consecutive year. Read the report: https://lnkd.in/gxggF4vC.
+
+7495600518073962498 | Stripe | text | 24w
+    Amazon Bedrock AgentCore payments now supports Machine Payments Protocol (MPP) giving agents a new way to transact with stablecoins. Powered by Privy wallet infrastructure.
+
+7495899832687984640 | Stripe | image | 24w
+    Tokens are the central currency for companies building with AI. We've agreed to acquire OpenRouter to help businesses optimize token routing and usage. https://lnkd.in/gJykmzFc
+
+7496332962540589056 | Stripe | text | 18w
+    Kraken is launching Krak Cards in the US, powered by Stripe Issuing. Spend crypto anywhere Visa is accepted.
+
+7497854118158299136 | Stripe | video | 57w
+    John Collison sits down with Canva cofounder and COO Cliff Obrecht to discuss Canva's journey to becoming Australia's biggest tech startup. They explore the need for brand stewardship in the age of AI, the decision to build a global company from Australia, and how quality, latency, and cost are inseparable at scale. Watch the full interview: https://lnkd.in/geY9QhMq.
+
+7498129042144014337 | Stripe | video | 34w
+    New: analyze your Stripe data with agents. Connect to the Stripe MCP to build custom reports and dig into insights like MRR, churn, and retention. Available for businesses using Stripe Sigma. Get started: https://lnkd.in/eX56Uk9a.
+
+7498304681723674624 | Stripe | link | 68w
+    Revolut is rolling out EURR, its first euro-denominated stablecoin, built with Bridge. Eligible Revolut customers in Denmark, Poland, and Portugal will be able to move between euros and stablecoins, as well as send funds to external wallets on supported blockchain networks. Any fintech or business can launch a custom stablecoin with Open Issuance from Bridge. Euro-denominated stablecoins are backed by Bridge's MiCA and EMI licenses. Learn more: https://lnkd.in/garXJyhu.
+
+7498712735929708545 | Stripe | link | 64w
+    Agents are reshaping how people discover and buy products and services. We are expanding agentic commerce capabilities across Europe: • Sell APIs, MCP servers, data, and other digital services directly to agents through the Machine Payments Protocol. • Model and upload product catalogs for agent-led shopping. • Connect existing website chatbots to Stripe so customers can complete purchases in the conversation. Get started: https://lnkd.in/e9R_xi4r.
+
+7499158551211368448 | Stripe | video | 63w
+    Payments with Instinct are now powered by Link. Use Instinct to buy from any business on the internet: compare deals and buy at the best price, arrange a ride to the airport, or order groceries. Approve what Instinct spends while your payment details are protected. Available for Link in the US. Join Instinct's waitlist: https://lnkd.in/gtihgZvn. Let your agents spend on your behalf: https://link.com/agents.
+
+7499191937820889089 | Stripe | image | 34w
+    Give your Grok Bot a card with Link. Bots can now buy from any business on the internet. Available in the US. Try Grok Bot: https://x.ai/bot. Let your agents spend on your behalf: https://link.com/agents.
+
+7500655543502630912 | Stripe | text | 6w
+    Shopify is now available in projects.dev
+
+7501256832003231744 | Stripe | video | 51w
+    As the parent company behind Shopee, Garena and Monee, Sea is one of Southeast Asia's largest tech conglomerates. Sea founder and CEO Forrest Li sat down with Stripe CRO Tyler Bryson to discuss their growth journey, maintaining a customer-first mindset, and preserving startup culture at scale. Watch the full conversation: https://lnkd.in/gi4qNKyP.
+
+7503176710318854144 | Stripe | video | 49w
+    Connect Link's wallet for agents to Muse, a new app from Meta that lets you set up and interact with a personal agent. With Link, your agent can shop from businesses all over the internet. You approve the transaction total and your payment details stay private. Learn more: https://lnkd.in/gZHWkemh.
+
+7504308642557345792 | Stripe | image | 32w
+    Latest from Stripe Economics: The SaaSpocalypse was more like a RenaiSaaS. Our new Stripe SaaS Index shows SaaS business revenue *accelerating* through the market sell-off earlier this year. Read the post: https://lnkd.in/g94JH57S.
+
+7478408545613459456 | Sylvera | image | 108w
+    💡 We surveyed producers and buyers across the EAC market 💡 This is the first dedicated study of Environmental Attribute Certificates across cement, steel, ammonia, biofuels, and more. We found that: 📊 75% of producers expect to issue within three years 📊 Buyers are ready - but the infrastructure isn't 📊 SBTi V2 is the demand trigger most are waiting  [...]  market is heading, the data and insights in here are worth a read. Get the report now: https://lnkd.in/eRrHVzYj
+
+7478689857482084352 | Sylvera | image | 131w
+    Making the Quality of Japan's Forest J-Credits Visible We've launched an initiative with Stellar Green - re-examining Japan's domestic J-Credit system so buyers can defend their purchases with confidence. The carbon credit market has changed. Compliance with a standard is no longer enough, and companies must now defend their credit purchases, justifying them to shareholders and supply chains. Japan's J-Credits  [...]  use J-Credits over the long term. Read about the initiative and what it means for J-Credits here: https://lnkd.in/eNxq-nbZ
+
+7480189291877396483 | Sylvera | image | 125w
+    IFM (Improved Forest Management) is growing. Issuances have doubled since 2022, making up 61% of all forestry credits issued so far in 2026. But growth doesn't equal integrity. Legacy IFM has long struggled with inflated baselines and weak additionality. As CSRD, SBTi, and ICVCM scrutiny rises, buyers can't take registry approval at face value anymore. Our updated IFM Ratings Framework  [...]  than ever. 🔗 Read our IFM blog here: https://lnkd.in/gzXp6u4P 📥 Download our IFM Ratings Framework V2.0 → https://lnkd.in/enjhS5Fa
+
+7480506389958926336 | Sylvera | text | 133w
+    Asia's carbon markets are moving fast, and we're in Hong Kong this week to be part of it at IETA's Asia Climate Summit (ACS) 2026 🇭🇰 Two of our team are on stage on Thursday 9 July: Beth Chim, Head of Asia Pacific, joins the panel for: "The Super Connector in Action" with V Carbon ESG on how Hong Kong  [...]  find us at the Carbon Market Lounge, we'd love to swap notes on where this market is headed.
+
+7480561430375743488 | Sylvera | image | 118w
+    How Tokyo Gas, 3T, and Sylvera collaborated on a Ghana reforestation project 🌳 Before co-financing 3T's reforestation project in Ghana, Tokyo Gas needed independent validation of its quality and scalability. Sylvera's Pre-Issuance assessment provided that, as part of a collaborative process between the three parties. ✅ Recommended upgrades positioned the project to achieve a rating of at least BBB ✅  [...]  is what upstream engagement and early-stage due diligence make possible. 🔗 Read the full success story here: https://lnkd.in/e-VFuJTJ
+
+7482387508215984130 | Sylvera | image | 219w
+    📊 Our latest carbon market analysis is here 📊 Some key themes in the data: 1️⃣ Volume down, value up. Retirements fell 10% YoY to 38.55M, but total market value rose to $247M as average price per credit climbed to $6.41 (from $5.29). 2️⃣ The offtake market is diversifying. Microsoft's pullback (-82%) was the big offtake story of H1, but  [...]  against a 1% minimum threshold under the new Corporate Net-Zero Standard. 🔗 Read the full breakdown here: https://lnkd.in/erAtBzsY
+
+7483109260076322816 | Sylvera | image | 164w
+    ARR offtake volume doubled in 2025 and value tripled with buyers locking in supply well ahead of registration. If you're building a project under VM0047, Isometric's Reforestation Protocol, or Equitable Earth, demand isn't your problem right now. Getting registry-ready fast enough is. On July 29, we're running a practical walkthrough of how Sylvera's Methodology Toolkit takes projects from site eligibility  [...]  Climate Consultant). Can't make it live? Register anyway and we'll send you the recording. Register here 👉 https://lnkd.in/ey_nZ89F
+
+7483186581873430528 | Sylvera | link | 97w
+    🌳 Nuestra experta en política internacional, Carmen Álvarez Campo, estará mañana en un diálogo regional sobre mercados voluntarios de carbono y sistemas de salvaguardas de REDD+ organizado por el PNUMA. Carmen se unirá a representantes del sector privado para conversar sobre los enfoques de salvaguardas en proyectos de mercados voluntarios de carbono forestal, los desafíos para su implementación efectiva y  [...]  9:00–11:00 (Panamá, Colombia, Perú) | 8:00–10:00 (Costa Rica, México) | 11:00–13:00 (Argentina, Chile, Brasil) 🔗 Inscríbete aquí: https://lnkd.in/daXzXZrF
+
+7483505809109323778 | Sylvera | image | 122w
+    Today, we're launching Commodity Market Gateway. This is our free platform connecting producers and buyers across every lower-carbon commodity. Buying and selling lower-carbon commodities has always been harder than it should be: opaque pricing, scattered supply, and bilateral deals. Market Gateway fixes that. For producers: ✅ Win more RFPs ✅ Secure buyers earlier, unlock financing sooner ✅ Target the right  [...]  platform. Every commodity. Every net zero or SBTi goal. And no transaction fee. Register for access here: https://lnkd.in/eVtYgnvp
+
+7483911942898688000 | Sylvera | image | 242w
+    The European Commission has today published its proposed overhaul of the EU Emissions Trading System - the policy that will shape Europe's carbon market through 2040. Our policy experts Carmen Álvarez Campo and Ben Rattenbury have broken down what each of these means for buyers, developers, and investors in carbon markets. Key takeaways: 🛫 CORSIA: no major demand shock. The  [...]  delivering on decarbonisation plans. CBAM-exposed sectors keep free allocation until 2038. Read our full initial take here: https://lnkd.in/ePDZ9kXd
+
+7485254498240761856 | Sylvera | image | 119w
+    One week to go. 👀 Next Wednesday we're walking through how Sylvera's Methodology Toolkit takes a forestry project from site eligibility screening to registry-ready in days, not weeks. The part worth showing up for: a real project taken end-to-end, live, with before/after comparisons against the traditional approach. If you're developing under VM0047, Isometric's Reforestation Protocol, or Equitable Earth, this is  [...]  3PM UK / 10AM EST Can't join live? Register anyway and we'll send the recording. Register here: https://lnkd.in/ey_nZ89F
+
+7485620177011658753 | Sylvera | image | 144w
+    What kind of impact have recent moves in the carbon market had? Major buyers pulling back. Quality getting priced in. Three major policy stories - SBTi, EU ETS, CORSIA - all converging. Join our Q3 2026 Expert Data Briefing on August 6th, where Aaron Tam and Rory Trevelyan Thomas unpack: 📊 The headline numbers: retirements, market value, and pricing, and  [...]  stepping up to fill the gap August 6, 2026 | 3pm BST / 10am EDT Register here: https://lnkd.in/g7Fa4HaB
+
+7485684104886296576 | Sylvera | image | 168w
+    Abandoned oil and gas wells leak methane - one of the most potent greenhouse gases on the planet. Without ownership to seal them, they can leak for decades. Carbon markets are stepping in to fill the funding gap. And buyers need a reliable way to assess which projects are delivering the impact they claim. We've launched our new Orphan Oil  [...]  and community impact? 🔗 Read our OOG explainer blog here: https://lnkd.in/eGpGSi2d 📥 Download the OOG Ratings Framework: https://lnkd.in/eGpGSi2d
+
+7486012200197844992 | Sylvera | image | 90w
+    Sylvera has notified the European Securities and Markets Authority (ESMA) of its intention to apply for authorisation under the EU ESG Ratings Regulation, with a full application to follow in the coming months. The Regulation introduces formal oversight for providers of ESG and sustainability-related ratings operating in the EU. It sets requirements around governance, independence, conflicts of interest, and the  [...]  regulatory standard in the EU for how ratings in this space should be produced and disclosed. 🔗 https://lnkd.in/ezk92AJ3
+
+7487794237854576641 | Sylvera | image | 117w
+    ⏳ Just 1 day to go until our live webinar walking through how our Methodology Toolkit powers a VVB- and registry-ready process, from site eligibility screening to performance benchmark, in days, not weeks. We'll be sharing real life examples and sharp practical insights - benefitting those just starting out or already experienced in the space. You'll see: - How we  [...]  screening on one of your own sites (one per organisation). 👀 Register here to secure your place: https://lnkd.in/ey_nZ89F
+
+7488150046299906048 | Sylvera | image | 126w
+    A lot has shifted in carbon markets policy in recent weeks. SBTi V2.0, ISO 14060, EU ETS developments. Our policy team has been working through the detail across all of it. The consistent thread across the board: quality has become the price of entry. In this article, we analyse how SBTi and ISO converge on their requirements for carbon credits:  [...]  will determine access to a new wave of standards-aligned demand. See our ISO - SBTi analysis here: https://lnkd.in/eyNyu8WP
+
+7488232809992622080 | Sylvera | image | 147w
+    Anew Climate operates in the Article 6 and CORSIA space, where strategic investment decisions - some worth tens of millions of dollars - must be made in a market where policies, risks, and pricing shift quickly. Here's how Sylvera's Article 6 & CORSIA Hub helps: ✅ Consolidates data that was previously scattered across many sources - LoAs, NDC reporting, pricing,  [...]  CORSIA Hub is highly valuable." - David Moore, Senior Director, Portfolio Management 🔗 Read the full story: https://lnkd.in/eSu9t2XJ
+
+7488551301866389504 | Sylvera | image | 227w
+    Today is Earth Overshoot Day, the day humanity's used up what nature can regenerate this year. We're launching the Open Carbon Data Project with support from The Rockefeller Foundation, Meta, World Resources Institute, Symbiosis Coalition, and researchers at the Universidade Estadual de Santa Cruz (UESC) in Bahia, Brazil. What does it mean? Our teams are out in the Brazilian Atlantic  [...]  scaling investments for forest restoration and protection as we do. More on the dataset as it's released: https://lnkd.in/dfVyg7r2
+
+7489967650349948928 | Sylvera | image | 162w
+    Alternate Wetting and Drying (AWD) reduces methane emissions and water consumption through sustainable rice farming, without compromising yields. Carbon markets are increasingly funding superpollutant project types - such as AWD - to reduce and avoid emissions like methane. And buyers need a reliable way to assess which projects are delivering the impact they claim. We've launched our new Alternate Wetting  [...]  community impact? 🔗 Read our AWD Ratings explainer blog here: https://lnkd.in/e54KDavw 📥 Download the AWD Ratings Framework: https://lnkd.in/eJJfNmXJ
+
+7490340098409009152 | Sylvera | image | 121w
+    "A Pre-Issuance AA Rating from Sylvera changes the nature of the conversations we are having. It lets us get to the commercial discussion faster, with a level of confidence on both sides in a way that was not possible before." Biochar is recognized for its integrity and durability that institutional buyers are paying close attention to. But, because it's still  [...]  a Pre-Issuance Rating of AA, and a strong foundation for offtake pricing discussions. Read the full story: https://lnkd.in/eZ4u-DGJ
+
+7490703007538638849 | Sylvera | image | 94w
+    Superpollutants - methane, HFCs, N₂O - have become one of the fastest-growing corners of the carbon market. In part, due to their short-term impact while durable removal technology matures. Despite being a relatively new segment, it comes with a complex history around integrity and additionality. In our deep dive, we cover: 🧪 A superpollutants explainer and overview of credit types  [...]  lessons that have been learnt and why they matter for diligence today Read the full article here: https://lnkd.in/e5chJaFb
+
+7490776139741773826 | Sylvera | image | 305w
+    What a morning in São Paulo! 🇧🇷 Earlier today, we hosted our breakfast panel ‘From Volume to Value: Brazil's Long-Term Carbon Opportunity' and the energy in the room said it all. A huge thank you to our brilliant panel, Lívia Loureiro (LAB - Financial Innovation Laboratory) and Rafael Garrote (Banco ABC Brazil), moderated by our own David Nieto, for a  [...]  a nós para essa conversa. Este é exatamente o tipo de diálogo que faz o mercado avançar. 💚
+
+7491044192010539008 | Sylvera | image | 110w
+    Our Expert Data Briefing starts in a few hours. We've added Ben Rattenbury, VP Policy, to the lineup, joining Aaron Tam and Rory Trevelyan Thomas to dig deeper into the policy angles. Here's what we'll cover: 📊 The headline market numbers - retirements, value, and pricing trends 📊 Where quality is being priced in, including CCP accreditation 📊 Key moves  [...]  Microsoft, the offtake market, and other buyers stepping up 🕒 3pm BST | 10am EDT Register here: https://lnkd.in/g7Fa4HaB
+
+7491430778187173888 | Sylvera | image | 85w
+    The ammonia market now prices on carbon intensity. Not labels. CBAM charges every tonne against verified embedded emissions. Japan's CfD has a hard gate at 0.87 tCO₂e/t. RFNBO sits lower still. Sylvera data across 300+ operating facilities shows the green, blue, and grey buckets leaking into each other. Only 11 operating plants globally clear Japan's gate today. 291 pipeline projects  [...]  being in that minority is high - but it requires verified numbers, not labels. Full analysis here: https://lnkd.in/gd2p5f7t
+
+7491500197290758144 | Sylvera | multi-image(2) | 254w
+    Our very own David Nieto on stage at Brazil Climate Solutions in São Paulo, joining the Voluntary Carbon Market panel hosted by Cubo Itaú. 🇧🇷 The agenda cut across the full picture of where carbon is heading in Brazil: - Regulated Carbon Market and the ETS (SBCE): from legal framework to decarbonization driver - Voluntary Carbon Market: external demand, credits,  [...]  sobre o que diferencia uma oferta confiável do resto. Obrigado novamente ao Cubo Itaú por nos receber! 💚
+
+7492565536040648705 | Sylvera | image | 134w
+    As BioCarbon Standard launched BCR0010 (IFM & APFC), they brought in Sylvera to assess it alongside their established BCR0001 (ARR) methodology. This gives the market an early, independent view. The assessment delivered: 🆕 Independent validation for a newly launched methodology 🤝 Increased confidence for project developers, buyers and other stakeholders evaluating methodologies 📈 A clear picture of how both compare  [...]  us exactly that." - Ángela Duque Villegas, CEO Read the case study: https://lnkd.in/eKJZUZ6h BioCarbon Standard, Alejandra Paredes Goicochea
+
+7492883648631984128 | Sylvera | link | 148w
+    🗓️ Market Commentary: Weekly carbon update 🇰🇪 Kenya publishes carbon market guide, confirming Article 6 carbon budget & whitelist of priority activities 🇮🇩 Market response to supply of 20M Indonesian forestry credits 📜 ICVCM announces CCP-eligibility for BioCarbon Standard, Cercarbono, and Plan Vivo 💡 PACM approves methodology to support grid-connected renewables where finance is a barrier 🕳️ New Rating Framework  [...]  on our free access platform here: https://lnkd.in/eNRyCwYT.. 🔗 If you're already a Sylvera user, just head here: https://lnkd.in/enfi_9jA
+
+7493225598413324288 | Sylvera | video | 131w
+    Finding lower-carbon supply shouldn't take months of desk research. Proving you're lower-carbon shouldn't rest on self-reported data. We've been improving our Commodity Insights platform - here's what it now cover. For producers: 🟣 Benchmark carbon intensity against global facilities 🟣 See which mechanism thresholds you clear - CBAM, RFNBO, Japan CfD - and where your carbon advantage converts to commercial  [...]  buyers and volumes Watch our quick demo below 👇 And get started with Commodities Insights for free: https://lnkd.in/ez4c3-cR..
+
+7493620967525773312 | Sylvera | image | 110w
+    SBTi V2 gives corporates more than one way to approach Scope 1/2/3. Carbon credits, lower-carbon commodities, EACs. But each is priced and evaluated on different terms. So what's the real cost per tonne across all three? And where does each actually sit in the SBTi hierarchy? Join us on 10 September for a live session where we'll: ✅ Map where  [...]  decisions while the standard is still moving 🎙️ Featuring David Carlin and Shona Crawford-Smith 🔗 Register here: https://lnkd.in/eNpzbwr9
+
+7495456708249477120 | Sylvera | image | 217w
+    A Letter of Authorization signals a country's intent to apply corresponding adjustments. But it's the years of reporting that follow that actually make an ITMO credible. In an Article 6 & CORSIA Hub exclusive deep-dive, our International Policy Lead Carmen Álvarez Campo looks at what the first wave of real-world Article 6.2 submissions shows. Reporting gaps fall into three categories:  [...]  timeline and what "good" looks like going forward - on the Sylvera Article 6 & CORSIA Hub: https://lnkd.in/eAaHzrHc
+
+7495783164599107584 | Sylvera | image | 143w
+    Environmental attribute certificates (EACs) are an increasingly hot topic. But the questions we hear from producers and buyers show there's still work to be done in understanding the market and its complexities. We're being asked: 💼 If you're buying: What can you actually claim if you buy a certificate instead of the physical product? How do you know one EAC  [...]  you're on, it helps to understand what the other side is solving for. Read the blog here: https://lnkd.in/eqbeGi_6
+
+7496200155675684864 | Sylvera | image | 118w
+    "Receiving a Pre-Issuance A Rating reinforces the strength of our project and helps build confidence in the quality of the outcomes we're delivering for communities, biodiversity and the climate." - Jasmeet Singh Bajaj, Founder & Director, FCF India As developers increasingly compete for buyer, investor, and intermediary engagement, earning a Pre-Issuance A rating from Sylvera on its flagship Odisha agroforestry  [...]  India's broader portfolio, and a strong marketing asset for promoting its flagship project. Read the full story: https://lnkd.in/e2W4-Qsa
+
+7496551866693181441 | Sylvera | video | 154w
+    🇺🇸 30 days to go until Climate Week NYC! From 20-27 September, those shaping the future of carbon credits and lower-carbon commodities will be in New York and we'll be right there with them. We're hosting and joining the conversations redefining corporate decarbonization, from SBTi V2 to the merging of carbon accounting standards. A few of the highlights in the  [...]  there throughout the week alongside other Sylverans! You can register for our events by following this link: https://lnkd.in/ebC9WXKh
+
+7499101341911281664 | Sylvera | multi-image(3) | 139w
+    🇧🇷 Estamos felizes em participar da Aliança Brasil Nature-based Solutions CBCC 26 em São Paulo, Brasil, nesta semana. Nosso Technical Climate Consultant, David Nieto, participou ontem do painel "Quem vai investir em NBS? A nova demanda por carbono", compartilhando perspectivas sobre para onde o capital está se direcionando em soluções baseadas na natureza e o que está impulsionando a demanda  [...]  solutions and what's driving demand for carbon credits. Great conversations so far, and looking forward to more today.
+
+7500472962530156546 | Sylvera | link | 114w
+    🗓️ Market Commentary: Weekly Carbon Update 💼 Article 6.2 reporting is maturing - here's what early gaps tell us 🇨🇭 🇿🇲 Switzerland and Zambia authorize first credits under their Article 6.2 bilateral agreement 🇧🇷 Brazil publishes regulations for CCS, SAF, and green hydrogen 🇿🇲 Zambia launches its national carbon registry Sylvera's Market Commentary now includes analysis from our market data  [...]  on our free access platform here: https://lnkd.in/eKw38FPE.. 🔗 If you're already a Sylvera user, just head here: https://lnkd.in/enfi_9jA

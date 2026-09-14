@@ -1,0 +1,214 @@
+# batch 003  -  70 posts  -  label per research/CLASSIFICATION-PROTOCOL.md
+# labels: problem exploration requirements selection validation consensus
+#         recruitment culture event product-news csr unclear
+# write research/labels/r2_003.tsv as: <id><TAB><label>
+
+7487896218816131072 | Buildertrend | image | 144w
+    Today, Buildertrend acquired BizJet AI, Inc. and welcomed AI leaders Ruhaab Markas and John Baker to our team. We're entering a defining moment for technology in our industry. Buildertrend's deep understanding of how builders work, combined with the AI expertise and vision of Ruhaab and John, gives us a unique opportunity to lead what's next and redefine what's possible for  [...]  workflows behind every job so builders can spend less time managing software and more time managing their business.
+
+7488273719727960064 | Buildertrend | video | 73w
+    Running your business from folders and spreadsheets might work... until it doesn't. When Joe Christensen started Cardinal Crest, that's exactly how he operated. But as his company grew, one thing became clear: all it takes is one job to expose the cracks in your processes. In Episode 280 of The Building Code, Joe shares what top builders do differently and how the right systems can help you scale with confidence. Listen now: https://btrnd.co/3TPUYdU
+
+7490416930462253057 | Buildertrend | text | 54w
+    Your August WIP Report has arrived. 🏗️ This month, we're diving into: - The trends shaping the industry right now - Lessons from builders who are scaling successfully (Shout out to Cardinal Crest!) - Practical resources to help you tighten operations, improve cash flow, and build a more profitable business Read more below ⬇️
+
+7490448478192553985 | Buildertrend | link | 89w
+    Arizona's construction market continues to create new opportunities, but growth alone doesn't guarantee success. As demand increases, builders are navigating labor shortages, rising material costs, evolving regulations and higher client expectations. The companies that will thrive aren't simply taking on more projects. They're building stronger operational foundations that allow them to scale efficiently while maintaining quality and profitability. Our latest  [...]  the strategies builders can use to stay competitive in an increasingly dynamic market. Read the full blog: https://btrnd.co/4fwSn16
+
+7490809888793686017 | Buildertrend | image | 72w
+    Buildertrend's Nick Smith and CBUSA's James Hernandez had a great time representing our teams at the 2026 HBAT Summer Meeting in Destin, Florida. Events like these are an opportunity to connect with builders, share ideas and strengthen the partnerships that help drive the residential construction industry forward. Thank you to the HOME BUILDERS ASSOCIATION OF TENNESSEE for hosting another great event. We appreciate everyone who took the time to connect with us!
+
+7491255111034486784 | Buildertrend | video | 50w
+    "AI is coming into everything." Meg Billings from Meg & Co. Designer Homes shares why AI built into your construction software is a game changer for builders, helping teams work smarter and stay one step ahead. Want to learn more about how Buildertrend is incorporating AI? Read more here: https://btrnd.co/3Rm0DI6
+
+7492651012579840000 | Buildertrend | multi-image(4) | 116w
+    This month's Buildertrend Community Spotlight highlights Jeff Woods Construction and Roofing! Based in Crossville, Tennessee, Jeff Woods Construction has been family-owned and operated for more than 25 years, with three generations working together to serve their community. From roofing and custom outdoor living spaces to full home builds, they're committed to delivering quality craftsmanship on every project. They've been a  [...]  as part of the Buildertrend community. Thank you for your partnership and for continuing to build with us!
+
+7493031017826627584 | Buildertrend | multi-image(7) | 76w
+    Community is at the heart of everything we build. This weekend, Buildertrend employees spent the day at Maha Festival, connecting with one another while supporting an event that brings together music, art, local businesses and nonprofits across Omaha. As a longtime supporter of Maha, we're proud to invest in experiences that strengthen the community we call home. Thank you to the organizers, volunteers, artists and attendees who make this event a summer favorite in Omaha. 💙
+
+7493375007755071488 | Buildertrend | text | 89w
+    Are you running your business on data or gut feeling? Too many contractors price the next job based on how the last one felt, hire based on how busy they seem and measure success by revenue instead of what's left after expenses. That gap between perception and reality is where margin can disappear. Buildertrend gives you visibility into your financials,  [...]  your business is actually telling you. Know your numbers, close the gap, build a stronger business with Buildertrend.
+
+7495886815825084417 | Buildertrend | link | 163w
+    For two decades, Buildertrend has built technology around how construction businesses actually work, helping builders solve real challenges, scale their operations and run more profitable businesses. As AI reshapes the construction industry, we believe the greatest opportunity isn't simply adding more AI tools. It's thoughtfully embedding AI into the workflows builders already rely on every day and giving that technology  [...]  creates for builders. Read more about what this acquisition means for Buildertrend and the future of construction: https://btrnd.co/45DW0wr
+
+7498054117051777024 | Buildertrend | text | 135w
+    Growth changes more than the size of your business, it changes what your business needs from you. As project volume increases, teams expand and operations become more complex, the processes that once worked can start to show their limits. Leadership can't have eyes on every project, critical knowledge can't live with a handful of people, financial insights need to arrive  [...]  you are today. Because sustainable growth requires more than opportunity, it requires an operation built to handle it.
+
+7499172463109664768 | Buildertrend | link | 173w
+    The way builders win businesses is changing. For today's construction leaders, reputation is no longer built solely through referrals, finished projects or relationships. Social media has become another extension of the business, giving builders a platform to build trust and reach future clients long before the first conversation. Buildertrend customer Tyler Farrell, founder and president of Killowen Construction, is a  [...]  Congratulations to Tyler and the Killowen Construction team on the well-deserved recognition. Read the full story here: https://btrnd.co/4qIwuji
+
+7500242007836024832 | Buildertrend | text | 126w
+    The construction companies that scale well aren't necessarily working harder, they're running with more discipline. As the business grows, the details matter even more. Closing out every job completely, planning weeks ahead instead of days and knowing what the numbers are telling you before there's a problem. None of that is groundbreaking, the difference is consistency. When you're running more  [...]  projects build your reputation, great operations help you scale. Run the job. Build with confidence. Build with #Buildertrend.
+
+7500567043537051648 | Buildertrend | text | 49w
+    Your September WIP Report is ready. 🛠️ This month, we're looking at: - What's next for construction AI - How growing contractors can get out of the day-to-day bottleneck - What successful builders are doing to create smoother client experiences and stronger operations Check it out and subscribe ⬇️
+
+7500666233013313538 | Buildertrend | text | 70w
+    We're bringing together five women in construction for an honest conversation about leadership, career growth and the lessons they've learned along the way. Join us for Train with a Builder: Women in Construction, a free virtual panel where our speakers will share their experiences, challenges and advice for others looking to grow and lead in the industry. 📅 Sept. 17 | 12 p.m. CT We hope to see you there!
+
+7500943916926623744 | Buildertrend | multi-image(9) | 86w
+    Last week, our team stepped back from the day-to-day to look at the bigger picture of what we're building together and the opportunities ahead. We covered a lot of ground: where we're focused as a company, updates from across the business and how we're continuing to help customers find value with Buildertrend. None of this happens because of any one  [...]  up, solve problems, embrace change and drive real outcomes for our customers. That's Win Together in action. 🙌
+
+7503136835808686080 | Buildertrend | text | 223w
+    There's a difference between using AI and building a business that's ready for it. For many construction companies, AI still means opening a separate tool, gathering project information from multiple places, providing the context and asking it to complete a task. At that point, the technology may be helping, but your team is still doing much of the work. The  [...]  we're helping builders turn AI into real business value, from greater efficiency to better visibility across every job.
+
+7503445641600278529 | Buildertrend | image | 116w
+    Recently, our Buildertrend and CBUSA teams joined builders, remodelers and industry leaders from across North Carolina at the Carolina Builders Conference in Charlotte. From conversations around the housing market and leadership to connecting directly with the people building businesses across the state, events like these give us an opportunity to listen, learn and stay close to the challenges and opportunities  [...]  with our team. We're always grateful for the opportunity to spend time with the people moving construction forward.
+
+7503470665451229184 | Buildertrend | text | 0w
+    
+
+7503481687574654976 | Buildertrend | video | 91w
+    Everyone's talking about AI. The bigger question for builders is: How can it actually make your business better? Following Buildertrend's acquisition of BizJet AI, we sat down with Capital Development LLC on The Building Code to talk about what AI could mean for the future of construction, from reducing errors and technical friction to creating smarter, more connected ways to  [...]  solves real problems and creates real value for the business. Watch or listen to the full conversation: https://btrnd.co/4A3PdtV
+
+7503815310702120960 | Buildertrend | image | 118w
+    The construction industry is changing and more women are helping lead that change. On September 17, we're bringing together five women in construction leadership for an honest conversation about what it really takes to build a career, overcome roadblocks and lead on your own terms. Piper Stromatt, Heather Tankersley, Christa Jackson, Monica Lewis and Jessica Hodgson will share hard-won lessons  [...]  us: https://btrnd.co/3VkQHzT Boutique Living By Curate Tankersley Build Co. McDrake Enterprises, LLC J.S. Brown & Co. Schaff Homes
+
+7504245386878885888 | Buildertrend | link | 182w
+    Your construction software may not have changed, but your business did. As you take on more projects, grow your team and manage increasingly complex financials, the systems that once worked well can start creating limitations. Another spreadsheet gets added, teams develop workarounds and new point solutions fill gaps until managing the technology becomes another job in itself. For growing construction  [...]  with confidence. See what to look for when choosing a platform built to scale with your business: https://btrnd.co/4ys9sQj
+
+7490452020538056704 | Clio | image | 78w
+    For the last few years, large firms and legal departments have been evaluating AI. The ones pulling ahead are moving past pilots and operationalizing it across workflows, data, governance and people. Today, Clio is partnering with Harbor to scale AI adoption across AmLaw firms and Fortune 500 legal departments worldwide. Clio's platform and legal AI, paired with Harbor's advisory, implementation and change management expertise. Together, we're helping clients go from AI selection to real value. Learn more: https://bit.ly/456VruM
+
+7490872303946223616 | Clio | text | 81w
+    79% of legal professionals use AI, but more than half (53%) say their firm has no policy for it, or don't know if one even exists. What does safe AI use in law firms actually look like? Swipe through for the four pillars of responsible AI use, plus the questions to ask before trusting any tool with client work. Read  [...]  on safe AI use in law firms at the link in the comments. #AIforLawyers #LegalAI #LawFirmManagement #ResponsibleAI #LegalTech
+
+7491229904915709952 | Clio | video | 119w
+    Is getting certified in #LegalAI still on your to-do list this summer? Consider this your nudge. 👀 We're on a mission to help 25,000 legal professionals achieve AI literacy, and there's still time to be one of them. Join a growing community learning, sharing their progress, and taking their AI knowledge further. (Once you're certified, tag us so we can  [...]  the link in the comments, and drop a comment to let us know if you've already become certified!
+
+7491510503924498432 | Clio | image | 153w
+    We're heading to Nashville. Team Clio will be at #ILTACON from August 23–27. We're excited to showcase how Clio is helping law firms get work done, collaborate across teams and deliver a great client experience. Stop by Booth #611 for an exclusive interactive demo, then swing by The Clio Lounge at Booth #339 to refuel with premium refreshments and artisanal  [...]  CDT: Join Damien Riehl, Clio's Solutions Champion for a panel discussion on AI use cases. Come say hello!
+
+7492656121627746304 | Clio | text | 86w
+    Clio Work is leveling up and now shows up in more of the places you already work. Here's what's new: four updates that bring Clio Work into more of your day, help you get things done faster, and apply your standards to legal work. Swipe for a closer look at: ➡️ Clio for Word ➡️ Skills ➡️ Clio Grow integration  [...]  deeper dive into these features and how to start putting them to work today. Link in the comments!
+
+7493324015353397248 | Clio | video | 53w
+    Public company due diligence can mean hours of searching EDGAR, parsing accession numbers, opening filing after filing, and hunting for material agreements buried in exhibit attachments. Now with Clio Work, a few prompts turn that work into a ranked, deal-ready issues list. 👀 See Clio Work completing this task from start to finish.👇
+
+7493744791579602947 | Clio | text | 80w
+    Moments from Matters: Jack Newton is joined by Ashley Williams, Partner and Head of the Technology Group at Mishcon de Reya LLP. to explore how AI is reshaping the innovation economy and the future of legal services. Drawing from his work advising AI companies from first idea to IPO, Ashley shares why data is becoming a competitive advantage, what global  [...]  means for businesses, and why the billable hour is “so archaic.” Listen wherever you get your podcasts. 🎧
+
+7494027476600492032 | Clio | text | 55w
+    Back by popular demand, Clio's AI Summit returns September 29. It's free, virtual, and open to legal professionals across the UK and Europe. Join legal tech leaders, innovative firms, and Clio customers to explore what's next for AI in legal and how to put it to work in your practice. Save your seat today! 👇
+
+7495570506872492032 | Clio | video | 117w
+    How do you keep 40+ offices working to the same standard? Fisher Phillips turned to Vincent by Clio. Using Vincent Studio, their Knowledge Management team built custom workflows encoded with Fisher Phillips' own standards, exemplars, and client preferences. Those workflows are now available to every attorney on a given matter, across every office. 👏 “It's almost like we built a  [...]  see what firms like Fisher Phillips are building with Vincent. Read more at the link in the comments.
+
+7495853626490294273 | Clio | text | 80w
+    The decisions you make in the next 12 months will define the next chapter of your firm. Join us September 10th for the Law Firm Leadership Summit, where partners and legal administrators can choose tracks built around the decisions they actually own: AI's impact on billable hours, hiring and retaining top talent, and leading through constant change. We're excited to  [...]  Association of Legal Administrators (ALA) as the official partner of the Legal Administrator track. Register for free today.👇
+
+7495887516106067968 | Clio | video | 87w
+    U.S. state and federal courts see over 100,000 combined filings a day. That wealth of information should help lawyers move faster, not slow them down. Meet Clio Docket: court activity insights, now available in Clio Work. ➡️ Receive automatic alerts on every matter, including new filings, court orders, and scheduling changes the moment they happen. ➡️ Search on over 1  [...]  case number, keyword, or court. Activate it now inside Clio Work. Learn more: clio.com/work/docket #LegalAI #LegalTech #Litigation #Clio
+
+7496204805321781248 | Clio | video | 140w
+    When no one picks up, leads don't wait. They call the next firm on the list, and you miss out on new business. Meet Grow AI, now available in Clio Grow: a set of AI features that answers, qualifies, and books your leads around the clock. While you're heads down on a case, Grow AI can: → Answer every call,  [...]  build your client base, so you don't have to. 👏 Learn more at the link in the comments.
+
+7496553603114135552 | Clio | video | 91w
+    Imagine knowing the moment something changes in your case: a new filing, an order, a scheduling update. You already know what to do with the information. Now, Clio Work brings it to your fingertips. Clio Docket is available in Clio Work to help litigators push work forward. Together, Clio Docket and Clio Work: ✔️ Analyze exactly what changed in the  [...]  by the latest court activity Learn more about Clio Docket at clio.com/work/docket #LegalAI #ClioWork #Litigation #CourtDocket #CourtFiling #ClioDocket
+
+7497871349143523329 | Clio | video | 81w
+    Hello Nashville 👋 Let's recap Day 1 of #ILTACON2026. If tonight's opening reception is any indication, we're in for a great week. Is connecting with #TeamClio on your ILTACON itinerary? We've made it easy to find us on the exhibitor floor. Head to Booth #611 for interactive demos, 1:1 conversations with our team, and your coffee fix. Then, stop by  [...]  refuel at the Clio Lounge. It's time to experience the power of Clio. See you on the floor!
+
+7498025359309746176 | Clio | image | 129w
+    Pablo Arredondo has joined Clio as SVP, Judiciary, leading our work to bring legal AI to the courts and institutions at the center of the justice system. Courts are facing growing caseloads, increasingly complex matters, and resources that haven't kept pace. Clio has spent more than 18 years building technology to help legal professionals navigate these pressures. Now, we're expanding  [...]  thrilled to have him leading this next chapter for Clio. Learn more at the link in the comments.
+
+7498105886280777728 | Clio | video | 37w
+    Need some help navigating the #ILTACON exhibitor floor? Follow the signs, find Team Clio at Booths 611 & 339, and come say hi. We can't wait to connect with you! Did we mention we had coffee? 👀
+
+7498378867523530753 | Clio | image | 80w
+    Clio is changing how legal work moves through the profession. This week, Vincent in Clio Operate launched. This year, beyond platform innovation, Clio surpassed US$500 million in annual recurring revenue and grew to more than 2,000 employees globally. That growth shows no sign of slowing, as Clio builds toward a future where technology plays a more active role in expanding  [...]  professionals can accomplish. Read more about Clio's next phase of global growth at the link in the comments.
+
+7498399224217214976 | Clio | multi-image(5) | 73w
+    We're ready for Day 3 at #ILTACON2026. Come experience Vincent and Clio Operate in action, meet the team, and see what we're building for the future of legal work. The best context creates the most capable AI. That means bringing together the law, the matter, and the institutional knowledge that shapes how your firm works. 👏 Meet the team at Booths #611 and #339 and have a coffee on us. See you then!
+
+7498856277641650176 | Clio | video | 67w
+    Hats off to #ILTACON2026. Thank you to everyone who stopped by the Clio booths, joined a session, grabbed a coffee at Matters Cafe, or found a few minutes to connect with our team between meetings. This was a great week full of meaningful conversations, product momentum, and leadership announcements. A special opportunity to showcase what we're building for the future of legal work. 👏 Until next time!
+
+7499201708716306432 | Clio | text | 69w
+    Be the first to know what's next for legal. This year's Legal Trends Report looks at how AI is built into the way firms work, bill, hire, and serve clients. Sign up now to get the report delivered to your inbox the moment it's live, and be automatically entered to win a one-hour strategy session with Ed Walters, our VP of Strategy & Legal Innovation. Link in the comments.
+
+7499449355624525824 | Clio | video | 91w
+    Should lawyers use AI to draft M&A agreements? Employment letters? LLC operating agreements? The NYC Bar just published a new framework with answers. Joshua Lenon, Clio's Lawyer in Residence breaks down the paper alongside Senior Manager of Academic Partnerships, Kenton Brice. Where the framework works, where the document ratings deserve reconsideration, and what a workflow view of AI opens up.  [...]  it can go further, and what bar associations should do next, check out the links in our comments.
+
+7500292127462084608 | Clio | text | 84w
+    It's been a busy August at Clio. Here's what's new, from the first client interaction to the final bill. Never miss a lead, file emails automatically, and stay ahead of trust requests and court activity. Swipe to learn more about: ➡️ Grow AI ➡️ Clio Docket ➡️ Automated email filing ➡️ Auto-generated trust requests ➡️ Bill template editor If you'd  [...]  with Clio's newest features, join our monthly “What's New in Clio” webinar. Link in comments for more info!
+
+7500616056890232832 | Clio | video | 64w
+    What keeps George Lambrakos at Clio? A culture that's focused on winning, supporting each other, and helping our customers succeed. 👏 He gets to see firsthand the difference Clio makes for legal professionals, and that makes the work even more rewarding. Could you see yourself here? Head to the link in the comments to learn more about careers at Clio. #ClioCareers #Hiring #LegalTech #LifeAtClio
+
+7500933130590253056 | Clio | text | 49w
+    Moments from Matters: What happens when "trust but verify" becomes "trust and verify"? Jack Newton talks with Damien Riehl and Jacqueline Schafer about how AI is changing the way legal professionals work, and what it means for the future of legal services. Listen wherever you get your podcasts. 🎧
+
+7501357935382609920 | Clio | video | 125w
+    “Show me your receipts.” That's the rule for trust accounting. It's also how bar associations make lawyer work defensible when someone challenges it, and it's exactly the model Clio's Senior Manager of Academic Partnerships, Kenton Brice, thinks should apply to AI in legal practice. He makes the case in a conversation with Joshua Lenon, our Lawyer in Residence, on the  [...]  what bar associations should do next, check out the links in our comments. Let us know your thoughts!
+
+7501724703347105792 | Clio | video | 58w
+    Pressing rewind on #ILTACON2026. ⏮️ We're bringing legal AI, authoritative content, matter context, and the tools firms rely on into one connected platform, built for everyone from solo practitioners to the world's largest law firms and corporate legal departments. If you missed what we unveiled at ILTACON, catch up on the latest from Clio on our news page.
+
+7502796418865242112 | Clio | video | 81w
+    A year ago, Christian Bird was the only person at Bird Law. Today, he's leading a team of 12 lawyers, with plans to grow to 20–25. 👏 As the firm grew, so did the importance of having a clear view of the business. With Clio, Christian can track billing, lawyer performance, year-over-year results, and forecast what's ahead, all from one  [...]  Bird Law is building for its next stage of growth at the link in the comments. #CustomerSuccess #CustomerStories
+
+7503218143079796737 | Clio | image | 94w
+    How can you make the best decisions for your firm? 👀 Find out on Thursday, September 10th at The Law Firm Leadership Summit, where partners and legal administrators can choose tracks built around the decisions they actually own: AI's impact on billable hours, hiring and retaining top talent, and leading through constant change. We're excited to welcome the Association of  [...]  law firm leaders and industry experts leading sessions across the summit. 👏 Secure your spot for free: https://bit.ly/4iUd3C5
+
+7503362377506279424 | Clio | image | 97w
+    Clio Work and Clio Manage are now live in Spain under vLex, part of Clio. 🇪🇸 The average Spanish law firm doesn't lose time to hard cases. It loses time to tab-switching. Your research tool, your practice management spreadsheet, LexNET, your invoicing app. None of them talk to each other, so you become the connector, carrying the same information between  [...]  in our global library of +1B verified legal documents. Less switching, and more legal work. Learn more: https://bit.ly/3TizNBu
+
+7503877562322808832 | Clio | video | 73w
+    Gregory Varner & Associates, P.C. has one goal: making high-quality legal services accessible to underserved communities. 👏 Clio Work is helping them get there. With more capacity to match the volume and quality of work larger firms can produce, Greg's team can serve and represent more people. We sat down with Greg, Managing Partner, to hear how Clio Work is making a direct impact at his firm. Watch his full story here: https://bit.ly/4ihsaW5
+
+7487831395617255426 | Deel | video | 111w
+    Managing global payroll sounds fine—until headquarters has absolutely zero visibility. 🙈 When Akesia Doubrere stepped in as HR Manager at Cohabs, she inherited a fragmented system. Instead of settling for the status quo, she pulled off what everyone called “unrealistic.” She migrated their entire global workforce to Deel. The results? ⚡️ 7 countries migrated ⚡️ 4-month rapid rollout ⚡️ Total  [...]  Akésia Doubrere Watch how Cohabs transformed their global HR operations in record time 👉 Link in the comments.
+
+7488181273966903296 | Deel | text | 85w
+    At Deel, we talk a lot about AI, but some of our people are literally writing the book on it. 📚 Rainier Sarabia 🇦🇺, Director of Engineering at Deel, just co-authored "PHP Programming in the AI Era", now a #1 New Release on Amazon. He leads seven engineering teams at Deel building AI-driven infrastructure, and now he's giving back to  [...]  (and donating all his royalties to charity). The talent inside this company never stops impressing us. Congrats, Rain!
+
+7488246350539632640 | Deel | text | 18w
+    From geopolitics to the future of work, here are some quotes we gathered at Deel's AI Policy Summit.
+
+7488598905291517952 | Deel | video | 76w
+    Where AI works, Deel works 🌍 Your team is already asking AI about global work, in Claude, in ChatGPT, wherever they work. The problem? Most answers come from training data when you need verified intelligence. The Deel connector for Claude changes that. It's real data built into the AI you already use. Real hiring costs across 150+ countries, real compliance rules, backed by $22B+ in payroll and 2,000+ local experts keeping it updated as laws change.
+
+7488669757840310272 | Deel | video | 24w
+    Always double check the post-it. 👀 Episode 3 of "You're On Mute", our (highly dramatized) series about working in HR, is now streaming. 👇
+
+7488953236465545216 | Deel | video | 64w
+    The Future of Global Benefits: Sync, Automate, Scale? Managing benefits across borders means juggling multiple vendors, compliance rules, and manual updates—all disconnected from payroll. With Deel Benefits, your plans, enrollment, and deductions sync in one place. Design competitive benefits in 100+ countries. Deploy with enrollment flows that connect directly to payroll. Zero deduction errors. 🌍 Ready to get started? Learn more in the comments.
+
+7490033434451501056 | Deel | video | 100w
+    Think about the tasks your team repeats every week: reviewing expenses, reconciling accounts, running compliance checks. Most AI tools handle that the same way every single time. Akai doesn't. Deel's agent platform for operations gets faster and cheaper at these tasks every time it runs. "Every execution closes as a case. Next iteration, Akai references those closed cases — learns,  [...]  compounds and one that just re-runs the same script. Each case becomes institutional knowledge. Each iteration gets smarter.
+
+7490091590993248257 | Deel | image | 80w
+    Today, we're excited to welcome Clarity AI to the Deel team! Clarity is an AI cybersecurity company specializing in identity verification, deepfake detection, and fraud prevention. Together, we're building continuous identity security across the workforce lifecycle – from candidate verification and onboarding to secure device provisioning and workforce access through Deel IT. As AI transforms hiring, organizations need more than  [...]  They need trust that extends across every stage of the employee journey. Welcome to the team, Clarity. 🚀
+
+7490408200194727936 | Deel | video | 114w
+    Cal.com cracked the code! Hiring the best talent wherever they are is easy to say and hard to run - especially with manual contracts, and monthly spend nobody could actually track. That's where Cal.com started as a fully remote, open-source company. Rather than keep patching it together, they moved everything onto Deel, and never stopped expanding what they ran through  [...]  signed up immediately.” Peer Richelsen, Co-Founder Watch to see how Cal.com runs its entire global team through Deel:
+
+7490799323857879040 | Deel | video | 27w
+    Remember our search for the worst WFH setups? Well, we found 'em. New series dropping tomorrow: these desks are about to get blessed, courtesy of Deel IT.
+
+7491132614938980352 | Deel | video | 79w
+    Some of the world's most important work happens at the most chaotic desks. Introducing "Bless This Desk", a new series where we give the world's worst work-from-home setups a $2,000 makeover. Episode 1: Francis interprets asylum cases in four languages, from a desk that triples up as his bedroom and storage unit… So we sent Jean-Luc to intervene ✨ Comment  [...]  picture of your setup below if your work space is in need of blessing… 👀 – Studio: PATHETIC
+
+7491149380285014016 | Deel | text | 18w
+    From geopolitics to the future of work, here are some quotes we gathered at Deel's AI Policy Summit.
+
+7492938395787218944 | Deel | video | 123w
+    Building a global talent marketplace sounds simple until you have to solve legal entities, payroll, and compliance in every new market just to list a job there. That's the wall Cocoroco.com would have hit expanding across Europe, so instead, they partnered with Deel early, becoming Deel's first European reseller and embedding Deel's infrastructure directly into their own platform. The results  [...]  Wouter Fluitman, Co-Founder, Cocoroco.com Watch to see how Cocoroco scaled to 42 countries without touching a single entity.
+
+7492972382660218882 | Deel | text | 105w
+    Season 4 of Ted Lasso just dropped, and where most people see an American coaching a UK football team, we see paperwork. Turns out, an American managing a Premier League team isn't just a great plot — it's a logistics puzzle (and one that a lot of global companies are figuring out right now.) Swipe through to see what actually  [...]  your company have the infrastructure to manage this for your real employees? That's what we built Deel for.
+
+7493666249982304256 | Deel | text | 18w
+    From geopolitics to the future of work, here are some quotes we gathered at Deel's AI Policy Summit.
+
+7493728112036278272 | Deel | video | 63w
+    Louisa coordinates taxes by day and studies nursing by night. Her cat, Lil' Tony, doesn't know the meaning of personal space. 🐈 Welcome to episode 2 of "Bless This Desk", a series where we give the world's worst work-from-home setups a $2,000 makeover. Comment a picture of your setup below if your work space is in need of blessing. 👀 -- Studio: PATHETIC
+
+7493967629339185152 | Deel | text | 47w
+    Do you know how your employees actually use time off? Most companies design PTO policies based on industry benchmarks and gut feelings. But what if we told you the data tells a completely different story? Join Lauren Thomas and Jase A. on August 26 to hear more!
+
+7495110654987530241 | Deel | video | 107w
+    The Deel stablecoin wallet is going global. We launched it in Argentina one month ago and over 3.5K contractors are already holding and earning in DLUSD. Today it reaches 80+ countries across LATAM, Africa, the Middle East, and APAC. 🌍 If you're a contractor in Johannesburg, Amman, or Ho Chi Minh City, it's live for you now. Hold your earnings  [...]  the way. Thanks to our partners at Bridge, Privy, Tempo, Morpho, and Sentora for helping us scale this.

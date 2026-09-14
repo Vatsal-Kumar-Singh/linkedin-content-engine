@@ -1,0 +1,169 @@
+# batch 012  -  55 posts  -  label per research/CLASSIFICATION-PROTOCOL.md
+# labels: problem exploration requirements selection validation consensus
+#         recruitment culture event product-news csr unclear
+# write research/labels/012.tsv as: <id><TAB><label>
+
+7496627465788772352 | Databricks | image | 97w
+    NBCUniversal modernized its data infrastructure to support the speed and scale of a modern media business, where major content launches, awards shows, and live events can drive sudden spikes in analytics demand. Working with Databricks and EXL, NBCUniversal moved to a unified platform for data engineering, analytics, and ML, with job-specific compute that lets pipelines scale independently instead of competing  [...]  SQL - Greater flexibility to scale for high-traffic events while reducing the time teams spend managing infrastructure https://lnkd.in/gnnbdixS
+
+7496936299623374848 | Databricks | video | 72w
+    Working with multiple AI agents shouldn't mean rebuilding the same setup every time. Omnigent is Databricks' open-source meta-harness that gives agents a shared layer for orchestration, control, and collaboration. Switch agents without losing context, route tasks intelligently, set contextual policies and spend controls, and add human approval where it matters. Youssef Mrini and Quentin Ambard sit down with Databricks co-founder and CTO Matei Zaharia to show how it all comes together. https://lnkd.in/gsrXgEhk
+
+7497003191205625856 | Databricks | video | 86w
+    DevConnect is back on tour for H2 2026, built for experienced Databricks builders who want a closer look at what's worth shipping next. Expect deep dives into: • Lakehouse//RT, LTAP, Disaster Recovery, Multi Table Transactions, Catalog Managed Commits, and open table interoperability • MCPs, Unity AI Gateway, ZeroOps, and Omnigent to cut boilerplate, reduce context switching, and keep costs in  [...]  to put more builds in the hands of non-data teammates Find a stop near you and register: https://lnkd.in/gT3wG7mC
+
+7497300709697204224 | Databricks | video | 84w
+    The next generation of databases may be built as much for agents as for developers. Databricks VP of Engineering Nikita Shamgunov joins It's About Data to unpack the idea behind Neon Postgres that now powers Lakebase: separating compute and storage for Postgres OLTP. The conversation explores how object storage can make operational data available to downstream systems, why developer-first database  [...]  agents start provisioning databases, creating branches, and managing application state themselves. Tune in to the full episode: https://lnkd.in/gCfiCrNU
+
+7497355766031474689 | Databricks | link | 48w
+    AI assistants are great at handling general tasks, but they miss the critical data context that defines your business. Learn how Genie helps bridge the AI context gap, what analysts own when building with Genie, and explore practical examples from three organizations putting data-smart AI to work. https://lnkd.in/gj2fR3Mh
+
+7497656549700419584 | Databricks | video | 64w
+    [DEMO] More models, coding agents, and MCP tools usually means more places to keep track of. Unity Gateway gives admins one place to see usage and costs, set budgets, control which MCP tools agents can access, and block sensitive PII before it reaches an external model. Amber R. walks through the setup, including dashboards, shared and per-user budgets, MCP controls, and input guardrails. https://lnkd.in/gwVQTEVf
+
+7497764443762745344 | Databricks | link | 71w
+    Keeping skills data current is essential when DXC Technology is matching 130,000 consultants to thousands of client engagements. DXC rebuilt its GenAI-powered competency agent on Databricks, with Lakebase as the operational core. Processing recommendations for 1,000 consultants dropped from about two hours to seven minutes, a 94% improvement. The agent now delivers 2.7x more competency recommendations per consultant, while giving DXC a governed foundation for scaling AI across the business. https://lnkd.in/g-Cw_Mtm
+
+7497994989252284416 | Databricks | text | 85w
+    Big challenges, supportive teammates, and the chance to make an impact from day one! As our summer interns wrap up their time at Databricks, they're looking back on the work they took on, the people they learned from, and what surprised them most about the experience. Along the way, they contributed to core infrastructure, tackled ambitious technical problems, and built  [...]  Barsan, Sonya Alexis, Satvik Shreesha, Gouri Katte, Chris Kim, and Valerie Eng on what made their internships memorable.
+
+7498038258958794752 | Databricks | link | 62w
+    40,000+ attendees. 20 cities. One global data and AI community. Starting in September, Data + AI World Tour brings a full day of new ideas, technical learning, and hands-on experiences to a city near you. Hear the latest advancements from Databricks leaders, customers, partners, and technical experts, and explore practical ways to advance your data and AI strategy. Find your city: https://lnkd.in/gxCdJEgu
+
+7498415040950308865 | Databricks | video | 66w
+    [DEMO] Give an AI agent the right context, tools, and guardrails, and it can do a lot more than answer questions. Watch how to build a store operations agent that pulls from enterprise context and MCP servers, traces behavior in MLflow, turns follow-up work into a recurring weekly task, and stays governed through Unity Gateway. Built with Agent Bricks, Omnigent, and the OpenAI Agents SDK. https://lnkd.in/gz7FrSMt
+
+7498513740963700736 | Databricks | video | 80w
+    SpaceXAI's latest model, Grok 4.6, is now available on Databricks! Grok 4.6 sets a new state-of-the-art performance standard with Genie harness on Databricks' OfficeQA Pro v2 benchmark, our flagship benchmark for complex data reasoning tasks on enterprise documents. Run Grok 4.6 where your data already lives - governed, secure, and ready for custom AI apps and agents built with the  [...]  your Lakehouse. Govern every call, monitor performance, and scale securely across your AI apps with Unity Gateway. https://lnkd.in/gK55k5AT
+
+7498729777911205888 | Databricks | link | 61w
+    Databricks Co-Founder and CEO Ali Ghodsi has been named to the 2026 TIME100 AI list! TIME highlights Ali in their AI leaders category saying, “as AI agents change how organizations work, Databricks is giving those agents access to secure, governed enterprise data on which to operate." Congratulations to Ali and all of this year's #TIME100AI honorees! View the full list: https://lnkd.in/gFZf97tV
+
+7498791103895228419 | Databricks | image | 179w
+    We asked a frontier agent to count the local maxima on a chart. It looked at the image, thought for 50 seconds, and got it wrong: 17 instead of 18. Then we gave Databricks Genie the same chart, but first extracted its values into structured JSON with ai_parse_document. Genie got the right answer. This is the core problem with agents  [...]  ai_parse_document soon. Pair it with ai_prep_search to build agentic retrieval systems that actually get the numbers right. https://lnkd.in/gaT4byAS
+
+7498830272914669568 | Databricks | video | 94w
+    Z.ai's latest open-weight model, GLM 5.3 Flash, is now available on Databricks! GLM 5.3 Flash joins 30+ open-source and frontier models on Databricks. On Databricks' OfficeQA Pro v2 benchmark, it delivers 10% higher quality than GLM-5.2 at just one-tenth the cost, pushing out the quality-cost-pareto frontier. With new multimodal support, it can now read figures and verify web pages at  [...]  custom AI apps and agents. Control access, spend, and observability across all your AI with Unity Gateway. https://lnkd.in/gyG8433E
+
+7499115113501872131 | Databricks | image | 78w
+    Our partners are bringing a new wave of production-ready, industry-specific solutions to Lakebase. Built across financial services, manufacturing and energy, retail, healthcare, communications, and the public sector, these solutions pair industry expertise with a governed foundation for operational data, analytics, and AI. Use cases include: • Claims adjudication and fraud detection • Predictive maintenance and grid intelligence • Dynamic pricing and stockout detection • Prior authorization and behavioral health • Emergency response reporting Explore the partner solutions: https://lnkd.in/g3cCg5dh
+
+7499180057509232640 | Databricks | link | 54w
+    Your data. Your context. Real outcomes. Attend #DataAIWorldTour 2026 to learn how organizations are grounding AI in enterprise data and business context. Hear the latest product announcements and customer insights, join technical breakouts, and explore practical ways to build and run AI apps, agents and analytics at scale. Find a city near you: https://lnkd.in/gxCdJEgu
+
+7499257248607744000 | Databricks | video | 86w
+    GLM 5.3 is available as a day 0 release on Databricks! GLM 5.3 is the smartest open-weight model available today and joins GLM 5.3 Flash and 30+ open-source and frontier models available natively on Databricks. We host GLM 5.3 on secure GPUs owned by Databricks so you can use the most intelligent models with your most secure data. With Unity  [...]  coding agents and get smart routing, centralized cost controls, and observability in a single pane of glass. https://lnkd.in/gyG8433E
+
+7499518310909304832 | Databricks | video | 66w
+    Genie is changing how teams get answers from their data. In this DataFramed conversation, Databricks Co-Founder and Chief Architect Reynold Xin shares how he now uses Genie to investigate product metrics directly, and why that experience depends on the right data model, ontology, and governance underneath it. He also digs into Lakebase Postgres, LTAP, and how databases are evolving as agents become a primary persona. https://lnkd.in/g-nqzd7p
+
+7499838669936263169 | Databricks | video | 84w
+    🆕 We've been busy shipping new features! Nick Karpov and Holly Smith are here to unpack what's new and how it all fits together. In the latest Over Architected, they break down the newest Databricks updates, show how they work, and explore how they all fit together in one architecture. Covered in this episode: • Lakehouse//RT • Omnigent • Managed  [...]  Managed disaster recovery • New Lakeflow connectors • LTAP • New model support Watch the full episode: https://lnkd.in/g3pX3PZy
+
+7500213707767955457 | Databricks | image | 54w
+    Databricks has been named to Madrona's 2026 Intelligent Applications 40 list! We're honored to be recognized among the top private companies building with and enabling the AI applications shaping our future. Databricks is also the only company to appear on every IA40 list. Featured today on the NYSE floor alongside fellow #IA40 honorees 📸
+
+7500258798897500176 | Databricks | video | 46w
+    “Genie is a game changer. Genie helps me go from ideation to production faster, quicker, and without any errors.” Hear directly from users on how they're using Genie to ask better questions, get to answers faster, and work across the tools they already use 🧞 https://lnkd.in/gjKVKVEC
+
+7500304661711814656 | Databricks | image | 75w
+    Can object storage sit underneath a transactional database and make it easier for agents to work with? This question is what started Lakebase Postgres. The answer does not just depend on how fast your object store is, but rather where you place the source of truth. See how we architected Lakebase Postgres and why when Postgres is architected this way, it becomes an evolution of traditional OLTP systems that's built to handle agentic workloads: https://lnkd.in/gJS6kPeM
+
+7500581458059808768 | Databricks | image | 139w
+    AI does not need a perfect enterprise model before it can begin delivering value. Genie Ontology uses the governed assets you already have to help organizations get started from day one. Over time, deliberate curation strengthens that business context, making answers more accurate, authoritative, and trustworthy. In this guide, we outline six practical ways to operationalize Genie Ontology, covering areas  [...]  improve decision-making. It is a practical, iterative approach to helping AI better understand how your business operates. https://lnkd.in/gVPmijk9
+
+7500627329438633984 | Databricks | video | 64w
+    Claude Fable 5.1, Anthropic's most capable model, is available as a day 0 release on Databricks! Claude Fable 5.1 joins Claude Opus 5, Claude Sonnet 5, and 30+ open-source and frontier models on Databricks. With Unity Gateway, you can now connect Claude Fable 5.1 to your coding agents and get smart routing, centralized cost controls, and observability in a single pane of glass: https://lnkd.in/g-i2XFCQ
+
+7500658833602777088 | Databricks | link | 86w
+    AI assistants are spreading fast, but 50% of enterprise agents operate in data silos. Our new eBook looks at how unified context separates a general-purpose assistant from a data-smart AI coworker you can bring into decisions that carry real consequences. Inside: • How decision-ready context changes outcomes across Slack, Teams, Copilot and native iOS and Android • Why governance matters  [...]  source of truth keeps answers explainable and auditable • Prescriptive moves you can make today Download now: https://lnkd.in/giXV-Qxn
+
+7500911402103181312 | Databricks | video | 40w
+    Databricks DevHub is the new home for developers looking to build working apps or agents faster. ⚡ Start with ready-to-use templates, follow step-by-step guidance, and build with Databricks Apps, Lakebase, Agent Bricks, and more. Build agentic apps in minutes: https://lnkd.in/gfFtD7hB
+
+7500950210207207424 | Databricks | video | 77w
+    Day 0 access unlocked: Gemini 3.8 Flash is officially live on Databricks! Google's latest model sets a new standard for internal document parsing and dominates our OfficeQA Pro benchmark, making it a powerhouse for complex enterprise data. The best part? → Run it directly on your Lakehouse data → Enforce unified governance with Unity Gateway → Monitor, scale, and route calls across all your custom AI apps Build governed AI apps with Gemini 3.8 Flash today: https://lnkd.in/g8-Cm-pX
+
+7500991456929656833 | Databricks | multi-image(4) | 82w
+    #VLDB2026 is underway, and Databricks is here as a Gold Sponsor. We're sharing what we're building for the future of agent-native data infrastructure, including: • a keynote from Databricks co-founder Reynold Xin on why the agentic future demands Lakebase Postgres • AutoLiquid and Ultron query optimization • Lakehouse//RT, Lakebase, and LTAP • conversations with the database community on the ground  [...]  demos on Lakebase, Apache Spark Structured Streaming, and Enzyme. If you're at VLDB, come find the team 👋
+
+7501278873968496640 | Databricks | image | 87w
+    We found and eliminated an estimated $1.2M a year in wasted AI spend and lost productivity in one hour. Here's how 👇 Using Unity Gateway tracing and Genie One, we identified seven small MCP-server bugs that were quietly driving: • ~$499K/year in wasted tokens • ~12,000 engineering hours/year in agent wait time • 1,409 tool errors in a single 24-hour  [...]  ranked list of what to fix, and a coding agent helped close the loop in an hour. https://lnkd.in/g6iKRXc5
+
+7501340776522477568 | Databricks | image | 77w
+    What if documents, images, audio, and video could behave like any other column in your lakehouse? FILE type makes unstructured data native to your tables, so teams can query and process multimodal data while applying the same fine-grained access controls and security policies used for standard tables. And because FILE is being built in the open, we're working with the community to bring support directly to Parquet, Delta Lake, Apache Iceberg, and Apache Spark™. Learn more: https://lnkd.in/gRVtbznZ
+
+7501646588079984640 | Databricks | image | 90w
+    The biggest AI coding cost lever isn't using less AI. It's using more efficient models as they become available. That takes more than picking a cheaper model once. Teams need to keep evaluating price and performance, preserve flexibility across models and harnesses, route work intelligently, and reduce the token overhead surrounding each task. At Databricks, Smart Routing has reduced average  [...]  the most expensive model in the working set. Learn more about managing AI coding costs at scale: https://lnkd.in/gHwj3m54
+
+7501757717137707008 | Databricks | video | 100w
+    GPT-6 Astra, OpenAI's most powerful model, has landed as a day-zero release on Databricks! This is OpenAI's biggest leap in agentic reasoning and your teams can put it to work on production data today. → In our internal evaluations, Astra achieves state-of-the-art quality at great efficiency on Databricks' OfficeQA Pro, OfficeQA Pro V2, and Document Processing benchmarks. → Every call  [...]  trust across Claude, Gemini, Grok and every other model on Databricks. Try GPT-6 Astra - see documentation: https://lnkd.in/e_Atadah
+
+7502021789305229312 | Databricks | image | 58w
+    Better AI agents need better context. 🔰 The Databricks Certified Context Engineer Associate certification validates the skills needed to curate context and build reliable, production-grade agentic systems. We're also expanding agent-focused training with courses on fundamentals, retrieval, and evaluation, plus official guidance for using AI tools to prepare for Databricks certification exams. Explore the certification and training: https://lnkd.in/gtKywV4k
+
+7502375589509730304 | Databricks | link | 114w
+    You ship code in seconds and build apps, agents, and AI products faster than ever. So why does your database still take hours to provision? Lakebase is a new category of serverless Postgres database built for the way teams write software today, with instant branching, separate compute and storage, and architecture designed to scale with app and agent workloads. Read  [...]  development teams • How the lakebase architecture fits alongside your lakehouse for unified transactional and analytical work https://lnkd.in/gnz3dShw
+
+7502733677454512128 | Databricks | image | 93w
+    Tired of choice overload? With so many AI models available, it's easy to just default to the most capable (and most expensive) option for every coding task. Smart Routing in Unity Gateway takes the guesswork out by automatically matching your tasks to the right model based on complexity. It uses lightweight models for simple edits and reserves frontier models for  [...]  and coding harness so developers can stay focused on writing code. High-quality results. 30%+ lower task costs. https://lnkd.in/g4Zs87VK
+
+7502811713919041536 | Databricks | link | 94w
+    AI needs context to understand how your business actually runs. Join our upcoming webinar to learn how Genie Ontology helps bring that context together so AI can deliver trusted answers, act autonomously, and give teams back time. You'll learn how to: ✓ Build a living context graph across business terms, entities, and KPIs ✓ Deliver trusted answers based on each  [...]  Teams, mobile, and MCP-based experiences Hear directly from Databricks experts and see Genie Ontology in action. RSVP: https://lnkd.in/gTkr_QN5
+
+7503105415845400576 | Databricks | image | 86w
+    The hard part of enterprise AI isn't getting an answer. It's getting an answer that understands how your business actually works. Genie One uses unified context from Genie Ontology to connect governed data, business definitions, documents, applications, and operational systems into a shared view. That helps teams: • Ask questions in the tools they already use • Get answers grounded  [...]  that context into follow-up work • Turn recurring decisions into actions and agents See how it works: https://lnkd.in/gvGdvfBJ
+
+7503166347938521089 | Databricks | video | 62w
+    Agentic tools are changing the cost of trying an idea. OpenClaw creator 🦄 Peter Steinberger and OpenAI Codex engineering lead Thibault Sottiaux discuss how developers can now prototype ideas that once felt too expensive to pursue, test them earlier, and use what they learn to make better decisions faster. Watch the full conversation on how AI agents are transforming software engineering: https://lnkd.in/gM_GvQBi
+
+7503456464913481729 | Databricks | image | 120w
+    Effective enterprise data agents require search that is both accurate and fast. That's why we're introducing Adaptive Instructed-Retriever, which combines the speed of parallel retrieval with the performance of sequential search while maintaining strict cost and latency guarantees. The goal is simple: spend additional search steps only when they are useful. Across seven held-out internal and external benchmarks: - More  [...]  the evidence is clear and uses sequential search only when harder requests require it. Read the research: https://lnkd.in/giFhyu5p
+
+7503500113856729090 | Databricks | image | 91w
+    Embedding an AI/BI Dashboard is easy. Making sure every viewer sees only the data they're entitled to is harder. This guide shows how to securely share a single dashboard across external partners and internal teams, while enforcing per-viewer access with: ↳ A centralized entitlements table ↳ __aibi_external_value for viewer-specific scope ↳ Group-based access for internal users ↳ Row-level security and  [...]  one set of access rules, without maintaining separate dashboards for every customer or team. Read the guide: https://lnkd.in/gucWXr3K
+
+7503555418238029824 | Databricks | video | 65w
+    What happens when thousands of devices start streaming events at once? This demo shows a simpler real-time IoT architecture using: • Zerobus Ingest for ingestion • Lakebase Postgres for low-latency serving • Databricks Apps for the front end and back end Thousands of concurrent IoT events. Live sensor data from phones around the world. No Kafka or Kinesis setup. See the architecture in action: https://lnkd.in/gw_d5kFh
+
+7503820661526564864 | Databricks | video | 74w
+    Complex document extraction gets hard fast when you're working across hundreds of pages, thousands of line items, or schemas that require reasoning. AI Extract Precision Mode is built for those workloads. Across benchmarks spanning roughly 9,000 complex documents, it reached 94.7% extraction accuracy and outperformed the strongest frontier-model chunk-and-merge baseline by seven points. Designed to stay accurate as documents and schemas get more complex ☑️ See how Precision Mode handles complex document extraction: https://lnkd.in/gakzEiRZ
+
+7503860169957715968 | Databricks | video | 54w
+    The Replit-Databricks integration is now generally available, with new native Lakebase support! Now, you can use Replit to build full-stack Databricks Apps on live, governed enterprise data. Replit Agent can automatically provision a Lakebase database, while AI-proposed schema changes require human approval. Build, deploy, and iterate in one flow. See it in action: https://lnkd.in/gJzpGvHi
+
+7503904929346953216 | Databricks | link | 77w
+    91% of enterprises already run two or more AI coding tools. The harder part is managing that growing fleet without adding more silos and less visibility. A scalable approach comes down to three things: - 𝗖𝗵𝗼𝗶𝗰𝗲: build and run agents on any model, harness, or framework - 𝗖𝗼𝗻𝘁𝗲𝘅𝘁: ground every agent in the same governed context - 𝗖𝗼𝗻𝘁𝗿𝗼𝗹: govern models, tools, MCP servers, skills, and agents through one control plane Download this eBook for the blueprint: https://lnkd.in/gWb2RsYE
+
+7504175325921091584 | Databricks | image | 69w
+    Data + AI World Tour 2026 kicks off next week. 🌎 We're heading to 20 cities for free, one-day events focused on the newest innovations in AI and practical ways to advance your data and AI strategy. Hear from Databricks leaders, technical experts, customers, and partners, then go deeper with technical breakouts and hands-on learning across AI apps and agents, data warehousing, BI, and more! Find your city: https://lnkd.in/gxCdJEgu
+
+7504246774279274497 | Databricks | image | 83w
+    Marketing teams already have the data. The harder part is turning it into something they can act on quickly. Genie One helps marketers work directly with governed business data across five common workflows: • Campaign and channel performance • Funnel attribution • 360 customer insights • Omnichannel planning • Business reporting on the go Teams can ask questions in plain  [...]  schedule recurring reviews without rebuilding the work each time. Explore five ways marketers are using Genie One: https://lnkd.in/gGDskWWf
+
+7504282298440192000 | Databricks | video | 85w
+    DeepSeek 4.1 Flash is on Databricks the day it ships. On OfficeQA Pro V2, it lands on the Pareto frontier, making it a strong open-source option for enterprise document reasoning. You can point it at the data already in your Lakehouse and use it to build governed AI apps and agents from day one. ↳ Every call routes through Unity  [...]  under one view ↳ The same control layer applies across DeepSeek and every other model you run https://lnkd.in/gniWU-qZ
+
+7396256718655062016 | Dexterity | video | 125w
+    In production, robots get 600 watts in a 55°C truck. You struggle running 3x in these types of industrial environments, making it near impossible to force every decision—from simple motion to complex manipulation—through billions of parameters. This is why we built a Transactable World Model for multi-agent coordination. Specialized agents. Shared world state. Real-time consistency. Optimized for the constraints of  [...]  in the comments ↓ Thanks Foxglove for the opportunity to share our approach at #Actuate2025. #PhysicalAI #WorldModels #Robotics
+
+7397000741598502912 | Dexterity | image | 132w
+    Physical AI at scale requires world-class automation infrastructure. Today we're announcing our partnership with Beckhoff Automation USA for Mech superhumanoid robot development. The technical challenge: Dual-arm manipulation at superhuman performance, operating safely in human workspaces, with real-time control at 1kHz—all in an exceptionally compact mobile form factor. Beckhoff's automation technology stack provides the foundation: → Real-time control for advanced kinematics  [...]  reliability, and safety. Grateful to Beckhoff for being that partner. Read more here - https://lnkd.in/e-cyyjXV #PhysicalAI #Robotics #Automation
+
+7397329555512000512 | Dexterity | video | 120w
+    This week: debating whether humanoid production volumes are real or CGI. Next week: another robot launch. Missing in all this is the real differentiator. Speaking to CNBC, Dexterity's CEO Samir breaks down why the flexibility of a Physical AI stack is the real competitive moat. To become useful for anything outside manufacturing—logistics warehouses, retail floors, pharmaceutical facilities, airport operations—robots need  [...]  scale, regardless of the robot form factor. That's the real opportunity. Watch the full segment 👇 #PhysicalAI #Robotics
+
+7416886771239673856 | Dexterity | video | 114w
+    The hardest jobs in logistics need more than precision—they demand adaptability, problem-solving, and the ability to perform in brutal conditions. Loading trailers in 100°F heat. Lifting 60kg boxes repeatedly. Unloading containers at speed. Work that challenges both body and mind. That's why we built Mech as the first industrial superhumanoid designed for unstructured, physically demanding work that humans shouldn't have  [...]  is in using industrial strength to amplify human capability. Watch our CEO Samir Menon explain on CNBC 👇
+
+7435456652356653057 | Dexterity | video | 208w
+    We're excited to announce Foresight — a world model built for the physical world! Most world models observe. Foresight acts. It's a real-time, physics-consistent representation of the physical world that enables robots to perceive, reason, and manipulate objects at production speed, not in simulation, but in real industrial environments. It's a production system trained with experience from over 100 million  [...]  us know how you score: dexterity.ai/play Find Press Release here: https://lnkd.in/gzkXbc8h #PhysicalAI #WorldModel #AI #Robotics #Foresight #TruckLoading #Tech
+
+7437570757645406208 | Dexterity | link | 84w
+    Dexterity is proud to be named among the San Francisco Bay Area Robotics Founders to Watch in 2026 by the San Francisco Tribune. 🤖 The recognition reflects what we've been building toward: 100 million autonomous actions in production, deployed in real warehouse and logistics environments, not controlled demos, not pilots, but at scale. From autonomous truck loading to industrial automation,  [...]  be durably deployed and expanded today. More to come in 2026. 👀 Read more in the article: https://lnkd.in/gGyUjgQj
+
+7440133116251242496 | Dexterity | video | 201w
+    Foresight, our world model, is built from over 100 million autonomous actions in production and designed for manipulation, not just observation. Every robot action changes the physical world, so the system must adapt in real time, reasoning about object geometry, contact dynamics, weight distribution, stability, and more, before every action. Every decision is fully interpretable and safe. NVIDIA's technology helped  [...]  NVIDIA press release: https://lnkd.in/gfqWdqpU Read the full technical deep-dive: https://lnkd.in/gV4VsfAw #DexterityAI #PhysicalAI #Robotics #NVIDIA #NVIDIAGTC #GTC2026 #Foresight #WorldModel
+
+7442665572590350336 | Dexterity | link | 196w
+    How do you know a world model is good? That question gets lot less attention than the model themselves, but it is just as important. Real progress truly depends on evaluations you can trust. Kevin Chavez, Founding Engineer at Dexterity, just published a new post on how we evaluate Foresight, Dexterity's world model for manipulation, and the agents it powers  [...]  one of the areas where Dexterity is defining the standard! Read the post: https://lnkd.in/gb6tSUjt #Dexterity #PhysicalAI #WorldModel #Foresight

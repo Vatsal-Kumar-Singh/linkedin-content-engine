@@ -1,0 +1,169 @@
+# person batch 001  -  55 posts  -  research/CLASSIFICATION-PROTOCOL.md
+# labels: problem exploration requirements selection validation consensus
+#         recruitment culture event product-news csr unclear
+# write research/labels_people/001.tsv as: <id><TAB><label>
+
+7374053443298144256 | Adrie Smith Ahmad | image | 239w
+    It's official, I live in the AI bubble. 🙃 When I joined Neople just under a year ago, I'll be honest: I barely used any AI tools or even features within the tools I already used. I was curious, sure. But the prospect kind of overwhelmed me. Even if they promised "efficiency" (or "money saved")  [...]  if you want some down-to-earth, possibly slightly tipsy AI insights from the within the bubble 😉
+
+7376912973895974913 | Adrie Smith Ahmad | text | 57w
+    LinkedIn is FULL of garbage these days. But can you really tell if that garbage is human made or AI-generated? Seyna and I are breaking it down (and ranting about it) over a glass of Riesling in our next episode of W(h)ine + AI. Out tomorrow on your favorite podcast platforms. 😉 Link to subscribe below 👇
+
+7379525123390730240 | Adrie Smith Ahmad | video | 32w
+    There's a lot going on in the AI space. So we obviously had to get a few more bottles 😏 New episode of W(h)ine + AI drops tomorrow on thejoylab.ai Seyna Diop
+
+7381245289677942784 | Adrie Smith Ahmad | multi-image(2) | 78w
+    I may have unlocked a conference cheat code 👀 I have always found conference booths/stands tough to brand, especially when you're in a sea of venue gray. Branded bean bags give us a chance to add a pop of Neople color, define our area, and provide some chill space for our stand pals (read: lower  [...]  Plus, these bad boys will be overtiming as office accessories when they're not at conferences. 💗
+
+7387405052769931264 | Adrie Smith Ahmad | video | 73w
+    As a millennial, what I do for work defines me in a big way (no amount of therapy can undo this, trust me). So what happens when AI can do a big ol' chunk of your job? Seyna Diop and I unpacked this in our last episode of W(h)ine + AI over a much-needed glass  [...]  Tune in for some guidance on finding your own narrative among the AI chaos. 🎧 https://lnkd.in/eEaYU-QG
+
+7392165116366196736 | Adrie Smith Ahmad | video | 52w
+    Is a dog a more worthy elected official than an AI? 👀 One of the burning questions answered in the latest episode of W(h)ine + AI. Seyna put me in the hot seat this round and we discussed representation, corruption, and a bunch of AI applications for politics. Listen in here 👉https://lnkd.in/etfeMMZU
+
+7397551856408862720 | Adrie Smith Ahmad | image | 21w
+    Any clever marketers or GTM friends with experience setting up (successful) referral programs? Slide in to my DM's for free coffee.
+
+7420387090909057025 | Adrie Smith Ahmad | image | 9w
+    Google Slides, you ok, hun? Proofreading 1, Autocorrect 0
+
+7440340048912449536 | Adrie Smith Ahmad | image | 104w
+    WebWinkel Vakdagen is the Scheveningen of event names. The Dutch know exactly how to say it. The rest of us are just doing our best and hoping no one notices. The Neople team will be there next week (Wednesday and Thursday) with a bigger stand and more friends than last year as we team up  [...]  a match. Plus, there will be popcorn, win or lose. See you at booth #308 👋
+
+7444748142685671424 | Adrie Smith Ahmad | video | 205w
+    "Maybe we could make a calculator." Someone floated this in a GTM sync a few years back and I felt my soul leave my body. Not because it was a bad idea. It was a great idea. It was a grind of an idea. Hunting down the right stats, building the right logic, somehow getting  [...]  joke and ended up being genuinely useful, I want to hear about it + let's connect
+
+7450086786455756800 | Adrie Smith Ahmad | image | 131w
+    Nobody warns you that becoming more capable can feel like losing something. Eight years as a self proclaimed "content person". Then AI crept in. Slowly, then all at once. And I looked up one day and I was building calculators, coding via MCP, making 3D designs and then setting them into motion, and watching YouTube  [...]  this hits a little too close: hi, same, let's talk coughcoughcrycoughcough about it in my DMs.
+
+7475855603232595968 | Adrie Smith Ahmad | video | 347w
+    Walked in 100% certain content was the job. The whole job. Forever. Today's my last day at Neople, and I'm leaving less certain about almost everything. And somehow more confident in what I can actually do. Turns out professional resilience is just as much about riding the wild start-up rollercoaster as it is about holding  [...]  two years of learned curiosity and zero chill. And in the meantime: thank you, Neople. ❤️
+
+7486061416899252224 | Adrie Smith Ahmad | image | 125w
+    When's the right time in onboarding to fast-forward to the doing part? It's so hard to hold yourself back. Especially when you've got that content creation itch (IYKYK 💅). So today, still deep in figuring-things-out mode, I gave in a little and got to be Amba's sidekick behind the camera. Plans and docs have their  [...]  task to be handed. Might flop. Might be great. Luckily it'll be a fun ride regardless.
+
+7498287337928425473 | Adrie Smith Ahmad | text | 103w
+    Some jobs get relentless public praise. Others get the "hey can I ask you one more thing?". That's why the People & Culture Impact awards Personio and 7people ✨ host are so important. On September 3rd, we'll be celebrating the HR & TA professionals that are keeping everything together at high-growth companies. These are the  [...]  important. Bring your loudest applause and see you at LIEF Amsterdam. Registration in the comments below.
+
+7501320612087447552 | Adrie Smith Ahmad | image | 53w
+    We're back at it! This time at People & Culture Impact Awards hosted by Personio and 7people ✨ at LIEF Amsterdam. Always so energizing to be surrounded by the HR and TA talent that are not just ticking the box, but getting it DONE. ✅ Keep an eye out for the winners 👀
+
+7432115146161942528 | Akshay Kothari | video | 25w
+    Notion is where technology meets the humanities. There's no better way to experience that intersection than through our launch videos. Today, we launched Custom Agents:
+
+7432191613185196032 | Akshay Kothari | video | 42w
+    We spent a fair bit of time deliberating how to price Notion Custom Agents. We eventually landed on usage-based pricing, so you can pay for the work you get done. In this video, I explain our rationale in a bit more detail:
+
+7433632593872605184 | Akshay Kothari | image | 27w
+    We just rolled out the first open weight model for Notion Custom Agents. For simpler tasks, it's a lot cheaper than other models. Give it a try!
+
+7435475819092750336 | Akshay Kothari | image | 43w
+    I'm hiring a small army of Notion Media Fellows to help us tell and amplify the Notion story. You'll work closely w/ the founders, get to play with our latest prototypes and also get unlimited credits for your Notion agents. Apply here: https://lnkd.in/gwBgZjM4
+
+7445333064379154432 | Akshay Kothari | text | 9w
+    Notion is so zen, even monks love it 🙂
+
+7451001278505066496 | Akshay Kothari | link | 45w
+    Over the past year, many founders have asked me how Notion became AI-native and how they can do the same. Here's a deep dive into how we evolved our mission, product, tech, people, and culture. Huge thanks to Brie and Camille for writing it! https://lnkd.in/g6Vr9r2c
+
+7455864846224396288 | Akshay Kothari | image | 12w
+    Notion SF sales squad in full agent attire. EOQ energy is real!
+
+7463025970791231488 | Akshay Kothari | link | 32w
+    I've always thought that lists are somewhat overrated. The rare exception is when Notion makes the top 10 on a list. Then they become rigorous, peer-reviewed, methodologically unimpeachable works of journalism. https://lnkd.in/gPUPxrxx
+
+7469899573960982528 | Akshay Kothari | text | 121w
+    Fun fact: Notion didn't have a board until two years ago. Becoming cash-flow positive early allowed us to raise several rounds of financing without diluting ourselves too much or giving up board seats along the way. That gave us a rare opportunity: to build our board from scratch, much like you would build an executive  [...]  the process. Hope it's helpful if you ever decide to do this for your own company.
+
+7483118082563915792 | Akshay Kothari | text | 19w
+    Imagine a world where we simplify every role in a company down to just two: 1. Builders 2. Sellers
+
+7485385983207555073 | Akshay Kothari | image | 57w
+    This chart surprised me. I'm far more bullish on young developers than the market is. They're the first AI-native generation, and for many new grads, coding with AI is simply how they build. That's a big reason Notion is making early-career hiring a much bigger focus. If that sounds like you, DM me or apply at https://lnkd.in/gs29qaSn
+
+7487881601025167360 | Akshay Kothari | image | 59w
+    Two weeks ago my dentist emailed his patients: after decades of work, he was finally retiring. His staff and patients, me included, wrote back asking him to reconsider. Today he emailed us again. Subject line: "Unretirement." The whole episode is so heartwarming. I hope my employees and customers ask me to unretire one day. That's a life well lived.
+
+7492973560513056769 | Akshay Kothari | text | 22w
+    Katy is the real deal. She's a true builder at heart. It's been a real privilege working alongside her this past year!
+
+7497525010673340416 | Akshay Kothari | link | 121w
+    My daughter and I started a podcast this weekend! We're calling it Across the Table. Over the past year, we've both gotten into reading print newspapers and magazines (Financial Times, Economist, Explores + a few others) over breakfast. Our weekly podcast is a chance for us to talk about some of the stories we both  [...]  a listen! And if you enjoy it, please subscribe and share it with a friend 🙇‍♂️
+
+7500354553423286272 | Akshay Kothari | text | 46w
+    Finished year 8 at Notion today. Usage and business have grown ~1000x; the team, ~100x. A powerful reminder of compounding! Our mission to bring malleable software to the world feels more important than ever. Journey of a lifetime, and yet, we've barely begun. Join us! notion.com/careers
+
+7451387960903618560 | Ali Ghodsi | text | 17w
+    Yes, Genie Code agents are smart and they'll find existing code in notebooks, dashboards, and reuse it!
+
+7453630292705116160 | Ali Ghodsi | text | 19w
+    Excited about the partnership with OpenAI, Check out GPT-5.5 and this chat between Denise Holland Dresser and Patrick Wendell!
+
+7460858620193247233 | Ali Ghodsi | text | 15w
+    Thoughtworks is 100% right, this is how agents will use transactional databases in the future!
+
+7465955267390640128 | Ali Ghodsi | text | 16w
+    Thoughtworks does a great job of explaining what the future of databases look like with Lakebase!
+
+7470246381685784576 | Ali Ghodsi | image | 24w
+    Try Mythos/Claude Fable 5 out of the box on Databricks today! You can govern its usage and set budgets with 𝐔𝐧𝐢𝐭𝐲 𝐀𝐈 𝐆𝐚𝐭𝐞𝐰𝐚𝐲! https://lnkd.in/gv83fkJR
+
+7471595448991039488 | Ali Ghodsi | text | 4w
+    Super excited about this!
+
+7475963479686836224 | Ali Ghodsi | link | 15w
+    Actually think Bain & Company nails their strategic analysis of Databricks as a company https://lnkd.in/gqtZePsD
+
+7478262950831497216 | Ali Ghodsi | text | 41w
+    Checkout this conversation about Lakebase Branching from Thoughtworks. Today organizations have thousands of databases (e.g. prod, staging, uat, test, etc), but with branching you can just have one database with a huge number of branches. This makes operational management significantly simpler.
+
+7480744494053871616 | Ali Ghodsi | text | 17w
+    Jonathan does a great job explaining the important of Genie Ontology many other things AI/agents! Highly recommended.
+
+7483722092547604481 | Ali Ghodsi | text | 10w
+    New Apache Spark v4.2 released. Lots of goodies in there.
+
+7486225777898921984 | Ali Ghodsi | link | 95w
+    Enterprise AI only works when it actually understands your business context. We've been building with Microsoft for over a decade, and I'm super excited to share that we're keeping it going into the 2030s! We're bringing Genie and Unity AI Gateway directly into the Microsoft product stack, so you can ground AI in real business  [...]  entire team at Microsoft! Our partnership is stronger than ever, and we're just getting started! https://lnkd.in/gXYS4Kvy
+
+7491562487507603458 | Ali Ghodsi | text | 28w
+    My cofounder Patrick wrote this blog based on our work on cost controls for AI, it also surveys what other top tech companies are doing. Highly recommended reading.
+
+7493675875033403392 | Ali Ghodsi | link | 114w
+    Today, we announced that we crossed $7B in revenue run-rate, growing over 80% year over year. We also shared: 📊 $100M+ revenue run-rate for Lakebase 📈 $1.5B+ revenue run-rate for Lakehouse, growing over 100% YoY 💰 Continued positive adjusted free cash flow And we raised $5B in our latest fundraise. Thank you to Coatue, Blackstone,  [...]  Gateway, our multi-AI governance solution that helps control costs Victor Dey shares more in Forbes: https://lnkd.in/gcdhCYvW
+
+7496760759515774976 | Ali Ghodsi | text | 3w
+    This is awesome!
+
+7500734833632034816 | Ali Ghodsi | image | 29w
+    We saved $1.2m in one hour using 𝐆𝐞𝐧𝐢𝐞 𝐎𝐧𝐞 on our cost controls. I think many companies can cut costs similarly without much effort. Read about it here: https://lnkd.in/g24ZWiQc
+
+7444372351179214848 | Amit Bendov | link | 18w
+    AI advertising hits $57B! If you marketers don't adapt they aren't falling behind — they're becoming irrelevant. https://lnkd.in/e29kGvX7
+
+7452348472185434112 | Amit Bendov | text | 36w
+    #6 is super cool, tracks with the acceleration we're seeing internally. What I keep staring at: three AI natives in the top 4, then LinkedIn, then Gong. Then hyperscalers. Plus plenty of room to grow!! 😎
+
+7455252430402883584 | Amit Bendov | text | 211w
+    If you are feeding AI only call transcripts, you are doing it wrong. Gong Labs ran a study across 821 AI field evaluations to answer a simple question: IF you remove email… how WRONG do you get?❓ 🤔 Pretty wrong. • Emails added meaningful, non-redundant signal in 85.4% of cases • Calls alone were sufficient  [...]  don't include email, you're not seeing the deal. You're looking at it through a peephole. 🙈
+
+7457060767415144448 | Amit Bendov | image | 324w
+    DISCLAIMER: I run a tech company. So take this with the grain of salt if you want :) But recent posts here reminded me, as someone who sees the "bills" every month, that many builders underestimate the cost by 5x-10x. Not the build cost. The own-it-for-a-while cost. Building is 10%. Running and supporting is the  [...]  with pride. When it's not, buy it. Feel free to modify this checklist. It's yours 😎
+
+7459950554555772928 | Amit Bendov | text | 223w
+    Last quarter Gong's growth rate accelerated to over 55%. $500M ARR is now in the rearview mirror. 💥 It was also our 10th straight quarter of accelerating growth. So what's driving it? • Boards are mandating AI-driven sales productivity • Companies are consolidating scattered point solutions onto Gong • The world's largest enterprises are deploying  [...]  and beyond! 🚀 Link to the blog post with more details in the first comment 👇
+
+7463181298669539328 | Amit Bendov | text | 4w
+    Highly recommend this session
+
+7468292051873488897 | Amit Bendov | text | 150w
+    Last week I called BS on the "AI jobs apocalypse." This week, with receipts. [Link to June issue of Gong Labs below 👇 ] At Gong we see millions of B2B sales conversations. Real deals, in real time, before the PR teams get their hands on it. So here's what's actually happening. Since 2024, deals  [...]  If you're using AI to shrink, you're optimizing the wrong number. Full research from Gong Labs:
+
+7472777004786917376 | Amit Bendov | text | 5w
+    Pretty cool to see! 🙏
+
+7473349304565366786 | Amit Bendov | image | 195w
+    Would you wear Dior to the gym? A couple of years ago, everyone asked the same question: "which model are you using?" That's not the question today. There are roughly three tiers now: 1. "The couture." The frontier models. For high-impact work and hard reasoning. 2. "Nordstrom Rack." Last year's designer, still a designer. Great  [...]  what's hard to acquire. Soon, picking a model by hand will be out of fashion :)
+
+7478070997137555456 | Amit Bendov | video | 210w
+    🚨 Big news today for Microsoft and Gong users🚨 Gong is now available on the Microsoft marketplace 🎉! It's a major step in how we are partnering with Microsoft, and a big unlock for revenue teams everywhere. Here are just some of the good news: ➡️ MCP support is live: Microsoft 365 Copilot can now  [...]  Charles Lamanna Yossi Shakui & team-- it's a pleasure working with you! 🙏 Read more: https://lnkd.in/dQAivPp7

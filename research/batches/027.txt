@@ -1,0 +1,169 @@
+# batch 027  -  55 posts  -  label per research/CLASSIFICATION-PROTOCOL.md
+# labels: problem exploration requirements selection validation consensus
+#         recruitment culture event product-news csr unclear
+# write research/labels/027.tsv as: <id><TAB><label>
+
+7494423174944542720 | Resend | link | 16w
+    What swag do you think we're giving away at Resend Forward? Wrong answers only. 👇 https://lnkd.in/gazDTH_J
+
+7495116516141473792 | Resend | video | 79w
+    We're thrilled to welcome Valentina Bearzotti to the stage at Resend Forward. Valentina is head of development at basement.studio and is the creator of xmcp, a TypeScript MCP framework that puts developer experience first. Valentina will be sharing a talk called, "The New Creative Advantage." She'll explore crafting software in an age of extreme velocity: ◼️ How to build a  [...]  of quality ◼️ How to train creative and technical judgment ◼️ How to scale taste without diluting it
+
+7495176643209007104 | Resend | image | 139w
+    We're hiring a Customer Success Engineer! As our user base continues to grow, we have increased demand across all time zones and days of the week. Join a team serving more than 4 million developers. Who should we hire? Tag them below 👇 In this role, you will... 🔸 Be the front-line of customer requests 🔸 Debug, report, and fix  [...]  we scale support 👇 https://lnkd.in/dkQDjf5p Our vision for exceptional support 👇 https://lnkd.in/dQ-Sv5n5 Have someone to recommend? Tag them.
+
+7495480703623536640 | Resend | video | 105w
+    Announcing Resend Forward, a conference for devs who obsess over their craft. October 21, 2026 | SFJazz, San Francisco Tickets are on sale today 👇 We're gathering industry leaders and attendees who are known for their attention to detail and dedication to the art of building software. We'll meet in a place dedicated to art. The building was designed by  [...]  to leave feeling more inspired to build than ever before. Get your ticket today before they're gone👇 https://lnkd.in/ecxJRTKc
+
+7495555639600111616 | Resend | image | 39w
+    Resend Forward is a conference for builders who care about crafting quality software. October 21st | San Francisco Who do you think should be there? Tag a friend to nominate them. We'll choose one to win a free ticket.
+
+7495841276966195200 | Resend | multi-image(2) | 148w
+    New API endpoint: cancel a Broadcast ▪️ trigger Broadcasts from the CLI ▪️ build a newsletter platform in-app ▪️ let clients build and send newsletters ▪️ enable agent-led marketing flows through MCP All broadcast features can now be done via API. When you cancel a Broadcast, status determines what happens: ▪️ scheduled -> draft: no emails are sent; update the  [...]  to bring the full functionality of the dashboard into the API. What do you want to see next?
+
+7495915418944114689 | Resend | image | 75w
+    We're excited to share that Laura Beatris is joining the Resend team as a Software Engineer. She's an engineer who loves building tools for developers. She previously worked at Clerk.com and WorkOS, shipping authentication products with an eye for developer experience. She's also given talks and podcasts about React, TypeScript, and learning in the open. Here's our favorite talk from her: The Future of Authentication in React Native. https://lnkd.in/e_H-7zWE Learn more about Laura 👇 https://lnkd.in/eafbMg56
+
+7496206611204571136 | Resend | video | 79w
+    In the next episode of our new series Builder Stories, Charm CEO and founder Christian Rocha shares how his team builds beloved OSS tools for the terminal and why they treat every library like a product. 0:00 – What Is Charm? 1:51 – Building CLIs for Agents 3:29 – Video Games as Inspiration 4:01 – Building Email Templates 6:11 –  [...]  an Email List 7:02 – Charmtone Design System 7:42 – Pop: Email From the Terminal Tune in: https://lnkd.in/eeTRQx3C
+
+7496283635243900928 | Resend | image | 181w
+    APRF is a new draft specification specification for mailbox reporting. Gives you reporting on: ▪️ Classification: where do mailbox providers place your emails? ▪️ Engagement: how do real users interact with your emails? Here's what you need to know 👇 Classification details whether your emails arrive in the inbox, the spam folder, or other inbox specific folders like the Promotions  [...]  how users engage with your emails directly from the mailbox provider is invaluable for understanding your domain reputation.
+
+7496571247644934144 | Resend | video | 35w
+    Have you seen the new schedule for Resend Forward? ▪️ Main stage ▪️ Builder room A whole day dedicated to the craft of high-quality software. Will you join us? October 21 | San Francisco https://lnkd.in/eUuCzE2x
+
+7496615736719818752 | Resend | image | 201w
+    Announcing OAuth Client ID Metadata Documents (CIMD) This new registration method: ▪️ gives clients a stable identity across installations ▪️ reduces per-install registration and cleanup ▪️ supports the new MCP specification CIMD simplifies building OAuth clients for Resend👇 With CIMD, the client hosts a metadata document that Resend fetches and validates the document during authorization, giving the client one stable  [...]  requirements. https://lnkd.in/ez4R5EGT CIMD gives public OAuth clients a stable identity without requiring a separate registration for every installation.
+
+7496639025513164800 | Resend | image | 20w
+    August 21 → September 21 → October 21 Just 2 months away! Reserve your ticket before they sell out. https://resend.com/forward
+
+7496926467134689280 | Resend | video | 95w
+    We paid designers so you don't have to. Free and OSS, email-ready, templates. One click away. Here's what else you can do 👇 Find any template at react.email, view the code, make it yours. Copy or download React, HTML, or Plain text. Want your agent to rebuild an email in your brand and voice? 1️⃣ Install our agent skills (see  [...]  brand. Our skills help your agent follow best practices for React Email. Try it yourself today 👇 react.email
+
+7497663605438537729 | Resend | image | 85w
+    Starting today, every free account can verify 3 domains. Any region. Free for everyone. What can you build with it? ▪️ More side projects ▪️ Separate sending subdomains ▪️ A real staging environment Add any domain from the Domains page in the Dashboard. Of course you can also add domains via the CLI, MCP, or API as well. The new  [...]  team. Your team's quotas are shared automatically across all domains. Read the full changelog for more 👇 https://lnkd.in/e68AMATk
+
+7497722870085844992 | Resend | video | 45w
+    It's easier than ever to make software, fast. Today, true artisans are differentiated on their craft. Resend Forward is for builders who still care. Those who: · Lose sleep over an abstraction · Tweak designs pixel-by-pixel · Spend time fixing things most will never notice
+
+7498035823162888192 | Resend | video | 275w
+    You may soon be able to verify email addresses directly in the browser. There's a new API proposal that could help verifying your users' email addresses without sending them away from your app to their inbox. The new proposal keeps the user in control while minimizing friction. 1. The user enter their email address into a form on your site.  [...]  to experiment with it as a progressive enhancement. Read the full blog post for more details 👇 https://lnkd.in/et4mcaC3
+
+7498122466301755392 | Resend | image | 137w
+    Resend is growing fast, with over 3 million developers now using the platform. We're looking for a Recruiter to help us source and hire bar-raising team members as we build Resend for scale. In this role, you will: ◼️ Build and source a talent community strategy that proactively attracts high-caliber talent ◼️ Orchestrate the full-cycle recruiting process ◼️ Continuously improve  [...]  Autonomy to "just ship it" ◼️ 100% remote team with flexible working schedules ◼️ Honest and low-ego team
+
+7498379079583277056 | Resend | video | 78w
+    Introducing the headless broadcast initiative. Build custom marketing experiences into your own dashboard. • Custom editor with React email • Full API, SDK, and MCP coverage • Customized to your brand Embed a customized email editor with a prompt. ▪️ built-in defaults ▪️ fully extensible ▪️ agent-ready https://react.email/editor And then build every Broadcast experience in your own app using the Resend API. https://lnkd.in/dw_mcw9Y We're ready for your agent: skills, MCP, CLI, and full SDKs. https://resend.com/agents Preview YouTube? https://lnkd.in/eR6-ZJwz
+
+7498420282018242561 | Resend | video | 73w
+    Announcing Vercel as a supporting sponsor of Resend Forward. They're building the autonomous stack for apps and agents. ▪️ Build agents on infrastructure that thinks like them ▪️ Ship apps that scale from zero to millions instantly ▪️ Host platforms that serve every customer We're looking forward to seeing how they add to the conversation around crafting intentional software that helps users. Will we see you this October? Claim your ticket here. https://resend.com/forward
+
+7498461546575069185 | Resend | multi-image(3) | 127w
+    Announcing the duplicate automation API endpoint. Previously, duplicating an Automation was only possible from the Dashboard. You can now duplicate from the dashboard, CLI, MCP, or API 👇 To duplicate an Automation, use the Automation's ID with the duplicate endpoint. https://lnkd.in/ewVHMwxx Pass the ID of an existing Automation and the API creates a copy: ▪️ the copy is named after  [...]  the API, CLI, and MCP, so you can build how you want. Read the full changelog 👇 https://lnkd.in/eXHVywqJ
+
+7498747120363978752 | Resend | video | 70w
+    Announcing Isabella Aquino and Phil Nash. Isabella and Phil will share a demo in our Builder room. ▪️ set up Resend from start to finish ▪️ how to get the most out of React Email ▪️ how to set up automations Perfect for those new to Resend or those wanting to get more out of it. Come connect with Isa, Phil, and the rest of the team this October. https://lnkd.in/esUrVMU3
+
+7498800773997273088 | Resend | video | 148w
+    Today we are releasing the new Email Metrics API. Get data about your emails and build: • custom dashboards • campaign reports • bounce alerts The new API endpoint is available at `/emails/metrics`. To request without parameters returns all metrics for the last 7 days. It includes three components for more control: ▪️ filters: restrict the time period ▪️ metrics:  [...]  your agent. View the docs: https://lnkd.in/eWFEQ29e Try the new Resend metrics API, available for all users starting today.
+
+7499107489326641152 | Resend | video | 157w
+    Share any email, viewable by anyone with the read-only link. Useful for those outside of your team, like when: ▪️ a client wanting confirmation an email was sent ▪️ a teammate without dashboard access needs to see an email ▪️ a support tool needs a quick preview 🙋 What you can build with it? ▪️ Support tooling ▪️ Customer-facing history  [...]  move to bring the full functionality of the dashboard into the API. Read the full changelog 👇 https://lnkd.in/ewJSRCqA
+
+7499164744562425856 | Resend | video | 72w
+    "If you're not grieving, you probably didn't love software development in the first place....And yet this is a moment of profound joy and curosity." In episode 5 of Building Forward, we discuss handcrafting a balanced, thought-provoking content schedule for Resend Forward. 👇 Listen to the full episode now https://lnkd.in/es_Xjpax Listen anywhere you can get podcasts. Spotify https://lnkd.in/e5tuyqQF YouTube https://lnkd.in/es_Xjpax Apple podcasts https://lnkd.in/eMGyrsFg Learn more about Resend Forward and get your ticket!👇 https://lnkd.in/evz_x4uH
+
+7500188364524941313 | Resend | video | 71w
+    We're thrilled to welcome Aileen Villanueva to the stage at Resend Forward. Aileen is a software engineer at Orama and is speaking on how she builds faster with agents while staying responsible for production code. In her talk, "My AI-driven development workflow," Aileen will cover: ▪️ the shift towards agent orchestration ▪️ moving to spec-driven development ▪️ practical habits for steering agents Come hang out with Aileen on October 21st! https://lnkd.in/e-fxrZuK
+
+7500250070773133313 | Resend | image | 82w
+    Today we're introducing PATCH /api-keys/:id to rename an API key in place. Token, permissions and domain restrictions stay the same. Use it to: ▪️ Provisioning workflows ▪️ Clean up naming conventions ▪️ Let users rename keys your app provisions Send the new name (up to 50 characters) with the ID of the key you want to rename. For security reasons,  [...]  the name. To change a key's permission or domain restriction, edit the key in the Resend Dashboard. https://lnkd.in/emUgZvuC
+
+7500558901675753473 | Resend | multi-image(3) | 121w
+    Support for single sign-on is here. Set it up and anyone with an email address on your organization's domain can log in to your Resend team through your identity provider, no invite required. Enabling SSO adds a new way for users to log in to your team. There are two optional settings: ▪️ Enforced: the IdP is the only way  [...]  gives you one place to manage who can access Resend, and one place to cut that off. https://lnkd.in/eMrhwZG4
+
+7500613556539744257 | Resend | video | 42w
+    We're honored to welcome Jonnie Hallman to the stage at Resend Forward. Jonnie is an independent design engineer. His work focuses on crafting thoughtful, intuitive, and delightful interactions for the web, with a devotion to process, transparency, and sharing what he learns.
+
+7500916506642284544 | Resend | video | 57w
+    We're excited to welcome Zeh Fernandes, Resend's Head of Design, to the stage at Resend Forward. Zeh's care for users shows up in everything he does. He's constantly raising the bar and helping us rethink the status quo. We can't wait to hear his thoughts on crafting user experiences. Come learn from Zeh at Resend Forward: https://lnkd.in/eNpK-pAa
+
+7500975889212583936 | Resend | image | 159w
+    We're looking for a Technical Account Executive. Founder-led sales have closed enterprise deals. We've brought in experienced GTM help to build early infrastructure and playbooks. Now we're looking for someone to test, expand, and iterate on our sales motion. In this role, you will: 🔸 Work high-intent inbound opportunities 🔸 Build on and improve existing playbooks 🔸 Run experiments to  [...]  🔸 Work directly with founders who are invested in building this function the right way 🔸 Team-oriented culture
+
+7501278918922969089 | Resend | video | 81w
+    Resend now checks every link and flags: ▪️ 404 broken links ▪️ missing or invalid URLs ▪️ Placeholder links ▪️ Anchor links Works on every Broadcast and Template 👇 A broken link is easy to miss in the editor and hard to take back once an email is sent. Click any issue to jump to it in the editor and  [...]  you send. What other custom components would you like us to add? Reach out and let us know!
+
+7501338279439486976 | Resend | image | 86w
+    Today, we're excited to share that Kiersti Esparza is joining the team as Deliverability Engineer. She's spent nearly 20 years building deliverability teams at Marketo, running consulting at Twilio, and most recently working in deliverability engineering at Klaviyo. Fun fact: if Kiersti wasn't helping deliver emails, she'd either be... ▪️ an unlicensed tour guide ▪️ a restaurant owner ▪️ using  [...]  as she puts it, "I have too many competing answers for this one." Learn more about Kiersti! https://lnkd.in/eCNt3A9M
+
+7501640639307083777 | Resend | video | 198w
+    Resend is Email for Developers. - email API, bulk email sends - receive inbound emails - marketing broadcasts - topics, segments, contacts - templates, automations, and more If you're just getting started, it can be a lot. So we made a quick start to guide you in <8 min 👇 1️⃣ Send transactional emails Modern, clean API design for single  [...]  free. - 3000 emails/mo - 1000 marketing contacts No credit card required. Be sending in 5 minutes. https://resend.com
+
+7501702024405827585 | Resend | video | 30w
+    We're partnering with Mux to bring one builder to San Francisco for Resend Forward. Enter by September 15th for a chance to win. Can't wait to see you there! https://lnkd.in/eshDgXTN
+
+7502727651984502785 | Resend | link | 18w
+    Labor day or Fable day, amirite? 😏 Give Fable the Resend MCP and then take the day. https://resend.com/mcp
+
+7502788298847731712 | Resend | image | 221w
+    🔥 Pro Tip 🔥 Gmail is tightening email requirements. It impacts those sending 5k> emails a day to Gmail servers. Since February 1, 2024, Gmail has "required" senders to follow new email sender guidelines. Now, after 2 years, they're starting to enforce it. Here's what you need to know 👇 1️⃣ SPF & DKIM authentication These two DNS records protect  [...]  POST requests. https://lnkd.in/eYeNnzxh 5️⃣ Use TLS connection You can configure enforced TLS for any domain in Resend. https://lnkd.in/eZYDjQsG
+
+7503088781072257024 | Resend | image | 40w
+    We've got some timely talks lined up for you in the Builder Room at Resend Forward. In this second track, you'll learn how to build faster with agents, leverage your curiosity to go farther, write better technical documents, and more.
+
+7503156119372996608 | Resend | video | 29w
+    Did you know? Resend has free wallpapers for you 👇 https://lnkd.in/dFjKPXft And if you're a Raycast user, there's an extension that will even let you auto-rotate the wallpapers. https://lnkd.in/dQM5EGUS
+
+7503451929038049280 | Resend | image | 80w
+    Who wants to win a giant swag pack from Resend and some of the sponsors of Resend Forward: Mux, WorkOS, Supabase, and Paper? 🙋 You might even win a ticket to Resend Forward or Supabase Select! Comment and repost to enter. We'll choose 5 winners. Mystery items may include: ◼️ Resend "send it" hat ◼️ Paper t-shirt ◼️ WorkOS enamel  [...]  Mux slap bracelet ◼️ Supabase phone stand ◼️ And much more Tell us why you should win 👇
+
+7503515819801305088 | Resend | video | 212w
+    Today, we're announcing a new integration with @vercel v0. Now, you can add email to your v0 project with Resend in just a few clicks. What's new: ◼️ Create a new Resend account directly from your v0 project ◼️ Resend API key is added to your v0 project's environment variables ◼️ DNS for Resend is automatically configured through v0 ◼️  [...]  started with Resend, and we can't wait to see what you do with it. Learn more 👇 https://lnkd.in/eHMyeqVn
+
+7503557417385848832 | Resend | image | 24w
+    Episode 3: The New World of AI Marketing, starring our friends at Profound Drops tomorrow. Subscribe to our YouTube to get notified 👇 https://lnkd.in/eKdfszqa
+
+7503815999662637057 | Resend | video | 71w
+    In the next episode of our new series Builder Stories, our friends at Profound share how marketing is changing in the age of AI. 0:00 — The rise of AI in Search 1:50 — Design as a Brand Moat 2:41 — How Profound Uses Resend 3:38 — Inside Profound University 4:52 — Email Logs and Debugging 6:07 — The Future of Email 6:57 — React Email and Tailwind Tune in: https://lnkd.in/eU2niU4z
+
+7503843797576085505 | Resend | video | 120w
+    Data is often better when it's visual. ▪️ Order receipts ▪️ Plan comparisons ▪️ Event schedules Today, we're introducing a Table component in the Resend editor. 👇 Type /table or pick Table from the component toolbar to insert a 3x3 table. Then change rows and columns, headers, alignment, style, and more. Cells can hold text, images, and variables. You can  [...]  the editor? Let us know how we can make the editor experience even better for you. 👇 https://lnkd.in/e6TDsw7Y
+
+7503885547652771840 | Resend | video | 67w
+    We're excited to hear from Eduarda Scharnhorst in just a few weeks at Resend Forward. Eduarda is a Senior Software Engineer at MongoDB. Her talk is called, "Writing Software Before You Build It." Eduarda will explore writing technical documents to structure your thinking, understand the problem, reduce ambiguity, and get buy-in for your solution. All of this before ever writing (or prompting) a single line of code.
+
+7504176735303696384 | Resend | video | 65w
+    "Devs love marketing more than any other demographic." In episode 6 of Building Forward, we're joined by Hank Taylor. He's spent 15 years marketing developer tools, at Laravel, Vercel, GitLab, and more, leading marketing, RevOps, and DevRel. Listen to the full episode now https://lnkd.in/eRm4dYjY Listen anywhere you can get podcasts. Spotify https://lnkd.in/eVGkew79 Apple podcasts https://lnkd.in/emGEKMcf Learn more about Resend Forward and get your ticket!👇 https://lnkd.in/evz_x4uH
+
+7504242718819213312 | Resend | image | 78w
+    We're excited to share that Julia Zettel is joining the team as a Video Producer. She grew up around TV sets and music venues and that naturally grew into a passion for telling stories visually. We've been lucky to be working with Julia on a few projects for a while now. You've already seen some of her production work in our series of Builder Stories, like this latest video with Profound. https://lnkd.in/ecXpWzr9 Learn more about Julia 👇 https://lnkd.in/eX4K9ddd
+
+7381398455971377152 | RightHand Robotics | link | 68w
+    We are excited to join our partners at Element Logic® on Thursday, November 13 at their new showroom in Carlstadt, NJ. E-operator and RightPick will be live in the AutoStore demo with eOperator, showcasing reliable and autonomous piece picking as part of a fully integrated warehouse automation workflow. Attendance is free, but registration is required: https://lnkd.in/eKeAct9C We hope to see you there! #ElementLogic #AutomationInnovation2025 #WarehouseAutomation #AutoStore #PiecePicking #RightHandRobotics
+
+7383971385515196416 | RightHand Robotics | image | 71w
+    Join us on November 5 at our Charlestown HQ for the RightHand Robotics Product and Workflow Showcase. We're opening our doors for an afternoon of product demos and innovation insights. It's a chance to see new workflows, network and get an exclusive sneak peek at what's coming at Rockwell Automation's Automation Fair later this month. Please register here: https://luma.com/aziqo0dm Space is limited and priority will be given to customers and partners
+
+7391176069502107650 | RightHand Robotics | image | 133w
+    We're excited for a packed November at RightHand Robotics. Our team will be out showcasing new workflows, partnerships, and the latest in autonomous piece-picking. Here's where you can find us: • November 5 Product and Workflow Showcase at our Charlestown HQ, an afternoon of demos, conversation, and networking with partners, customers, and friends. Register at: https://luma.com/aziqo0dm • November 13 Element  [...]  of collaboration, innovation, and connection. We can't wait to see you there. #WarehouseAutomation #Robotics #PiecePicking #AutomationFair #ElementLogic #RockwellAutomation
+
+7391452828814217216 | RightHand Robotics | text | 51w
+    Reliable automation in action. At GymBeam's facility in Košice, new robotic picking systems powered by RightPick and eOperator are helping orders move efficiently and accurately, day and night. Implemented together with Element Logic®, this collaboration shows how automation and partnership drive real results in fulfillment. #RightPick #eOperator #ElementLogic #PiecePicking #WarehouseAutomation #LogisticsInnovation
+
+7391478081166745600 | RightHand Robotics | multi-image(2) | 61w
+    Looks like our robots got in on the Halloween fun. At L&R DISTRIBUTORS, the team treats their RightPick systems like true co-workers, celebrating the season together. We love seeing our robots become part of the team and part of daily operations. Thank you to the L&R team for sharing your Halloween spirit. #RightHandRobotics #RightPick #PiecePicking #WarehouseAutomation #RoboticsInAction #CustomerSpotlight #WarehouseOperations #AutomationInAction #MaterialHandling
+
+7394758283770683392 | RightHand Robotics | video | 115w
+    “If I had to describe eOperator in one word, it would be simple.” At hummel that simplicity is the result of a powerful collaboration between Element Logic® and RightHand Robotics, Inc. Together, we're helping Hummel combine AutoStore™ efficiency with robotic piece-picking intelligence — through eOperator® powered by RightPick— to keep pace with the speed of fashion. Our goal is to  [...]  New Jersey today. Simple to deploy. Simple to scale. Simply effective. #WarehouseAutomation #IntelligentPicking #AutoStore #ElementLogic #RightHandRobotics #RightPickAI #eOperator
+
+7395107000487161856 | RightHand Robotics | text | 92w
+    Thank you to the Element Logic® team for inviting us to the Innovation and Automation Trade Show. The new Carlstadt showroom looks fantastic and it is a great space to experience the full workflow in action. We always appreciate the chance to show a live eOperator and RightPick demo. Seeing robotic piece picking running alongside a new AutoStore grid makes  [...]  located demo center to explore the benefits for their own automated fulfilment. #ElementLogic #RightHandRobotics #eOperator #AutoStore #WarehouseAutomation #PredictableFulfillment
+
+7395143484271198208 | RightHand Robotics | link | 135w
+    It's a busy November for the RightHand Robotics team — and for our customers gearing up for peak! After hosting an amazing open house at our Boston HQ last week, and joining Element Logic® at the Automation Innovation trade show in New Jersey this week, we're excited to keep the momentum going. Next stop: Rockwell Automation's Automation Fair in Chicago!  [...]  We hope to see you there! #AutomationFair #RockwellAutomation #RightHandRobotics #Robotics #Automation #WarehouseAutomation #Innovation #SupplyChain #PeakSeason #PiecePicking #MaterialHandling #LogisticsTech
+
+7421957946328301568 | RightHand Robotics | video | 82w
+    Great automation isn't about one machine. It's about how the whole workflow comes together. At L&R DISTRIBUTORS, RightPick works in sync with OPEX Corporation SureSort to create continuous, reliable induction into the sorter. We keep orders moving even through breaks, variability, and peak demand. In this video, Derek Nelson, General Manager at L&R, explains how coordinated automation: • Stabilized daily  [...]  strain • Minimized downtime • Decreased training time Watch the full story #AutomationInAction #RoboticPicking #WarehouseOfTheFuture #RightHandRobotics #OPEXSureSort #FulfillmentTech

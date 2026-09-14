@@ -1,0 +1,169 @@
+# person batch 011  -  55 posts  -  research/CLASSIFICATION-PROTOCOL.md
+# labels: problem exploration requirements selection validation consensus
+#         recruitment culture event product-news csr unclear
+# write research/labels_people/011.tsv as: <id><TAB><label>
+
+7478189013422514176 | Sridhar Ramaswamy | link | 77w
+    Building Neeva taught me things I couldn't have learned any other way about what it takes to compete against the biggest players in the world, about where AI was heading before most people were paying attention, and about the team you need to execute on hard problems. Those lessons are directly shaping what we're building  [...]  They're informing concrete choices about product, architecture, and focus. Grateful to EO for the conversation: https://lnkd.in/g6xAkaKM
+
+7481121030548185088 | Sridhar Ramaswamy | video | 93w
+    Enterprise AI is now far beyond giving "better answers." It's a faster path from information to action. When people can work with enterprise data and knowledge in natural language, and AI can help carry work across systems, entirely new ways of operating become possible. The biggest shift is that AI becomes part of how work  [...]  work is headed, and we're only beginning to see what's possible in the Agentic Enterprise 🚀
+
+7483638864079634435 | Sridhar Ramaswamy | text | 55w
+    Two years to LA28 and I could not be more excited. The Olympic and Paralympic Games show what is possible when the world comes together; and behind the scenes, that takes extraordinary collaboration. Proud that Snowflake is helping power the data collaboration behind this historic moment, from our work with Team USA to LA28. 🏅
+
+7487886287929221121 | Sridhar Ramaswamy | text | 24w
+    Cortex AI Gateway turns enterprise AI into a disciplined advantage. Unified governance, intelligent routing, and cost control across every agent and model you run.
+
+7491236127090192384 | Sridhar Ramaswamy | image | 114w
+    We created data-eng-bench with Bespoke Labs and we're open-sourcing it. There are plenty of model performance benchmarks for code generation. But for data engineering, the harness matters just as much as the model. So we built a benchmark that asks agents to build and fix real pipelines, then grades them on whether the output actually  [...]  combinations on real data engineering workflows. Run your own tests and share what you find. https://lnkd.in/eMsEpHHy
+
+7500270260965720064 | Sridhar Ramaswamy | text | 76w
+    I recently wrote about intelligence efficiency, or how effectively a company turns compute, models, data and context into business impact. Now, @Snowflake's AI Research team is showing what that looks like in practice with CoCo and CoWork. The key finding 👉 How an agent manages context and tool calls compounds across every session. Get that  [...]  on a better harness outperforms a larger one, at lower cost That's intelligence efficiency in action.
+
+7502490417024729088 | Sridhar Ramaswamy | link | 68w
+    Run agents. Not risks. AI agents are powerful because they can take action. But that also means permissions matter more than ever. Restricted Session Scope (RSS) gives Snowflake agents exactly the access they need to get the job done—and no more. It's a simple principle: give agents the freedom to act, without giving them the keys to everything. Use with Snowflake #coco to make your agents safer. https://lnkd.in/ggZNQMVh
+
+6377924936035504128 | Stephanie C. | text | 0w
+    
+
+6435594702011056128 | Stephanie C. | link | 83w
+    Our department at FedEx Corporate is hiring a Strategic Operations Technology Advisor to supports strategic operations technology initiatives by facilitating enterprise forums and planning and executing programs critical to the long term success of FedEx. These programs include development of new capabilities in advanced and emerging technologies space usually involving two or more FedEx operating  [...]  in various operating units. You can find more information on this position and apply here: https://lnkd.in/eCZfn6D
+
+6780590555371069440 | Stephanie C. | text | 44w
+    Advanced Technology & Innovation team at FedEx has multiple open positions and is looking for Data Scientist, Data Engineer and Technologists with experience in the areas of autonomous technologies, robotics, artificial intelligence, machine learning, as well as leveraging data to generate meaningful business insights.
+
+7112535170028601344 | Stephanie C. | text | 58w
+    Huge step forward in our automation journey! Congratulations to Dexterity and my FedEx Corporate Adv Tech and Innovation team for the strategic planning leading up to this milestone. Shout out to Steven Schwartzberg, Amanda Noe, John Barron, Zilong He, Nate LeMar and Donna Payne Harris! Special thanks to the BAYA Ops FedEx Ground for the collaboration and support!
+
+7425339387275603968 | Stephanie C. | link | 146w
+    🚀 Exciting innovation milestone! This week, we announced our collaboration with Berkshire Grey on a new robotic trailer unloading solution—a breakthrough several years in the making, driven by a team deeply committed to transforming the way our operations work. I'm incredibly proud that the Global Planning Engineering & Transformation Advanced Technology & Innovation team has  [...]  part of the journey. This is just the beginning. 💜📦🤖 #Innovation #PhysicalAI #Robotics #TechnologyLeadership #OperationsExcellence https://lnkd.in/eaRfaKA7
+
+7490039511679168513 | Stephanie C. | link | 143w
+    https://lnkd.in/gj7qwCgB Excited to share the next milestone in the FedEx and Dexterity journey! Since our initial collaboration announcement in 2023, the FedEx Global Planning, Engineering & Transformation - Advanced Technology & Innovation team has worked closely with Dexterity and partners across the business to evaluate, validate, and operationalize autonomous trailer loading. Today's announcement marks an  [...]  our network, team members, and customers. Looking forward to what's next. #FedEx #Innovation #PhysicalAI #Robotics #Automation
+
+7419413284539400192 | Steve Cox | text | 238w
+    Lately, I've been thinking a lot about my days in Customer Support. Even as CEO, that perspective still shapes how I see the business. Support gives you a very real view of how growth actually happens. You're there when something breaks. When expectations aren't met. When customers are frustrated, under pressure, and looking for answers.  [...]  still the best way I know to build trust, create value, and drive real growth. 🚀
+
+7422632145317179392 | Steve Cox | link | 84w
+    Had a great conversation with Barb Mosher Zinck for this piece in diginomica. The article digs into new Clari + Salesloft research on the growing tension between generations, and explores whether AI can help level the playing field. It's a timely look at how different expectations, habits, and tools are shaping modern sales teams. If  [...]  better together, it's worth a read: https://lnkd.in/eMFNzBBZ Thanks again to Diginomica, this was a fun one!
+
+7430256963277557760 | Steve Cox | link | 110w
+    Extremely proud to share that Clari + Salesloft has won a Gold The Stevie® Awards Award for Best Use of Technology in Sales! 🏆 This recognition reflects the shift happening across revenue organizations, as teams move toward more connected, accountable, and predictable operating models. By bringing together revenue intelligence and guided execution, we're building a  [...]  this journey and building this future with us every day. Read all about it here: https://lnkd.in/ecF8Qg3G
+
+7437548069275160577 | Steve Cox | link | 135w
+    $56 billion. That's what generational conflict is costing sales organizations every year. That's not a typo or a rounding error. Big thanks to Fast Company for bringing this research from Clari + Salesloft into the spotlight. This is exactly the conversation our industry needs. Boomers bring deep relationships, institutional knowledge, and hard-won pattern recognition. Gen  [...]  a revenue team right now, this is worth a read. Find the full piece here: https://lnkd.in/e66azrKP
+
+7440473454153277440 | Steve Cox | multi-image(2) | 199w
+    "Will it make the boat go faster?" At the recent Clari + Salesloft RKO, we heard from Ben Hunt-Davis MBE, Olympic gold medalist and author of the book by the same name. His team had one filter for every decision on their path to gold: "Will it make the boat go faster?" Simple. But not  [...]  separates good teams from great ones. Thank you, Ben Hunt-Davis MBE, for the perspective and inspiration.
+
+7445471059119620096 | Steve Cox | text | 60w
+    Excited to welcome Rick Hasselman as CFO of Clari + Salesloft. Rick brings a strong track record of building financial discipline and visibility that helps companies scale with intention. This is especially important as we continue bringing together two category leaders into one unified business. Looking forward to the impact he'll have across the company. Welcome to the team Rick!
+
+7452401985980370944 | Steve Cox | text | 195w
+    I'll be honest. I've been spending more of my free time deep in AI projects. For someone who talks about AI every day and runs a company built on intelligent automation, that caught up with me this week. I woke up Monday realizing I'd spent the entire weekend plugged in. Every spare moment. AI is  [...]  more valuable right now. If you're still reading books, I'd love recommendations. What's worth picking up?
+
+7457157936407130112 | Steve Cox | text | 154w
+    It turns out “take a proper lunch break” is more controversial than it should be. Last week's post struck a nerve. A lot of messages came in; some agreed, and others admitted it's something they've been meaning to fix for a while. The idea was simple: Set boundaries, protect time, and make sure people aren't  [...]  but the principle is bigger. If we want better outcomes, we have to design for them.
+
+7460334789531893761 | Steve Cox | image | 88w
+    Excited to welcome two key additions to the leadership team at Clari + Salesloft ! Brian Benfer joins us as CRO. Brian has scaled revenue organizations through acquisitions, global expansion, and high-growth environments. Rajesh Krishnaswami joins us as CTO. He's built enterprise AI platforms that operate at scale, delivering outcomes teams can trust. Together, they'll  [...]  action, and helping revenue teams move with confidence. Glad to have them both on the journey.
+
+7465410513582194688 | Steve Cox | image | 171w
+    Presidents Club in Costa Rica with an incredible group of people who earned every bit of it. There's a version of these trips that's purely celebratory, and this one absolutely was. But sitting with this team reminded me of something: the people on this trip didn't just hit a number. They achieved this in the  [...]  for every one of them. And I'm already looking forward to who joins us next year.
+
+7473010925424422913 | Steve Cox | video | 170w
+    Had a great time joining Sam Jacobs and Asad Zaman on the Topline podcast. We covered the narrative war between SaaS and AI-native companies, why value (not the AI label) is what actually wins long-term, and how we're building Clari + Salesloft into the world's first predictive revenue system. A few things I enjoyed digging  [...]  in revenue leadership or thinking about where GTM tech is headed, give it a listen. https://lnkd.in/eMBBw76Z
+
+7478087826748772353 | Steve Cox | multi-image(2) | 210w
+    We talk a lot in this industry about what AI can do. So we ran the numbers and looked at 12 weeks of usage across 40,000 sellers. The top 10% of Salesloft users generate 4x more pipeline and 8x more meetings than the bottom 10%. A gap that wide usually points to something more systemic  [...]  $1M per seller per year in pipeline already within reach. Read the full findings here: https://lnkd.in/enA9mpwf
+
+7485351243041923073 | Steve Cox | text | 218w
+    I got the AI summary from a call I had last week, and the first five minutes read like this: "The team discussed their love for Animal Kingdom, Outlast, Widow's Bay, and The Watcher." My first reaction was mild amusement. Five minutes of a business call, summarized and logged, spent on TV show recommendations. But  [...]  five minutes of TV talk; what it couldn't capture is what those five minutes made possible.
+
+7490093412486889472 | Steve Cox | image | 170w
+    I just got back from a week off for a well earned break and most importantly my oldest daughters wedding. . No calls, no meetings, no Slack, no all-hands. It was one of the first real breaks I've had in years. The most clarifying thing about it wasn't the rest. It was that nothing fell  [...]  this team. They gave me a week back, and I came home ready to earn it.
+
+7495174286354079745 | Steve Cox | text | 220w
+    Something one of my newer colleagues and I were talking about last week got me thinking. I don't know a single person who does only what their job title says. Not one. The best people I've worked with have always done far more than their description: they've filled gaps, learned things outside their lane, and  [...]  can actually do and the outcomes they drive. Not what it says on the org chart.
+
+7462163795461783552 | Steven Tey | text | 84w
+    Chatbase's journey to $10M ARR has been nothing short of remarkable: > solo founder, no investors > launched "PDF chatbot" MVP in 2023, goes viral > space became saturated, pivoted to AI support platform > ARR grew from $768K → $5M in <2 years > double down on SEO + content marketing + partnerships >  [...]  doubled ARR to $10M in ~15 months Honored to support their growth with Dub Partners: d.to/chatbase
+
+7462553426154102784 | Steven Tey | text | 56w
+    When we launched Partner Groups at Dub.co a few months ago, one of the most common feature requests we got was "what about Partner Tags?" Excited to finally ship this primitive today and unlock many more reporting/segmentation use cases for our customers 💪 Learn more about Partner Tags: d.to/tags Day 2 ✅ – see you tomorrow!
+
+7462909156610637824 | Steven Tey | text | 46w
+    You can now see how much you're spending on Dub.co – in real-time. This lets you identify which partners are driving the most ROI to your program, and double down on them long term. Learn more: d.to/commissions Day 3 ✅ super excited for tomorrow's launch 👀
+
+7463650662522961920 | Steven Tey | text | 50w
+    Since we launched Dub.co 9 months ago, our partners have driven $117M in revenue + earned $28M in commissions in the process 📈 Today, we're excited to launch the Dub Network Referral bonus: Refer other affiliates/creators and earn 50% of their payout fees for 12 months 💰 Learn more: d.to/network-referral
+
+7467245179536748544 | Steven Tey | video | 71w
+    Big news: We just crossed $20 million in payouts sent to partners on Dub.co 🥳 Earlier this year, we crossed $10 million in payouts sent. Today, just a little over 5 months later, we've doubled that – and we're just getting started 📈 Do you have a high-traffic site / newsletter / YouTube channel focusing on SaaS content? We'd love to have you join our network – sign up below 👇
+
+7468782758841176065 | Steven Tey | image | 72w
+    Life hack: Use Granola to take notes during your dentist appointment. I go to the dentist every 4-6 months and often struggle to remember all the jargon they say by the time I get home. Today I decided to turn on Granola (w/ consent ofc) and it was magical. Everything the hygienist + doctor said,  [...]  in simple bullet points, that I can easily share with my wife. 11/10 would recommend 💯
+
+7474880177206984704 | Steven Tey | text | 42w
+    As brands scale past 1K+ partners on Dub.co, it becomes trickier to stay on top of support & comms. Today, we're rolling out our native integration with Intercom/Fin to streamline this. Shoutout to our customers (Framer, Polymarket, etc.) for requesting this feature💪
+
+7478690889205207040 | Steven Tey | text | 111w
+    Postiz's growth journey has been nothing short of remarkable. > grew from $100K → $145K MRR in less than 2 months > adding $1K new net MRR per day > no investors/capital raised The secret sauce? 1. Nailing down positioning/messaging → "agentic social media scheduling tool" 2. Sell the outcome, not the tool → "how  [...]  Nevo David on the incredible growth – we're proud to support your growth with Dub 💪
+
+7481393644839563264 | Steven Tey | video | 62w
+    Good news: You now get 12x usage upfront with any yearly plan on Dub.co. E.g. with Business yearly, instead of 250K events/mo, you now get 3M events/year. This is helpful for users with fluctuating usage where you have slow months vs months with high usage – now you no longer need to upgrade & downgrade seasonally. Inspired by the 🐐 themselves Clay
+
+7488655596616065024 | Steven Tey | text | 44w
+    This might seem like a small change to Dub.co but it's lowkey a gamechanger for many reasons You can basically pass arbitrary metadata to /track/sale (or Stripe checkout/invoice) ...and Dub will automatically calculate the correct reward amount based on the rules you set 🤯
+
+7490619936252293120 | Steven Tey | image | 95w
+    My biggest takeaway from the whole Airtable-Bending Spoons acquisition: Don't raise more than you need. Airtable raised a total of $1.4B — $1.2B of which came during the 2020-21 ZIRP era. This skyrocketed their valuation to $11.7B, which proved to be too high to grow into. Remember: fundraising isn't free money. For every dollar you  [...]  maintaining a healthy growth rate. And this is becoming increasingly important in today's day and age.
+
+7493374419260596224 | Steven Tey | image | 51w
+    Today marks 1 year since we launched Dub Partners to the world. Since then: ✦ $25M paid out to partners on Dub.co ✦ >300% ARR growth + 12 straight months of profitability ✦ Powering partnerships for Framer, Beehiiv, Granola, Wispr Flow, Polymarket, and 500+ customers And we're just getting started 🚀
+
+7495895971931770880 | Steven Tey | text | 45w
+    Underrated: Open standards like Domain Connect. We integrated it into Dub.co and now our users can connect their custom domains in literally 6 seconds. ❌ Manually entering DNS records ✅ 1-click setup with Vercel / Cloudflare What are some of your other favorite open standards?
+
+7496757436859658240 | Steven Tey | text | 5w
+    Proudly powered by Dub.co 🥹💪
+
+7503844763402682369 | Steven Tey | text | 57w
+    Bending Spoons strikes again 🤯 Here's a list of their recent acquisitions (and their peak valuations): ✦ Miro – $1.36B (down from $17.5B) ✦ Airtable – $1.285B (down from $11.7B) ✦ Eventbrite – $500M (down from $3B) ✦ Vimeo – $1.45B (down from $8.5B) ✦ WeTransfer, Evernote, Meetup, AOL Which over-capitalized, growth-stalling SaaS will be next? 👀
+
+7220043063333724161 | Tarun Mehta | multi-image(5) | 161w
+    When we started Ather Energy, we built with the philosophy - Build for us! The idea was to build something we ourselves will use. So, we made efforts to build an electric scooter that offered a great riding experience to the rider. For years, we have been pushing our scooters to the limits, testing them  [...]  want confidently. Here are some pictures from the adventure, with more coming from different locations soon.
+
+7232616586296053760 | Tarun Mehta | multi-image(2) | 44w
+    Sri Lanka... Wheee are coming soon! We've been wanting to enter the market ever since we expanded to Nepal last year. These are pictures of our scooters at Independence Square, Colombo. Looks like it fits into the Sri Lankan landscape just right. Ather Energy
+
+7249683084617359360 | Tarun Mehta | text | 404w
+    Culture is not in the coffee/office decor; it's in the way people experience everyday work - Part 2 Finally, we just concluded the latest version - Culture conversation 4.0. This time the org is nearing 2000 people and almost predictably the feedback was the strongest this time after several years. Key concerns this time have  [...]  Watch this thread for an update on how things pan out next year. #WorkCulture Ather Energy
+
+7303305666507546625 | Tarun Mehta | multi-image(3) | 370w
+    At Ather Energy, we have a credo we live by - Think As A Species™ (TAAS). It's not just a tagline; it's how we operate. Building a great company isn't just about making great products - that is the easy part. The harder challenge is building a culture that creates a lasting impact. TAAS has  [...]  as we scale, we'll make sure this ethos stays at the core of everything we do.
+
+7325778942798286849 | Tarun Mehta | multi-image(4) | 171w
+    Over the last 11 years, each milestone felt like the most critical moment ever because it truly was at the time. But today, we pause and realise: the road ahead is even bigger. An IPO isn't just a celebration. It is a test. Of your business, your team, your vision. It demands proof of what's  [...]  our shareholders over the years in helping us get here. Exciting Times Ahead! #WheeeRangTheBell Ather Energy
+
+7340003200957038592 | Tarun Mehta | text | 7w
+    All the best Naren, Vinay and Shivika!
+
+7409120637300092929 | Tarun Mehta | text | 233w
+    Thanks for the shoutout Shweta Rajpal Kohli. EVs are a critical industry for India, more so EV scooters and motorcycles where India today is at the cutting edge in terms of technology and product. In these segments Indian products are some of the most reliable, most innovative and fastest evolving. Look at the work happening  [...]  reform of policies like this that will be the bellwether for how successful we will be.
+
+7424069097350606848 | Tarun Mehta | text | 109w
+    Making long routes predictable has been a big part of how we've built Ather Grid. As the network has grown past 5,000 chargers, city density has improved naturally with adoption. Alongside this, we've been equally intentional about extending charging beyond city limits. Especially on highways and intercity routes, where gaps show up quickly and shape  [...]  Agra, and more. Sharing a few of these routes from the network dashboards below. Ather Energy
+
+7439174812440104960 | Tarun Mehta | text | 66w
+    If India wants to build a globally competitive EV ecosystem, it is imperative that policies like the Auto PLI evolve to include startups. The recommendations by the Standing Committee are a step in the right direction. Several Indian EV startups are already building cutting-edge technology and investing deeply in R&D. A more inclusive framework will help unlock innovation, indigenous IP creation, and advanced manufacturing from India.
+
+7456252180203868161 | Tarun Mehta | text | 65w
+    Shweta Rajpal Kohli highlights another important point. The current version of automotive PLI has a section for startups, except that it insists that they should be startups with no revenue and no prior experience. It literally is eliminating every single startup that is trying to push the EV agenda forward! The intent is very clearly there. The policy needs an overhaul to achieve its vision.
+
+7465008538986176512 | Tarun Mehta | text | 17w
+    Was a pleasure working with the HSBC team on what was an epic journey of the IPO!
+
+7478261619043639296 | Tarun Mehta | text | 33w
+    oh and in addition to all of it, debate furiously with all and be part of the possibly the most kick ass creative teams in our industry! come join us - roles open!

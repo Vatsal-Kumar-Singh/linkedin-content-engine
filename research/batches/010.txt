@@ -1,0 +1,169 @@
+# batch 010  -  55 posts  -  label per research/CLASSIFICATION-PROTOCOL.md
+# labels: problem exploration requirements selection validation consensus
+#         recruitment culture event product-news csr unclear
+# write research/labels/010.tsv as: <id><TAB><label>
+
+7475932434757275650 | Clari | image | 105w
+    Our World Cup bracket window opens in two days! Have you signed up yet? Once it's live, you'll have until Sunday, June 28th at 3:00 p.m. ET to lock in your picks before the Round of 32 kicks off. Here's what's on the line: - 1st place: $750 gift card - 2nd place: $500 gift card - 3rd place: $250  [...]  scrambling. Head to The Ultimate Predictive Revenue Cup user group now to get your entry instructions ready. https://lnkd.in/gDsBmYfb
+
+7476264861988179968 | Clari | image | 53w
+    ✨ A hot new sales tool has entered the tech stack ✨ But are you even using your existing software to its fullest? Instead of always chasing the shiny new thing, there's one system we know where you can create, convert, and close every lead. No need to learn yet another new tool.
+
+7476846859689336832 | Clari | image | 95w
+    It's the final countdown! The window for our World Cup Bracket Challenge closes at 3:00 p.m. ET. If you haven't locked in your picks for The Ultimate Predictive Revenue Cup — stop what you're doing and go do it now. The Round of 32 kicks off today. Once the first match starts, the window is gone. $750. $500. $250. Up  [...]  and submit your bracket before the 3:00 p.m. ET deadline. This is it. Last chance. Go ⚽ https://lnkd.in/gDsBmYfb
+
+7481039118500524032 | Clari | image | 98w
+    Claude today. Every major AI platform by the end of the summer. Salesloft's revenue intelligence will soon be available within *every* major AI platform. You can now find Salesloft in Claude's connector directory. No custom setup needed. Plus, the team is rolling out an MCP expansion throughout the summer, bringing live revenue execution and forecasting intelligence to ChatGPT, Microsoft Copilot,  [...]  have MCP access to Clari Copilot call intelligence, including topics and keywords. Read the full press release: https://lnkd.in/gaHThFEW
+
+7482786988648058880 | Clari | image | 129w
+    What's the point of Conversation Intelligence if no one acts on it? The insights are there: What your buyers say, how they say it, what's changed mid-deal. All of it recorded, transcribed, summarized. But its true capacity stays hidden in a tab nobody opens. Today that changes. Clari + Salesloft just launched Salesloft Conversation Intelligence, and it's not another tab  [...]  connected to the deal it impacts and the action it triggers. In one system. See for yourself: https://lnkd.in/gVzt9JPG
+
+7483263468016533504 | Clari | image | 98w
+    Clari + Salesloft now work even more seamlessly with your tech stack thanks to Glean sales connectors. The Salesloft Conversation Intelligence connector extends access to revenue and deal intelligence, making that context directly available in your team's workflows. "Sellers shouldn't have to hunt across systems to understand a deal," says Kylie Ana Fuentes, Chief Product Officer at Clari + Salesloft.  [...]  time piecing together the picture and more time moving opportunities forward." Learn more about Glean's connector ecosystem: https://lnkd.in/giFG7282
+
+7485325454510280705 | Clari | image | 107w
+    The final whistle has blown. The bracket has spoken. And we have our champions. Congratulations to the winners of The Ultimate Predictive Revenue Cup: 1st place — $750: Joseph Mello from Databricks 2nd place — $500: Sandro Jeladze from London Stock Exchange Group 3rd place — $250: Matthew Page from HiBob You called it from the Group stage and never  [...]  the absolutely unhinged bracket picks…we loved every minute of it! We'll see you on the pitch again soon!
+
+7485692859996655616 | Clari | link | 144w
+    There are three ways to think about conversation intelligence. Most teams are stuck at level one without realizing it. Level one is CI as a deal aid. > You record the call, someone reviews it, maybe there's a coaching note. Useful, but isolated. Level two is CI as a forecast input. > Conversation signals start informing whether deals are on  [...]  seen it, reviewing transcripts and hoping someone does something with them is hard to go back to. https://lnkd.in/g5ez5fZJ
+
+7487851608593178624 | Clari | image | 100w
+    Reps assume big deals take forever to close. Not always the case. Well, we analyzed 10 million deals and found that deals worth $500K+ take only 15 days longer to close than those valued at $50-$100K. This means prioritizing larger deals can boost your revenue without taking much more of your time. Automating account research can tell you which bigger  [...]  you can make to turn your reps into rainmakers. Download the full guide to see them all: https://lnkd.in/gHnRR4NZ
+
+7491128198940848128 | Clari | image | 142w
+    Big news at Salesloft today! We are thrilled to officially welcome Catherine Cambridge to the team as our new General Counsel. 🎉 As we build the future of AI-driven revenue technology, Catie will lead our global legal, regulatory, and compliance strategies. Catie brings over a decade of experience building and leading legal teams across the tech industry to her role  [...]  advancing our legal strategy and enabling the business to move fast with confidence. Welcome to the team, Catie!
+
+7500908747545047040 | Clari | image | 40w
+    Clari + Salesloft are officially uniting under the Salesloft brand. The era of fragmented revenue technology is coming to an end, and we intend to define what comes next. Now, you have one system that connects selling and forecasting end-to-end.
+
+7462470491237191680 | Cognism | image | 140w
+    Tout le monde parle d'IA, mais combien d'entreprises en tirent réellement des résultats ? La vérité, c'est que l'IA n'est pas une solution miracle. C'est un amplificateur. Si votre machine commerciale est bien structurée, l'IA peut devenir un véritable levier de croissance. Si vos fondamentaux sont fragiles, elle amplifie surtout les inefficacités. Dans ce nouvel épisode du podcast Prospect, Laetitia  [...]  Directeurs Commerciaux et RevOps qui veulent faire de l'IA un levier de croissance. Le lien est en commentaire.
+
+7463154037312483328 | Cognism | video | 60w
+    "Relationships can't be automated away" That was the key theme raised on our webinar hosted earlier this week, which explored the tangible impacts of more frequent leadership movements, AI and prospecting efficiency. Huge thanks to Adina L Apachitei from AVEVA for sharing your insights alongside our CRO, Chris Evans and Product Director, John Herbert. See the full recording here: https://lnkd.in/gmYPmcfD
+
+7463540004464779264 | Cognism | video | 59w
+    This week Jeff Ignacio unpacks the realities of using AI to optimise RevOps work streams. Recorded after closing out the RevOps AF Conference, this week's podcast dives into Jeff's keynote and takes a practical look at how AI is reshaping pipeline management, coaching, forecasting, win-loss analysis, and the role of the modern RevOps operator. Full audio episode here: https://lnkd.in/evtYTd9e
+
+7465423272957104128 | Cognism | text | 61w
+    When we launched our brand hero campaign, the film was designed to communicate something we believe strongly: in B2B, more data doesn't automatically lead to better decisions. The challenge was turning that idea into something people could feel tangibly and in human terms. This behind-the-scenes view gives a glimpse into how the strategy came to life. Huge thanks to everyone involved.
+
+7466074622933827584 | Cognism | image | 58w
+    On this week's Sales Signals podcast, Conran Design Group's Naomi Wallis joins Shivan Pillay to explore how modern business development needs to blends signal-led selling with thoughtful human outreach. From tracking engagement on long sales cycles to managing false intent signals, this episode look at how to build genuine prospect relationships that convert. Full video episode here: https://lnkd.in/eH9KBKn2
+
+7468248479828426752 | Cognism | video | 115w
+    One of the most surprising findings from our latest research wasn't about AI, budgets, or buying intent. It was how quickly leadership turnover makes CRM data obsolete. Across the UK, France, and Germany, the average CMO now spends less than 29 months in role. CROs average around 31 months. Even CEOs average under four years. The result? Half of a  [...]  if the person has moved roles, changed responsibilities, or left the business entirely. For the full report: https://lnkd.in/eAcu2PZ3
+
+7468570730117443585 | Cognism | text | 52w
+    Seems like our HQ drifted from London to Edinburgh...but still very happy to featured and celebrated amongst such an amazing group of European companies! Built for Europe, in Europe makes a difference to our customers - understanding that Europe isn't a single market but a mosaic of cultures, languages, regulations and expectations.
+
+7470739663318663168 | Cognism | image | 67w
+    Meet James Bradbury 👋 We're excited to welcome James to Cognism as VP Performance Marketing. James brings 15+ years of experience leading demand generation, digital strategy, marketing operations and growth across companies including Aiven, AWS and Sony. At Cognism, he'll focus on improving the connection between marketing activity, pipeline quality and revenue impact, working closely with our agencies and our Sales team. Welcome to the team, James!
+
+7472201603752824832 | Cognism | video | 51w
+    🎙️ "Quelqu'un qui n'est pas performant, ce n'est pas forcément quelqu'un qui n'a pas envie de l'être." Dans cet extrait, Laetitia FALL et Margaux HERVE reviennent sur un sujet sensible mais essentiel : le rôle du manager face à la sous-performance. Une réflexion qui dépasse largement le cadre des équipes commerciales.
+
+7472636265050480640 | Cognism | link | 105w
+    New from our CEO, Dominic Allon in UKTN: What can politics learn from the Growth CEO playbook? Drawing on his experience taking over from founders at Pipedrive and Cognism, Dominic explores what it takes to lead through transition — from listening tours and quick decision-making, to building alignment, creating a unifying vision and acting with clarity. At Cognism, our values  [...]  apply to any leader inheriting a complex organisation and trying to take it into its next phase. https://lnkd.in/eG9ap9rv
+
+7474776493328572416 | Cognism | text | 61w
+    Most B2B data strategies aren't really strategies. Often, they'll look like a CRM nobody can trust, a data vendor nobody actually uses, and a RevOps team that's slightly losing the will to live. Learn what an actual B2B data strategy for scalable GTM growth can look like – and 15 things your team can action this week. #B2Bdata #intentdata #pipelinegeneration #revops
+
+7478814862933139457 | Cognism | video | 85w
+    What a way to end a sunny week! Yesterday we had Cognism Sports Day in the gorgeous surroundings of Regents Park – or some might call it the Cognism Olympics ⚾ 🥇 🏏 An afternoon of mild nostalgia and grown adults rediscovering that the three-legged race is much harder than it looks. Tug of war also got surprisingly competitive for  [...]  Prentice for organising it, and to everyone who took part (with varying levels of grace!) #lifeatcognism #teambuilding #sportsday
+
+7480229156929179648 | Cognism | text | 171w
+    Europe's buying landscape is moving quickly, but CRM data has a habit of sitting very still. Over the past year, 5.22% of VP+ leaders across Europe changed roles. And around 30% of C-suite records become inaccurate within 12 months. On paper, those numbers might not look dramatic, but inside a CRM, they add up quickly. A few stale contacts become  [...]  make the biggest difference. Link to the calculator and full article in the comments. #fluentindata #dataquality #CRMdata #datadecay
+
+7480923178131718144 | Cognism | text | 100w
+    Quick question: how much of your CRM would you trust if your next quarter depended on it? Leadership roles have a habit of playing musical chairs. 50% of a company's C-suite CRM data will be inaccurate within 2 years. The concerning part? Many executives move on faster than the CRM records tracking them. So by the time you've built the  [...]  quick reality check on how fast buyer data really goes stale. #CRM #dataquality #RevOps #SalesOps #B2Bdata #salesintelligence #gotomarket
+
+7482737882676400128 | Cognism | video | 78w
+    We asked Benjamin Dyson, our Revenue Operations Manager, why CRM health actually matters. And he didn't sugarcoat anything. With 1 in 3 contacts changing each year, the CRM data you think is fine probably isn't. Watch him break down what "healthy CRM data" really looks like, and what it's costing your Ops, Marketing and Sales teams when it isn't. Keen to learn more about how Cognism CRM Enrichment can help? Head to the comments. #b2bdata #CRM #revops #GTM
+
+7483474476341542912 | Cognism | text | 163w
+    Most CRM audits end in a spreadsheet nobody opens again. So we've put together this step-by-step guide that gives you a handy to-do list by the end. 1. Pick one high-value segment – not the whole CRM 2. Check completeness on the fields that matter (email, phone, job title, seniority) 3. Check freshness – because complete doesn't always mean current  [...]  maintain data that's always ready to act on? Check out our article in the comments. #CRM #B2Bcontactdata #dataenrichment
+
+7485241447336714240 | Cognism | link | 108w
+    We've seen plenty of teams invest in more data. But far fewer invest in keeping the data they already have accurate. GTM motions are increasingly recognising the need for trusted CRM data. Lead routing, segmentation, forecasting, territory planning, AI outputs – they all rely on what's sitting in your CRM today. On Thursday, 30 July, John Herbert, Benjamin Dyson and  [...]  health is on your radar, we'd love to have you join us. Register via the link here: https://lnkd.in/ed6CvWCD
+
+7485693154487222274 | Cognism | video | 169w
+    The reason most presentations and sales pitches miss the mark is surprisingly simple. They're built around what the presenter wants to say, rather than what the audience wants to hear. In the latest (and Shiv's final) episode of Sales Signals, Shiv sits down with Dr. Alexander McWilliam, founder of Improv4Business, to unpack why the best speakers think less like performers  [...]  episode is live now. Find the links to your favourite platforms in the comments. #communicationskills #salestraining #improv #presentationskills
+
+7485983318195339264 | Cognism | image | 81w
+    One week to go! We're bringing together a great panel for this webinar to talk about something that doesn't always get the spotlight it deserves: CRM data health. Ross Arnfield, John Herbert and Benjamin Dyson will be sharing practical insights into its operational impact, how it affects inbound and outbound motions, and the ripple effects on any AI-driven or automated  [...]  Hope to see you there! 🔗 Link to sign up in the comments below. #CRM #dataquality #RevOps #GTM
+
+7487827256724217857 | Cognism | video | 71w
+    Having twice as much data doesn't help if half of it is stale. CRM enrichment is often framed as a data project, but its impact is felt across your entire GTM motion: better routing, segmentation, forecasting and decisions. Join Ross Arnfield, John Herbert and Benjamin Dyson this Thursday as they discuss why CRM health is becoming such an important topic for modern GTM teams. Register here ➡️ https://lnkd.in/ed6CvWCD #Gotomarket #RevenueOperations #B2Bmarketing
+
+7488535831805231104 | Cognism | text | 98w
+    One of the best parts of working in B2B is getting people away from their screens. Last night, we hosted a small group of revenue leaders from Pleo, Anthropic, CrowdStrike, S&P Global, The Economist and Adobe at #TheHundred Cricket. There was a roof terrace full of like-minded people. There was a live chef's station. There may have been some questionable  [...]  hope you enjoyed it as much as we did. A brilliant evening all round 🏏 #KiaOval #gotomarket #revenueleadership
+
+7490339627380314113 | Cognism | video | 67w
+    "Enrichment" usually means one of two things: a slow, expensive cleanup project, or a bulk overwrite that steamrolls the records you'd already got right. CRM Enrichment is neither. Define the ICP, enrich on demand, on a schedule, or in real time the moment a lead lands. And every update stays controlled and auditable. David Roberts, Product Marketing Manager at Cognism, shows exactly how. #CRMEnrichment #RevOps #dataquality #B2Bdata
+
+7491052919635550208 | Cognism | video | 90w
+    Can a rep really trust their quota if they don't trust the list it's built on? That's a question we dug into last week with Ross Arnfield and Benjamin Dyson during our webinar: "Why CRM health is a strategic advantage". Ross, VP Sales Development at Cognism, broke it down well: a territory built on inaccurate data creates two costs. The  [...]  Fix the data, and both costs disappear. Thanks again to everyone who joined us. #territoryplanning #RevOps #CRMhealth #B2Bdata
+
+7492879598381166592 | Cognism | video | 68w
+    Confidence in your data becomes confidence in your decisions. Benjamin Dyson, Sales Operations Manager at Cognism, reiterated that in our webinar, 'Why CRM health is a strategic advantage'. Once the data is accurate, the argument about whether a result is a data problem disappears, and the conversation moves straight to performance and process. Watch the full webinar via the link in the comments 👇 #dataaccuracy #SalesOps #CRM #fluentindata
+
+7493581501163495425 | Cognism | text | 90w
+    Most CRM breakdowns stem from how data gets captured – a structural gap that manual clean-ups can't solve. Swipe through to learn the actual reasons your CRM keeps filling up with outdated contact data ⬇️ Then ask yourself: how much revenue is that putting at risk? Our ROI Calculator helps you estimate the impact of CRM decay in just 5  [...]  for your GTM team. Give it a try via the link in the comments. #b2bdata #contactdata #CRM #datadecay
+
+7495030354261643264 | Cognism | image | 120w
+    Last week, we put our SDRs up against Mimecast's on the phones. The morning was spent comparing notes on what's working right now. The afternoon was spent putting it into practice with a focused calling sprint, using Cognism's phone-verified data to reach the right people at the right time. Sam Steele was on a roll, booking meeting after meeting. As  [...]  what Cognism's B2B data can do for your own prospecting? Link in the comments. #coldcalling #revenueteams #dataquality #fluentindata
+
+7495766262036496384 | Cognism | video | 58w
+    High-performing GTM teams tend to share one thing: every function trusts the same data, at the same time. James Bradbury, VP Performance Marketing at Cognism, discusses why alignment starts with a shared source of truth, not simply a shared spreadsheet – and what that actually looks like day to day for Marketing, Sales and RevOps. #GTM #dataquality #fluentindata
+
+7497932595834421249 | Cognism | text | 68w
+    Many GTM performance issues end up diagnosed as budget or lead volume problems. James Bradbury, VP Performance Marketing at Cognism, makes a point in the latest article he wrote: the real cause is usually fragmentation – for instance, marketing, SDRs, and RevOps all working from different definitions of the ICP and what 'sales-ready' means. Swipe through for the breakdown. Full article in the comments. #GTM #RevOps #B2Bdata #fluentindata
+
+7498348777913630720 | Cognism | text | 25w
+    We're #hiring a new Staff Software Engineer – DaaS / APIs / MCP in Warsaw, Mazowieckie. Apply today or share this post with your network.
+
+7498656844505284608 | Cognism | text | 135w
+    Can your vendor tell a "Vertriebsleiter" from a "Sales Director"? If not, your German data might be costing you more than it's worth. Our Mid-Market AE Audley Cruttenden sees this a lot: he says teams get fixated on coverage and forget to check quality. Coverage on its own doesn't mean much if the data behind it isn't accurate. George Nicole,  [...]  compliant'." Swipe through for the six things to check before you choose a data provider. #EMEAdata #B2Bdataquality #GDPRcompliance
+
+7498713428803411968 | Cognism | text | 24w
+    We're #hiring a new Senior Platform Engineer / Site Reliability Engineer (SRE) in Warsaw, Mazowieckie. Apply today or share this post with your network.
+
+7499075820687204352 | Cognism | text | 19w
+    We're #hiring a new Chief of Staff in Warsaw, Mazowieckie. Apply today or share this post with your network.
+
+7499433371656343552 | Cognism | text | 20w
+    We're #hiring a new Senior Deal Desk Analyst in London, England. Apply today or share this post with your network.
+
+7499789880043065344 | Cognism | text | 23w
+    We're #hiring a new Senior Software Engineer – Integrations & Enrich in Warsaw, Mazowieckie. Apply today or share this post with your network.
+
+7500155984301072385 | Cognism | text | 21w
+    We're #hiring a new Director, Security Engineering & Operations in Warsaw, Mazowieckie. Apply today or share this post with your network.
+
+7500517374798827520 | Cognism | text | 18w
+    We're #hiring a new MLOps Engineer in Warsaw, Mazowieckie. Apply today or share this post with your network.
+
+7500843077566111745 | Cognism | text | 72w
+    It's just shy of five months since we introduced our new brand platform: fluent in data. But what does fluent in data mean in practice? Here are 12 specific, checkable things we actually do: from how we handle GDPR to why every person in our database gets notified that they're in it. Swipe through and see how many hold up to your own checklist for a B2B data provider. #fluentindata #B2Bdata #dataquality
+
+7500880070274867200 | Cognism | text | 20w
+    We're #hiring a new Senior Manager, Solutions Consulting in London, England. Apply today or share this post with your network.
+
+7501206922994540544 | Cognism | image | 104w
+    Ever had two people look at the same report and somehow walk away with two completely different takes on what it means? Usually, it boils down to nobody ever quite agreeing on what 'clean' meant for that data point before it was used. And if you're selling into Europe, GDPR adds another layer: if you can't say exactly where the  [...]  consent checks afterwards – they're working from data that was trustworthy from day one. #dataquality #revops #GDPR #fluentindata
+
+7501239802416222208 | Cognism | text | 18w
+    We're #hiring a new Office Manager in London, England. Apply today or share this post with your network.
+
+7501607732806860801 | Cognism | text | 20w
+    We're #hiring a new Senior Deal Desk Analyst in London, England. Apply today or share this post with your network.
+
+7501963954978562048 | Cognism | text | 20w
+    We're #hiring a new Senior Manager, Solutions Consulting in London, England. Apply today or share this post with your network.
+
+7502326923751235584 | Cognism | text | 21w
+    We're #hiring a new IT Support Specialist - Onboarding in London, England. Apply today or share this post with your network.
+
+7502687378034118658 | Cognism | text | 22w
+    We're #hiring a new Customer Success: Training Specialist (German Speaking) in London, England. Apply today or share this post with your network.

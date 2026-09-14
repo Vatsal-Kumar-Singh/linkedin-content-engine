@@ -1,0 +1,214 @@
+# batch 011  -  70 posts  -  label per research/CLASSIFICATION-PROTOCOL.md
+# labels: problem exploration requirements selection validation consensus
+#         recruitment culture event product-news csr unclear
+# write research/labels/r2_011.tsv as: <id><TAB><label>
+
+7498448728819720194 | Procore | multi-image(11) | 37w
+    Building the future, one tail wag at a time. 🐾🔨 Hard hats off to the real MVPs this #NationalDogDay, the extended Procore pup crew! Drop a photo of your own hard-working pup in the comments below! 👇🐶
+
+7498816451705864192 | Procore | video | 14w
+    Who knew alcohol helped to find a flat line on a job site? 🤨🍻
+
+7499501172857192448 | Procore | link | 63w
+    Catching a rebar clash before the concrete truck arrives? That's real-time visibility. 🚚🧱⚡️ The team at Fessler & Bowman handles massive turnkey concrete and civil builds across the US. But when you're pouring concrete on compressed schedules, waiting weeks for accounting to tell you if a job was profitable is a huge risk. Learn how real-time unit tracking protected their bottom line: https://lnkd.in/eARR4Xyn
+
+7500214154918666241 | Procore | video | 9w
+    Safe to say we're looking forward to Fall. 🫠
+
+7500314556557320192 | Procore | video | 27w
+    Say goodbye to construction delays and endless paperwork! 🏗️⚡ Ken Blaise is here to break it all down for you with our Procore AI RFI Agent. #ProcoreAI
+
+7501036349332865024 | Procore | text | 13w
+    Get ready... We're launching The Walkthrough on September 9. 🤩 Here's why 👇
+
+7501701779026460690 | Procore | video | 28w
+    We love connecting with our customers and hearing what they have to say about the construction industry. 🧡 🚧 What do you love most about working in construction?
+
+7502034353305059328 | Procore | link | 71w
+    10 to 12 new store openings a year. Small footprints. ZERO room for construction delays. 🛍️ If you've ever walked into a Studs location, you know the vibe is everything. But behind those sleek, modern piercing studios is an intense 8-to-10-week build sprint. ⏱️ Before standardizing their builds, the team was dealing with scattered project files and chaotic store turnovers. Discover how Studs turned store openings into a repeatable science: https://lnkd.in/eaQbeSwa
+
+7503497076190793728 | Procore | video | 105w
+    It's official: DroneDeploy is now part of Procore! Today, we officially closed our acquisition of a leading robotics and visual intelligence platform for construction. By pairing DroneDeploy's 3D reality capture with Procore AI, we're transforming construction from a system of record and collaboration into a system of intelligence. From ground robots to fixed cameras, we're giving digital coworkers the ability  [...]  excited to build what's next, together. 🧡 Read more from our CEO, Ajei Gopal: https://lnkd.in/ebgwE3nM #Procore #DroneDeploy #AI
+
+7503984741407256576 | Procore | video | 22w
+    Love 'em or hate 'em, they actually have some pretty good reminders... even if they drive you crazy while doing it. 😅
+
+7504585666278846464 | Procore | link | 49w
+    Big growth is great. Operational chaos? Not so much. 📈❌ Carroll Daniel Construction has been delivering top-tier builds for decades. But as their project portfolio skyrocketed, keeping field teams, project managers, and accounting on the same page required a serious upgrade. Read more about how they are transforming: https://lnkd.in/enfsWb5Y
+
+7483612977317892096 | project44 | image | 106w
+    Most enterprise retailers know exactly what happens between purchase order and warehouse. The gap starts after the package leaves. project44 is now available in the SAP Store, bringing last-mile visibility directly into the SAP ecosystem. That means: • Every shipment tracked, regardless of carrier or mode • Proactive alerts sent to customers before they ask "where's my order?" • Carrier  [...]  typically delays deploying post-purchase visibility. The solution is connected and ready. Find us in the SAP Store: https://vist.ly/5bh8a
+
+7483975490530328576 | project44 | video | 80w
+    Most disruptions spike, then fade. This one didn't. You'd expect the heaviest rerouting in week one or two. Hormuz peaked in week four, with more than 9,500 weekly diversions, and week five came in second highest. The cause was constant uncertainty in the region, which kept carriers guessing instead of committing. Eric Fullerton, VP of Data Insights at project44, joined  [...]  Editor-in-Chief of Supply Chain Management Review, to explain why this disruption looked like nothing we've mapped before: https://vist.ly/5bmcm
+
+7486252779406131200 | project44 | image | 143w
+    Supply chain teams have more data than ever, but getting a fast, reliable answer still means pulling reports, digging through dashboards, or waiting on an analyst. project44 just launched Mo, a conversational AI supply chain analyst built directly into the platform. Mo reasons across a customer's own shipment data, business rules, and carrier history, grounded in the world's largest, most  [...]  or run the analysis first. Read the full announcement to see how Mo works and what's next: https://vist.ly/5cb4p
+
+7486497531867144192 | project44 | text | 41w
+    Our very own, Eric Fullerton is breaking down what the data shows 20 weeks into the Strait of Hormuz disruption. The pattern is NOT the spike and decline you would expect from a typical disruption. Hear what he has to say.
+
+7487626254020546560 | project44 | image | 67w
+    Reliability is a data problem before it is a model problem. You cannot build reliable AI on partial, self-reported, or biased data. No amount of tuning fixes that. Reliability follows from the breadth, quality, and objectivity of what a model learns from. Join us on August 13 for our AI summit where we will dive into reliable AI and what it takes to build it. Register: https://vist.ly/5cnmm
+
+7488646657803218945 | project44 | image | 72w
+    Every enterprise is buying AI. Almost none are getting the value. In high-stakes supply chain operations, the gap is reliability. There is a difference between AI you watch and AI you trust to act. On August 13 we are hosting a 90-minute virtual summit on building reliable AI where the stakes are highest. A keynote from our Chief Strategy and Operations Officer, Jon Scherr, plus live agent demos. Save your seat: https://vist.ly/5c2gv
+
+7488677889706491904 | project44 | text | 39w
+    Join project44's product team to learn more about the keys to making supply chain AI reliable and live demos of MO: AI Assistant,Agentic Workflow Manager, and Dynamic Slot Booking, plus a live Q&A with the people who built them.
+
+7489047294634496000 | project44 | image | 33w
+    Most supply chain disruptions follow a recovery curve. Not the Strait of Hormuz. project44 has tracked 114,779 total diversions, with weekly volume holding at 4x baseline and Navi Mumbai dwell at 21 days.
+
+7490096165858779136 | project44 | video | 43w
+    The best translation feels like no translation at all. project44's agents start in a customer's preferred language, and when the conversation shifts mid-call, they follow. Every language clears the same bar before it ships. See how it works Aug 13. Register now: https://vist.ly/5dexm
+
+7490459132051939328 | project44 | video | 21w
+    Mo answers the questions no dashboard can, grounded in your data and the world's largest, most accurate, real-time logistics data graph.
+
+7490768211043328001 | project44 | image | 57w
+    A few seats left for project44 Connect London, 13 August. We're bringing together a small group of supply chain and logistics leaders for a morning of live demos, honest conversation, and practical takeaways on TMS, real-time visibility, and AI in logistics. Intimate by design. If you've been on the fence, now's the time. Reserve your spot: https://vist.ly/5dnfv
+
+7491184083914440704 | project44 | video | 82w
+    Most transportation networks still run on manual steps, booking a movement, chasing a status update, matching a document. MasterBrand's Paul Battista sees it differently. "I see where I can leverage it in my network, especially with the workflows on the movements. It's practical, not theoretical." On Thursday, August 13, we're showing how project44's agents handle those workflows live. Register now,  [...]  Building Reliable AI in High-Stakes Environments Date: August 13, 2026 Time: 10 am CT | 11 am ET
+
+7492693001069133824 | project44 | image | 82w
+    30% of eCommerce support tickets is a customer asking where their order is. Most brands answer that question by checking carrier portals, logging into tracking systems, or calling the warehouse. Brands that have cut WISMO volume send delivery updates before customers think to ask, flag at-risk shipments before they become failures, and give CS teams a single view of every  [...]  When customers already know what's coming, they don't call. project44's Consumer Visibility closes that gap. See how: https://lnkd.in/epUNNr_i
+
+7492996245096009728 | project44 | image | 52w
+    We're two days out. Building Reliable AI in High-Stakes Environments is this Thursday, 10:00 a.m. CT. Get ready for live demos of MO: AI Assistant, Agentic Workflow Manager, and Dynamic Slot Booking. Then, a live Q&A with all three product leads. Register now: https://vist.ly/5eeas Jonathan S. Nimrit Vest Nick Douglas Tamal Dutta
+
+7493345237151535104 | project44 | text | 99w
+    The August newsletter from project44 is out and this latest issue covers more ground than usual. Two major launches. An AI virtual summit happening this week. And a whole lot more. Here's a preview of what's inside: 🔹 Mo, project44's new conversational AI analyst, and the data graph behind it 🔹 The AI Virtual Summit on August 13, with live  [...]  providers 🔹 Articles covering data quality, AI adoption, freight procurement, and what makes supply chains resilient Read more:
+
+7493389371560263680 | project44 | video | 17w
+    Q2 was a team effort and the numbers speak for themselves. Read full Q2 results here: https://vist.ly/5ejkm
+
+7493661384485040128 | project44 | image | 51w
+    Live in a few hours. Building Reliable AI in High-Stakes Environments starts at 10:00 am CT. See live demos of MO: AI Assistant, Agentic Workflow Manager, and Dynamic Slot Booking. We'll end with a live Q&A with the product team. Not registered? There's still time to join. Link in the comments.
+
+7493739562414882816 | project44 | image | 119w
+    Supply chain planning and execution have largely run on an inside-out view where demand is consumed, not managed. In her latest article, Lora Cecere, founder of Supply Chain Insights, uses project44 data to show what companies gain when they sync their plans to market actuals instead of relying on internal assumptions. Lead time is one of those assumptions. Most planning  [...]  they're after. This is a preview of a white paper we're developing with Lora. There's more to come.
+
+7494087993973096448 | project44 | video | 40w
+    project44's agentic workflows are taking safety stock out of supply chains and saving customers hundreds of millions annually. Hear how Ford is already running this across their logistics organization. The AI Summit is available on demand. Link in the comments.
+
+7494113248741400576 | project44 | video | 37w
+    Most supply chain teams have an AI mandate. Almost none can say where the value actually comes from. Fullerton Eric opened our AI Virtual Summit with that question, and the answer is more concrete than you'd expect.
+
+7494450713373143040 | project44 | link | 50w
+    This Monday, The Buzz, a weekly rundown of the supply chain news that matters, welcomes special guest Lora Cecere, Founder of Supply Chain Insights. project44 has been working with Lora, and we can't wait to hear her take on lead time planning. Join us to listen to her insights. https://lnkd.in/g8Aqb_SC
+
+7495533749518950400 | project44 | video | 33w
+    Reliable AI in supply chain comes down to three things: reliable data, reliable signal, and reliable action. Jon Scherr breaks down the framework from our AI Virtual Summit. Watch it on demand: https://vist.ly/5facd
+
+7495914272959598592 | project44 | video | 51w
+    When disruption became the norm, Abercrombie & Fitch had to replace manual workflows and siloed data with tools built for volatility. Kristen Kravitz, Group VP of Transportation at A&F, shares how her team uses project44 to drive precision in execution and inventory, no matter what the supply chain throws at them.
+
+7496243934860451840 | project44 | video | 29w
+    Mo lets your team ask your supply chain anything and get answers grounded in real data. Faster decisions, less digging. Watch the full AI Virtual Summit on demand: https://vist.ly/5fiqv
+
+7496289014149316608 | project44 | video | 33w
+    Getting to 95% shipment visibility across 1,500+ containers a month doesn't happen overnight. Agrosuper walks through the journey from early pilots to real-time intelligence on every export shipment, end to end, with project44.
+
+7496606332410568704 | project44 | video | 21w
+    Autonomous AI in supply chain needs three things to actually work: configuration, explainability, and human control. Watch it on demand: https://vist.ly/5fnxa
+
+7496652884726484992 | project44 | video | 74w
+    Recent Hormuz data from project44 tells a critical story. Structural rerouting to avoid the Gulf continues, with diversions in the region dropping to a 14-week low. But that pressure has resurfaced as record-level port congestion, with Navi Mumbai, Mersin, and Iskenderun posting their highest import dwell ever recorded in our dataset, and Singapore climbing right alongside them. Fullerton Eric breaks down why these ports matter and what to take away from this week's data.
+
+7497708050120835072 | project44 | image | 49w
+    The best transportation teams over the next three years won't just move freight faster. They'll make decisions differently. On August 27 at 2 PM ET, Eric Fullerton joins Hannah Testani of Intelligent Audit and Bart De Muynck of Better Supply Chains to break down exactly what that looks like.
+
+7498070464213274624 | project44 | video | 28w
+    Mo shows exactly how it calculated every answer and flags any data exclusions. Your team can trust it, and push back when needed. Watch it on demand: https://vist.ly/5g4z4
+
+7498826035388657664 | project44 | video | 88w
+    Carriers are rejecting one in six contracted trucking loads right now. For the first time in 45 months, spot rates have topped contract rates. Demand is softening while capacity tightens faster. Carriers are chasing spot market instead of sticking to routing guides. When spot pays better, routing guide compliance takes a back seat. project44's Fullerton Eric sat down with Ben  [...]  what's driving this shift, how carriers are responding, and what procurement teams should be doing differently right now.
+
+7499111058767372288 | project44 | image | 106w
+    Customers just named project44's Intelligent TMS a Leader in G2's Fall 2026 Enterprise TMS Grid Report, earning this spot on its first appearance in the category. Intelligent TMS also earned Leader status in six additional TMS reports including Mid-Market, Overall, Momentum, and three Regional Grids. "Our partnership with project44 has played an important role in helping Tailored Brands build a  [...]  satisfaction. iTMS customers can achieve a 4% reduction in freight costs and a 17% increase in on-time delivery.
+
+7499157617286516736 | project44 | video | 31w
+    Data needs meaning before AI can act on it. Jonathan S. explains why semantics is what bridges raw supply chain data and reliable signal. Watch the full session on demand: https://vist.ly/5ghk7
+
+7500274730180976640 | project44 | text | 111w
+    Seven G2 badges. One Grid debut. project44's Intelligent TMS just placed as a Leader in the Fall 2026 G2 Enterprise, Mid-Market, and Momentum Grids for Transportation Management Systems. Achieving high satisfaction for the Enterprise and Mid-market segments is a testament to Intelligent TMS' flexibility. It plans and executes across full truckload, less-than-truckload, ocean, air, parcel, intermodal, and drayage, connecting to  [...]  revenue is up 57% year over year, with more than 160 iTMS customers now live on the platform.
+
+7500953986326364160 | project44 | video | 65w
+    Imagine someone steps into an elevator. They're struggling with truckload capacity and want to know which technology partner to trust. Ben Steffes, PMP faces this question nearly every day. Here's the answer he shared with Eric Fullerton: Find a partner with three things: a deep and rich data source, domain expertise in supply chain, and the consultative capability to deploy automation in the right ways.
+
+7500999480201158656 | project44 | image | 95w
+    project44 has been named a Major Player in the IDC MarketScape: Worldwide Transportation Management Systems 2026 Vendor Assessment, earning this recognition on its first appearance in the report. "It's a great time to be in supply chain with project44 as a partner," said Hans Moorlag, Director of North America Logistics at Suntory Spirits. IDC MarketScape evaluates TMS vendors on two  [...]  reporting a 4% reduction in freight costs, 60% fewer check calls, and a 17% gain in on-time delivery.
+
+7501332308671623168 | project44 | video | 89w
+    Humans can act on about 2% of the signals moving through a modern supply chain. That's a biological limit, not a skills gap. project44 spent a decade building the connective tissue global trade had been missing, linking every truck, train, plane, and vessel into the world's largest logistics data graph. When that visibility switched on, what came back was chaos:  [...]  AI is what makes the other 98% usable. Jett McCandless, project44 founder and CEO, breaks down that shift.
+
+7501694693324394496 | project44 | video | 80w
+    Supply chain technology has never been harder to evaluate. Here are a few things that help cut through the noise: - Has this vendor been around long enough to have real implementations? - Ask to see the platform. Not a video. Not a slide. The actual interface and workflows your team would use. - Focus on outcomes and ask what  [...]  actually delivers for a day-to-day user. This is how supply chain professionals should be evaluating vendors right now.
+
+7503167262200139777 | project44 | image | 101w
+    Two analyst recognitions. Three awards. Recently, project44 was named a Major Player in the 2026 IDC MarketScape for Transportation Management Systems. The first time Intelligent TMS appeared in that report. project44's Intelligent TMS was also named a G2 Leader in seven Fall 2026 reports on its first appearance. And for visibility: project44 was named a G2 Leader in the Fall  [...]  categories, transportation management and supply chain visibility, and represent three independent validations that project44 delivers at enterprise scale.
+
+7503193236006600705 | project44 | image | 106w
+    Hormuz diversions just hit a 14-week low. The congestion didn't go away. It moved. Mersin, Turkey is now at 32.2 days of import dwell, the highest in our dataset since the crisis started. Navi Mumbai is running at 6x its pre-conflict baseline. Singapore just hit a new crisis high. Iskenderun added 10 days of import dwell in a single month.  [...]  at the ports you're routing through. Full data in the Hormuz Supply Chain Insights report. Link in comments.
+
+7503492508312596481 | project44 | video | 139w
+    The supply chain headlines have been all about ocean this year: Hormuz, Red Sea, tariffs. But there's a lot happening in North American truckload that isn't getting the same attention. Ben Steffes breaks it down: → Tender rejection rate hit 17% and is sitting around 15.5% — still one in six contracted loads getting rejected → Cash freight index down  [...]  market dollars. For shippers and transportation teams: this is what a freight cycle inflection point looks like. 👇
+
+7503548867762737152 | project44 | image | 118w
+    Before starting project44, Jett McCandless was a truck dispatcher in Portland, keeping track of shipments with nothing but faxes, two-way radios, and a mental map of the city. Two decades working inside the industry gave him a perspective most venture-backed founders lack. "When you look at the folks out of San Francisco or the coastal cities without the logistics experience,  [...]  the space, and I also have more respect for them." Read the full piece in Founder Brew: https://vist.ly/5hvja
+
+7503564881774718976 | project44 | image | 74w
+    China's container network absorbed five typhoons between July and August, and vessel calls still haven't returned to where they started. Bavi, Noul, Dolphin, Narra, and Saudel each made landfall before the network had time to clear the last storm's backlog. Vessel calls ran steady through most of June, then dropped with Bavi's landfall in early July and never fully recovered. Even the best week since didn't reach pre-season levels. Read the full analysis: https://vist.ly/5hvr2
+
+7503820873380892673 | project44 | video | 110w
+    Most "AI-powered" marketing shows you a polished glossy AI demo of AI agents. Ours shows you the people who built it. Introducing Beyond the Build: an unscripted look at how project44's AI agents detect, decide, and act in real time, straight from the team beyond the orchestration. Fullerton Eric, VP Corporate Communications, asks the project44 team the same questions we  [...]  20 minutes. Join us for Beyond the Build Livestream Premiere, Tuesday, September 15th, 10-10:30am CT Link in comments.
+
+7503868144202018816 | project44 | image | 124w
+    Jett McCandless has a piece in The AI Journal that cuts through a lot of noise in the enterprise AI conversation. He shared that most companies are measuring AI the wrong way. Adoption rates, token consumption, and workflow integrations tell you whether AI is deployed, not whether it's working. Supply chain leaders have always measured differently. Are goods moving faster?  [...]  fees at a single port. Worth reading if your team is still figuring out what to measure. https://vist.ly/5hz7y
+
+7503877504449822720 | project44 | text | 46w
+    Introducing Beyond the Build: an unscripted look at how project44's AI agents detect, decide, and act in real time, straight from the team beyond the orchestration. Eric Fullerton, VP Corporate Communications, asks the project44 team the same questions we hear from customers in late-stage buying conversations.
+
+7503911192113922052 | project44 | image | 133w
+    Before the Hormuz conflict, Dubai handled the majority of Middle East air cargo. That share dropped when the conflict started and hasn't come back in any phase since, including the ceasefire. Dubai's volume is actually up about 11% from its pre-conflict baseline. Istanbul and Frankfurt have grown faster. Both now handle more daily cargo than Dubai. Istanbul gained ground in  [...]  it's how air cargo routes now. Full data in the Hormuz Supply Chain Insights report. Link in comments.
+
+7504217215320158208 | project44 | video | 79w
+    AI agents are the most covered topic in enterprise supply chain technology right now. Orchestration. Deployment. Configuration. Workflows. There's a lot of words. Not a lot of clarity. So we tracked down Nick Ruggiero, one of the leaders responsible for building the AI agent infrastructure at project44 to ask him how do AI agents actually work? How are they built?  [...]  more importantly, how are customers seeing real value from them? The answers are clearer than the marketing suggests.
+
+7504273564368367616 | project44 | image | 107w
+    project44 was named a Leader in G2's Fall 2026 Enterprise Grid for Supply Chain Visibility Software, supported by 244 verified reviews, the highest count of any vendor in the Leaders quadrant. The G2 Score came in at 88, with 93% of reviewers saying they would recommend project44 and 94% saying the product is headed in the right direction. G2 scores  [...]  the customer, and AI that does the work instead of describing it. Full release linked in the comments.
+
+7478449540715466752 | Ramp | text | 11w
+    if you know, you know. if you don't, enjoy the pictures.
+
+7480262205310140416 | Ramp | video | 51w
+    Every company used to start with paperwork. The next generation will start with a prompt. Let AI agents incorporate your company, apply for Ramp, and get your business ready to spend, pay bills, and manage money. Launching with Hermes, Every, Cofounder, Paperclip, South Park Commons, and Replit. More coming soon. agents.ramp.com
+
+7480667095295270912 | Ramp | video | 20w
+    We could tell you what it's like to intern at Ramp. Or we could just let the interns show you.
+
+7482526760455176192 | Ramp | video | 34w
+    ICYMI we hosted a BOB THE BUILDER singalong in Philly amidst the storm of the century this past weekend. All to answer a simple question: can we fix it? The world finds out tomorrow.
+
+7482820150027567104 | Ramp | video | 63w
+    Meet Carl the Controller. His construction crew operated on rogue corporate cards and disconnected systems, eroding margins and capacity for new projects. Carl knew there was a better way. One where he could connect cards, expenses, accounts payable, and ERP data into one platform. And he was right. Ramp for Construction is here. https://lnkd.in/d94JW_Ws Video animated by the good humans at Study Hall.
+
+7483188041319309312 | Ramp | video | 76w
+    We just launched a new YouTube channel. This is Leading Indicators. Your destination for learning how businesses manage money in the age of AI. AI spend is growing 13x year over year, yet few companies can say what they're ~actually~ getting for it. Watch our first video to find out what's going on and subscribe on YouTube: https://lnkd.in/diXfyUNH Special thanks to Jaya Gupta, Ara Kharazian, and Siddhi Surana for sharing insights and Michael Pasternock for producing.
+
+7483222958103003136 | Ramp | video | 1w
+    1-800-RAMP
+
+7483565757910376448 | Ramp | video | 33w
+    No more trying to wrangle AI spend in the dark. Connect your business data. Measure your team trends. Maximize value per token. There's a light up ahead. Token Spend Management available now. https://lnkd.in/diX2WFYh
+
+7484999283390218240 | Ramp | video | 16w
+    Watch how the talented folks at Study Hall 3D animated our construction product launch video 🤯
+
+7485015704023330816 | Ramp | video | 58w
+    Your CFO needs to see this. AI spend is projected to hit 1% of global GDP by 2028. Yet nobody can tell you where it's going. Until now. Introducing Token Spend Management. See your company's AI spending all in one place, control costs, and get weekly briefings breaking down patterns and ways to save. Get started today: https://lnkd.in/eWtSx5-U
+
+7485369727461244928 | Ramp | video | 74w
+    STABLECOINS ARE NOW ON RAMP. Your business operates 24/7, but your money only operates Mon-Fri, unavailable on evenings, weekends, & holidays. Now you can pay vendors faster across borders & move money in USDC or USDT with the approvals & accounting workflows you already use: https://lnkd.in/eNC4jebk --- Ramp Business Corporation is a fintech company and is not a bank or a digital asset custodian. Stablecoin custody is provided by Bridge Building Inc. and affiliates

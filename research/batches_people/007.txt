@@ -1,0 +1,169 @@
+# person batch 007  -  55 posts  -  research/CLASSIFICATION-PROTOCOL.md
+# labels: problem exploration requirements selection validation consensus
+#         recruitment culture event product-news csr unclear
+# write research/labels_people/007.tsv as: <id><TAB><label>
+
+7465391075885613056 | Matt Farrell | image | 54w
+    Excited to continue our partnership with Merck KGaA, Darmstadt, Germany with their selection of Vault CRM, globally. Vault CRM will help streamline cross-functional workflows and data connectivity with flexibility to support their rapid growth. It's a privilege to partner with this innovative team as they work to bring life-changing therapies to patients worldwide. https://lnkd.in/e7RQWUGW
+
+7467257424316542978 | Matt Farrell | image | 118w
+    From unlocking Commercial Evidence™ with the Agentic Call Report™, to building the foundation for an Agentic Commercial model, this year's #VeevaSummit covered a lot of ground. Arno Sosna and I are hosting a live recap and Q&A https://lnkd.in/gaxG5u-t for those who weren't able to join us in Boston, or for anyone who wants to look  [...]  takeaways and take your questions live. I hope to see you there! Veeva Systems #VaultCRM #LifeSciences
+
+7471234318389063680 | Matt Farrell | image | 75w
+    Excited to celebrate another 2026 Veeva Hero Saket Malhotra from BioMarin. With over two decades of industry leadership, Saket has become a master of CRM transformation and field force optimization. At BioMarin, he didn't just update a system; he completely reimagined their commercial model to thrive in an increasingly competitive landscape. Saket continues to push  [...]  with plans to leverage Vault AI to drive efficiency and value. Congratulations, Saket! #pharmaceuticals #biotechnology #VeevaSummit
+
+7473745467617476608 | Matt Farrell | video | 68w
+    Agentic AI helps teams retrieve, synthesize, and prioritize information. But the real power lies in how AI is democratizing expertise. Kavitha Parthasarathy at Corcept Therapeutics shares how equipping field teams with AI agents helps them make faster, more informed decisions, at scale and at a lower cost. Thanks Kavitha for sharing your insights on how agentic AI can improve agility and productivity for commercial teams. #VaultCRM #VaultAI #LifeSciences
+
+7490124314990534656 | Matt Farrell | link | 62w
+    Great discussion during last week's #AgenticCallReport livestream! Thanks to all of you who joined. If you missed it, watch the replay here: https://lnkd.in/ghB2J-d5 Cindy Chiang walks through capabilities and what's to come on the product roadmap. Alison (. shares critical success factors and enablement best practices from customers getting real results. Michelle Vredberg covers what's needed to get started. #VaultCRM #AI #LifeSciences
+
+7493655507145068544 | Matt Farrell | image | 214w
+    Always appreciate the chance to discuss how Commercial Evidence is helping to drive the industry forward and empowering teams to uncover more impactful insights to better serve HCPs and patients. Thank you Pharmaceutical Executive. We talked about how legacy call reports record that an HCP interaction happened. But they don't capture what happened in that  [...]  tactics swiftly to remove friction and bring necessary treatments to more patients. #VaultCRM #AI #Biopharma Ostro
+
+7497987648964206592 | Matt Farrell | image | 47w
+    Regeneron is moving to #VaultCRM to give its commercial teams a connected agentic platform! We are excited to work together to drive innovation with Veeva AI. Thanks to Ryan Steinberger and team for your trust and partnership with Veeva Systems. Read the news https://lnkd.in/gDNXs72c #LifeSciences #VeevaAI #AgenticCommercial
+
+7442910800232574977 | 🤘 Matthew Sciannella | image | 294w
+    Before marketers learn AI, or the language of the boardroom, or purpose, or storytelling, or any of the other things we keep telling them they need to master, many of them need to learn something more basic. They need to learn marketing. That's Mark Ritson's read on the state of the marketing profession and I  [...]  more than being a servant to other departments and ceding your ability to impact the outcomes.
+
+7445068340517101568 | 🤘 Matthew Sciannella | video | 189w
+    Most companies: - Get a paid media budget - Run ads to a target account list or audience - Report on # of companies that moved to Stage 2 Deals - Use first touch, last touch, self-reported, and sales reported attribution And then wonder why that process is not repeatable every quarter. Your paid media  [...]  you going to run to determine how well its working for you? DM me for help.
+
+7447623310953115648 | 🤘 Matthew Sciannella | video | 14w
+    You don't trust the rec because it doesn't give clear answers about your activities.
+
+7450218402918502400 | 🤘 Matthew Sciannella | image | 21w
+    Remember when Long Island Iced Tea Co. changed their name to Long Island Blockchain Co.? Is this a sign of worry?
+
+7451987313519333376 | 🤘 Matthew Sciannella | image | 304w
+    AI-first messaging isn't the competitive advantage everyone here thinks that it is. Sometimes, it's actually a trap. Because AI can conceivably solve nearly any problem from data enrichment to copywriting to statistics to drug discovery (kidding), repositioning around AI can come with more market confusion than clarity for even seasoned and experienced buyers. AI is  [...]  of the engine breaks down. And there's no attribution magic that is going to fix it.
+
+7454874377432502272 | 🤘 Matthew Sciannella | image | 233w
+    Its pretty obvious when we evaluate most companies they don't have a lot of desire to get that big. Their behaviors are the tell, not their words. They say all the right things, but act anything but. Because when you think about, most companies are either Reactive in their marketing maturity or Informed. Rarely does  [...]  and gizmos. Those will get you to an Informed place, but it won't get past that.
+
+7459926071019266048 | 🤘 Matthew Sciannella | image | 309w
+    More companies are replacing buyer research with AI-generated insights. Copying their competitors pricing instead of testing their own. Basing their channel choices on what everyone else is doing. Promoting where the ROI appears in a quarter or it's a failure. And all of this is making the marketing profession more and more irrelevant and outsourceable  [...]  and Price responsibilities back under your purview to help drive the business forward to greater heights.
+
+7462510255508340736 | 🤘 Matthew Sciannella | image | 269w
+    Most B2B marketers today own exactly one of the 4Ps: Promotion. And even with that, they're losing to AI-scaled outbound and FUD-driven performance ads. Product strategy? Founders and engineering. Price? Finance or whatever the competitor charges. Place? A LinkedIn feed and maybe a Gartner listing if you're lucky. This is what the 4P handoff looks  [...]  ways to take some of it back under their purview. Hope to see you there ✌️
+
+7465753978388135938 | 🤘 Matthew Sciannella | text | 118w
+    If you run ads in the state of New York, you have 13 days to review them and make sure you are not using a 'Synthetic Performer' in them without a disclosure present. First violation is $1000 Subsequent violations are $5000 NY S8420 was signed by Governor Hochul and goes into effect June 9th. If  [...]  size of the NY market. Fair warning. We're going through and checking our work right now.
+
+7471521546453454848 | 🤘 Matthew Sciannella | text | 44w
+    Anytime I l feel insecure about my job, I just go into Meta Ads Manager and see all the dumb AI enhancements they auto-enable for you when you try to run an ad. Will always have a job turning them off. Instant mood boost.
+
+7473357885557854208 | 🤘 Matthew Sciannella | image | 194w
+    If a $4B, field sales-led organization can run Performance Marketing offers like this, you can do. Don't tell me the Terms and Conditions are too complicated. Don't tell me only Sales can offer deals like this to entice customers. Don't tell me fulfillment on these kinds of offers is too difficult. Don't tell me your  [...]  with as much complexity as they operate with, what is your reason? Rooting for you 👊
+
+7475613927553437697 | 🤘 Matthew Sciannella | text | 99w
+    Want to scratch an itch I have about how buyers are preferring to enter the sales process right now. I know many people here who buy or champion software purchases, and curious how your own buying behavior has changed or shifted. This is a pretty unscientific poll because I am not going to know seniority,  [...]  cold email or cold calling been the event that compelled you to enter a sales process?
+
+7487489220765380608 | 🤘 Matthew Sciannella | text | 208w
+    When marketing can't make an offer that sales teams' do to target accounts, that tells me immediately: - Said company lacks target account list alignment - Said company has no trust in marketing's targeting - Said company is fine losing new logo accounts to not inconvenience sales - Said company doesn't know how their market  [...]  Demand. Not one. Not the other. Do both well and watch your campaigns start have impact.
+
+7492940317743140864 | 🤘 Matthew Sciannella | text | 377w
+    There are 2 ways to do Meta Ads well in B2B, depending on what you are willing to spend and, of course, if your target audience actually spends real time there. The first is to go wide open, strong signal to the ad platform, consistently feed it creative and budget (like tens if not hundreds  [...]  a person consistently getting value from it for my clients and wanting the spread the word.
+
+7497974716792500224 | 🤘 Matthew Sciannella | text | 250w
+    One of the best marketers I know is on the hunt for their next role. Here is why you would want to talk to them and why I am helping them: >> They have helped niche SaaS brands grow exponentially. They just helped their current company go from $10M to $100M ARR in 3 years.  [...]  to and absolutely crush in a Sr. Director or VP level role. Phone lines are open.
+
+7347707784483803136 | Maxim Lobovsky | link | 106w
+    Boot strapped, scrappy, or solo-founder companies have been changing the game in software. It's now possible to build a great product that serves a niche and spins off lots of cash with a single person, or get world-changing companies like Atlassian and Github to profitability without any outside capital. Finally, it's starting to happen in  [...]  (other than the energy and dedication of their founders) Check out the story behind zerømouse https://lnkd.in/dRxxbvgP
+
+7363665743231569920 | Maxim Lobovsky | text | 33w
+    2/3 of the people Formlabs hires have STEM degrees, across the entire company, including sales, marketing, G&A, etc. It's critical that everyone who works with our customers is really knowledgeable about our products.
+
+7365474970145107968 | Maxim Lobovsky | multi-image(3) | 76w
+    Just got back from the Formlabs annual summer camp. It's been a great tradition for 11 years running. One of the main events is slow cooking huge pots of Hungarian goulash over an open fire. That's Matt Ewertowski and Henry Chan, Micronics cofounder, in case you are wondering about what he has been up to  [...]  has brought his expertise in thermal design to a newly developed goulash thermal protection system 🤣
+
+7378997261852295168 | Maxim Lobovsky | text | 16w
+    3D printing is helping to give wounded veterans in Ukraine with custom fit (and good-looking) prosthetics.
+
+7402782495534116864 | Maxim Lobovsky | link | 53w
+    Formlabs uses 3D printed parts in all our major hardware products (and more and more with each generation as we improve material properties and drive down per part costs). But this is the first time I've seen another 3D printer company, Vision Miner, use our printers to make their printers. Very cool. https://lnkd.in/eJtSAtwh
+
+7419738529427091457 | Maxim Lobovsky | text | 49w
+    B2B sales people/entrepreneurs: If you ask for a call without giving me a link/video/etc so I can understand if what you are selling is remotely useful to me, I will say no. I am perpetually surprised that people think this is acceptable. Your customer's time is precious. Respect it.
+
+7422779928019906560 | Maxim Lobovsky | text | 67w
+    Adam Savage recommends engineers take improv classes to learn to communicate better. I have never felt that I am a natural communicator, but the couple of improv classes I took years ago left a dent and I think about them regularly. I tend to say "no" a lot, but improv taught me that if you want to keep ideas flowing, it's better to say "yes, and..." instead.
+
+7427021456800169985 | Maxim Lobovsky | text | 57w
+    I traveled to Ukraine a few months ago to see my homeland and understand how 3D printing is changing the face of war. It was an intense experience - the Ukrainian people are really struggling - but it left me really optimistic for their future. And with insights into how 3D printing will develop in the future.
+
+7436431737624264704 | Maxim Lobovsky | link | 125w
+    If you want to learn about how Apple has shipped hit hardware products on after another for so many years, check out this interview with former SVP of Hardware Engineering, Dan Riccio. Lots of great nuggets in there about what makes them succesful. *Be humble and paranoid about getting disrupted. Then disrupt yourself first. *Excellent  [...]  tomorrow and sharing his wisdom with all of us. What question would you ask him? https://lnkd.in/ex4nFc32
+
+7443056465583632384 | Maxim Lobovsky | text | 22w
+    Engineering at Formlabs is a very tough job. Don't apply unless you really want to learn a lot and ship great products.
+
+7449808564895952896 | Maxim Lobovsky | text | 32w
+    Exciting to have RAPID in Boston for the first time ever. Already had lots of customers and partners visiting Formlabs HQ yesterday and looking forward to getting to the show floor tomorrow.
+
+7451939295063388160 | Maxim Lobovsky | text | 66w
+    Most of the top product managers at Formlabs founded companies in the area they work in (hardware, software) Matt Ewertowski Seth Berg Kyle McNulty Hasan Khan Joseph Eilert Boyle S. If you started a company and are looking to join a company that has figured out how to repeatedly commercially successful products that users love, while still running like a small company, send me a message.
+
+7470667664571600896 | Maxim Lobovsky | video | 74w
+    I like to make unusual things that push the limits of our new products. For Fuse X1, I printed a chain that is 50m long. Also, I experimented with designing it with LLMs + CAD. The best workflow I found so far for this kind of thing was ChatGPT 5.5 + Blender. It's not great  [...]  think I can finally see this workflow actually becoming useful in the not so distant future.
+
+7475014961468166144 | Maxim Lobovsky | text | 107w
+    I asked Jeff Wilke (former CEO, Amazon Worldwide Consumer) how to find an earlier career version of himself to help build Formlabs. Here is what he told me to look for: 1. Plant management experience is a must (but define plants broadly as a place where humans and machines operate in a repeatable, scaled process…hospitals,  [...]  they've been captured by. The young me was incredibly impatient. Know anyone that looks like that?
+
+7494133149220859904 | Maxim Lobovsky | text | 64w
+    We got to spend a day with Dan going through a range of product concepts we are working on and get his take. He was excited about many of them, but it's clear that if we want to follow his advice on how Apple approaches this "a thousand 'no's' for every 'yes'", we need to come up with even more amazing stuff to build.
+
+6438510435904876544 | Melody Kim | text | 44w
+    ShopWith just graduated from YCombinator this summer! We made it out alive and somehow... onto this list 😭 So proud of our team and excited for what's ahead. Download the app and give us feedback! If you're a content creator or brand––let's chat :)
+
+6889358387210006528 | Melody Kim | text | 132w
+    In October 2020 I joined a small, but fast growing startup called BetterOmics. We're building a data platform to help develop drugs, vaccines and blood tests much more quickly ⚡️ The pandemic has made clear the need for rapid scientific discovery, and I'm grateful day-to-day that I get to work on the tools to equip  [...]  me directly! :) You can view our job postings and learn more about our team here:
+
+7160431780401967104 | Melody Kim | text | 288w
+    Over the last 6 months I've had the privilege of being able to take what I've been calling a "creative sabbatical" -- to explore a number of creative pursuits I'd given up when choosing the fast-paced startup life 10 years ago (since startup life means your work = your nights & weekends 🙂) Since then,  [...]  an encouragement to you, and here's to creating work we'll be proud of this year ✨
+
+7186516281171320832 | Melody Kim | text | 47w
+    Tomorrow at 5pm PT (April 18), I'll be joining my former colleague Gelila Asnake in a casual conversation about design, startups & the Design Sprint process! If you're a founder, PM or designer interested in design at early stage startups -- feel free to tune in :)
+
+7289767511422578689 | Melody Kim | video | 58w
+    What's the big deal about DeepSeek R1? • Built an AI that rivals OpenAI's o1 at reportedly ~27x lower cost • Shows how pure reinforcement learning (no RLHF) can train top-tier reasoning models • R1 exhibits emergent reasoning capabilities (self-correction, long-chain thinking) • Is open-source! All achieved despite chip sanctions… showing us that massive compute ≠ better AI
+
+7290392229481746432 | Melody Kim | video | 70w
+    30 Days of AI - My Daily Stack I use 3 AI tools daily: - ChatGPT (pro tip: use transcription mode NOT voice mode) - Claude: for generative design or coding tasks - Perplexity: When you're primarily looking for the sources, Perplexity will take you right there I pay for ChatGPT and Claude for increased usage limits, but all have a free tier that works well! #AI #chatgpt #claude #perplexity
+
+7290813532156137472 | Melody Kim | video | 94w
+    30 Day of AI: How to actually talk to AI & get better results ✨ Here are the 4 rules I use to get better outputs from AI: 1. Context is your superpower 2. Break big tasks into steps 3. Define what “good” looks like 4. Refine, assess & iterate Pro tip: Star your chats  [...]  AI tool: ChatGPT, Claude, Perplexity etc. free or paid #AI #ChatGPT #Claude #AItips #productivity #adhd #techtips
+
+7415126189553491968 | Melody Kim | video | 103w
+    This past year, Ryan James and I partnered with ambitious founders across all design needs––brand, product and everything in between. We've been lucky to work with teams like Valinor, BioRender, N-Power Medicine, Inc., Moonhub and many more stealth/YC teams! And have found a focus in bio, health, and hard tech companies. We've honed in on  [...]  you're looking for, feel free to reach out! We have 1 slot left in Jan ✨
+
+7434697336020279296 | Melody Kim | link | 139w
+    Last month, I hosted a Prototyping with AI workshop that more than 100+ people signed up for! Attendees created mini-games, weight calculators for the gym, garden planners and more. This Thursday March 5th, I'm hosting another live workshop where you'll go from an idea to a working app in 2.5 hours -- no coding experience  [...]  Share this with anyone interested in learning about AI -- hope to see you there! :)
+
+7435000725601976320 | Melody Kim | link | 16w
+    Just a reminder that today is the last day to sign up for tomorrow's workshop! https://luma.com/7lfe8krp
+
+7443384328337784832 | Melody Kim | video | 26w
+    Is the final success metric for design just being a really great product manager? Thoughts on Lenny Rachitsky's latest State of the Job Market 2026 report
+
+7496628030879068160 | Melody Kim | video | 159w
+    For most small businesses, figuring out where AI can be useful is just one more job alongside everything else they're juggling. Last week, I partnered with Notion to make space for that conversation. We hosted a coffee cupping with a small group of owners + operators from San Francisco's coffee industry. The spectrum was pretty  [...]  business and there's a workflow you wish took less time, we'd love to hear about it!
+
+7503536194232750081 | Melody Kim | video | 53w
+    What if we could help restaurants spend less time in the back office and more on hospitality? That was the question we asked when we brought together owners and operators from some of our favorite restaurants in NYC for Office Hours with Notion x Blackbird Labs What can we take off your plate?
+
+6562838084025749505 | Michael McGinley | link | 15w
+    Know an amazing office manger looking for their next challenge? Please have them apply! https://lnkd.in/gJuRWUT
+
+6759544484196954112 | Michael McGinley | text | 17w
+    A great article on the future of work, what it looks like, and strategies to navigate it!
+
+6947965267129896960 | Michael McGinley | text | 19w
+    I'm very excited to share that I'm starting a new position as Head of Workplace at Solana Labs! #web3
+
+6978830004583342080 | Michael McGinley | text | 43w
+    This is an awesome step in transforming large scale space and allowing companies, buildings, and individuals to be better connected. It will be fascinating to see how fast this can transform legacy building offerings into a connected web of user centric opportunities! #buildthefuture
+
+7049795024804335616 | Michael McGinley | text | 5w
+    Come join our amazing team!

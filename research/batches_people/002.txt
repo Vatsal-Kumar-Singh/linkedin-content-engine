@@ -1,0 +1,169 @@
+# person batch 002  -  55 posts  -  research/CLASSIFICATION-PROTOCOL.md
+# labels: problem exploration requirements selection validation consensus
+#         recruitment culture event product-news csr unclear
+# write research/labels_people/002.tsv as: <id><TAB><label>
+
+7478554533829165056 | Amit Bendov | text | 7w
+    ⚽️“Let's just do this over email” ⚽️
+
+7481354362741489664 | Amit Bendov | image | 47w
+    Hey, I know this sugar-free guy! :) The full version BTW, starts with: "As bitter as they may be, we prefer to know the facts. Sugar-coating does not help make decisions or solve problem quickly." Via Erle Norton on The Wall Street Journal Full article link: https://lnkd.in/gDKfN7M7
+
+7486012274671792128 | Amit Bendov | image | 166w
+    This is a welcome development. I was excited to read that Jack Dorsey just launched Buzz — a Slack alternative where people and AI agents share the same chat. The agents are cool. But the more exciting part is what's missing: walls. Buzz is *open source and self-sovereign*. Your team's conversations belong to your team,  [...]  users win. Water always finds its way. P.S. Also, great name. To infinity and beyond 🚀😎
+
+7496169193646747648 | Amit Bendov | text | 6w
+    I support this message :) 🎰
+
+7501258395442769921 | Amit Bendov | image | 506w
+    For most of Gong's life, investors asked me the same question: what's your engagement? DAU, MAU, time in app. Ours is best in class, which I'm happy to brag about. But I always told them it was the wrong question. It's a very 1999 question, from the days when the whole game was getting people  [...]  about your customers and you'll be fine either way. Got a fourth question? Bring it on!
+
+6986058806036226048 | Akshar (AP) Patel | text | 40w
+    Fast Company weighs in on Airtable's new "connected apps platform" as we look to solve a common problem for companies: How to get everyone on the same page. What an exciting day to be a part of the Airtable community!🌟
+
+6994054261986725888 | Akshar (AP) Patel | text | 57w
+    I'm not much of a gambler, but here's a bet I'll make any day - the way you are getting your work done today, email, spreadsheets, and slide decks, is going to change forever. ___ Excited to share that Airtable CEO Howie Liu has been named to the inaugural Forbes Future of Work 50 list! #ForbesFutureOfWork #FutureOfWork
+
+7046532337873911808 | Akshar (AP) Patel | text | 47w
+    You - "Hey, Airtable! Every Monday, send an email to each project manager with a list of their pending tasks..." Airtable - "I got you..." Check out Airtable's latest product updates in our monthly recap, including: ✅ Interface Designer updates ✅ List View ✅ Repeating automation actions
+
+7064957653612982272 | Akshar (AP) Patel | multi-image(2) | 112w
+    🌟 Exciting News: Chicago to Charlotte Move! 🌟 Thrilled to share that Tiffany and I successfully relocated from Chicago to Charlotte last week! Moving from a place we called home for years was not an easy decision, but we firmly believe in living life to the fullest and seizing opportunities. Charlotte's vibrant energy, remarkable cultural  [...]  seizing opportunities, and creating a fulfilling life in our new town! 🌇🌃➡️🌅🌇 #NewChapter #Relocation #CharlotteBound #Charlotte
+
+7092620399699513345 | Akshar (AP) Patel | text | 28w
+    ✨So excited to finally be able to share this!! I know so many “on the ground” teams that will benefit from opening an interface in their phone. 📱
+
+7117459356119437312 | Akshar (AP) Patel | text | 81w
+    🎉 Exciting opportunity alert! 🎉 We're on the hunt for an Implementation Specialist to become a part of our dynamic Professional Services Team. This is your chance to collaborate with an exceptional group of individuals who are at the forefront of revolutionizing business workflows! Feel free to reach out if you have any questions about  [...]  to be a part of the Airtable family. We can't wait to welcome you aboard! 🚀
+
+7227072289333219329 | Akshar (AP) Patel | text | 37w
+    🚨 New Airtable Feature Alert: Overview Layout You can now help users more quickly and easily navigate their Airtable apps! 🥳 super proud to have played a small role in launching this new page type on Airtable!
+
+7233837324424343552 | Akshar (AP) Patel | text | 76w
+    🚀 Join me on a webinar on how to leverage Airtable templates for effective project management! Whether you're in media, fintech, retail, or any industry dealing with complex projects, this session is for you. We'll explore how industry leaders use Airtable to manage everything from basic task tracking to advanced resource allocation. Don't miss out  [...]  your workflow and enhance your team's productivity. See you there! 🧑🏾‍💻📊 #Airtable #webinar #productivity #innovation #projectmanagement
+
+7324134379050475520 | Akshar (AP) Patel | text | 171w
+    🎉 Excited to announce I've officially joined the Product Management team at Airtable! 🎉 After an 18-month journey of learning, networking, and building, I'm thrilled to share my path from Implementation Specialist to Product Manager. This transition wouldn't have been possible without the guidance and support of so many amazing people. Special thanks to Tareq,  [...]  path isn't always straight, but with persistence and support, it's definitely possible. #CareerTransition #ProductManagement #Networking #ProfessionalGrowth
+
+7344377977071104002 | Akshar (AP) Patel | text | 153w
+    Flying home from an incredible week at Airtable HQ in San Francisco, celebrating the relaunch of Airtable with my amazing team! 🚀 Over the past several months, I've been diving deep into building with Omni, and I'm genuinely blown away by the power of AI integration in Airtable. I can honestly call myself a "vibe  [...]  Builders everywhere are about to get superpowers. Let's go build! 💪 #Airtable #AI #NoCode #VibeBuilding #VibeBuilder
+
+7398852464411688962 | Akshar (AP) Patel | text | 126w
+    As someone who discovered Airtable while working at a university, I'm thrilled to see this major milestone. It was a breath of fresh air when I was drowning in old, sluggish software made for higher education. My story with Airtable began during an annual budgeting exercise. I needed to build a budget and Banner just  [...]  to discover the power of Airtable in education. Great work Matt Logan, Wendy Perque & team!
+
+7419417791809654784 | Akshar (AP) Patel | image | 11w
+    To my PM friends, welcome to 2026. IYKYK #productmanagement #PM #vibecoding
+
+7452475736076046336 | Akshar (AP) Patel | text | 52w
+    Excited to share some of the quality of life improvements we shipped in Airtable this quarter. From smarter date calculations to better creative review workflows to more granular builder controls, these updates are all about helping teams move faster and stay organized. Check out the full Q1 wrap-up to see what's new!
+
+7475555569869758464 | Akshar (AP) Patel | image | 101w
+    💬 We just added a new Airtable Automations trigger: When a comment is added. A comment on a record can now start a workflow, and the automation knows who was @mentioned, so it can route the work to exactly the right person. Here are a few workflows you can now build: - Use AI to  [...]  👉 How will you use this new automation trigger? Learn more here: https://lnkd.in/euvHAkSM #airtable #productmanagement #automation
+
+7487151572775493632 | Akshar (AP) Patel | image | 24w
+    I'll be answering your Airtable questions this Tuesday, July 28 on reddit! Join the discussion at r/Airtable. https://lnkd.in/eAPSSdFE #airtable #ama #reddit #ai #automations #productmanagement
+
+7443273235405721600 | Bailey Pumfleet | video | 11w
+    Success comes down to what you do with what you have.
+
+7444855377680285696 | Bailey Pumfleet | video | 28w
+    I bought my first MacBook myself. Now it just shows up at my door. Same product. Completely different feeling. That's the shift when the buyer isn't you anymore.
+
+7445507977484148736 | Bailey Pumfleet | video | 55w
+    15-20 minutes of Reels gives me all the entertainment my brain needs. I barely watch movies anymore. Don't read many books. Don't miss either. Everyone treats short-form like a disease. But what if it's just entertainment becoming efficient the same way AI made coding efficient? Efficiency kills the romance. It also frees up the reality.
+
+7446927206322270208 | Bailey Pumfleet | multi-image(3) | 35w
+    I hosted a watch party for our upcoming Cal.com documentary with some friends here in the NYC office We had a blast - can't wait to be releasing it publicly in the next few days
+
+7448407091976830976 | Bailey Pumfleet | video | 20w
+    I'm not saying replace your doctor. But hard to ignore when AI catches a 10-year misdiagnosis that multiple doctors missed.
+
+7452391031305666560 | Bailey Pumfleet | video | 8w
+    Does AI code leave more room for vulnerabilities?
+
+7455956844813914112 | Bailey Pumfleet | video | 28w
+    People have been asking us for this for years. We just needed the infrastructure to be ready first. Here's what's next for Cal.com. DM me for early access.
+
+7457825366187929600 | Bailey Pumfleet | video | 12w
+    Lidl GitHub might be my favorite thing on the internet this week.
+
+7462566245800919040 | Bailey Pumfleet | video | 7w
+    Web Summit Vancouver, thanks for having us.
+
+7468295772384710656 | Bailey Pumfleet | video | 49w
+    Tomorrow night, we're hosting Cal.FM A cafe listening room for friends of Cal to escape the tech week panels, pitches, and badges. Drinks, bites, and a room that takes their mission seriously, and selves unseriously. Come solo, come with friends, leave with new ones. Limited capacity, RSVP at Cal.FM
+
+7469727586399592449 | Bailey Pumfleet | video | 13w
+    The best thing about good marketing is that it doesn't feel like marketing.
+
+7479874422120529920 | Bailey Pumfleet | video | 15w
+    Curious how many hours of engineering time get spent answering questions the codebase already answers.
+
+7486103126656184320 | Bailey Pumfleet | text | 125w
+    One of the hardest parts of building a startup isn't the work. It's what you give up to do it. When I moved to the US at 20, I left behind my family, friends, and the life I already understood. There were plenty of nights when I wondered whether the trade was worth it. You  [...]  know I would rather take the risk than spend my life wondering what could have happened.
+
+7488640052512833536 | Bailey Pumfleet | text | 82w
+    Growing up without much money changes how you think about opportunity. You stop assuming someone will create it for you. Nobody in my family went to college, and there was no obvious roadmap for building a different life. But access to information is different now. You can now learn almost anything, build from anywhere, and  [...]  doesn't make success easy. It just means you have more ways to build a different future.
+
+7491176717475270656 | Bailey Pumfleet | text | 22w
+    You need people who knew you before your resume became interesting. They help you remember that you're more than what you built.
+
+6400841625999937536 | Brad Jackson | image | 21w
+    Congratulations to my Slalom UK colleagues on their 100th hire this week. I'm excited for them and for Slalom UK's future.
+
+6402208435005464576 | Brad Jackson | image | 194w
+    Question: What does my 8-year-old daughter believe I do at work? First, some context: Slalom Seattle recently hosted Bring Your Kids to Work Day. Our team members brought their children of all ages and I brought my young daughters. Kids practiced coding, they learned about their health from American Heart Association | American Stroke Association  [...]  we talk to and inspire our kids makes a difference for our next generation of leaders.
+
+6422528719117705216 | Brad Jackson | image | 130w
+    In our journey to propel experts and leaders, Slalom launched a book club this year—and we are crowd sourcing our list of 7 big-impact reads from our own employees. In April, we started with 'Thanks for the Feedback,' to explore new ways to have difficult conversations and embrace tension. We read 'The Culture Code,' because  [...]  when we do it together. Do you have recommendations for what we should consider reading next?
+
+6630929219922862080 | Brad Jackson | text | 0w
+    
+
+6676846457552797696 | Brad Jackson | text | 51w
+    At Slalom, Black Lives Matter. Period. We will not be silent about Black lives stolen by racist violence. We all need to open our hearts and use our voices, but most importantly we need to listen, learn, and act. I recently shared this message with all of Slalom's 8,500+ team members.
+
+6717402784783753217 | Brad Jackson | text | 25w
+    I am honored to be participating in Masktober so that together we can dramatically decrease the spread of COVID-19 during the next 31 days. #Masktober
+
+6821453549487177728 | Brad Jackson | text | 45w
+    On behalf of our 9,500+ global team members, I'd like to welcome Deanna Oppenheimer to the Slalom family. As our new board of director, she brings a similar deep belief that we can improve lives and positively impact the planet through the work we do.
+
+6857053282507091968 | Brad Jackson | video | 6w
+    Love this 60 second video! #slalomproud
+
+6917923869274107905 | Brad Jackson | text | 45w
+    Continuing to consider what I call the “Expectation Recession,” today I share strong evidence that companies returning to the basics of customer service and satisfaction will be overly rewarded with customer love. What are you doing to delight your customers and—perhaps most importantly—their customers? #ExpectationRecession
+
+6970457545983352832 | Brad Jackson | text | 52w
+    Amid ongoing supply-side challenges, employee pressures and economic uncertainty, there may be no better time than now for companies to invest in new and creative measures of customer service. My latest article, “Rebooting Customer Obsession,” ties up my recent blog series with some examples plus my favorite learnings on the subject. #ExpectationRecession
+
+7133985118351757312 | Brad Jackson | image | 136w
+    Dear Steve, I remember the days when the mere thought of speaking in front of a crowd would leave me petrified with fear. Even the idea of presenting to a small group during an internal meeting made me uncomfortable. You pushed me out of my comfort zone and changed my life. You guided me with  [...]  you found it, you succeeded a million times over. Rest in peace, my dear friend. Brad
+
+7254654871226724353 | Brad Jackson | text | 22w
+    #Leadership #Innovation #Reinvention #GrowthMindset #Transformation #ExponentialGrowth #FutureOfWork #ChangeManagement #PersonalDevelopment #LifelongLearning #BoldLeadership #SelfImprovement #TechnologyInnovation #ScalingUp #BusinessStrategy #Entrepreneurship #AIandBusiness #DisruptiveInnovation #DigitalTransformation #MindsetShift #Top10List #Courage
+
+7267546103196114945 | Brad Jackson | text | 3w
+    #thanksgiving #troyjohnson #teaming
+
+7318386100052324353 | Brad Jackson | text | 9w
+    John Connors welcome to the Slalom Board of Directors!
+
+7357170088573063168 | Brad Jackson | image | 115w
+    I'm thrilled to recognize Slalom's Global Marketing team for their amazing work behind our Zero Legacy campaign launch. Seeing it featured on CNBC and recognized by Ad Age as one of the "Creative Campaigns to Know About" confirms what I've always known – this team creates breakthrough moments and they're just getting started. And this  [...]  across our entire organization. Thank you for this bold work that's moving Slalom forward. #SlalomTeam #ZeroLegacy
+
+7438300127657705472 | Braison Murgai | image | 154w
+    PLG is a magnet. ABM is a spear. Most B2B SaaS companies only have the magnet. The magnet pulls people in — signups, free trials, inbound demos. And for $0–$5M ARR, it's beautiful. Efficient. Scalable. But magnets don't work on enterprise or large corporate accounts. The VP of Operations with a $55K budget isn't going  [...]  hunts the accounts that will never self-serve into the funnel. #ABM #AccountBasedMarketing #B2BSaaS #PLG #SalesLedGrowth #GTM
+
+7447112763111501824 | Braison Murgai | video | 61w
+    Every B2B SaaS company has the same unfair advantage right now: AI makes content fast, cheap, and infinite. So why is almost everyone struggling to hold margins high and still produce an ROI? Because when everyone has the same advantage, it's not an advantage anymore. This video breaks down the attention economy trap and the one counterintuitive move that actually wins.
+
+7447762069795360768 | Braison Murgai | text | 145w
+    This may be an unpopular opinion: Most AI content strategy is making brands less trustworthy, not more visible. Here's why: In the age of AI, buyers have developed a new filter. They're not just reading your content. They're asking: “Does this company actually pay attention?” The typo nobody caught. The case study with the wrong  [...]  that sweat the small stuff right now are standing out in a sea of AI slop.
+
+7449533873387974656 | Braison Murgai | video | 16w
+    How to earn trust when competing on volume in a market where everyone else has volume.
+
+7467655291556368384 | Braison Murgai | image | 166w
+    I scoped a $20K/mo demand-gen engagement live yesterday. The platform is a public safety SaaS launching a new product into school districts. They wanted to know what ROI looked like before shaking hands 🤝 . Here's the napkin math I shared on screen: Baseline ACV: $26,000 (a blend of their $2.5K self-serve product and their  [...]  line. How much strategic leverage are you leaving on the table by not doing the math?

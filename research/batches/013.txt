@@ -1,0 +1,169 @@
+# batch 013  -  55 posts  -  label per research/CLASSIFICATION-PROTOCOL.md
+# labels: problem exploration requirements selection validation consensus
+#         recruitment culture event product-news csr unclear
+# write research/labels/013.tsv as: <id><TAB><label>
+
+7443438298561429504 | Dexterity | video | 9w
+    Friday is here, shift complete, MECH out!!! 🔈 on!
+
+7445246479730114560 | Dexterity | video | 137w
+    Think you can pack a truck better than a robot? If you like puzzles that seem simple at first but get very complex, very fast, this challenge is for you. Foresight is Dexterity's world model for Physical AI, helping robots understand their environment, predict outcomes, and make fast, safe decisions in complex settings. Why is it hard? One bad move  [...]  -$50K -Interview opportunity at Dexterity Ready to test your skills? Try the challenge: https://lnkd.in/guS87U-2 #Dexterity #PhysicalAI #WorldModel #Foresight
+
+7446396385991700481 | Dexterity | text | 0w
+    
+
+7447446319889096704 | Dexterity | video | 87w
+    We showed off Foresight last week. Today it's Instinct — the force control agent that sits on top of our world model. Foresight gives it context. Real physics handles the rest. The counterintuitive bit: we intentionally blind the agent in certain scenarios. That constraint is actually what unlocks generalization way beyond what VLAs and imitation learning can do. One arm  [...]  — all zero shot. And there's still headroom to fine-tune for production-grade results. Blog incoming. Watch with sound.
+
+7452082744588779520 | Dexterity | link | 48w
+    When humans pick up objects, we trust our gut. Now physical AI can too. Introducing Instinct — Dexterity's force control agent and the first intelligent sense of touch deployed on real industrial problems. Read more from co-founder Robert Sun and our latest blog post (link in comments). https://lnkd.in/gdw8tVtW
+
+7455650925961981952 | Dexterity | text | 32w
+    Game Over. Evaluation: ON. The Dexterity, Inc. Foresight API Challenge has officially closed! With over 51,000 games played, developers battled it out. Check out the breakdown below! #PhysicalAI #Dexterity #Foresight #Stanford #CalBerkeley
+
+7456126253700644864 | Dexterity | text | 67w
+    The Foresight API Challenge has entered the evaluation period. 51,000+ games played. Five finalists who rose to the top. They have until May 3 to battle each other for the top spot. Stay tuned. The leaderboard isn't done talking yet. A winner announcement is coming and trust us, you'll want to follow along for that one. dexterity.ai/challenge #PhysicalAI #Dexterity #Foresight Andrew Uhle Thomas DiGregorio Ahmet Burak Yıldırım
+
+7471016663484743681 | Dexterity | link | 101w
+    We're excited to participate in Physical AI SuperConnect 2026 and join industry leaders, innovators, and partners shaping the future of intelligent automation. As Physical AI continues to transform logistics, supply chain operations, and industrial environments, Dexterity is focused on deploying AI-powered robotic systems that can perform complex tasks with human-like adaptability, reliability, and speed. We look forward to engaging with  [...]  2026. 🔗 Register now → https://lnkd.in/garnQmwm #DexterityAI #PhysicalAI #Robotics #ArtificialIntelligence #Automation #WarehouseAutomation #SupplyChain #IndustrialAI #LogisticsTechnology #Innovation #KOTRA #PhysicalAISuperConnect2026
+
+7475701066416947200 | Dexterity | image | 194w
+    Dexterity, Inc. and Kawasaki Robotics set out to answer a big question: What happens when one of the world's most trusted robotics companies joins forces with a company obsessed with bringing Physical AI into the real world? Today, we're excited to share the next chapter of that journey. Kawasaki Robotics and Dexterity are expanding our collaboration to scale Physical AI  [...]  getting started. Here's to the next generation of warehouse automation. Full announcement https://okt.to/3MV81h #PhysicalAI #WarehouseAutomation #LogisticsAutomation #Robotics #SupplyChain
+
+7477497425683771394 | Dexterity | text | 14w
+    Why Korea Is Watching Physical AI? 조선일보 (The Chosunilbo) The Korea Economic Daily (Hankyung)
+
+7477767380484415488 | Dexterity | text | 77w
+    We're excited to join Berenberg Capital Markets Global Fireside Chat to discuss how Dexterity, Inc. is redefining Physical AI by solving the hardest real-world problems for top global enterprises. Join our Founder & CEO, Samir Menon, CFO JAG Setlur, and Berenberg's Zachary Brantly for a discussion on how Physical AI is transforming warehouse and logistics operations at enterprise scale. Please get in touch with your Berenberg representative to request an invitation. #PhysicalAI #Robotics #AI #Automation #FutureOfWork #DexterityAI
+
+7484012622435012608 | Dexterity | image | 28w
+    Our Mech got a little distracted this week. Can't blame it. Good luck to Spain and Argentina in the final. We'll be watching from the warehouse floor. ⚽
+
+7493783925501083648 | Dexterity | image | 128w
+    Big robots. Bright minds. One unforgettable visit! We had the pleasure of welcoming students from the Daejeon Metropolitan Office of Education to Dexterity's Silicon Valley headquarters as part of their 2026 Science Research Experience Program. Hosted by Joey Li, the students got an up-close look at Physical AI and explored how intelligent robotics is transforming real-world operations. Their curiosity, enthusiasm,  [...]  we hope there are a few future roboticists in this photo! #DexterityAI #PhysicalAI #Robotics #STEMEducation #FutureEngineers #SouthKorea #SiliconValley
+
+7495992231401574400 | Dexterity | link | 164w
+    Physical AI isn't theoretical. At Dexterity, Inc., it's already in production. And that real-world impact is getting noticed. Dexterity has been named one of Business Insider's 25 most promising robotics startups of 2026, based on nominations from leading investors across the robotics ecosystem. For us, Physical AI is about more than what robots could do. It's about what they're doing  [...]  to real-world work, this is Physical AI in production. Read the full article: https://lnkd.in/gxx9Ewdt #PhysicalAI #Robotics #AI #Automation
+
+7458203266984890368 | Directive Consulting | multi-image(2) | 99w
+    A lot of events are built around visibility. Slap a logo on something, put strangers in a room, and hope conversations happen naturally. Directive wanted to build something different. The reality is that networking can feel awkward. That's why these experiences are intentionally designed with an interactive element to support real connection among strangers in the B2B marketing space. Cooking  [...]  beyond work. Really loved this Atlanta group, so many smart B2B marketing leaders in one room. 🍽️ ✨
+
+7458516112972918784 | Directive Consulting | multi-image(2) | 161w
+    Our latest Player of the Week is Ayo Aribisala! 🎉 Ayo has been a cornerstone of the RevOps team for the past year, and his reputation speaks for itself. He never gives up, always finds a way to solve the problem, and goes above and beyond for clients and teammates alike, even when it falls outside his department. His recent  [...]  Ayo, your consistency and heart are what make this team great. Thank you for everything you do! 🏆
+
+7459605001703903232 | Directive Consulting | image | 119w
+    Most founders think they know their ICP. Most of them are pitching ghosts. Broad targeting feels safe. But it's quietly draining your runway and killing your Series A before it even has a chance. There's a better way to build. Join us May 28th at 9AM PST / 12PM EST for a live webinar built specifically for startup founders and  [...]  built for early-stage constraints Zero fluff. Just the playbook you actually need. Register: Link in the comments 👇
+
+7459965676498104320 | Directive Consulting | video | 186w
+    Your north star metric is either building your business or quietly killing it. The metric your marketing team celebrates every week might be the exact reason your CFO is asking hard questions in QBR. Most SaaS teams default to MQLs because they're easy to count and easy to celebrate. What they're not is financially meaningful. Your CFO doesn't build a  [...]  for the wrong outcome. What's your current NSM and does your whole GTM team actually know it? ⬇️
+
+7460328000677629952 | Directive Consulting | multi-image(2) | 94w
+    Denver, your seat at the table is waiting. 🍝 We're hosting a private evening for Director-level+ B2B SaaS marketing leaders on May 27 in Five Points, Denver. The night will be led by Italian chef Gianpaolo through an interactive masterclass in Italian cooking. No awkward networking circles, no sales decks, just an unforgettable experience with great people. These events are  [...]  This evening is reserved for Director-level+ leaders only. If you'd like to join the waitlist: Link in comments
+
+7462140029394599936 | Directive Consulting | video | 174w
+    Your catalog has thousands of SKUs. The buyer searching for your exact product right now can't find a single one. Industrial B2B buyers don't search like consumers. They're not browsing. They already know what they need. A specific part number, a voltage rating, a thread pitch, a material grade. That search string is essentially a purchase order. The only question  [...]  is where your highest-intent buyers disappear. How is your team currently handling catalog structure for B2B search? ⬇️
+
+7462502400893816832 | Directive Consulting | multi-image(2) | 158w
+    Our latest Player of the Week is Lisandro Cuello! 🎉 Lichi is the kind of person who makes every room, call, and deck better just by being in it. As the Creative Manager, he elevates the creative standard at Directive across the board. He is always the most prepared person in the room, no ask is too small or too  [...]  Lichi, we are so lucky to have you. Thank you for everything you bring to this team! 🏆
+
+7462883875225145344 | Directive Consulting | multi-image(5) | 99w
+    Sat down with Lauren Marks last week to talk the future of B2B Commerce. No panel. No keynote. Just two people in a room who spend all day in the weeds of how B2B brands actually buy and sell in 2026. Lauren runs Commerce at Directive. This convo covered how buyer behavior has shifted faster than most GTM teams have  [...]  more technology. They're fixing the foundation first. I learned something from this one. Episode dropping soon. Stay tuned.
+
+7463582607189024769 | Directive Consulting | video | 157w
+    Big news...Directive is now one of the first LinkedIn Ads Certified Agencies in the world. 100% of our paid team is certified. Every strategist running campaigns for our clients has been tested and verified by LinkedIn across Fundamentals, Strategy, Creative, and Measurement. We've spent over $150M on the platform. We've built proprietary tech in Stratos that integrates LinkedIn's Conversion API  [...]  for a LinkedIn Ads Certified agency that actually moves pipeline, not just impressions, let's talk. LinkedIn for Marketing
+
+7465054211018473472 | Directive Consulting | video | 188w
+    Every B2B manufacturer has talked to at least one ecommerce agency. And every one of those agencies handed them a DTC playbook and it flopped. Here's why. The agencies that built expertise in ecommerce did it for consumer brands. ❌ They learned audience targeting from skincare. ❌ They learned retention from DTC subscriptions. ❌ They built their entire mental model  [...]  level of commerce excellence that consumer brands have had for years. That is why we built Directive Commerce.
+
+7465818322111021057 | Directive Consulting | video | 173w
+    Amazon is discounting your products below MAP right now. And there's nothing in your distributor agreement that stops it. The most consequential decision most industrial manufacturers haven't made consciously is 1P vs 3P. Getting it wrong is expensive in ways that don't show up until the margin is already gone. 1P means Vendor Central. Amazon buys your inventory wholesale, controls  [...]  industrial brand trying to figure out the right path forward, talk to Lauren Marks at Directive Commerce. ⬇️
+
+7467583438125113344 | Directive Consulting | video | 153w
+    If your Reddit ad reads like a press release, Reddit will punish you for it. Paige Stuhrenberg, Associate Director of Communications, at Directive broke this down in our latest webinar, and it's the rule most B2B brands ignore at their own expense. Reddit users have the highest ad skepticism of any platform. They can smell corporate marketing from a mile  [...]  If you're still writing ads like internal slide decks, you're losing. Watch the breakdown below. Link in comments.
+
+7467945850879569920 | Directive Consulting | multi-image(2) | 151w
+    Our latest Player of the Week is Isaac Archer! 🎉 Isaac is what his teammates call "the silent assassin," and honestly it tracks. He navigates QBR after QBR with a calm, collected presence that genuinely cannot be taught, communicates with confidence in rooms full of CMOs, and consistently shows up as a true partner to every client he works with.  [...]  Isaac, your calm, your care, and your craft don't go unnoticed. We're so lucky to have you! 🏆
+
+7468308083572842496 | Directive Consulting | video | 222w
+    The B2B brands that lose to AI commerce won't know it's happening until it's too late. It starts with a broken feed. Here's why. Buyers used to open seven tabs to research a purchase. Specs, pricing, supplier reputation, distributor comparisons. It took time. That's why B2B marketing was always hard to prove, because the research cycle was long and invisible.  [...]  and Directive Commerce is built to solve. Fix the feed now or lose to a competitor who did.
+
+7474831117125148672 | Directive Consulting | image | 178w
+    Are LLMs recommending you? Your competitors? Both? Neither? If you can't answer that, you're losing pipeline you can't see. Your buyers are using ChatGPT to shortlist vendors before they ever visit your website. And most B2B brands have no idea how they're being represented in those answers. On June 29th at 12 PM PST, our SEO and Content team is  [...]  420+ B2B brands. $1B+ in revenue influenced. We're handing you the playbook. Register: Link in the comments 👇
+
+7475178524149149696 | Directive Consulting | video | 203w
+    Nobody cares about your firm's positioning statement other than your marketing team. And the reason why may surprise you. Most positioning statements get built the same way. A workshop, a whiteboard, a list of adjectives, and a vote on which ones "feel right." Experienced. Innovative. Client-first. Whatever wins gets put on the website and called differentiation. Nobody outside that room  [...]  anything is proof it was never more than copy. Your buyers can tell the difference. Can your execs?
+
+7475540749619490816 | Directive Consulting | multi-image(2) | 161w
+    Our latest Player of the Week is Stuart Kinsey! 🎉 Stuart has built a reputation as Directive's go to GEO and SEO expert, someone who shows up prepared, dives into any situation, and makes the whole department better just by being in it. Whether he's mentoring junior team members or becoming the resource everyone turns to for AEO and GEO  [...]  and drive don't go unnoticed. Thank you for being exactly the kind of person Directive is built on.
+
+7475903207509028865 | Directive Consulting | video | 210w
+    Every B2B ecommerce brand that comes to us from a DTC agency tells us the same thing about their old agency. They were optimizing for more traffic and clicks. In B2B e-comm, that's the wrong goal entirely. More traffic doesn't mean more revenue when your buyer is a procurement manager comparing specs, not an impulse shopper checking out in two  [...]  for a school district. That's the gap DTC agencies can't close. We built Commerce specifically to close it.
+
+7476302739568779264 | Directive Consulting | video | 145w
+    How much of your revenue this year came from ChatGPT? Most B2B marketers can't answer that. And honestly, that's the problem. Benjamin Glass-Liu put it bluntly: teams are layering on every AI optimization tactic they can find, but when leadership asks what it's actually doing for the business, nobody knows what to say. Meanwhile, your buyers are already in ChatGPT,  [...]  move the needle, and how to defend the investment when your CMO asks. Register below. Link in comments.
+
+7477352732614623232 | Directive Consulting | video | 215w
+    Ask ChatGPT who the best vendor in your category is. If your name doesn't come up, ChatGPT doesn't know who you are and neither does your buyer. ChatGPT, Perplexity, and Gemini don't pull vendor recommendations out of thin air. They surface what's already structured, credible, and confirmed across the web. If you don't know what shapes that, you can't influence  [...]  the question that matters to your business, that's worth finding out before you find out the hard way.
+
+7477724013796990977 | Directive Consulting | multi-image(4) | 91w
+    Try selling to someone who fact-checks your claim before you finish the sentence. That's David Vogelpohl's entire audience. Developers. Gamers. Technical buyers who don't take a single word at face value. He's CMO at FastSpring, and he's spent his career inside that room. On the inaugural episode of GTM Confessions, Isaiah Studivent sits down with him to ask the question  [...]  you're lying to them? No talking points. No press training. Just the real answer. Episode one drops tomorrow.
+
+7478085093132091393 | Directive Consulting | image | 150w
+    The CMO who's spent his entire career marketing to people who assume he's lying just sat down for episode one of GTM Confessions. Here's what came out. David Vogelpohl has been the CMO in the hardest rooms in B2B. Developers. Gamers. Technical buyers who fact-check every claim before they'll take a meeting. First at WP Engine, now at FastSpring. His  [...]  increase trust in your owned content, not kill it Watch the full episode on YouTube. Link below. ⬇️
+
+7479889413548953600 | Directive Consulting | video | 70w
+    A developer who hates marketing walks into a room. David Vogelpohl's opening line isn't a pitch. It's a question. Because developers aren't wired to be convinced. They're wired to learn and solve. Come in brash, they shut down. Come in seeking to understand, they warm right up. The whole game changes when you stop trying to convince and start trying to learn. Full episode on YouTube. Link in bio. ⬇️
+
+7480295703789981696 | Directive Consulting | multi-image(2) | 150w
+    Our latest Player of the Week is Madeleine Kaplan! 🎉 Maddie has a rare ability to make every brand she touches look and feel better. From landing pages to motion work to full visual systems, she delivers polished, thoughtful creative on even the tightest timelines, and does it all with a calm, open attitude that makes the whole team stronger.  [...]  this team don't go unnoticed. Thank you for being exactly the kind of person Directive is built on.
+
+7480659456440152065 | Directive Consulting | video | 110w
+    Most marketers who launch a campaign that bombs spend more energy hiding it than learning from it. David Vogelpohl launched a "Hug an Engineer Day" activation at a live event. It didn't make it out of the room. Nobody wanted to be hugged. Nobody wanted their picture taken. The campaign died quietly. The insight it left behind didn't. Engineers don't  [...]  job. Not appreciation. Elevation. The campaign fell flat. But the marketing lesson outlasted it. Full episode on YouTube.
+
+7480976561588871169 | Directive Consulting | image | 131w
+    The 25-year era of the click is over. Google's AI Mode changed the rules. AI Overviews now appear on 82% of B2B tech queries. Organic click-through rates on those queries are down 65% since 2024. The scoreboard shifted. Citation share is the new revenue metric. Brands that get cited shape buyer decisions. Brands that don't lose the consideration set entirely.  [...]  Commerce) 45 minutes. No fluff. The exact playbook we're running across 420+ B2B brands. Register link in comments.
+
+7482426136799408128 | Directive Consulting | multi-image(5) | 84w
+    Every CRO has something they'd say to marketing if the cameras weren't rolling. Kevin Feagan decided to say it out loud. He's the CRO at Cleverbridge. Twenty years in payments and ecommerce. He's sat in the room when quarters go wrong, when marketing and sales are pointing fingers, and when the board is waiting for someone to own it. That  [...]  things in it. And this week he said it on camera. Episode two of GTM Confessions drops Wednesday.
+
+7483180359967219712 | Directive Consulting | image | 131w
+    Every marketing team has wondered what their CRO actually thinks about them. Episode two of GTM Confessions is the answer. Kevin Feagan is the CRO at Cleverbridge. 20 years building revenue organizations across fintech and payments. He's sat in board meetings when quarters went wrong, watched the blame game start between marketing and sales, and has a very specific opinion  [...]  looks like at a private equity backed company Watch the full episode on YouTube. Link in below. ⬇️
+
+7483513272244129792 | Directive Consulting | multi-image(2) | 143w
+    Our latest Player of the Week is Sarah Lewandowski! 🌟 Sarah hits the ground running on every account she touches, bringing true ownership over client relationships and strategy from day one. She is relentless in the pursuit of excellence, proactive in finding gaps before they become problems, and calm under pressure in every client interaction. Her impact does not go  [...]  the standard for strategic ownership. Thank you for being exactly the kind of person Directive is built on.
+
+7483937202616508416 | Directive Consulting | video | 101w
+    Marketing's job was never to generate leads. It was to generate the right ones. Kevin Feagan has spent 20 years on the revenue side of the table. And the one thing he's told every marketing team he's ever worked with is the same. Stop chasing volume. Start chasing fit. Because bad leads don't just lose deals. They burn rep motivation,  [...]  actually looks like in motion is worth 74 seconds of your time. Full episode link in comments. ⬇️
+
+7485325276118450176 | Directive Consulting | video | 118w
+    Boards don't fire CMOs and CROs for missing a number. They fire them for the surprise. Kevin Feagan has sat in those rooms. Twenty years in fintech and payments. Private equity backed organizations where a miss without a plan doesn't just cost a quarter. It costs seats. His point isn't that missing is okay. It's that the marketing and sales  [...]  the surprises start. And that's when the room gets uncomfortable for everybody. Full episode link in comments. ⬇️
+
+7485733153316229120 | Directive Consulting | video | 160w
+    Ranking higher isn't the competitive advantage anymore.Being ready when AI is ready to buy is. Lauren Marks, our Managing Director of Commerce, broke it down: Google I/O 2026 changed the game for e-commerce, and it comes down to two things. UCP compliance. And building a commerce experience AI can actually transact with. If your platform isn't Universal Commerce Protocol compliant,  [...]  B2B brand and haven't audited your UCP readiness yet, this is the playbook. Register below in the comments.
+
+7487871698197905408 | Directive Consulting | image | 148w
+    The rules of B2B discovery just got rewritten. Google's AI Mode is live. AI Overviews are showing up on 82% of B2B tech queries. Organic CTR on those queries is down 65% since 2024. And the 25-year era of the click? Over. Citation share is the new revenue metric. If your brand isn't cited inside AI answers, you're not just  [...]  Managing Director, Commerce 45 minutes. No fluff. The exact playbook we're running across 420+ B2B brands. Register below!
+
+7488587847638286336 | Directive Consulting | image | 107w
+    Happy International Intern Day! At Directive, internships are more than a résumé builder. They're an opportunity to contribute to real client work, learn alongside industry experts, and gain hands-on experience that accelerates careers. Today, we're celebrating three incredible members of our marketing team: Risha Myadala, Isabella Lartey, and Abby Hildebrand. From supporting campaigns, content, and social to taking ownership of  [...]  building your career with a team that's invested in your growth? Explore opportunities on our LinkedIn Jobs page.
+
+7490761091413876736 | Directive Consulting | video | 145w
+    Directive isn't for everyone. And that's the point. We're a team of 100+ marketers across 6 countries who've generated over $1B in revenue for the most ambitious B2B brands in the world. The bar is high. The standards are real. And the people who thrive here are operators who want to be surrounded by other operators. But intensity without investment  [...]  environment, we're hiring across Performance, Communications, and Commerce. Check out our careers page and apply. Link in comments.
+
+7491123424270929920 | Directive Consulting | text | 126w
+    Your CPL dropped 30%. Pipeline didn't move. Nobody in leadership is celebrating. That disconnect runs through almost every B2B marketing org we've audited across 420+ brands. The metrics teams report weekly are often the same ones that hide where budget is actually leaking. Five of the most common: ➡️ More leads = more revenue ➡️ Lower CPL = better performance  [...]  What's one number your team reports every month that has never been tied back to a closed deal?
+
+7491485933478002688 | Directive Consulting | video | 218w
+    Every B2B PR team I've worked with can tell you their impression count from last quarter. Not one of them could tell you if it moved a deal. That question is never "how many people saw it." It's "what did it change." The gap between those two answers is where PR budgets die. Not because the work didn't perform. Because  [...]  the PR program drove last quarter. If your CFO can't do that today, the coverage isn't the problem.
+
+7492595178931892225 | Directive Consulting | multi-image(4) | 107w
+    A CRO who took a company from one salesperson to $100M ARR walked away from it. Then he did it again somewhere else. And again. Six companies. Six times choosing to go back to zero with no team, no pipeline, and no proof it would work again. Matt Schatz is the CRO at Hivelocity. Before that, Rackspace through the IPO.  [...]  begs. Why does someone keep choosing to start over? And which restart was a mistake? Episode drops soon.
+
+7492935413213507584 | Directive Consulting | multi-image(2) | 153w
+    Our latest Player of the Week is Kelsey Gage! 🌞 Kelsey keeps the candidate pipeline moving with speed, precision, and a standard that never slips. In July alone, she helped hire 18 people at Directive, all while maintaining the rigorous process the agency is known for. She is the first face candidates see and sets the tone for everything that  [...]  this team don't go unnoticed. Thank you for being exactly the kind of person Directive is built on.
+
+7493317911537741824 | Directive Consulting | image | 175w
+    A sixth grade social studies teacher became one of the most successful CROs in Austin tech. The skill that carried over isn't the one you'd guess. Matt Schatz has built and rebuilt revenue organizations six times. Rackspace through the IPO. Bazaarvoice pre-IPO. WP Engine from one salesperson to $100M ARR. Cosential. Flowspace. Now Hivelocity. He's never had an MBA. He  [...]  culture is the thing holding early stage companies back Watch the full episode on YouTube. Link in comments.
+
+7493660142148726784 | Directive Consulting | image | 192w
+    Peer recommendations carry 5x more trust than anything your brand posts. Your buyers are forming opinions in Slack threads, podcast feeds, and LinkedIn comments before they ever talk to sales. Most B2B teams know this. Very few have an actual program for it. The real question is operational: Who are the right practitioners to partner with? How do you compensate  [...]  The actual program architecture. August 27 | 1 PM EST | 45 minutes Register now. Link in comments.

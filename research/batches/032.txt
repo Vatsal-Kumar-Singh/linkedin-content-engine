@@ -1,0 +1,169 @@
+# batch 032  -  55 posts  -  label per research/CLASSIFICATION-PROTOCOL.md
+# labels: problem exploration requirements selection validation consensus
+#         recruitment culture event product-news csr unclear
+# write research/labels/032.tsv as: <id><TAB><label>
+
+7492931686935003137 | Thoughtworks | link | 68w
+    Wealth providers create value every day. Their technology should keep up. That's why we're partnering with Iress to modernize the wealth management platforms that power leading firms across the globe, combining our AI/works™ platform with our customer experience and product design (CXPD) capabilities. The payoff: advisers spend less time on manual work, wealth providers gain new revenue opportunities and everyone gets a better experience. 👉 Learn more: https://lnkd.in/dr_WjfwT
+
+7492970807078486017 | Thoughtworks | image | 101w
+    Congratulations to NVIDIA on the launch of Nemotron 3.5 Lightning. We had early access to the new model and put it to the test. Here's what we found: ⚙️ Highly customizable - We post-trained it for legal and healthcare use cases in just an afternoon. ⚡ Fast out of the box - We achieved 5x higher throughput compared to other  [...]  Allen Roush and Andy Nolan share their findings and explore what's possible with NVIDIA's new model. 👉 https://lnkd.in/dxJCMEMj
+
+7493290265189949441 | Thoughtworks | video | 38w
+    Another perspective from our Future of Software Engineering Retreat. 🏔️ Listen as David Whitney, Director of Architecture at NewDay, shares his perspective on the conversations, key themes and what they could mean for the future of software engineering.
+
+7493599816917155854 | Thoughtworks | link | 111w
+    AI can generate code in seconds. The harder question is whether that code is ready for the enterprise. The latest release of AI/works™ is designed to close that gap with deeper governance, security and observability. Teams can: → Govern actions, policies and token spend from one place → Move from understanding legacy code to designing future-state architecture → Trace every  [...]  Live session with Karthik Srinivasan and Sandeep Reddy where they share challenges and learnings from building AI/works™: https://lnkd.in/dCHCVB83
+
+7494015117995601920 | Thoughtworks | multi-image(19) | 95w
+    The AI/works™ Innovation Hackathon 2026 has brought Thoughtworkers from across regions, roles and disciplines together to experiment with AI, challenge assumptions and turn real-world problems into new ideas. With the regional semifinals now complete, we're celebrating not only the teams moving on to the global finals, but everyone who participated. Ideas from across the hackathon are already finding their way  [...]  to all our participants and regional finalists, and best of luck to the teams heading to the finals!
+
+7494362653176381440 | Thoughtworks | video | 65w
+    Not every office comes with a view of an active volcano. 🌋 During a recent visit to our Quito office, Thomas Squeo, CTO of Thoughtworks Americas, captured a glimpse of the space, the city and the remarkable landscape surrounding our team in Ecuador. Watch until the end for an incredible view of Volcán Pichincha, one of the features that makes our Quito office truly distinctive.
+
+7494626563766976513 | Thoughtworks | image | 103w
+    AI models can reason and agents can plan, but can your enterprise data explain itself? In this blog, Zichuan Xiong , Nimisha Asthagiri and Shrinidhi Kulkarni explore what it really means to make data AI-ready, and why traditional approaches to data modernization need to evolve for the agentic era. They unpack how semantic meaning, relationships, temporal validity and machine-readable context  [...]  learn how making data AI-ready can help close the gap between AI experimentation and enterprise value 👉 https://lnkd.in/dHWHJQMx
+
+7495094636697522177 | Thoughtworks | image | 116w
+    What does the rise of AI-assisted and agentic engineering mean for the future of software development, and what should technology leaders be thinking about today? In the latest Thoughtworks Technology Podcast, host Ken Mugrage is joined by Kief Morris, author of Infrastructure as Code, and Andrew Harmel Law, author of Facilitating Software Architecture, to reflect on conversations from our Future  [...]  for insights from the retreat and explore what the future of software engineering could look like 👉 https://lnkd.in/dxXMKYF8
+
+7495362673606287360 | Thoughtworks | multi-image(4) | 82w
+    We were delighted to join Snowflake World Tour Sydney, celebrating our partnership and bringing a little Thoughtworks hospitality to the event with our coffee cart. A highlight was Alexander Moore's Après Ski session, exploring the ideas shaping the future of data, AI and technology and our shared commitment with Snowflake in helping organisations get more value from their data. Thank  [...]  joined us in Sydney, shared the conversation and stopped by for a cuppa. It was great to connect!
+
+7495490128375840768 | Thoughtworks | video | 68w
+    If AI agents are writing more and more code, do we even need to design it for humans? Valentina Servile argues that good software design matters more, not less, in the age of AI. As humans and agents increasingly collaborate, readable and maintainable code is critical if we're to keep systems adaptable and reliable. Explore why human judgment still belongs at the heart of software design: 👉 https://lnkd.in/d8H5jj3Y
+
+7495828519084638210 | Thoughtworks | link | 81w
+    We're proud to announce that Thoughtworks has joined Anthropic's Claude Partner Network as a Select partner in the Services Track. Select status reflects the Claude practice Thoughtworks has built, helping clients embed Claude within complex technology environments in two connected areas: 1. Changing how enterprise software is built, deployed and maintained 2. Engineering agentic systems across the enterprise. so enterprises  [...]  while maintaining the governance, security and operational controls required for production-scale AI. Read the full announcement here: https://lnkd.in/dWv_r6k2
+
+7496008222416424960 | Thoughtworks | link | 137w
+    Ready or not, the conditions for agentic commerce are forming faster than most businesses realize: ✅ 81% of consumers already shop with AI. ✅ 98% of businesses report AI-referred traffic – with 76% saying it converts at above-average rates. ✅ 63% of businesses expect over 10% of revenue from agentic commerce within two years. ✅ 54% of businesses are pursuing  [...]  where businesses are falling behind and what it takes to close the gap. Read the full report: https://lnkd.in/dfFDqDM8
+
+7496191872638394368 | Thoughtworks | multi-image(12) | 131w
+    🎉 Last week, we celebrated two big milestones at once: the opening of our brand-new Santiago office and the launch of the Technology Leaders Network in Chile — right as Thoughtworks marks 10 years in the country. The evening brought together technology executives from across the region for a candid fireside conversation between Sandra Guazzotti and Thomas Squeo, moderated by  [...]  Stanley, Thomas Squeo and Rett Lowell Monson for making the night happen. Here's to many more conversations. 🌎
+
+7496415358015135744 | Thoughtworks | text | 92w
+    A great presentation at Stripe World Tour 2026 in Sydney, where Bel Higgins and Nat Tanner brought our latest research on agentic commerce to life. It was great to see the findings from our joint Stripe and Thoughtworks research discussed in the context of how AI is already changing the way people discover, choose and buy. Thanks to Stripe and  [...]  who joined the Town Hall session. Nat has shared some highlights and photos from the session below 👇
+
+7496549928681414656 | Thoughtworks | video | 100w
+    As AI agents become part of software delivery, a new challenge is emerging: how do you scale harness engineering across an enterprise without sacrificing autonomy? In the latest Thoughtworks Technology Podcast, host Ken Mugrage is joined by Thomas Squeo , Chief Technology Officer and Head of Advisory for the Americas, and Matias Kamelman, Innovation Choreographer, to explore enterprise harness engineering  [...]  leaders and teams should consider as they take harness engineering from individual experimentation to enterprise scale. 👉 https://lnkd.in/dD5T6kMY
+
+7496884291348480000 | Thoughtworks | video | 71w
+    First job? ✅ Dream superpower? ✅ Leadership style… in an emoji? 👀 We put John Reid-Dodick (JRD), our Chief People and Leadership Officer, through the Get to Know questions. Along the way, we got his take on building trust across global teams, spotting emerging leaders, culture during transformation and the future of human + AI collaboration. And, of course, what brought him to Thoughtworks in the first place. 🎥 Meet JRD
+
+7497382220467281920 | Thoughtworks | image | 52w
+    Spatial computing creates value when immersive technology is connected to a clear business outcome. Thoughtworks has been named to the Constellation Research, Inc. ShortList™ for Spatial Computing Design and Services. We work with organizations to connect physical and digital environments, helping improve operations and create more intuitive experiences for customers and employees.
+
+7497638981661196289 | Thoughtworks | image | 109w
+    What if the biggest barrier to scaling enterprise AI isn't the model? As organizations move from AI-assisted work to delegated, agentic work, the challenge shifts from model capability to control: how much autonomy should agents have, under what constraints, with what oversight and who is ultimately accountable? Thomas Squeo and Matias Kamelman introduce enterprise harness engineering, a four-layer approach spanning  [...]  it: Platform engineering solved repeatability. Harness engineering solves controllability. Explore the operating system for enterprise AI 👉 https://lnkd.in/dbpNqAqx
+
+7498001269177950209 | Thoughtworks | image | 60w
+    Years of under-invested data foundations are finally catching up with enterprise AI initiatives. Without high-quality data, clear ownership and real-world user context, even the most promising agentic projects are bound to stall. In this edition of Perspectives, Amy Raygada and Jade Forsberg share frontline insights on why strengthening your core data foundation is the way forward for scalable AI: https://lnkd.in/dPkayqZC
+
+7498221224616140800 | Thoughtworks | image | 50w
+    Modernising a platform used by hundreds of thousands of financial advisers isn't just a technology challenge — it's a culture shift. That's what Iress is navigating as it moves Xplan toward a more modular, AI-enabled architecture, with Thoughtworks as the technology partner supporting the transformation. Read how it's unfolding: https://lnkd.in/gstZdHt9
+
+7498348772930785280 | Thoughtworks | text | 109w
+    Agentic AI is getting more capable. But capability isn't the hard part anymore. The harder questions are about control: what should agents be allowed to do, what context should they rely on, when should humans step in and how do you keep all of that reliable at scale? In the latest Thoughtworks Tech to know, we look at the ideas  [...]  as intended 🎟️ XConf 2026: Registrations open! Featuring perspectives from Thoughtworks technologists working through these problems in practice.
+
+7498409037261238272 | Thoughtworks | image | 77w
+    The next competitive advantage won't come from having AI agents. It will come from how well they work together. As enterprises move beyond AI assistants to autonomous agents, success will depend on more than powerful models. It requires an ecosystem built on trusted data, modern platforms, governance and interoperability—so agents can reason, collaborate and act with confidence. In partnership with Amazon Web Services (AWS), we've explored what it takes to build that foundation. 📘 Explore Now: https://lnkd.in/dCZ82MTE
+
+7498722567122325505 | Thoughtworks | video | 62w
+    For Cecilia Geraldo Quijada, career growth at Thoughtworks has been a journey of taking on new challenges, embracing new responsibilities and continuously learning along the way. Because career growth isn't always about having the next step mapped out. Sometimes, it's about being open to what comes next and being ready to grow with it. Hear Cecilia share more about her development journey
+
+7499073400259309568 | Thoughtworks | multi-image(16) | 40w
+    Our 96th Thoughtworks University cohort came together to learn, connect and begin their journey of growing together at Thoughtworks. 🎓 Here's a glimpse from the cohort! 📸 Want to know more about Thoughtworks University and the experience? Learn more 👉https://lnkd.in/emqGEE9u
+
+7500176356497059841 | Thoughtworks | image | 56w
+    As volatility, geopolitical disruption and growing data complexity put pressure on margins, agentic AI offers an opportunity to continuously assess conditions and support real-time decisions. Bhavin Shah and Rav Hayer explore how agentic AI could reshape commodities trading, risk management and logistics; and what organizations need to make it work at scale. Read more 👉 https://lnkd.in/dHb--m6V
+
+7500220959522467840 | Thoughtworks | multi-image(6) | 149w
+    What an incredible time in Chicago! Thoughtworks was proud to serve as a Diamond sponsor for the Grainger GTG Tech Conference 2026. This year's theme, "Accelerate with Intention," truly resonated with our team, sparking vital discussions around moving fast the right way, scaling responsible AI and strengthening core technology foundations. A massive shoutout to our speakers who took the stage  [...]  for some fun Thoughtworks swag! It was inspiring to connect with so many brilliant technologists powering Grainger's technology.
+
+7500396068522856448 | Thoughtworks | link | 54w
+    AI has the potential to transform financial advice, but in a profession built on human judgement and relationships, trust has to remain at the centre. In our new joint report with Iress, we explore four practical lessons for adopting AI responsibly, strengthening foundations and designing around people and customer outcomes. Read the report: https://lnkd.in/dYW-H3ve
+
+7500507907814465536 | Thoughtworks | text | 93w
+    A report refresh that once took four to five hours now takes just five minutes. For Bosch Mobility Aftermarket, that improvement came from more than modernizing technology. It came from: -> Building a future-ready data foundation -> Strengthening in-house engineering capabilities -> Laying a foundation for a path for high-value AI use cases for advanced analytics and AI use cases.  [...]  in just three months, helping teams access insight faster and act with greater confidence. Swipe through the story.
+
+7500553161812742144 | Thoughtworks | multi-image(5) | 233w
+    Five years ago, Elizabeth Parra joined Thoughtworks as a marketing intern, starting a new chapter in her career in the middle of a very unusual time. It was 2021, her first experience with a global company and, as Elizabeth openly admits, she was still figuring out exactly what Thoughtworks did. So she got curious. During her first few months, Elizabeth  [...]  Thoughtworkers and alumni can read Elizabeth's full story on Afterworks: https://lnkd.in/dAfcwbWn Once a Thoughtworker, always a Thoughtworker. #alwaysathoughtworker
+
+7500892906640252929 | Thoughtworks | link | 79w
+    Customers are increasingly turning to Claude, ChatGPT and Gemini to ask questions about your company's products instead of your own channels. In this article, Ahmet Sakar explores how enterprises can respond with a practical 3/3/3 approach: building a conversational AI channel of their own to reclaim those interactions, rather than ceding them to third-party platforms. You'll discover how to build  [...]  production-ready MVP, validated for desirability, feasibility and business viability in just over three months. 📖 Read here: https://lnkd.in/dj4pGe4f
+
+7501217528065667072 | Thoughtworks | link | 51w
+    Most enterprise AI initiatives are expensive experiments that deliver little beyond glossy decks. Constellation Research, Inc. audited Thoughtworks' AI/works™ and found something rare: a spec-driven framework that accelerates code velocity without breaking core architecture. Read the full report to find out how AI/works™ is changing the economics of software delivery: https://lnkd.in/dS_9HGBq
+
+7501278257951031296 | Thoughtworks | video | 96w
+    What happens when cloud optimization becomes a source of product investment? As WorkflowMAX expanded into new markets, its infrastructure needed to keep pace with a growing, geographically distributed customer base. Working with Thoughtworks, the team optimized its Amazon Web Services (AWS) environment to deliver: → 23% faster cross-region user journeys → 28% lower cloud costs, with savings reinvested into product  [...]  teams approached the challenge and built a faster, leaner and more secure foundation for WorkflowMAX's continued global growth.
+
+7501549731937099776 | Thoughtworks | image | 144w
+    AI unit costs have dropped 90% since 2023. So why are enterprise AI bills skyrocketing? As organizations scale from simple prompts to complex agentic workflows, token consumption is exploding. But asking teams to write 'tidier prompts' won't fix the problem. Managing AI spend is an architecture challenge, not a user habit problem. Speaking with Aaron Tan for ComputerWeekly.com, our Chief  [...]  matters is execution moats and adapting faster than everyone else." — Shayan Mohanty Read the full analysis: https://lnkd.in/dRcWxrmU
+
+7501617659629891585 | Thoughtworks | link | 73w
+    Insights that matter, all in one place. Explore our latest thinking on technology, engineering and AI in the blogs below. 👇 📖 Read #1 (Sakana AI's Fugu) by Ben O'Mahony - https://lnkd.in/dEUKyXFY 📖 Read #2 (Token Bleed) by Jonathan Fernández Román and George Gerchow - https://lnkd.in/dEKwS8WM 📖 Read #3 (AI in Financial Services) by Puthanveedu Muralikrishnan and Amit Choudhary - https://lnkd.in/dD32BKpS 📖 Read #4 (Closing the Context Gap) by Zichuan Xiong - https://lnkd.in/dbJPV3DF
+
+7501904814746861568 | Thoughtworks | video | 40w
+    More reflections from our future of software engineering retreat. 🏔️ Hear from Abby Bangser, Principal Founding Engineer at Syntasso, as she shares her perspective on the conversations, key themes and what they could mean for the future of software engineering.
+
+7502282004491726849 | Thoughtworks | image | 96w
+    Open-weight models are attracting growing attention. But greater control doesn't automatically make them the right choice. For organizations weighing up their AI options, the decision involves more than model capability. Privacy, cost, governance, infrastructure and the level of control you need all matter. In our latest Technology podcast episode, Ken Mugrage is joined by Caer Sanders and Andre Almar to  [...]  to use them. Listen to Open-weight models: What are they and when should you use them? 👉 https://lnkd.in/dcKDffxT
+
+7502756654023864320 | Thoughtworks | video | 98w
+    AI can generate code faster than humans can realistically review it. So what happens when the traditional pull request becomes the bottleneck? The answer isn't simply faster or AI-powered code review. It's rethinking where engineering rigor and human judgment belong. In her latest blog, Cecilia Geraldo Quijada explores how code review needs to evolve in an AI-native world, from line-by-line  [...]  and managing risk certainly isn't. Read The code review is dead... long live the code review 👉 https://lnkd.in/dka49c-c
+
+7503014379743834114 | Thoughtworks | image | 107w
+    Most AI discussions focus purely on the technology. But as organizations move beyond experimentation, the real differentiator will be delivery excellence. Based on platform modernization programs, successful AI delivery depends on five pillars: 🎯 Purpose: Shifting from "where can we use AI?" to how it improves business outcomes. 👥 People: Preserving human collaboration and alignment while integrating AI. ⚖️ Governance:  [...]  Read Manisha Jagdale's Strategic AI delivery article to learn how to embed AI into proven delivery practices. https://lnkd.in/dt7DUfwx
+
+7503074800857411584 | Thoughtworks | link | 77w
+    Nestlé has been serving Brazilian consumers for more than 100 years. Now, it's reimagining how it serves them digitally. Together, Thoughtworks and Nestlé Brazil built a more integrated digital ecosystem across its brands, using product thinking to create more connected experiences and make digital products easier to manage. This work is expected to reach millions of consumers who interact with Nestlé's brands every day, enabling faster, more personalized journeys at scale. 🍪 Read the full story: https://lnkd.in/dy2KMdFp
+
+7503437222155616256 | Thoughtworks | image | 206w
+    Only 11% of banks say they've actually cracked trustworthy AI at scale. Most are still stuck circling the pilot stage. Piergiorgio Grossi has a theory on why — and it doesn't start with technology. Before joining Credem as Chief Innovation & Data Officer, he spent over a decade in Formula 1 at Ferrari, before digital transformation at Ducati. 🎧 In  [...]  I fail." Hear the full conversation with Piergiorgio Grossi on Pragmatism in Practice, here👇 https://bit.ly/468jZnR #AgenticAI #BFSI #Banking
+
+7503699492840534016 | Thoughtworks | multi-image(6) | 128w
+    Where are leaders placing their bets for advantage in the AI era? At our Sydney Digital Leaders Forum this week, we explored how advantage is shifting, what leaders are prepared to back, and which organisational strengths are worth compounding. One thing stood out: the biggest bets went to growth and modernisation, yet leaders see much of the execution challenge, and  [...]  thank you to everyone who joined us, challenged the thinking and placed a few bets of their own.
+
+7503808469398052864 | Thoughtworks | video | 61w
+    AI agents aren't “wiping databases” by choice — under the hood, they predict tokens based on an objective. It's text in, text out. Autonomous AI is moving to production, making harness engineering and governance critical. Check out Shayan Mohanty's interview with Bernard Marr on enterprise readiness and see how we're scaling agentic systems safely with Thoughtworks AI/works™ Interview: https://lnkd.in/d8iF4qBW AI/works™: https://lnkd.in/dWT6Rs9h
+
+7504109642701246464 | Thoughtworks | multi-image(3) | 56w
+    We're live from XConf Europe in London! 🇬🇧 The conversations are underway, and there's plenty more to come. We'll be sharing key takeaways and highlights over the coming days. Want to follow along in real time? 👀 Catch our XConf London takeover on Instagram and join us behind the scenes. Follow us here 👉 https://lnkd.in/eUDTCeFP #XconfEurope
+
+7402406401853267968 | Trigger.dev | link | 119w
+    In case you missed it, here's some of the things we shipped in November: → Realtime Streams v2 We've added Realtime Streams v2, built with s2.dev, designed for unlimited, reliable and fully type-safe streaming. → Deployments logs in the dashboard When using our GitHub integration, deployment logs are now streamed to the dashboard, making it easier to debug builds and  [...]  made extra concurrency self-serve and cheaper. ↓ Read about all of our latest features in our Changelog https://lnkd.in/deDJcnse
+
+7404218318867406849 | Trigger.dev | link | 196w
+    We're expanding the team with positions across multiple roles: → Developer Relations Engineer This role blends engineering, writing, teaching, and product thinking. You'll create high-quality technical content, shape how developers learn our product, and translate real developer pain points into educational content, better docs, examples, and product improvements. → Product Engineer Build a great developer experience across our web app  [...]  join a US-style startup based out of Europe (HQ in London), we'd love to hear from you! https://lnkd.in/e-_Crfhi
+
+7404943213171535873 | Trigger.dev | link | 117w
+    GovSignals helps companies find and win government contracts and generates fully compliant proposals in hours instead of months: They use a dual-deployment model: - Trigger.​dev Cloud for general customers - Self-hosted Trigger.​dev inside AWS GovCloud for FedRAMP High workloads This allows them to meet FedRAMP High's strict security requirements while keeping a single TypeScript developer experience. Trigger.​dev runs their 10k-source  [...]  of scale practical." - Conner Aldrich, CTO & Co-founder, GovSignals Read their full customer story here → https://lnkd.in/ei-Q-j-B
+
+7406377556880441344 | Trigger.dev | video | 60w
+    We've released native builds for deployments as part of our ongoing effort to improve the reliability of our deployments. Native builds use our own build server infrastructure instead of third-party providers. Deployments will work the same as before, just more reliably. Read the full changelog to learn how our new native deployment system works, and why it matters → https://lnkd.in/eU7vRAtr
+
+7407091865994285057 | Trigger.dev | link | 90w
+    Big news: Trigger.dev has raised a $16M Series A led by Standard Capital, with participation from Y Combinator, Liquid 2 Ventures, Pioneer Fund, Rebel Fund, CTO Fund, Yuri Sagalov (Wayfinder Ventures), Michael Grinich (WorkOS) and more. We help developers build and run production-grade AI agents and workflows, executing hundreds of millions of runs each month for 30,000+ developers. Next up:  [...]  building safer, more capable agents... and we're hiring across multiple roles to help us build it → https://lnkd.in/etRyRCNE
+
+7409276666268782592 | Trigger.dev | image | 167w
+    If you're building AI agents with Claude that can read files, run commands, or modify code, the hard part isn't calling the model, it's running those agents safely over time with visibility into what they're doing. → Claude Agent SDK for agent loops, tools, MCP, and context → Trigger for durable execution, retries, streaming, human-in-the-loop and observability This works especially  [...]  It explores GitHub commits, intelligently fetches diffs on demand, reasons about unclear changes, and produces developer-friendly changelogs. https://lnkd.in/etyvRC-3
+
+7411450988940898304 | Trigger.dev | image | 374w
+    We started the year as a background jobs platform. We ended it as the best way to add AI agents and workflows to your apps. Here are some of our 2025 highlights and future plans ↓ - v4 shipped with a completely rebuilt run engine. Warm starts are now 100-300ms instead of cold-starting every time. Waitpoints let you pause a  [...]  anything requiring background tasks, long-running processes, or AI agents & workflows, get started with Trigger for free: https://trigger.dev
+
+7414350076338139136 | Trigger.dev | link | 225w
+    In case you missed it; here are some of the things we shipped in December: → Deploy using Trigger's own build servers We've released native builds for deployments as part of our ongoing effort to improve the reliability of our deployments. Native builds use our own build server infra instead of relying on third-parties. → Batch trigger improvements We've significantly  [...]  durable execution, retries, streaming, and full observability. https://lnkd.in/eWZbZeiM To see everything we've shipped, check out our changelog: https://lnkd.in/deDJcnse
+
+7416901969815994368 | Trigger.dev | video | 145w
+    Enter a company name. The smart spreadsheet does the research. Each column is a separate task running in parallel. Trigger Realtime updates the cells live. The magic behind it: Exa.ai; an AI-native search engine. Unlike Google, Exa is built for LLMs. Semantic search that actually understands what you're looking for + returns clean, structured content ready for extraction. 4 parallel  [...]  your own enrichment tool: https://lnkd.in/e-GGgTHh Stack: Next.js 16 + Supabase + Exa + Claude + Supabase + Trigger
+
+7417611610845814784 | Trigger.dev | video | 20w
+    Today we shipped a small but long overdue improvement to our date picker UI with the help of shadcn. https://lnkd.in/eSMe222u
+
+7419427257875857408 | Trigger.dev | link | 203w
+    Run Python scripts from your TypeScript background tasks using our Python build extension. No separate Python server. No complex orchestration. Just add your .py files and go. → The problem: Python has the best ML/data libs. But orchestrating Python workers (Celery, RQ) means managing Redis, separate deployments, different observability. Dependencies installed at build time. Scripts bundled automatically. Using Trigger, there  [...]  PDF form extraction with PyMuPDF - Doc conversion with Microsoft's MarkItDown All TypeScript orchestration with Python execution. https://lnkd.in/eFH_zHmu
+
+7420148332968263680 | Trigger.dev | image | 32w
+    New in the dashboard → A Limits page 🎛️ See rate limits, quotas, and plan features 📈 Track API token usage in real-time ⭐ Upgrade if you need more of anything https://lnkd.in/eSPaQM93

@@ -1,0 +1,169 @@
+# person batch 004  -  55 posts  -  research/CLASSIFICATION-PROTOCOL.md
+# labels: problem exploration requirements selection validation consensus
+#         recruitment culture event product-news csr unclear
+# write research/labels_people/004.tsv as: <id><TAB><label>
+
+7428119701584531456 | Isaiah Studivent | video | 353w
+    Process is where creativity goes to die. And if you're leading marketing and fixating on process, you'll land in "bye bye land" with the board. Marcy Comer (CMO at Eagleview) explains why on Sour & SaaS EP 009. Process is important. Let's be clear about that. Someone who's really process-oriented should own it. You need  [...]  Watch the full conversation with Marcy on Sour & SaaS EP 009. Link in comments. ⬇️
+
+7430620586680283136 | Isaiah Studivent | video | 257w
+    We merged 3 referral programs into 1 and pipeline from referrals jumped 49% year over year. Here's how we did it. Most companies overcomplicate this. One program for employees. One for customers. One for partners. Different incentives, different processes, different submission forms. We had the same setup. Three referral tracks running simultaneously. Each with its  [...]  pipeline beats cold leads every time. Make it easier to refer, and you'll actually get referrals.
+
+7432820124199370752 | Isaiah Studivent | video | 392w
+    We were spending thousands every month on a 9,000-account TAM list. Pipeline was flat. We ran it through Stratos AI verification, cut 5,100 accounts, and performance jumped. Here's how we did it. Most B2B companies build TAM lists from data providers. ZoomInfo. Clearbit. Seamless. They trust the filters like employee count, industry, revenue. But the  [...]  on prospects who were never going to convert. Verify the list. Cut the noise. Spend smarter.
+
+7434629292715802624 | Isaiah Studivent | video | 342w
+    You built the perfect demand gen strategy. Got the budget approved. Launched across five channels. Then it flatlines in 30 days. Here's why it failed. You skipped the foundation. Demand gen engines don't fail because of bad creative or wrong channels. They fail because teams rush to launch before the infrastructure is built. And by  [...]  what isn't built. And if you skip this step, you won't make it to Day 60.
+
+7439332197574057984 | Isaiah Studivent | image | 175w
+    ChatGPT ads are live. Not display ads. Not banner ads. Ads inside AI-generated answers. Contextual recommendations surfaced while buyers are asking purchase-intent questions. Paid media is moving from "bid higher to win placement" to "be more relevant to get recommended." When a buyer asks ChatGPT "What's the best demand gen platform for enterprise SaaS?" and  [...]  If you're responsible for paid media strategy in B2B , this is not optional. Register: https://lnkd.in/g8GarsHy
+
+7440381585222447104 | Isaiah Studivent | video | 371w
+    We reorganized our team. Moved strategists and designers into the same pod. Campaign performance immediately improved. Here's why that structure works. Creative is the biggest performance lever in B2B right now. But most teams run it like a relay race. Strategy on one side. Design on the other. Separate reporting lines. Separate priorities. That separation  [...]  teams that win in 2026 are the ones where strategy and design speak the same language.
+
+7442555901116403712 | Isaiah Studivent | image | 263w
+    Most B2B marketers copy playbooks from successful companies without realizing those companies have different problems, different markets, and different revenue stages. Madhav Bhandari has scaled four startups from $2M to $20M+ ARR by doing the opposite: spotting patterns in crowded markets and intentionally interrupting them. Madhav is Head of Marketing at Storylane. He's taken four  [...]  $2M to $10M Playbook ✅ The Affiliate Program Mistake Watch the full episode. Link in comments.
+
+7445126291303010304 | Isaiah Studivent | video | 146w
+    We've been building something for the last two years that changes how B2B marketing gets executed. Today, we're launching it. Stratos. This is the AI platform we built to answer the question every B2B marketer gets asked by their CFO: "Is it working?" Most B2B marketing leaders can't tell their CFO which campaigns actually drove  [...]  deck full of charts, we should talk. This is the future of B2B. This is Stratos.
+
+7459950592791097344 | Isaiah Studivent | video | 186w
+    Your north star metric is either building your business or quietly killing it. The metric your marketing team celebrates every week might be the exact reason your CFO is asking hard questions in QBR. Most SaaS teams default to MQLs because they're easy to count and easy to celebrate. What they're not is financially meaningful.  [...]  wrong outcome. What's your current NSM and does your whole GTM team actually know it? ⬇️
+
+7465046869321297921 | Isaiah Studivent | video | 188w
+    Every B2B manufacturer has talked to at least one ecommerce agency. And every one of those agencies handed them a DTC playbook and it flopped. Here's why. The agencies that built expertise in ecommerce did it for consumer brands. ❌ They learned audience targeting from skincare. ❌ They learned retention from DTC subscriptions. ❌ They  [...]  commerce excellence that consumer brands have had for years. That is why we built Directive Commerce.
+
+7475170883892858881 | Isaiah Studivent | video | 203w
+    Nobody cares about your firm's positioning statement other than your marketing team. And the reason why may surprise you. Most positioning statements get built the same way. A workshop, a whiteboard, a list of adjectives, and a vote on which ones "feel right." Experienced. Innovative. Client-first. Whatever wins gets put on the website and called  [...]  proof it was never more than copy. Your buyers can tell the difference. Can your execs?
+
+7477707631302762496 | Isaiah Studivent | multi-image(5) | 137w
+    Two years ago I met David Vogelpohl at SaaStock USA. Good conversation. Filed it away. Didn't think much more of it. Fast forward to this week. He's sitting across from me for episode one of GTM Confessions. David's the CMO at FastSpring. Before that, VP of Growth at WP Engine. 25 years in this industry.  [...]  answered. Almost ate a Sour Fruit Riot getting there. Episode drops soon. Consider this the appetizer.
+
+7482418662075785216 | Isaiah Studivent | multi-image(5) | 131w
+    Three years ago I stepped into an elevator at Capital Factory and met Kevin Feagan. He was CRO at Everyware at the time. We talked for maybe two minutes. I walked out thinking that's the most humble, competitive, people-centered sales leader I've ever met. Three years later he's sitting across from me on GTM Confessions.  [...]  drops Wednesday. P.S: He answered every question like he'd been waiting to say it out loud.
+
+7485317855291330560 | Isaiah Studivent | video | 145w
+    Marketing blamed sales for not closing. A CRO with 20 years in fintech finally said what he actually thinks about that. Kevin Feagan's first move isn't to fire back with "give me better leads." It's to ask one question. Are my reps actually getting a swing at the plate? Because there's a difference between a  [...]  the one most marketing and sales teams learn too late. Full episode in the comments. ⬇️
+
+7494037620302184448 | Isaiah Studivent | video | 143w
+    His wife has the hardest job. Most CROs talk about the grind. Almost none of them talk about the person holding it together at home. Matt Schatz has gone back to zero six times. Rackspace through the IPO. Bazaarvoice. WP Engine. Every time he reaches the top, he leaves. And when I asked if there's  [...]  the dinner table is worse than not being home at all. Full clip in comments. ⬇️
+
+7165426476400521216 | James Isilay – Founder & CEO | Building  | text | 498w
+    In 2023, we spent $413,000 on executive recruiters. They helped us hire a new CRO, CTO, CFO, CHRO and CLO. At first, the idea of spending THAT much on executive recruiters seemed outrageous. But I was wrong. Here's how it works: BACKGROUND: Executive Search initially did not sit right with me. Paying a large retainer  [...]  questions on Executive Recruiting? Any Recruiters you would recommend? Comment below with names/roles they hire for.
+
+7167594712126717954 | James Isilay – Founder & CEO | Building  | multi-image(2) | 111w
+    On Friday my latest indie film "Last Swim" won best film at the Berlin Film Festival in the Generation 14plus section! As a producer, I am super proud of the cast and crew. The movie is incredible, and it would not have been possible without private funding. The arts are hard, very competitive, severely underfunded  [...]  come. P.S. Link to an amazing interview with the first-time filmmaker Sasha Nathwani in the comments.
+
+7171984130354724864 | James Isilay – Founder & CEO | Building  | text | 159w
+    Happy International Women's Day. At Cognism we believe diversity drives innovation and today spotlight the talented women on our team who lead with courage, innovate with purpose, and inspire us all to aim higher. The majority of Cognism's C-Suite are women with the CTO - Ivana Zuber, CFO - Jennifer Grunebaum, CPO - Michelle Bradbury  [...]  1.9% of all VC funds in 2022, a drop from 2021. The community can do more.
+
+7178753228983975937 | James Isilay – Founder & CEO | Building  | text | 22w
+    On my way to Texas right now and looking forward to our SaaSOpen - March 28th, 2024 Austin Texas CEO poker tournament.
+
+7184188497900019712 | James Isilay – Founder & CEO | Building  | image | 439w
+    In 2022, Cognism acquired a French startup called Kaspr for €21M. The acquisition has been a tremendous success and the final payout milestone was just hit! Here's a breakdown of the deal and how we approach acquisitions: BACKGROUND: Acquiring overseas companies has been an important strategy for Cognism. Two years ago, Cognism acquired Kaspr -  [...]  Letter of Intent we sent Kaspr? Comment KASPR below and I will send it to you.
+
+7190466858662154240 | James Isilay – Founder & CEO | Building  | link | 73w
+    I'm thrilled to announce that I have been selected as an EY Entrepreneur Of The Year 2024 UK regional finalist. EY Entrepreneur Of the Year is a global programme that recognises entrepreneurial achievement and companies that demonstrate vision, leadership and success. This wouldn't have been possible without the support of my fantastic Cognism team. Looking  [...]  meeting my fellow finalists in the coming months. Learn more and follow our journey 👉 https://go.ey.com/3W7T2Nb
+
+7194638883785981952 | James Isilay – Founder & CEO | Building  | image | 191w
+    A big thank you to all the Cognism staff that will be running the Tough Mudder on Sunday 19th May in aid of the NSPCC and our sponsored Childline day on June 7th. Donation link in the comments if you would like to contribute - Cognism will match your donation. Childline is a free service  [...]  M., Cillian M., James Corfield, Harry Boyle, Tom Nolan, Jack Shepherd, Antonia Williams and Joseph Harlowe.
+
+7204825024698986497 | James Isilay – Founder & CEO | Building  | text | 34w
+    Very proud of all the team members at Cognism that helped raise the funds to sponsor NSPCC for the June 7th One Unforgettable Day which is sponsoring all 13 of the Childline bases today.
+
+7246905211099709441 | James Isilay – Founder & CEO | Building  | image | 91w
+    How are you using AI to scale your GTM motion? Google NotebookLM is so much fun! Mind-blowing 🤯 Taking the Cognism sales asset we have below on Do Not Call lists I added this into https://lnkd.in/eD7avfEC And in minutes it created the following podcast : https://lnkd.in/eTSkiDT4 Not everything is perfect - at 1:34 it hallucinates  [...]  one sales asset highlights how AI can help us with marketing in 2024+ #AI #Google #Sales
+
+7264632728644456448 | James Isilay – Founder & CEO | Building  | image | 223w
+    Today we welcome Ahmad Raza Khan to the Cognism board as an AI Advisor. For Cognism, this marks a pivotal step in our journey to becoming a leader in AI-driven innovations. Ahmad brings a wealth of experience from his time at AWS, where he contributed to machine learning initiatives, and Snowflake, where he played a  [...]  excited for the journey ahead, and I'm thrilled Ahmed will be on the journey with us.
+
+7270541671954579456 | James Isilay – Founder & CEO | Building  | text | 369w
+    Every month we host an ‘AI Stars' forum to spotlight innovative and practical ways AI is being applied across Cognism. Here is a summary of the top 3 new AI features and tools showcased in this month's forum, broken down by department and use case: Crayon Crayon is our competitive intelligence tool used by Product  [...]  clients using existing documentation or onboarding materials. What are your top 3 AI tools right now?
+
+7295693361552736256 | James Isilay – Founder & CEO | Building  | text | 117w
+    Mentorship is one of the most powerful forces in business. A great mentor offers guidance, wisdom, and support helping you grow into the best version of yourself. I have learned that true mentors empower, they do not compete. They build, they do not take. And most importantly, the best mentors want to see you succeed,  [...]  To those who have truly lifted others up, thank you. The world needs more of you.
+
+7377775400166506497 | James Isilay – Founder & CEO | Building  | text | 24w
+    Thank you BullhoundCapital for an amazing event in Marbella, every year it reaches new heights. Looking forward to seeing you all again next year.
+
+7430231367637970945 | James Isilay – Founder & CEO | Building  | text | 191w
+    Hyperbound closed over $1M in a single week to end January. They are one of my fastest growing investments, and they're hiring for Engineering and Sales. They started with a simple but powerful idea: what if every sales rep could practice cold calls, discovery, and objection handling against a realistic AI buyer? Anytime, on demand,  [...]  before their next funding round. DM me for an intro or check out open roles: hyperbound.ai/careers
+
+7476180778545029121 | James Isilay – Founder & CEO | Building  | text | 68w
+    Honoured to join Aadam, Leo and the APEXION team. What pulled me in, the ambition is enormous, but the execution is grounded. Most people underestimate how much of the built environment still runs on guesswork. APEXION is building the intelligence layer that turns that guesswork into operational certainty and the team gets that this is not a feature, it's the whole game. Exciting times ahead. Let's build. 🚀
+
+7459966263688208384 | Jeff Geerling | link | 26w
+    Bambu Lab 3D printers: never again. They're breaking the open source social contract (for the nth time...), and I'm past hoping they'll amend their ways. https://lnkd.in/gwGk3WE6
+
+7462576932304424960 | Jeff Geerling | link | 44w
+    I've seen a few people trying to defend Bambu Lab's bullying of an open source developer over completely legal AGPL code use... Now Software Freedom Conservancy is raising funds to stop companies like Bambu Labs from abusing the AGPL and open source devs: https://lnkd.in/gGmucCJ3
+
+7465765583872163840 | Jeff Geerling | multi-image(2) | 35w
+    Can you receive FM radio on a 3D printer's heatbed? Alan Puccinelli asked, and we tested, with some assistance from my Dad, a radio engineer! The answer is yes, and a video is here: https://lnkd.in/gJAjhtjx
+
+7468663758345846784 | Jeff Geerling | image | 35w
+    IP KVMs are incredibly handy—and inherently risky. I tested over 20 of them over the past couple years. One of them even got me an FBI visit ;) Today's video covers *all* of them: https://lnkd.in/gTCWTsUv
+
+7471200684433055744 | Jeff Geerling | image | 45w
+    Apple *finally* added 'power on after power restore' in all cases (before it was just after hard shutdown), so it's easier to deploy Macs in headless / remote-first / homelab deployments. Here's my video covering this feature, and the bug I found testing it: https://lnkd.in/gR9BBZrP
+
+7478828059626823681 | Jeff Geerling | link | 32w
+    I can finally remote control my Xserve cluster, with GL-iNet's Comet X 4-port IP KVM: https://lnkd.in/gC_h6vQw Pretty neat device, comes with mini and 19" rack ears—it should be up for sale soon!
+
+7480623502312493058 | Jeff Geerling | image | 47w
+    Remember that 'special value' Raspberry Pi 4 that only runs at 1.25 GHz? I ran my gauntlet of benchmarks on two of them... and found some surprising results. Also, the listing was taken down while I was testing! Why? I explore my theory in today's video: https://lnkd.in/g8FTQGkr
+
+7483190758590570497 | Jeff Geerling | text | 21w
+    Just updated my PTP wall clock this morning. This is awesome! (And the display library now works on Pi 5, too)
+
+7487619490046717952 | Jeff Geerling | multi-image(2) | 48w
+    A man with a watch knows what time it is. A man with two watches is never sure. So now I have three GNSS PPS watches. And I can measure UTC to within 20-40ns. Just need my entire forearm. Not done yet: portable rubidium atomic clock for holdover.
+
+7488957815537999873 | Jeff Geerling | image | 20w
+    I found the cheapest way to add 25 Gbps networking to a Mac. Some 3D printing required... Video here: https://lnkd.in/g2va7YCv
+
+7494031210235609088 | Jeff Geerling | image | 30w
+    I got to test @othermod's PSPi v6. It is a Pi retrofit for the iconic Sony PSP, and it's perfectly integrated—even down to a functional WiFi switch! Video here: https://lnkd.in/gHv8t-qK
+
+7496205848721915904 | Jeff Geerling | image | 49w
+    The Steam Deck LCD panel is available cheap (ca $30), but until now there hasn't been a way to use it with a Raspberry Pi. Luckily, the folks at Scandent open sourced a HAT design and kernel driver for it! See it in action in today's L2J video: https://lnkd.in/g9JW-fEg
+
+7498962184580775936 | Jeff Geerling | image | 31w
+    Even without a total eclipse, tonight's lunar eclipse was a beautiful sight. #stlwx did not let us down, not a cloud in sight! #lunareclipse 📷 Sony A6700 w/ Celestron Nexstar 90GT
+
+7501469445777850368 | Jeff Geerling | image | 40w
+    Wire wrapping is neat. Never tried it before, but now I have and I love it for prototyping! (And no that is not AI-generated, somehow the physics of wire wrapping results in these beautiful little towers of gas-tight low-resistance connections!)
+
+7502518839839166464 | Jeff Geerling | link | 45w
+    Coming to VCF Midwest? If you're like me, it's hard trying to remember where everything is, especially with the event taking up the ENTIRE expo hall this year. So I made this tool last night: https://lnkd.in/gYCzQm8J Now it's a lot easier to find exhibitors! #vcfmw
+
+5831203456471691264 | John Lawrie | link | 12w
+    The 'Regulated Cloud' explained in Pharmaceutical Executive Global Digest magazine. http://lnkd.in/dksY-Xf http://lnkd.in/dpPQtxb
+
+5846680596671528960 | John Lawrie | text | 0w
+    
+
+5882642564758151168 | John Lawrie | text | 32w
+    In the industry's largest TMF survey, respondents cite cost savings as the top driver of eTMF adoption. Pick up your copy of the report at Veeva's booth, 2240, at DIA Annual 2014.
+
+5989779892496064512 | John Lawrie | text | 0w
+    
+
+6110206200450727936 | John Lawrie | link | 15w
+    We're really excited about this... Bristol-Myers Squibb Selects Veeva Vault RIM Solutions, read more. http://bit.ly/1XVdFFi
+
+6348679793344548864 | John Lawrie | text | 16w
+    The key to regulatory transformation is unified RIM. View this interactive report to learn more. bit.ly/RIMreport
+
+6718903076591325184 | John Lawrie | image | 29w
+    Learn from Sanofi's Joe McLaughlin, Marianne Smith, and Donna Wolfington regarding how they transformed to rely on regulatory information as a true asset vs. just an archive #VeevaSummitOnline: https://lnkd.in/eGDDxTc
+
+6735312835330527232 | John Lawrie | text | 0w
+    
+
+6767593059086544896 | John Lawrie | text | 15w
+    Thanks to our #RIM customers for trusting us to help improve and transform their operations!
+
+6912792890934972417 | John Lawrie | text | 0w
+    

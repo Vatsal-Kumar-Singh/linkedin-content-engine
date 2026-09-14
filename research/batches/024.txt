@@ -1,0 +1,169 @@
+# batch 024  -  55 posts  -  label per research/CLASSIFICATION-PROTOCOL.md
+# labels: problem exploration requirements selection validation consensus
+#         recruitment culture event product-news csr unclear
+# write research/labels/024.tsv as: <id><TAB><label>
+
+7492616816767262721 | Postman | text | 29w
+    The team behind Postman's cloud performance tests published a blog on what shipped, why it works, and how to run your first load test today. Give it a read.
+
+7492630465330245633 | Postman | image | 72w
+    In early May, we launched the Claude Code Plugin for Postman. We wanted to meet Developers where they spend most of their time, and provide a set of skills that leverage the Postman MCP. We are thrilled to announced the plugin has been downloaded by over 20,000 developers! If you haven't done so already, download the plugin now and make sure your AI agents are built on APIs you can trust. https://lnkd.in/g_BfCPNY
+
+7492978906921164800 | Postman | text | 38w
+    Ask the Postman AI Engineer questions about your APIs and services. See what the Context Graph knows about ownership, consumers, drift, and duplication. Querying the Postman Context Graph with the AI Engineer appeared first on Postman Blog .
+
+7493018429537464321 | Postman | link | 28w
+    Payabli ships documentation, 8 SDKs, and 380+ reusable examples from a single spec with Fern, saving 200+ hours a year in manual maintenance. Learn more: https://lnkd.in/gfEK5JjS #postman #buildwithfern
+
+7493337027388805121 | Postman | text | 43w
+    AI-driven PR velocity is exposing structural problems in QE programs. Field CTO Rick Crawford breaks down six compounding issues you need to fix now. Your QE Program Has a Structural Problem, and AI Just Made It Visible appeared first on Postman Blog .
+
+7493702007237599235 | Postman | text | 37w
+    See how the Postman AI Engineer walks the Context Graph to trace API dependencies and open PRs across multiple repos in one run. Multi-repo API changes with the Postman AI Engineer appeared first on Postman Blog .
+
+7494061039009845249 | Postman | text | 38w
+    Compare two agent orchestration patterns, loops and beads, by building a Postman API health check agent in Python you can clone and run today. Loops and beads: orchestrating AI agents with Postman appeared first on Postman Blog .
+
+7495153485668089856 | Postman | text | 37w
+    Production AI agents need more than a capable model. See the four infrastructure layers, from API context to credentials, that make them reliable. 4 Infrastructure Layers Every Production AI Agent Needs appeared first on Postman Blog .
+
+7495512857653211139 | Postman | text | 35w
+    Postman webhooks now support scripting for payload validation, signature checks, and request chaining. Plus, buy Postman directly from AWS Marketplace. What's new in Postman: webhook scripting and AWS Marketplace appeared first on Postman Blog .
+
+7495551104726806528 | Postman | text | 37w
+    Computing is undergoing a dramatic shift. Software is no longer primarily created, consumed, and coordinated by humans. Increasingly, software discovers, orchestrates and... Computing is changing, so is Postman – Introducing Postman.ai appeared first on Postman Blog .
+
+7495874241406337024 | Postman | text | 39w
+    Drive the jhipster-mcp server from Postman's MCP client to test tools, prompts, and resources before handing them to an AI agent. Try it today. Develop and test MCP in Postman: jhipster-mcp in action appeared first on Postman Blog .
+
+7496240393848520704 | Postman | text | 38w
+    The Postman AI Engineer prompts that trace an ID across your APIs, catch three-way drift, and auto-write a PR review from the graph. The prompts only the Postman AI Engineer can answer appeared first on Postman Blog .
+
+7496589522562908160 | Postman | text | 38w
+    In the last post I described six problems that compound when development outruns the QE infrastructure underneath it. Most leaders recognize all... 5 QE Pipeline Metrics That Show Where Quality Is Leaking appeared first on Postman Blog .
+
+7497689958913171456 | Postman | text | 35w
+    Postman Passport grants API access using credential references, keeping the real secret inside your network. Here's how the architecture works. How Postman Passport keeps API secrets inside your network appeared first on Postman Blog .
+
+7498049821937790976 | Postman | text | 34w
+    AI coding agents don't fail from small context windows. They fail without a knowledge graph of your code, APIs, and vendors. Why AI coding agents need context graphs appeared first on Postman Blog .
+
+7498367700365385728 | Postman | multi-image(4) | 133w
+    🇩🇰 Copenhagen developers — we're getting together tomorrow! Join us for the Agents & APIs Copenhagen Developer Meetup, an evening of practical conversations about what changes when APIs start serving AI agents, not just traditional applications. We'll dig into: - Your API Gateway Was Not Built for AI Agents — Gbadebo Bello, Senior Developer Advocate at Postman - Lessons Learned  [...]  (GMT+2) 📍 Copenhagen Come hang out, learn something new, and meet the local developer community. 👉 Register: https://lnkd.in/e2vxbdvT
+
+7498777396163301376 | Postman | text | 46w
+    Orbit is a free API discovery tool for AI agents. Describe a task, get the endpoints that fit, then get a task brief to integrate them. No account, no auth. Introducing Orbit: Turn Any Task Into the Right API Calls appeared first on Postman Blog .
+
+7499192782620848128 | Postman | multi-image(4) | 43w
+    Last night's SF Agents & APIs Dev Meetup in San Francisco featuring Postman, Anthropic, Supabase, and Vercel, was a great way to kick off the weekend! Join us for an event! Follow us on Luma, to know where we'll be next 👉 https://lnkd.in/gHnDdXS2
+
+7500246059370266624 | Postman | text | 39w
+    In Part 1 I named the six structural problems compounding inside QE programs as AI accelerates development. In Part 2 I walked... QE Platform Strategy: 3 Paths and Where Each Hides Its Cost appeared first on Postman Blog .
+
+7500589581373845504 | Postman | text | 22w
+    Find three-way API drift with Postman AI Engineer and the Context Graph. Compares your OpenAPI spec, collection requests, and live server responses.
+
+7500954466695716864 | Postman | text | 41w
+    I couldn't name the API my feature needed. Orbit found it in one search, then handed me the request bodies and the three bugs I'd have shipped. How AI Agents Discover and Integrate Public APIs appeared first on Postman Blog .
+
+7501315088423768065 | Postman | text | 40w
+    A Salesforce custom field broke my app. See how Postman Agent Mode found the drift and how a Skill kept it from happening again. Catching Salesforce Custom Field Drift With the Postman AI Engineer appeared first on Postman Blog .
+
+7501721223760883712 | Postman | link | 52w
+    The Postman team was on the ground in São Paulo for Amazon Web Services (AWS) Summit! A massive thank you to everyone who joined us, checked out the live demos, and packed our booth. The energy and conversation around our AI-native API Platform were incredible! 🚀 Muito obrigado! https://lnkd.in/p/gcC-Uz2f #postman #awspartners #aws
+
+7503098256093200385 | Postman | image | 57w
+    🌉 September 24: Join us at our next Agents & APIs SF Developer Meetup! Meet other builders and catch demos from: 👉 ​Meredith Hassett, Sr. Developer Advocate, Canva 👉 BinBin H., founder, smol machines (YC P26) 👉 ​​Pooja Mistry, Sr. Developer Advocate Enterprise Adoption, Astro AI 👉 Anand-Arnaud Pajaniradjane, founder, Scope (YC P26) Sign up today! https://lnkd.in/gU75eQGk
+
+7503127534319030272 | Postman | text | 38w
+    Stop prompting your AI agent, start looping. A guide to loop engineering: wire a real API call in as the oracle so generated code stops guessing. Loop engineering: stop prompting, start looping appeared first on Postman Blog .
+
+7503416520069398528 | Postman | image | 150w
+    London, we're back! 👩🏽‍🚀 On September 15, Postman and Supabase are bringing developers together for another Agents & APIs London Developer Meetup. We'll go beyond agent demos and explore what it takes to build and run agentic systems in production: 🔸 Why API gateways weren't built for AI agents—and how Agent Gateways helps govern interactions between agents, APIs, and tools  [...]  open at 5:00 PM 📍 Encode Hub, 41 Pitfield Street, London Space is limited. Save your spot: https://lnkd.in/e-JD8P6T
+
+7503530152677769216 | Postman | link | 56w
+    Postman's Dev Meetups are the place to learn about all things happening in tech! Learn more about our AI Stack at : https://postman.ai/ Shout out to Astro AI our Agent Operating System and our collaborators and partners at ServiceNow & Amazon Web Services (AWS) Join our Luma to stay on top of all our events: https://lnkd.in/gHnDdXS2
+
+7503847810585427968 | Postman | text | 39w
+    API gateways are evolving for AI agents. Learn how the agent gateway governs identity, tools, memory, and policy across agentic workflows. Get early access. Agent Gateway: The Next Evolution of the API Gateway appeared first on Postman Blog .
+
+7503872686797012994 | Postman | link | 79w
+    Coding agents write software faster than ever. But faster code hasn't translated into faster value — because once testing, approvals, and governance enter the picture, the code was never the bottleneck. Join Ankit Sobti, CTO of Postman, for a candid conversation on what it actually takes to close that gap: how agents get context they can trust, what breaks when  [...]  change crosses multiple teams, and who verifies the work when everything moves this fast. Register now ➡️ https://lnkd.in/gzqeuZ3e
+
+7480229271685189632 | Prusa Research | video | 51w
+    INDX keeps filament waste to a minimum. 🗑️❌ Its priming pellets are incredibly small and lightweight - around 0.013–0.015 g on average. Compared to other multi-material solutions, that's just a fraction of the waste, making INDX the most filament-saving multi-material system on the market. 🦾♻️ Read more about it here: https://lnkd.in/gRfwHkh9
+
+7480316752095125504 | Prusa Research | image | 62w
+    We're adding two new colors to Prusament Woodfill: Charcoal Black and Birch White. ✨🪵 They print easily, carry a natural wooden look and feel, and even fill the room with a subtle wood scent during printing. With soft, carefully balanced tones, they're a great fit for vases, sculptures, home decor, and display prints that should feel warm, calm, and more natural. https://lnkd.in/dys_HtNw
+
+7480635762233745408 | Prusa Research | video | 22w
+    In this INDX update, we dive into the new front plate design and break down the key differences from Founders Edition. ✨
+
+7480682131971522560 | Prusa Research | image | 55w
+    Heading to Open Sauce Technology & Creator Festival this July? 🚀 Come meet the Prusa team, July 17–19 at the San Mateo County Event Center in California. It's a wild celebration of makers, creators, robots, strange machines, backyard rockets, and over 500 exhibits. 👉 https://www.opensauce.com/ 📌 So come say hi at booth F.213 & F.214
+
+7480999228723445760 | Prusa Research | image | 37w
+    Flash Summer Deal ends soon! ⏰ Only until July 14, you can get the legendary MK4S Assembled with 20% off. We also have special shipping offers on the CORE One+. Read all about the deal here: https://lnkd.in/g_qmpgxk
+
+7481044523339513856 | Prusa Research | image | 64w
+    3D printers and aviation are a perfect match! ✈️ From July 20–26, 2026, aviation fans will gather at EAA AirVenture Oshkosh, the world's greatest aviation celebration, held at Wittman Regional Airport in Oshkosh, Wisconsin. And guess what? We'll be there too! Stop by our booth to see the Prusa CORE One+ with INDX, Prusa XL, and Prusa Pro HT90 3D printers in action. https://lnkd.in/eCJHJHn
+
+7482813495869091840 | Prusa Research | image | 41w
+    A new color has joined our Prusament portfolio – Prusament PLA Sakura Pink. 🌸 Its soft pastel shade, inspired by sakura blossoms, is great for printing decorations and home accessories that bring a soft touch of color to any space. https://lnkd.in/gHhAbhkt
+
+7485346865815891968 | Prusa Research | multi-image(6) | 45w
+    More colors, more possibilities! ✨ Prusament Resin Model+ is now available in seven new shades: Anthracite Grey, Sand Stone, Grass Green, Bright Cyan, Bright Magenta, Bright Yellow, and Ultra Violet. All new colors are available in both 1 kg and 5 kg bottles. 🦾 https://lnkd.in/ga8U8f9z
+
+7485977582442786817 | Prusa Research | image | 50w
+    CGMagazine gave our Prusa CORE One L a 9.5/10, praising its speed, print quality, reliability, and solid construction. Their verdict sums it up nicely: “The Prusa Core One L delivers the kind of large-format reliability that most printers promise but very few actually achieve.” Read the full review here: https://lnkd.in/g72JHTnC
+
+7486080663419297792 | Prusa Research | image | 53w
+    Some parts need to handle impact, wear, chemicals, and long-term outdoor use. 🦾 That's why we made Prusament PA11 Natural - a pure polyamide with strong layer adhesion and excellent sliding properties, suited for gears, moving parts, bendable components, and outdoor applications. ⚙️ Read more about it in our new article: 👉 https://lnkd.in/gWJKDaH8
+
+7487534022894563328 | Prusa Research | image | 42w
+    Our popular Prusament Resin Color Kit is back with the new Model+ formula! 🧪 Designed for mixing your own resin colors, it brings faster and more consistent exposure times, better impact resistance, improved pigment stability, and an improved safety profile. ✨ https://lnkd.in/ghGpbP_c
+
+7487876132407504897 | Prusa Research | image | 61w
+    You asked, we listened. 🤎🤍 After the launch of Prusament PLA Noctua Brown and Beige, we received a huge number of requests for the same iconic colors in PETG. So, we made it happen! Introducing Prusament PETG Matte Noctua Brown and Noctua Beige - perfect for durable, functional parts designed to match Noctua fans and coolers. 🦾 🤎 https://lnkd.in/gAvhxFkx 🤍 https://lnkd.in/gPuTxDmV
+
+7488959859669749760 | Prusa Research | image | 61w
+    You asked for a more affordable, high-quality filament - and the new Buddy3D delivers exactly that. ✨A 1 kg spool is available for €14.49 and the new Buddy3D features an improved formula, richer and more vibrant colors, and tighter dimensional tolerances. And because it's not only about the filament itself, its manufacturer now also supports OpenPrintTag NFC. ⚫️ https://lnkd.in/gJVREgtd ⚪️ https://lnkd.in/gCVdDc-C
+
+7492535234769612800 | Prusa Research | video | 14w
+    How does INDX handle nozzle cleaning and purge waste? Here's a quick look. 👀
+
+7492943019168452608 | Prusa Research | multi-image(10) | 106w
+    74 teams from four countries spent months designing, building and testing their own rockets before launch day. 🚀 At the Czech Rocket Challenge, high school and university students work on everything from basic flight stability and recovery systems to onboard experiments measuring atmospheric pressure, solar radiation or the effects of high acceleration. Some teams are trying to bring an egg  [...]  where students learn the most - and often where they discover a real passion for science and engineering.
+
+7493705510777692160 | Prusa Research | image | 53w
+    Cleaner print starts, better-looking surfaces, easier operation, improvements based on feedback from users and the community, plus upgrade paths for current owners, so your printer can keep getting better over time. Our entire printer lineup is getting a refresh! ✨ Introducing the Prusa XL+, CORE One L+, and CORE One+ (Gen 2). https://lnkd.in/gWsiSSGU
+
+7493713288577302528 | Prusa Research | video | 49w
+    What do we like most about our upgraded 3D printer lineup? ✨ From cleaner starts and smoother surfaces to less waiting, easier maintenance, fewer calibrations, less attention needed, and plenty more, we asked people across the company what they like most about it. See the whole lineup here: https://lnkd.in/gWsiSSGU
+
+7493956529562517504 | Prusa Research | multi-image(2) | 36w
+    The CORE One series just got better. ✨ The new CORE One L+ and CORE One+ (Gen 2) deliver faster starts, cleaner prints, smoother surfaces, and easier maintenance. Read more about it in our article: https://lnkd.in/gWsiSSGU
+
+7494002873848987648 | Prusa Research | image | 64w
+    The XL+ is a big upgrade. ✨ It delivers better-looking large prints, more reliable multi-material results, much faster setup, and less manual cleanup before printing. With improved cooling and a chamber that can reach up to 60 °C with the new enclosure and upcoming heater, it is also much better equipped for demanding materials and large functional parts. See the new XL+ here: https://lnkd.in/gWsiSSGU
+
+7494015445272834048 | Prusa Research | video | 58w
+    A week at EAA AirVenture Oshkosh means aircraft everywhere, non-stop flying, and a lot of conversations about where 3D printing already fits into aviation. ✈️ We were there with our Prusa printers too - and captured a bit of the atmosphere along the way. See more in the new video on the Prusa Center YouTube channel. 🎥 https://lnkd.in/gbWdd69j
+
+7495132439850258433 | Prusa Research | multi-image(2) | 121w
+    Most tech gets older. Our 3D printers keep getting better. ✨ That has always been our mindset and it's how we've always approached development. Firmware brings new features, print profiles get fine-tuned, and PrusaSlicer keeps evolving, so your printer can learn new tricks long after it leaves the factory. And when an improvement requires new hardware, the answer shouldn't be  [...]  a PC: keep the machine you trust, add a new set of abilities, and keep moving forward. https://lnkd.in/gWsiSSGU
+
+7495479720604573696 | Prusa Research | multi-image(2) | 67w
+    Sometimes, the most useful upgrades are the simple ones. ✨ A nozzle wiper was one of the features our community asked for most, so we added it to all three refreshed Prusa 3D printers. Before each print, the built-in wiper removes leftover filament from the nozzle. This helps stop loose strands and small blobs from ending up on the print surface, giving every print a cleaner start.
+
+7495857146513739776 | Prusa Research | multi-image(2) | 58w
+    Small hardware changes can make a visible difference. ✨ The refreshed XL+, CORE One L+, and CORE One+ (Gen 2) now come with new GT1.5 belts. Why the change? Fine repeating patterns can sometimes be more noticeable on large, smooth surfaces. The new belts help make these patterns less visible, giving finished prints a cleaner, smoother look. https://lnkd.in/gWsiSSGU
+
+7496162685126967297 | Prusa Research | image | 55w
+    Six new colors for Prusament Resin Model+. ✨ Three opaque (Terra Brown, Brick Red and Classic Red) and three transparent (Transparent Red, Green and Amber). Available in 1 kg and 5 kg bottles. https://lnkd.in/ga8U8f9z Model+ is our reformulated SLA resin with faster exposure, improved impact resistance, reduced pigment sedimentation, and an even safer health profile.
+
+7496210549597249536 | Prusa Research | image | 39w
+    Prusament TPU 95A is now available in Urban Grey. 🩶 Tough, flexible, and easy to print for a flex material - perfect for grips, protective parts, cases, and anything that needs to bend, stretch, or take a hit. https://lnkd.in/gxMxzjVc
+
+7496218507324379136 | Prusa Research | image | 45w
+    Starting today, we're shipping the first Bondtech INDX units for the CORE One+ to their new owners. Thank you so much for your patience - we can't wait to see what you create with it. Be sure to share your prints with us! Happy printing!

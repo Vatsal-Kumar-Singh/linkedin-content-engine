@@ -1,0 +1,214 @@
+# batch 001  -  70 posts  -  label per research/CLASSIFICATION-PROTOCOL.md
+# labels: problem exploration requirements selection validation consensus
+#         recruitment culture event product-news csr unclear
+# write research/labels/r2_001.tsv as: <id><TAB><label>
+
+7485748033519915008 | 1Password | image | 179w
+    AI is changing the security equation: the same capabilities that help enterprises build faster with AI agents can also find vulnerabilities faster, expose sensitive data, and create chain reactions across browsers, repos, terminals, CI/CD, and cloud environments. That makes having a secure vault more important than ever: today, nearly 200,000 business customers trust 1Password to protect their 1.5B+ credentials, including  [...]  building the internet's vault, purpose built for agents. Come build it with us. #Mythos #1Password #ProjectGlasswing #AI #IdentitySecurity
+
+7486153229441933312 | 1Password | link | 130w
+    AI token bills are becoming harder to predict. IT and finance teams are increasingly asking the same question: How did costs grow this quickly? Unlike traditional SaaS, AI is priced by consumption. Every prompt and model call can increase cost, making spend harder to forecast and govern. As our CFO Greg Henry puts it, “Organizations need better data and alerts  [...]  ahead of AI spend before procurement gets the call: https://bit.ly/4gPfbKw #AI #SaaSManagement #FinOps #ITLeadership #tokenmaxxing #AIROI #AIGovernance #AgenticWorkflows
+
+7486461717187559424 | 1Password | image | 142w
+    Machine and non-human identities now outnumber human identities in most enterprises, and AI agents are acting across cloud infrastructures, APIs, and business systems often using persistent, over provisioned access. Gartner projects that through 2029, more than 50% of successful attacks on AI systems will exploit access control weaknesses. At #BlackHat2026 1Password Global Advisory CISO Dave Lewis will break down how  [...]  August 6 | 11:25am 📍 PULSE_STAGE/05 Add this session to your schedule: https://bit.ly/4vMwYWD #BlackHat #IdentitySecurity #ZeroTrust #AIAgents #1Password
+
+7486547274928660480 | 1Password | image | 152w
+    AI agents need identities, not long-lived credentials. As more agents run locally on developers' machines, they need a way to access resources that's secure, auditable, and tied to the person they're acting for. In the latest post in our AI agent identity series, 1Password developer Horia Culea explores how to build delegated identity for local AI agents using existing standards  [...]  holding standing access of its own. Read the full technical deep dive: https://bit.ly/4yF7CfY #AI #Security #Identity #ZeroTrust #AgentIdentity
+
+7486564710797156352 | 1Password | video | 121w
+    Your AI agent can ace every benchmark and still fail in production. That's because correct outputs aren't enough. You also need to understand how the agent reached them and continuously evaluate its behavior as models, prompts, and tasks evolve. In the latest episode of Zero-Shot Learning, Adarsh H., Co-Founder and Co-CEO of Mercor, shares why evals are infrastructure, not a  [...]  rollouts limit the scope of failure at every step. Read the full breakdown: https://bit.ly/4x71DyZ #ZeroShotLearning #AgenticAI #1Password #podcast
+
+7487858474186366977 | 1Password | link | 186w
+    Today we're introducing 1Password Privileged Access, extending the 1Password Unified Access platform into Privileged Access Management for humans and agents. Standing access has always been a problem. AI just gave it machine speed. Standing access accumulates across cloud infrastructure, databases, and Kubernetes, and service accounts that keep it long after the work is done. Now AI agents inherit that same  [...]  runtime, and developer environments, one trusted system for access across humans, AI agents, and machines. Read more: https://lnkd.in/gsu6ufdD
+
+7487924893573971970 | 1Password | link | 196w
+    AI agent adoption is outpacing enterprise governance. New research finding from the 1Password AI Agent Governance Survey, reveals a widening gap between how quickly agents are entering production and how securely their access is being managed: 🔹 65% of developers are expected or encouraged to use AI agents, but only 33% say they have a highly secure way to do  [...]  is becoming urgent as agents move into production. Read the full research: https://bit.ly/3RCSMWr #AIAgents #AgenticAI #CyberSecurity #NonHumanIdentity #1Password
+
+7488259582629191680 | 1Password | image | 100w
+    AI agents are changing who can access critical systems and how that access needs to be governed. 1Password Privileged Access helps security teams replace standing access with just-in-time, just-enough access for human, machine, and AI identities. Access is provisioned at request time, scoped to the task, enforced in the target system's native policy layer, and revoked automatically when the work  [...]  databases, Kubernetes, and developer environments without replacing the tools they already use. Explore 1Password Privileged Access at https://lnkd.in/gHDy9QPH
+
+7488300595708272640 | 1Password | image | 87w
+    We're excited to be working with Snowflake on a new integration within the broader Cortex AI Gateway initiative to help joint customers securely govern third-party agent access across platforms. The integration is designed to give agents short-lived, task-scoped access without exposing raw credentials, while maintaining a complete audit trail of every interaction. As AI agents begin working across enterprise systems,  [...]  this integration is a step toward making that possible You can learn more about the integration here: https://lnkd.in/gDYuqjt7
+
+7488628290077806592 | 1Password | image | 126w
+    The 1Password Environments MCP Server is now available on Cursor Marketplace. AI agents are moving beyond suggesting code. They are running applications, calling production APIs, and interacting with infrastructure, which makes the way they access credentials a critical security boundary. With the integration, developers can: ▶️ Move plaintext environment variables into 1Password ▶️ Create and configure 1Password Environments from Cursor  [...]  secrets out of repositories, local .env files, and agent context. Get started: https://bit.ly/3RM39au #AI #DeveloperSecurity #MCPServer #Cursor #SecretsManagement
+
+7488654726688067584 | 1Password | image | 126w
+    An audit log that says “a service account accessed this item” does not tell you which workload made the request, where it originated, or what authorized it. 1Password Credential Broker is now in public preview, giving each workload its own identity and access only to the credentials it is approved to retrieve. Using Workload Identity Federation, Credential Broker validates the  [...]  plaintext .env files while giving security teams a clearer record of machine access: https://bit.ly/44XJkQM #CyberSecurity #DevSecOps #IdentitySecurity #1Password
+
+7488700031164882944 | 1Password | image | 126w
+    When developers need to move quickly, secrets often end up in the easiest place to store them and the hardest place to secure, plaintext .env files that IT and security teams can't see, monitor, or revoke. That's the gap we're closing. With enhancements to Developer Watchtower and 1Password Environments, we're helping teams: 🔍 Find plaintext .env files on local disks  [...]  security. See how 1Password helps teams ship quickly without leaving secrets exposed: https://bit.ly/4w0LcDn #IdentitySecurity #DevSecOps #ZeroTrust #Developers #1Password
+
+7488963996830732288 | 1Password | text | 57w
+    New 1Password research found that 93% of IT security teams don't have a singular approach to monitoring AI agents. On average, organizations use a combination of 3 different approaches to auditing or monitoring the actions of AI agents. Which brings up the question: who should be held accountable for AI agents' actions or behavior? Weigh in below.
+
+7489009772336447489 | 1Password | image | 204w
+    Your business runs on credentials IT did not provision. A vendor login may sit in an employee's personal vault even though the person who created it has left the company. The password has never been rotated, and IT may not know the account exists. Yet that credential can still provide access to a critical business system. The same issue appears  [...]  who can access a credential today and who could access it in the past: https://bit.ly/4fENH8c #CredentialGovernance #IdentitySecurity #1Password
+
+7489052806138449920 | 1Password | image | 121w
+    Following our Black Hat announcements, we're bringing partners together to unpack what's new across the 1Password Unified Access platform. Join us for the inaugural What's New: Partner Edition, a new quarterly webinar series created exclusively for the 1Password partner community. We'll cover the latest product innovations, what they mean for your customers, and the messaging and enablement resources available to  [...]  available to you 📅Tuesday, August 11 at 8am PST/ 11am EST/ 4pm BST Register here: https://bit.ly/4wEiauu #1PasswordPartners #webinar
+
+7490597745754529793 | 1Password | multi-image(3) | 193w
+    We are live at #BlackHat2026 🙌 Stop by 📍 Booth 4735 to explore how 1Password helps teams discover, secure, and audit access across human, agent, and machine identities. Play our Credential Sprawl Capture the Flag 🚩 for a chance to win prizes and earn a spot on our leaderboard. Today, 1Password CEO David Faugno joined Anthropic CISO Vitaly Gudanets for  [...]  to eliminate standing access for humans and AI agents, and how to govern AI token spend and consumption.
+
+7490970592020426752 | 1Password | multi-image(3) | 224w
+    It's day two at Black Hat and one message is coming through loud and clear. Access is getting more complex and critical. At the 1Password booth, the conversation revolved around two pressing challenges: 🔐 Reducing standing privilege and securing access to critical systems through just-enough, just-in-time access. 💰 Gaining visibility into rapidly growing AI costs and finding ways to control  [...]  is moving fast and security teams need an access model that can keep pace without slowing down productivity.
+
+7491116008460636160 | 1Password | image | 162w
+    Today, Off-by-1 Labs, 1Password's security research team, is releasing new research into what happens when AI is asked not just to find vulnerabilities, but to fix them. Across six recently disclosed, complex vulnerabilities, we generated 6,480 patches using two frontier AI models. The results reveal a critical gap between generating a patch and producing one that is actually safe: ▶️  [...]  help security teams evaluate AI-generated patching against their own codebases. Explore the research: https://bit.ly/4xrsUMM #Cybersecurity #AISecurity #SecurityResearch #VulnerabilityManagement
+
+7491595938973548545 | 1Password | link | 89w
+    How do you help an AI-assisted security reviewer understand an entire codebase when there's way too much information to fit within an LLM's context window? And how do you get relatively consistent output from inherently inconsistent tools? Those were two of the challenges we faced as we scaled SAGE, our AI-assisted security reviewer. In Part 2 of our series, we  [...]  helped SAGE move from reviewing diffs in isolation to reasoning about the code around them. Read more: https://lnkd.in/g9w2BFBU
+
+7492628121276473344 | 1Password | link | 87w
+    DigitalOcean partnered with 1Password to modernize identity security as it expanded its AI-native cloud platform and distributed workforce. Today, DigitalOcean: 🛡️Protects 100% of its high-risk apps with trusted device access ✅Maintains 100% employee adoption across the organization ⏱️Saves up to 10 minutes per employee by automating onboarding and offboarding “We needed to further strengthen our security posture, particularly in our  [...]  Trust helped us accomplish this.” – Heather C., Director, Security at DigitalOcean Read the full customer story: https://bit.ly/4wFJPej
+
+7493319768842776577 | 1Password | link | 123w
+    Write code or use AI to build? 1Password's developer tools secure your daily workflows. Build practical skills with these tools in the new 1Password Academy series for developers. Across five self-paced courses, you'll learn how to: ✅Keep secrets out of plaintext files with 1Password CLI and 1Password Environments ✅Protect SSH keys and sign Git commits with the 1Password SSH agent  [...]  It's time to unlock the full power of your password manager. Start learning on 1Password Academy 👉 https://bit.ly/4xv9WEO
+
+7493394462958764033 | 1Password | video | 55w
+    Zero. Standing. Access. That should be the new security baseline for teams adopting AI agents. Watch the latest episode of Random but Memorable to learn: 🔹 How vibe coding is turning more employees into privileged users 🔹 Why overprivileged agents are a security risk 🔹 How to reach zero standing privileges Full episode 👉 https://bit.ly/4hOYFLd
+
+7493667821864968192 | 1Password | image | 134w
+    We're proud to announce a partnership between 1Password and the ANNIKA Foundation, founded by Hall of Fame golfer Annika Sorenstam. As the Foundation's first cybersecurity sponsor, we'll support its More Than Golf programming for junior golfers, collegiate athletes, and emerging professionals. Together, we're creating opportunities for participants to connect with 1Password leaders through speaking engagements, mentorship, executive networking, and collaborative  [...]  and beyond. Learn more about the ANNIKA Foundation: https://bit.ly/4zhFnnG Explore More Than Golf: https://bit.ly/4bPcgOG #1Password #ANNIKAFoundation #MoreThanGolf #WomenInTechnology
+
+7493715517871046657 | 1Password | image | 147w
+    🏆 We're thrilled to share that the 1Password's Unified Access platform has been named a 2026 The Channel Company CRN Tech Innovators Award winner in the Identity and Access Management category. AI agents are changing how organizations need to think about identity and access management. Once an agent has a credential, it can use that access continuously across systems and  [...]  agents to access what they need. See the full list of winners: https://bit.ly/45YVuct #CRNInnovators #Cybersecurity #IdentitySecurity #AccessTrustGap #1Password
+
+7493758418248294400 | 1Password | video | 97w
+    Bug reproduction has never been the work developers volunteer for. That makes it exactly the kind of task event-driven agents can take on. In episode 7 of Zero-Shot Learning, Nancy Wang (1Password CTO), Jeff Wang (Cognition President of New Enterprise), and Richard Liu (Anthropic Head of API Products) explore what happens when an agent receives a bug report, checks whether  [...]  by hand to directing systems that can investigate, act, and show their work. Watch the full episode: https://bit.ly/45hqzrJ
+
+7494064584765431808 | 1Password | image | 174w
+    We're hiring three Field Chief Technology Officers across North America and the UK 🇨🇦🇺🇲🇬🇧 This is an opportunity to connect technical architecture with business outcomes while helping shape the future of enterprise identity security. 1Password is trusted by more than 200,000 businesses and more than one million developers. As organizations rethink trust and access in a world shaped by AI,  [...]  🔗 Field CTO - North America East (Remote, US/CAN): https://bit.ly/3Uzi9cM 🔗 Field CTO - EMEA (Remote, UK): https://bit.ly/4g9WgIj
+
+7495469639477452801 | 1Password | video | 79w
+    AI can help us do our best work. Inclusive AI practices make that work stronger for everyone. For Disability Pride Month, our Disability Alliance brought together 150+ team members to discuss how accessible habits can shape the way we build, communicate, and collaborate as AI becomes part of how we work at 1Password. Hear from Mariah Nimmich, Senior Manager of  [...]  Support and Communications Lead for our Disability Alliance, on why accessibility belongs in every conversation about AI 💙
+
+7495517403360174080 | 1Password | link | 72w
+    AI agents have crossed an important line: they are no longer just making suggestions. They are reading repositories, calling internal systems, changing code, and taking action. That changes the security question. A plausible result is not the same as a verified result. In her latest blog post, Nancy Wang, CTO at 1Password explains how verified loops give agents job-specific identities, bounded authority, and only the permissions they earn through trusted evidence. https://bit.ly/4wyvf7u
+
+7496194360422727680 | 1Password | image | 151w
+    Advisory Solutions was a 1Password user before it became a 1Password partner. That firsthand experience shaped how the team evaluated tools for its clients. As Jay Chaudhrey, Director of Business Development at Advisory Solutions, put it: “Making sure the tool is easy to use and seeing what adoption looks like, and the best way we do that is by using  [...]  works, and bring that experience to their clients. Read how Advisory Solutions became a 1Password Certified MSP: https://bit.ly/4xPxzbw
+
+7497652786550059008 | 1Password | video | 101w
+    If self-driving cars can become safer than human drivers, can AI agents do the same in our digital environments? Independent AI security researcher Johann Rehberger explores why, in theory, AI agents should be far less susceptible to social engineering than humans. The challenge is that cyber threats are adaptive. Adversaries actively mold their tactics, behaviors, and techniques to exploit their  [...]  place, there is still plenty of room for optimism. 🎧Listen to the Random But Memorable Podcast here: https://bit.ly/4wM0Wua
+
+7498046715032342528 | 1Password | video | 129w
+    When agents can produce a working change in minutes, the bottleneck moves to the CI, review, deployment, and verification around the code. In the latest episode of Zero-Shot Learning, Rohan Varma from OpenAI's Codex team joins Nancy Wang, CTO at 1Password, and Dev Tagare, Head of Engineering for Google Gemini Enterprise, to talk about what changes when software can work  [...]  diffs 🔵 Agent-to-agent interactions remove the need for developers to personally move information around Watch episode 8: https://bit.ly/4zFTzY8
+
+7498409108409266176 | 1Password | video | 131w
+    Can frontier AI models reliably patch software vulnerabilities? 1Password CISO and CIO Jacob DePriest joined Conor Sherman and Stuart Mitchell with Zero Signal Podcast to unpack new research from our Off-By-1 Labs team. The Off-By-1 Labs team tested leading models against recent vulnerabilities that fell outside their training data. The models fixed fewer than half of the vulnerabilities they were  [...]  Jacob DePriest on Zero Signal: YouTube: https://bit.ly/4cBe51Z Spotify: https://bit.ly/4gHXbB9 Apple Podcasts: https://apple.co/4gHX0Wv Read the Off-by-1 Labs research: https://bit.ly/4wDj0GK
+
+7498818749324759040 | 1Password | video | 126w
+    1Password is making it easier to sign in, move your data, and protect credentials🔒 Here are the latest updates for 1Password users: 🔵 Upgrades to autofill and autosave: 1Password's latest updates make it easier to autofill and save credentials. 🔵 Data ownership and migration improvements: it's now easier for teams to move passwords into 1Password; and for individual users in  [...]  and guides users to move them into 1Password. Read the full roundup of the latest 1Password updates: https://bit.ly/4qDhdAc
+
+7498885174055694336 | 1Password | link | 128w
+    We are proud to support OpenAI's call for collective action on cyber defense. Together, we can make the digital infrastructure we all depend on more secure. That will take action across the security stack. Organizations should replace standing access with just-in-time access for people, agents, and machines. Access should be scoped to the task, limited to the time required, and  [...]  accountable identities. 1Password is building trusted access for people, machines, and agents. Read the open letter here: https://lnkd.in/gFeKj4Q7
+
+7499133800543637505 | 1Password | link | 154w
+    At CrowdStrike Fal.Con 2026, we'll be showing how 1Password Unified Access helps organizations discover, secure, and audit access across developer environments, infrastructure, and runtime workflows, for both human and AI identities. Visit us at booth #1852 to learn how teams can move toward just-in-time, task-specific access instead of standing privileges, while maintaining visibility into what agents can access and the  [...]  If you're attending Fal.Con, come meet the team at booth #1852 and join us for the session. https://bit.ly/4xUcEUv
+
+7499179069180170240 | 1Password | link | 107w
+    Alliants achieved 151% ROI in one year. The team needed to control access to SaaS apps, gain visibility into license usage, and automate manual processes while reducing operational costs. With 1Password Enterprise Password Manager and SaaS Manager, Alliants gained a centralized way to manage identity and access across their organization, giving them complete visibility and control without adding complexity. Alliants  [...]  guests. Better security behind the scenes means smoother experiences in front of them. Read the story here: https://bit.ly/3XmlwlF
+
+7499251610380840960 | 1Password | link | 211w
+    As agents move from answering questions to taking action across browsers, code repositories, terminals, and production systems, the security model changes and a successful human login is no longer enough. Organizations need to know which agent is acting, who delegated its authority, what it is allowed to do, and whether they can reconstruct what happened afterward. That is why we  [...]  not the brake on AI adoption. It is the infrastructure that makes responsible adoption possible. Read more: https://lnkd.in/geV_Ktux
+
+7500267361858371585 | 1Password | link | 97w
+    An LLM doesn't know your stack, so without the right context, its value in security reviews is limited. Reliable results depend on the documentation behind your workflows. It's the same information you would give a new hire on their first day like which logs are collected, how detections are organized, which tools the team uses, who owns each part of  [...]  the right context can help security teams apply it more effectively to detection engineering. Read the post: https://bit.ly/4gy0N7u
+
+7501704344904437762 | 1Password | image | 58w
+    We're excited to announce a new partnership with Instinct! Together, we're working to roll out a product integration that will enable users to seamlessly and securely share their credentials with Instinct. This partnership will bring together Instinct's assistant experience and 1Password's approach to protecting sensitive information, while keeping users in control of what they share. More to come!
+
+7503181237725962242 | 1Password | text | 62w
+    We're excited to partner with Meta to bring 1Password to Muse, a new personal AI agent that helps you get things done across every part of your life. Muse is built with a secure credential store, and soon, with 1Password, that extends to the password vault you already have. You're in control of every request to access these credentials. More coming soon!
+
+7483960402742124544 | Abridge | multi-image(7) | 148w
+    This is what building together looks like. Thank you to all of the health system leaders who joined our latest community event at the iconic Mattress Factory Contemporary Art Museum in Pittsburgh. Together, we've built a healthcare AI platform that is trusted by more than 300 health systems to support clinicians and patients at the point of care. Your feedback  [...]  OH) Penn Highlands Healthcare Penn State Health ProMedica UPMC UPMC Children's Hospital of Pittsburgh University Hospitals WVU Medicine
+
+7484287852210544640 | Abridge | multi-image(3) | 43w
+    Wow, the energy and excitement is palpable today at our inaugural hackathon with Cerebral Valley, Anthropic, and Lightspeed! We are stoked to be live at Shack15 today in SF to work through some of the most interesting challenges in healthcare. More to come....
+
+7484985751789682688 | Abridge | video | 58w
+    With Abridge, every encounter is more signal, less noise. During the visit, Abridge enables more comprehensive care by suggesting discussion topics based on the patient summary, the clinical conversation, and other relevant inputs. No alerts, no popups. Just exactly what clinicians need to have the confidence that they have covered everything appropriately in each encounter. Learn more: https://lnkd.in/ebr-uxAh
+
+7485051248443002880 | Abridge | text | 97w
+    What happens when you host nearly 200 builders, clinicians, engineers, and researchers in San Francisco for a hackathon about the future of agentic AI in healthcare? The energy in the room was absolutely electric this weekend at our first-ever hackathon, co-hosted with Anthropic and Lightspeed, and in partnership with Cerebral Valley. From 768 applications we brought together 199 participants who  [...]  spectrum, many leading health systems, and even NASA. Stay tuned to learn more about the finalists and winners.
+
+7485375818752299008 | Abridge | video | 178w
+    For Dr. Tim Barker, System Medical Director and CMIO of Ambulatory Care at CHRISTUS Health, Abridge earned the trust necessary to be the Texas health system's AI partner by integrating new innovations at a rapid pace. Clinicians called new capabilities like Clinical Decision Support (CDS) “jaw-dropping.” “We weren't just evaluating where the product was today—we were looking at how much  [...]  impactful new capability we've seen.” That's innovation that centers clinicians and patients, for every moment of care: https://lnkd.in/ebP5ZSmZ
+
+7486063241413173248 | Abridge | text | 410w
+    768 applications → 199 participants → 113 projects → 12 hours → 3 winners Introducing the winners of the first-ever Abridge x Anthropic x Lightspeed hackathon: The Future of Agentic AI in Healthcare Winner: HomeReady by Pranay Madan A remote-care coordinator that enables a patient or caregiver to reduce the need for routine in-person visits to free up social workers  [...]  more standout work. Thank you to all who participated and to Cerebral Valley for partnering on this event.
+
+7486442808963321857 | Abridge | video | 57w
+    Healthcare has gotten more complex, and the people caught in the middle are the ones who matter most: clinicians and patients. At Keynote, we unveiled the next era of Abridge: an AI-native clinician intelligence platform built around the moment care actually happens. Before the visit. During the conversation. After the note is written. Learn more here: https://lnkd.in/gqKfNsQ5
+
+7488632140902055936 | Abridge | video | 104w
+    For Northwestern Medicine, choosing which clinical AI platform to implement across the enterprise came down to measurable value. “Abridge was operating at a different scale entirely,” said Hannah Koczka, Vice President of Ventures and Innovation at Northwestern Memorial HealthCare, following a multi-vendor evaluation. Compared to the other technologies, Abridge produced the strongest results, strengthening clinician productivity, and improving RAF score  [...]  a meaningful difference,” said Koczka. To fully understand why Northwestern Medicine ultimately selected Abridge, read more here: https://lnkd.in/eDZ_Nf7t
+
+7488975895236476929 | Abridge | image | 242w
+    “Freeing.“ “Affirming.” “A Revolution.” That's how clinicians describe what it feels like to practice with Abridge. We sat down with Otis Max Ingersoll, FNP, Dr. Danny Lee, MD FACP, and Dr. Gayle Sutcliffe who all work directly with our team on the Abridge platform to turn professional feedback into product development. We asked them a simple question: What has actually  [...]  Abridge does the administrative work and provides relevant evidence in each encounter. Watch the full conversation here: https://lnkd.in/eT3Njvvt
+
+7490073764169347074 | Abridge | image | 89w
+    Becker's Healthcare: Abridge and Kaiser Permanente Co-Develop Care Signals to Close Risk Gaps “Care Signals never pushes. ‘It's not forcing me to do anything. It's just surfacing it so that I can do the thing I wanted to do all along, which is take care of the whole person in front of me.'” — Dr. Trina Davis, family physician, Kaiser  [...]  conditions as they're discussed, and documenting the full scope of patient complexity before the note is signed: https://lnkd.in/gpsvtEHW
+
+7490436304212750336 | Abridge | video | 151w
+    Deaconess Health System expanded Abridge licenses twice. Clinician demand quickly outgrew supply both times. Utilization of Abridge kept breaking through every ceiling Deaconess set, leading the health system to Enterprise Unlimited this year. A steep growth curve and high month-over-month retention signaled sustained adoption, driven by increased integration into clinician workflows as Abridge evolved to offer more capabilities. "These clinicians  [...]  locum clinicians choosing Deaconess specifically because Abridge comes with the job. Hear it directly from Deaconess leadership: https://lnkd.in/eiNKv77U
+
+7490779369808838656 | Abridge | video | 101w
+    Our North star: a better experience for clinicians, a better outcome for patients, and a healthcare system that gets more efficient, not more expensive, as it grows. Thanks to Alex Konrad and the team at Upstarts Media for having Dr. Shiv (Shivdev) Rao, CEO and Co-Founder, on the podcast to dive into how Abridge is scaling healthcare AI without compromising  [...]  decision serves the same outcome: Save time, save money, and save lives. See the whole conversation here: https://lnkd.in/e6wH8CT7
+
+7491162770059517953 | Abridge | video | 89w
+    The right conditions should be addressed in the visit, not chased down in the back office. Care Signals moves risk adjustment upstream: a real-time clinical intelligence layer that surfaces relevant context the moment it matters. Complete, audit-ready documentation becomes a natural byproduct of the visit, not a separate task after it. Better patient care. Less retrospective paper chasing. More efficient  [...]  Khan and Kelly McDonald, two of our Staff Product Managers, and Janie Lee, our Vice President of Product.
+
+7492673655680856065 | Abridge | multi-image(7) | 164w
+    This is what building together looks like. Thank you to the health system leaders who joined us for the latest Abridge Community Experience at the North Carolina Museum of Art. Together, we're building technology that is trusted by more than 300 health systems to support clinicians and patients for every moment of care. Each of these events help sharpen our  [...]  Health and Human Services Piedmont Health Services Inc Raleigh Neurosurgical Clinic Riverside Health RWJBarnabas Health UNC Health WakeMed
+
+7493317358451720192 | Abridge | video | 45w
+    “Evals are really the operating system for every single AI company.” — Shiv (Shivdev) Rao Abridge CEO and Co-Founder Dr. Shiv Rao joined Upstarts Media's Alex Konrad to talk about how AI evaluations help Abridge deliver a better product. See the whole conversation here: https://lnkd.in/e6wH8CT7
+
+7494042175400259584 | Abridge | image | 245w
+    Becker's Healthcare: What does it mean to be a lasting AI partner to a health system? Leaders from six health systems spoke with Becker's to answer that question. Each of these systems shared why they recently renewed or expanded with Abridge—BJC HealthCare, Hartford HealthCare, NYU Langone Health, UNC Health, University of Utah Health, and WVU Medicine: → Listen: “‘Every one  [...]  Healthcare, Hartford HealthCare Read more in Becker's about how the Abridge Clinician Intelligence Platform serves health systems: https://lnkd.in/gFD9T69U
+
+7495093912391327744 | Abridge | link | 256w
+    Today, we are announcing that Abridge's context-aware decision support will soon be available to every clinician at our partner health systems, regardless of how that clinician documents visits: → 300+ enterprise health systems representing 250 million patients → More than half of Abridge users already leveraging decision support → Tripled queries in two months “Adoption of decision support has outpaced  [...]  more about how Abridge supports clinicians and their patients with context-aware intelligence at the point of care: https://lnkd.in/gdRi9sMV
+
+7495856993459548160 | Abridge | video | 69w
+    “In the world of AI, you don't want to solve the easy problem. You want to solve the hard problem.” — San Oo, CTO, Abridge Oo sat down with CTO Uncovered to talk about the challenges of engineering in a high-stakes industry where “uptime, reliability, and security are non-negotiable.” Learn more about how Oo approaches building an enterprise-grade clinician intelligence platform in this profile: https://lnkd.in/efKiVgUW 🎥 via CTO Uncovered
+
+7496207922260103168 | Abridge | image | 132w
+    “Evals are the operating system for every single AI company.” — Shiv (Shivdev) Rao, CEO and Co-Founder, Abridge At Abridge, there are questions we are constantly asking ourselves about our AI platform: “Are the systems we have deployed behaving as expected? Are our products having a positive impact? Is a new update ready to launch?” In other words, are our  [...]  Read more about the “when,” “what,” and “how” of our AI evaluations in this new science whitepaper: https://lnkd.in/emXJumXa
+
+7496588592731967488 | Abridge | multi-image(7) | 70w
+    Now this is what building together looks like. Our latest community event, The Lounge, brought together nearly 300 health system leaders this week for a look at what's next. We demoed six new capabilities—including context-aware decision support and a new Evaluations Dashboard—built to support clinicians and their patients. Thank you to everyone who stopped by, asked sharp questions, and pushed our thinking forward. It's a privilege to build with you.
+
+7497658258413817856 | Abridge | video | 159w
+    "Mind blown. The responses it gave were pulled from sources we trust, but also based on what it was hearing in the visit in real time. The updated Abridge clinical decision support just blew me away." —Hematology/Oncology & Palliative Care Clinician at a large, urban health system Abridge context-aware clinical intelligence surfaces relevant, evidence-based information at the point of care.  [...]  Just the information you need, exactly when you need it, grounded in clinical context. Learn more at Abridge.com/cds
+
+7498036492125089793 | Abridge | video | 15w
+    The doctor will really see you now. Our vision for the future of healthcare: https://lnkd.in/ePHYYqD2
+
+7498388465298952192 | Abridge | link | 156w
+    We're growing our Machine Learning Scientist team. At Abridge, we're building the AI platform for the future of healthcare. We started with AI-powered documentation at the point of care. Today, Abridge is integrated into pre- and post-visit, revenue cycle, inpatient care/nursing workflows, clinical decision support, the emergency department, and more. Abridge data is a differentiator. This year alone, Abridge will  [...]  healthcare intelligence platform that is very literally changing how healthcare is delivered at unprecedented scale. Apply today: https://lnkd.in/eMxn-BED
+
+7498780377885429760 | Abridge | video | 110w
+    Sutter Health started with 100 clinicians in 2024. Today: unlimited enterprise-wide access for 6,000+ clinicians, and over five million notes generated together. What's grown alongside the numbers is the partnership itself. "Through ongoing collaboration and co-development opportunities, our clinicians have had a meaningful voice in shaping the Abridge product roadmap. We're helping the platform continue to meet real-world clinical needs.  [...]  We piloted this technology together. We shaped it together. We scaled it together. See the full story: https://lnkd.in/e4Av6xBH
+
+7499105673276809216 | Abridge | image | 156w
+    Abridge's context-aware decision support is changing how clinicians like nurse practitioner John Brandon Arruda, MSN, APRN, AGNP-C, CUNP deliver patient care at West Virginia University School of Medicine. Practicing urologic oncology means following patients through years of cancer care—weaving together the medical history, recent results, and the latest guidelines, visit after visit. Abridge's clinical intelligence is Arruda's partner in this  [...]  is reshaping clinical practice across more than 300 health systems. Read Brandon's full story on our newsfeed. https://lnkd.in/gCiG-Ye4
+
+7500556448867893248 | Abridge | image | 66w
+    Clinicians can now earn AMA PRA Category 1 Credit™ through Abridge. They earn credit for asking questions during care and learning from evidence shaped around their patient's story. This fits into their existing workflow, inside a platform trusted by their health system. Learning already happens in the course of caring for patients. Now that work can count toward the credit clinicians need. Learn more at abridge.com/cds
+
+7500949631691046912 | Abridge | image | 140w
+    The more clinicians used Abridge, the more time they got back. After a successful initial rollout, Washington University School of Medicine in St. Louis and BJC Health have expanded access to Abridge from 450 clinicians last year to approximately 4,000 today. The impact grew over time: By day 150, clinicians spent 15% less time on documentation—nearly double the 8% reduction  [...]  what it looks like when AI earns clinicians' trust and delivers more value over time. Read more: https://lnkd.in/gaXMhnwp
+
+7503152336698015744 | Abridge | video | 108w
+    The average patient admission is being managed for 13 different diagnoses at once. Today, getting the specificity right for each one depends on a clinician's memory or a retrospective query that lands in inboxes days later. Abridge surfaces CDI queries quietly, inline and in the note, during the encounter. Each query is AHIMA-compliant, documented in the record, and auditable from  [...]  way, the next clinician and the ones that follow all have it right, all the way through discharge.
+
+7503754311521415169 | Abridge | video | 70w
+    More than 100 organizations across the OCHIN, Inc. network are now live with Abridge. Mission-driven care organizations like community clinics and federally qualified health centers are often the last to gain access to the newest technology. Through Abridge's partnership with OCHIN, they now have the same clinical AI as the country's largest health systems. It's a privilege to support the teams that work to expand access to compassionate, high-quality care.
+
+7503930703345049600 | Abridge | multi-image(7) | 176w
+    AI scales when health systems and clinicians shape the technology supporting them. For our eighth Abridge Community Experience, this week at Nobu Chicago, we brought that idea to life in a new way. For the first time, we invited clinicians from partner health systems to pitch real challenges from their practice and build prototypes with Abridge engineers. Over the past  [...]  meet. Gatherings like this show how the best innovations are developed by the people closest to the work.

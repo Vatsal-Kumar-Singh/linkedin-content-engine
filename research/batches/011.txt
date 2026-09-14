@@ -1,0 +1,169 @@
+# batch 011  -  55 posts  -  label per research/CLASSIFICATION-PROTOCOL.md
+# labels: problem exploration requirements selection validation consensus
+#         recruitment culture event product-news csr unclear
+# write research/labels/011.tsv as: <id><TAB><label>
+
+7503005013783396352 | Cognism | text | 123w
+    We decided to put a number on something most revenue teams already feel: data quality is what kills or saves the deal. 58% of buyers we surveyed said data quality concerns are the top reason deals stall. It also comes up as the number one historical frustration with sales intelligence tools. What's interesting is what buyers trust instead of marketing  [...]  completely once you look past the surface. Head to the comments for the full report. #RevOps #dataquality #fluentindata
+
+7503050572103606272 | Cognism | text | 20w
+    We're #hiring a new Director, Security Engineering & Operations in Mazowieckie. Apply today or share this post with your network.
+
+7503391892672294912 | Cognism | image | 129w
+    G2 reviews come straight from the people using the product. So we're delighted to share that Cognism has been ranked highest by G2 Score in G2's Europe Regional Grid® for Sales Intelligence Software, Autumn 2026. This comes with an 88 G2 Score and a satisfaction score of 100, based on 759 verified European reviews. We've built Cognism around one focus:  [...]  to the Cognism team who keep listening to what our customers need every day. #salesintelligence #G2 #B2Bdata #fluentindata
+
+7503422179393482752 | Cognism | text | 19w
+    We're #hiring a new Information Security Analyst in Zadar, Zadar. Apply today or share this post with your network.
+
+7503778790196719616 | Cognism | text | 23w
+    We're #hiring a new IT Support Specialist - IT Asset Management in London, England. Apply today or share this post with your network.
+
+7504140334449414145 | Cognism | text | 20w
+    We're #hiring a new Senior Deal Desk Analyst in London, England. Apply today or share this post with your network.
+
+7458591624856739841 | Cohere Health | image | 93w
+    By 2027, AHIP mandates that 80% of ePA requests receive real-time answers. But sustainable success ≠ automating the most cases, it means automating the right ones. Without clinical intelligence, automation is just rubber-stamping. 💡 The distinction between volume and selectivity is what separates an approach that just hits the number from a strategy that holds up over time. 2027 feels  [...]  that is both efficient and clinically sound, setting your plan up for long-term success. Read more 👉 https://lnkd.in/egWQ5bDm.
+
+7459676326183124993 | Cohere Health | image | 81w
+    As AI in healthcare moves from workflow automation to agentic action, health plans face a pressing question: how do we scale safely and responsibly? Tomorrow's AHIP webinar with leaders from Cohere Health, Infinitus Systems, Inc., and Nixon Law Group will tackle just that, exploring governance principles, clinician-in-the-loop design, building trust, and where agentic AI is already making an impact across  [...]  cost continuum. Save your seat to hear from Gigi Yuen-Reed, Cyndi Baily, and Erin Palm, MD 👉 https://lnkd.in/eMVhtzTk.
+
+7459984432943288320 | Cohere Health | image | 154w
+    The Power of Nurses. That's this year's theme for Nurses Week. And at Cohere Health, we see it every day. 🫶 To close out the week, we're proud to recognize Emma Beckerman, RN, whose passion for patient-centric care speaks for itself. From streamlining approvals to improving care access, Emma brings both clinical compassion and a drive to understand our healthcare  [...]  develop a broader understanding of healthcare. These experiences have helped reinforce my commitment to Cohere and patient-centric care."
+
+7461126255845834753 | Cohere Health | video | 55w
+    Want to know what it's like working at our growing global capability center (GCC) in Hyderabad? 👉 https://lnkd.in/evHYZQg. In his own words, Raj Pyda MS (USA) MBA (USA), Director of Software Engineering at Cohere Health India, shares how we work together to solve real problems in healthcare, "with the freedom to think, build, and lead."
+
+7462861478015074304 | Cohere Health | image | 77w
+    📣 Cohere Health today announced its support of the CMS Health Tech Ecosystem initiative and newly established Electronic Prior Authorization Acceleration initiative. We're proud to join leading health plans, providers, and technology networks to make ePA work end-to-end, on time, for every patient. Cohere Health CEO Siva Namasivayam noted, “Prior authorization cannot be fixed by technology in a silo. It requires the entire healthcare ecosystem to collaborate on solving real-world challenges.” 🤝 Read more here 👉 https://lnkd.in/ec_UZXg6.
+
+7463302585790222336 | Cohere Health | link | 44w
+    We're hiring a Director of Data & AI to lead our best-in-class analytics, data science, and ML teams, enable clinical insights at scale, and apply deep AI expertise to deliver the solutions transforming healthcare operations. Apply now to join Cohere Health India 👉 https://lnkd.in/eXtu_3Yf.
+
+7465400658071056385 | Cohere Health | image | 57w
+    👉 Attending this year's Alliance of Community Health Plans (ACHP) and Health Plan Alliance Medicare Advantage Summit? We'll see you there. 👋 We'd love to connect while in Chicago and share how we're helping the country's leading MA plans improve patient outcomes, modernize their operations, and deliver better value across the enterprise with precision, domain-specific clinical AI.
+
+7465882354541084672 | Cohere Health | text | 31w
+    📬 In the latest Cohere Insider: smarter payment integrity with AI-powered data mining, addressing AHIP's 80% real-time approval target, and how health plans should prepare as CMS phases out fax submissions.
+
+7466186615909040128 | Cohere Health | image | 88w
+    👉 "Everyone has a personal connection to healthcare, so it's not hard to relate to our mission. We work hard to remember that each case we process is a real patient and not just a number on the screen. Our physicians bring forward countless real-world examples to bring our impact to life." Kaleb Guion, general manager & SVP of product  [...]  In article highlighting organizations whose mission-driven work and measurable outcomes strengthen employee experience. 🤝 Read more here: https://lnkd.in/eDEwpiuu.
+
+7467287274007986177 | Cohere Health | image | 87w
+    In a new piece for MedCity News, Cohere Health's Head of Payment Solution Strategy, Monique Pierce, explains why leading health plans are shifting left in payment integrity to reduce rework, build trust, and scale intelligently. 💡 By applying clinical and coding validation and domain-specific intelligence earlier in the payment lifecycle, plans can prevent errors *before* payments are issued. Connecting upstream  [...]  supports these functions' shared goals of ensuring appropriate care and better payment accuracy. 🤝 Read more here: https://lnkd.in/ekjhwPUg.
+
+7468287864821272577 | Cohere Health | image | 147w
+    We are proud to announce that Gigi Yuen-Reed, PhD, our chief data & AI officer, has been named to the 100 Women in AI 2026 list, recognizing her work shaping the future of responsible AI in healthcare. 👏 In Gigi's own words: “It's an honor to be included among this extraordinary group of women. For me, this moment highlights the  [...]  shaping how AI is built, and creating measurable impact across the global ecosystem. 💪 Learn more here: https://lnkd.in/eYt-tE2e.
+
+7468741803286970368 | Cohere Health | image | 106w
+    AHIP 2026 is almost here. We can't wait to see everyone in person and catch up on the latest trends and insights shaping our industry. 💡 👉 Be sure to add our Wednesday morning panel to your calendar. We're taking a closer look at how health plans can use enterprise clinical AI to reimagine cost containment, operational efficiency, and member  [...]  Chief Data & AI Officer at Cohere Health, it's an increasingly timely discussion you won't want to miss.
+
+7469782506310066176 | Cohere Health | image | 118w
+    The good news keeps coming. We're thrilled to share that Cohere Health's Chief Medical Officer, Dr. Brian Covino, has been named to Modern Healthcare's 2026 50 Most Influential Clinical Executives list. 👏 The annual awards program honors clinical leaders across the healthcare industry who use their medical backgrounds and executive positions to improve operations, clinical outcomes, and care delivery. 🥼  [...]  human expertise, and trust–to support, not replace, physicians in delivering timely, appropriate care.” 👉 Learn more here: https://lnkd.in/eZ9cdVtQ.
+
+7470098629689679872 | Cohere Health | image | 129w
+    Health plans have spent years being told to add AI onto broken processes–and for too long, the result has been fragmented intelligence, siloed data, and automation that never scales. Cohere Health offers a different path: redesigning how clinical operations work with coordinated intelligence on a proven, trusted AI foundation. 🧠 Today we announced a significant expansion of our Cohere Unify™  [...]  clinical policies, and 27M unique patient profiles. AI isn't the strategy. Operational coherence is. 🤝 Learn more: https://lnkd.in/ebeRCk6h.
+
+7470149512230051841 | Cohere Health | image | 84w
+    Cohere Health is here at AHIP 2026, with all the swag you need for Las Vegas. Booth #1408. Come stop by and say hi. 👋 👉 Want to win a $200 Amazon gift card? Come guess how many pink Starburst are in the jar. 👉 Heading to Sphere or a concert? Loop earplugs to protect your hearing. 👉 Teeing off  [...]  got you covered with sunscreen and SPF lip balm. Hope to see you soon. ♥️ ♠️ ♦️ ♣️
+
+7473404176325324800 | Cohere Health | image | 110w
+    Most data mining programs aren't designed to get smarter. They're built to find the same errors over and over and, in many cases, the vendors running them have every financial reason to keep it that way. Combined with IT bottlenecks, stale rules, and limited visibility into what's driving findings, you're left with a program that generates typical findings while actually  [...]  is: “Are we getting smarter with every finding?” 👉 Read more about the future of data mining: https://lnkd.in/gNJSRMwV.
+
+7474832991442358272 | Cohere Health | image | 52w
+    Cohere Health has been named an "Impactful GCC" at ET Edge - The Times Group's 2026 GCC Summit. 🚀 The award recognizes Cohere Health India's Global Innovation Centre (GIC) for its contributions to innovation, operational excellence, talent development, and measurable business impact across our global operations. 🌏 Read more here 👉 https://lnkd.in/gMSSuP8Y.
+
+7475256057892765696 | Cohere Health | image | 108w
+    Quality gap closure gets harder when the evidence you need is buried in unstructured clinical documentation. 🪏 If you're heading to RISE Qualipalooza next week, meet our team to explore how Cohere Capture helps health plans shift away from manual abstraction by unlocking the clinical evidence already in your system. Our clinical AI agents identify, evaluate, and submit gap closure  [...]  Before you head to Texas, learn more about transforming your plan's quality strategy with clinical AI 👉 https://lnkd.in/gn-4v_Fn.
+
+7475986093629206528 | Cohere Health | image | 81w
+    In a recent interview with Healthcare Finance News, Lalithya Yerramilli, Cohere Health's head of payment solutions, shares how AI is reshaping payer-provider collaboration by addressing inefficiencies and misaligned incentives. Lalithya explains to Executive Editor Susan Morse that the "AI ping pong" between payers and providers is often a result of misaligned incentives: "We see a way forward. It starts from  [...]  not as a battle, but as a collaborative effort that benefits both parties." 🤝 See more here: https://lnkd.in/gyPqMpg9.
+
+7477421351318802432 | Cohere Health | text | 73w
+    The latest edition of Cohere Insider is here. 📨 We're highlighting the recent expansion of our Cohere Unify™ platform–bringing connected clinical AI beyond UM and payment integrity into appeals, care management, claims operations, and quality. 🚀 Then, learn why transparency is key for improving payment integrity, and how health plans can prepare for significant changes introduced in the 2027 Medicare Advantage and Part D Final Rule. 🔎 Read more to stay ahead. ⤵️
+
+7477790575165886464 | Cohere Health | image | 74w
+    AI can accelerate payment integrity workflows at scale, but when health plans lack visibility into how findings are generated, trust can erode and slow adoption of the very tech designed to help them operate more efficiently. 🔍 👉 The future of payment integrity depends on transparency, explainability, and connected operational visibility. But this requires a unified foundation that connects structured and unstructured data across claims, contracts, policies, benefits, and payment workflows. Read more: https://lnkd.in/gWWc9igY.
+
+7478132752953815040 | Cohere Health | image | 72w
+    Site General Manager for Cohere Health India, Himanshu Gandhi, was recently featured in The Economic Times discussing India's rapidly growing Global Capability Centre (GCC) ecosystem. 🚀 Himanshu explores how specialized local talent is driving momentum, the key challenges GCCs need to be mindful of as they grow, and ways in which tech hiring is evolving. 🧠 Read more to learn about the transformative shift in India's tech and talent landscape 👉 https://lnkd.in/gVjYj5_Z.
+
+7480341626398171136 | Cohere Health | image | 106w
+    💡 "The value of AI depends on responsible deployment, including transparency, deep clinical training, ongoing validation and continued physician oversight. When these elements are built in by design, clinical intelligence becomes a trusted extension of expert clinical reasoning, enabling appropriate care to move forward more efficiently, minimizing delays that disrupt care delivery and reimbursement, and reducing administrative burden across the  [...]  without compromising the clinical judgment, transparency, and physician oversight that patient care requires. 👉 Read more here: https://lnkd.in/ggTT2ryi.
+
+7481050017500397569 | Cohere Health | image | 163w
+    The 2027 Medicare Advantage and Part D Final Rule is turning up the heat on Star Ratings. ⭐ CMS is removing 11 measures, many tied to administrative processes, and increasing the relative influence of clinical performance, including greater weight on HEDIS. Add in a new behavioral health measure and changes to how bonus factors are applied, and the message is  [...]  quality leaders, and how plans can shift from year-end tactics to year-round operational discipline. 💡 Read more: https://lnkd.in/gegf9TyF.
+
+7483551424442724352 | Cohere Health | image | 97w
+    👉 As HEDIS transitions to year-round, full-population measurement, health plans face a critical challenge: scaling operational models without a proportional increase in manual effort. Much of the clinical evidence needed to close care gaps already lives within health plans' existing systems...but the information remains difficult to access, interpret, and operationalize consistently at scale. ⚠️ This shift requires a fundamental rethink  [...]  💡 While the market is evolving quickly, many operating models have yet to adapt. Read more here: https://lnkd.in/gcYtdi8u.
+
+7483945632462729216 | Cohere Health | image | 102w
+    Renu Raheja, Director of People for Cohere Health India, is focused on shaping a workplace where people can do great work and keep growing. 🚀 In her role, Renu focuses on what makes our culture real day to day: • Building trust across teams • Supporting continuous learning and career growth • Creating space for different perspectives, so every voice  [...]  be part of a team that takes culture seriously, take a look at our open roles here: https://lnkd.in/evHYZQg.
+
+7485424602408452096 | Cohere Health | image | 106w
+    We're seeing the shift in real time: healthcare AI is fast evolving to autonomous agents capable of taking action and orchestrating AI ecosystems. 🧠 For health plans seeking out AI-driven solutions to help address rising costs, regulatory demands, and fragmentation, agentic AI can improve efficiency even further by reducing provider burden and enhancing patient safety, particularly as agents are deployed  [...]  patient safety–with human oversight always at the center. 👉 Learn more in this free, on-demand AHIP webinar: https://lnkd.in/gtHx-eJb.
+
+7486087741223378944 | Cohere Health | image | 105w
+    Recent developments in MA Star Ratings have created new questions about the future of quality measurement, but they also reinforce an important reality for health plans: quality strategies must be built to adapt. 💡 CMS hasn't yet announced how it will approach future measurement years, and broader program redesign is expected. This leaves health plans navigating uncertainty around how performance  [...]  without forcing plans to overhaul their entire approach every time the regulatory landscape shifts. Read more here: https://lnkd.in/g3JbPeUZ.
+
+7487941029006876673 | Cohere Health | text | 41w
+    In this month's edition of Cohere Insider... 👉 Three takeaways for MA quality strategy from the recent Stars recalculation 👉 How precision AI unlocked $1M+ in inpatient DRG savings 👉 Year-round quality measurement is the new reality Learn more below. 🔍
+
+7488651615046950912 | Cohere Health | image | 85w
+    "Evaluation-driven development means AI models are continually tested and validated against real-world clinical standards, not just technical performance. Our engineers and scientists work closely with clinicians using our technology, so they see it in action and get ongoing feedback to continually improve it." 💡 Cohere Health Chief Data & AI Officer Gigi Yuen-Reed recently spoke with Kevin Famuyiro of The  [...]  rigorous validation, domain expertise, and human oversight are critical for AI in healthcare. 🧠 👉 Read more: https://lnkd.in/g-ASrksN.
+
+7489029922108153856 | Cohere Health | image | 123w
+    Not everyone just fits into a culture. Some people truly add to it. Kalyani Gollanapalli, Reimbursement Analyst at Cohere Health India, is one of them. ⭐ For Kalyani, one of the best parts about working at Cohere Health has been the opportunity to take real ownership of diverse projects, which inspires her and pushes her to continually grow. But growth  [...]  to do great work, keep learning, and still have a life that thrives outside of the workplace. 🫶
+
+7490462128441757696 | Cohere Health | link | 71w
+    Most payment integrity vendors can tell you what they found. But few can actually show you how decisions were made–and why you should trust their results. 🔍 👉 The three key areas your plan needs real visibility into: detection, action, and performance. We put together a guide on how to actually evaluate your payment integrity program's transparency. Swipe to learn more, then click the link to get your free copy: https://lnkd.in/gAhKm8ge.
+
+7491563648516136960 | Cohere Health | image | 90w
+    Our Deputy General Counsel, Navid Wheeler, is featured in a Built In article about how legal teams advise cross-functional teams, navigate complex regulations, and help their companies move forward with confidence. 👏 "The best legal teams in this environment are those who can translate complexity into a clear 'here's what we can do and how' for the people without legal  [...]  translating a fast-moving regulatory landscape into pragmatic guidance the company can actually build against." Read more 👉 https://lnkd.in/dzPCs5G6.
+
+7492934673728266241 | Cohere Health | image | 132w
+    We're proud to share that Cohere Health is ranked #390 on the 2026 Inc. 5000 list of America's fastest-growing private companies–placing us in the top 8% and marking our second consecutive year on the prestigious list. 🎉 This recognition reflects the accelerating demand for a new kind of healthcare operating model–one that connects decisions across health plan operations through clinically  [...]  measurable outcomes at enterprise scale." 👉 And that approach is translating into continued momentum. Read more here: https://lnkd.in/gncSWghZ.
+
+7493729686489915392 | Cohere Health | image | 85w
+    Prior authorization is one of the most manual processes in healthcare, bogged down by static, unstructured policies that create unnecessary inefficiencies, operational bottlenecks, and provider friction. Our new blog with Amazon Web Services (AWS) explores how Cohere Health modernized clinical policy digitization with Amazon Bedrock AgentCore. Using AgentCore's multi-tenant architecture, we're able to create structured, machine-readable data that drive scalable,  [...]  helping health plans reduce provider burden, improve transparency, and streamline complex workflows–all while maintaining expert human oversight: https://lnkd.in/gJXbnadD.
+
+7495472982828400640 | Cohere Health | image | 130w
+    Cohere Health has been recognized for a fifth consecutive year in the Gartner® Hype Cycle™ for U.S. Healthcare Payers in the Intelligent Prior Authorization (iPA category). 👏 Garter gave iPA a "Transformational" Benefit Rating, which is described as "rapidly maturing." We believe this signals real opportunity for payers to adopt iPA as a strategic clinical and operational differentiator. Payers continue  [...]  faster access to care and better health outcomes for patients. 👉 Learn more and read the report: https://lnkd.in/g9GUVTDS.
+
+7496313870043660288 | Cohere Health | image | 77w
+    With every healthcare AI vendor using the same words to describe fundamentally different capabilities, we lose the ability to distinguish tools that look good in a demo from platforms that deliver real results in production. Health plan leaders deserve a more precise vocabulary that reflects what enterprise AI actually requires, like clinical intelligence, domain-specific AI systems, and AI-ready data. 💡 Our new article defines the seven terms that matter most for enterprise transformation. Read more 👉 https://lnkd.in/gkXfGtSk.
+
+7496625206501769216 | Cohere Health | image | 83w
+    Personal and professional growth look different for everyone. For Compliance Analyst Sony Pathepuram, growth has shown up in the everyday moments of connection and learning. 🫶 In her own words, "the biggest value of working at Cohere Health is the feeling of belonging and the opportunities to grow. The culture of teamwork and respect keeps you motivated and supported." 🤝  [...]  meaningful impact in healthcare? Cohere Health is hiring in both the U.S. and India. Join us! 👉 https://lnkd.in/evHYZQg.
+
+7497731519071961088 | Cohere Health | image | 96w
+    "We move quickly, but we move together. I'm proud to be on a team that makes this feel less like a job you show up for and more like a team you truly want to be part of... everyone here believes in what we're building." 🤝 What's it like to work for Cohere Health's winning marketing team? Built In recently  [...]  shapes brand strategy, collaborates across functions, and increases market visibility–all while having fun and growing their careers: https://lnkd.in/gdCs8umE.
+
+7498073556388442112 | Cohere Health | link | 101w
+    👉 Health plan leaders: Fragmented AI tools create silos instead of enterprise value. Our new guide shows how to build connected clinical intelligence that scales across your workflows: https://lnkd.in/gf6pyNqj. 🔍 The new guide helps plan leaders learn how to: • Redesign workflows to improve clinical, operational, and financial outcomes • Evaluate clinical intelligence platforms for trust, scale, and governance •  [...]  model–where every deployment builds on the last and ROI compounds rather than resets–this guide is for you. 🎯
+
+7500646161029140481 | Cohere Health | text | 89w
+    🔍 Here's a glimpse of what you'll find in the latest edition Cohere Insider: 👉 A new guide for health plan leaders, exploring how to make the transition from fragmented point solutions to enterprise AI. 👉 We break down seven key terms reshaping how AI should be evaluated and deployed in healthcare. 👉 Cohere Health was recognized by Inc. as  [...]  running. 👉 On 9/16, join our AHIP webinar on bridging the clinical insights gaps left by AI pilots.
+
+7500983021337227264 | Cohere Health | image | 38w
+    The final compliance deadline for CMS-0057-F is 1/1/27. Cohere Health CMO Brian Covino spoke with Medical Economics' Richard Payerchin about how health plans are preparing for the final push with electronic prior authorization. 👉 Read more here: https://lnkd.in/gGsMzy5x.
+
+7501319696223195136 | Cohere Health | image | 81w
+    Cohere Health empowers employees to take the time to learn new skills and grow their careers. 🧠 Caroline Barber started as a nurse reviewer and became a clinical content quality specialist, "taking all the skills and lessons from my [nursing] career and using that knowledge to transform policy writing and clinical review." 💡 She recently shared her experience with Built  [...]  encouragement and leadership support that helps her continue to develop personally and professionally. 🤝 Read more 👉 https://lnkd.in/gAQxVHcx.
+
+7503520579581386754 | Cohere Health | image | 97w
+    Health plan leaders 👉 register for next week's free AHIP webinar to learn what separates connected clinical intelligence from isolated AI automation: https://lnkd.in/g_jkH3Pu. While AI pilots can optimize individual workflows, value is often trapped in silos–creating costly, inefficient clinical insight gaps between disconnected functions. This webinar will explore what a connected operating model actually looks like and how to get  [...]  to govern AI at scale to build trust, and how to sequence AI investments and scale responsibly. 🚀
+
+7503852729941827584 | Cohere Health | image | 139w
+    “To all the women in medicine: your presence matters, your expertise matters, and your leadership changes the landscape for the next generations.” 👩‍⚕️ Orthopedics is a demanding specialty, and for many women physicians, it also means working hard to lead in spaces where representation still isn't the norm. September is Women in Medicine Month, and today we're proud to recognize  [...]  the work and the patients who rely on it. Thank you, Dr. Teeter, for everything you do! 🫶
+
+7504230545069862912 | Cohere Health | image | 34w
+    Hear Cohere Health CEO Siva Namasivayam on the panel "Digital health implementation: What works, what fails, what scales" at tomorrow's India Health Forward 2047, hosted by Compassionate Patient Response. 🌏 More details here: https://lnkd.in/gYYvQnrv.
+
+7496191416713269248 | Databricks | link | 90w
+    What does it take to run data behind products used by one billion people every week? For OpenAI, Databricks serves as a governed, multicloud foundation across Azure and AWS, powering analytics, marketing, finance, trust and safety, and critical security operations—from threat detection to incident response across high-volume infrastructure. Beyond using Databricks as its underlying data platform, OpenAI is also a  [...]  use Genie MCP to talk to enterprise data. Explore how OpenAI runs data at scale on Databricks: https://lnkd.in/gEhsDRaF
+
+7496272214573334528 | Databricks | link | 77w
+    Your AI is smart enough. The missing piece is context. Join Databricks on September 23 to see how Genie Ontology helps AI understand how your business actually works. You'll learn how to: • Build a living context graph across business terms, entities, and KPIs • Deliver trusted answers based on each user's access • Turn insights into autonomous actions, agents, and apps • Bring context-aware AI into Slack, Teams, mobile, and MCP-based experiences Save your seat: https://lnkd.in/gTkr_QN5
+
+7496568128479354880 | Databricks | video | 67w
+    As agentic automation helps developers get more done, the role is evolving toward higher-level decisions about what to build, how systems should work, and where taste and creativity matter most. Databricks Co-founder Patrick Wendell, OpenClaw creator 🦄 Peter Steinberger, and Codex engineering lead Thibault Sottiaux discuss what that shift means for enterprises building, governing, and scaling fleets of AI agents in production. Watch the full conversation: https://lnkd.in/gM_GvQBi
