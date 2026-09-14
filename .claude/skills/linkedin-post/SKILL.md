@@ -18,7 +18,7 @@ full copy and builds a topic fingerprint from it. See `references/distribution.m
 
 ## What the corpus says about the words, before anything else
 
-From 2,020 hand-read company posts and 1,785 from named people
+From 2,026 hand-read company posts and 1,289 from named people
 (`docs/BENCHMARKS.md`), scored against each account's own median. Four of these
 contradict standard advice.
 
@@ -52,11 +52,11 @@ rest of the length.**
 
 | | Page | Person |
 |---|---:|---:|
-| says "I" anywhere | 3.2% | **43.0%** |
-| says "we" anywhere | 53.0% | 52.5% |
-| text-only | 14.9% | 40.3% |
-| explicit CTA verb | 20.6% | **7.4%** |
-| body 160+ words | 8.2% | 24.6% |
+| says "I" anywhere | 3.2% | **43.2%** |
+| says "we" anywhere | 52.9% | 54.1% |
+| text-only | 14.5% | 36.2% |
+| explicit CTA verb | 20.6% | **7.3%** |
+| body 160+ words | 8.3% | 27.9% |
 
 A person says **I and we**; a page can only say we. That is the capability the page
 structurally does not have, and it is why reposting a founder's post onto the page

@@ -11,7 +11,7 @@ particular shapes do not.
 ## 0. Know which format you are designing for, and whether it is worth designing
 
 Before any of the craft below, the largest measured effect on a post is its format,
-not its execution. From 2,020 hand-read posts in `docs/BENCHMARKS.md`, scored
+not its execution. From 2,026 hand-read posts in `docs/BENCHMARKS.md`, scored
 against each company's own median:
 
 | Format | Share of posts | Engagement |
@@ -48,12 +48,12 @@ The same study measured 43 named people against their own company pages:
 
 | | Page | Person |
 |---|---:|---:|
-| text-only | 14.9% | **40.3%** |
-| video | 33.9% | **13.2%** |
-| single image | 30.5% | 29.5% |
-| multi-image | 7.0% | 5.5% |
+| text-only | 14.5% | **36.2%** |
+| video | 34.1% | **16.2%** |
+| single image | 30.5% | 32.1% |
+| multi-image | 7.1% | 5.7% |
 
-**A person's feed is 40% plain text and a page's is 15%.** Video more than halves.
+**A person's feed is 36% plain text and a page's is 15%.** Video roughly halves.
 A page has a design and video pipeline behind it and it uses it; a person types.
 
 For a designer this is a scoping fact, not a taste one. **Creative work aimed at a
@@ -63,7 +63,15 @@ give an executive channel the full brand system is the instinct that produces th
 0.54x VP row in the benchmarks: a page post with a face on it.
 
 Where design does earn its place on a person channel, it is the same multi-image
-gap as everywhere else — 5.5% of person posts, against the 1.58x it earns.
+gap as everywhere else — 5.7% of person posts, against the 1.58x it earns.
+
+**And the carousel advantage is not a culture-post artefact.** Tested inside each
+job, multi-image beats the other formats in five of six: validation 1.38x against
+0.97x, event 1.60x against 0.93x, exploration 1.36x against 0.94x. The one
+exception is product news (0.88x against 1.24x), which fits — a launch is an
+announcement, and a carousel asks the reader to work through it. So a case study
+built as a carousel is a materially different post from the same case study posted
+as a link, and that is a design decision rather than a copy one.
 
 ## 1. Measure the reference, do not eyeball it
 

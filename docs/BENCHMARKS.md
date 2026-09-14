@@ -3,9 +3,11 @@
 A measured reference for setting a content split, choosing formats, and shaping a calendar — cut
 by **what you sell**, **how you sell it**, **who buys**, and **how big you are**.
 
-**2,020 original posts from 46 company pages, every one read and labelled by hand**, plus
-**1,785 posts from 43 named people** paired to those same companies. Method, sample and
-limits are at the bottom; read them before quoting any number.
+**2,026 original posts from 46 company pages, every one read and labelled by hand**, plus
+**1,289 posts from 33 named people** paired to those same companies. A later audit removed 487
+posts (12.6%) that could not answer the question asked of them — the reasons are in
+[Pruning](#what-was-removed-from-the-corpus-and-what-was-deliberately-kept), and the person count
+fell hardest. Method, sample and limits are at the bottom; read them before quoting any number.
 
 ---
 
@@ -39,8 +41,10 @@ trophies and team photos. It is also why this repository scores Gate, Lift and F
 [separately and refuses to blend them](decision/ARCHITECTURE.md): Lift would rank these ten rows
 almost perfectly upside down from Fit.
 
-**`requirements` and `consensus` together are 5.1% of everything published.** Whatever else the
-grid below says, that is the gap in this industry.
+**`requirements` and `consensus` together are 5.0% of everything published.** Whatever else the
+grid below says, that is the gap in this industry — and it is scarce enough that the 0.68x and
+0.80x above could not be confirmed company by company. See
+[the second pass](#the-engagement-ranking-is-only-partly-universal).
 
 ---
 
@@ -52,8 +56,8 @@ and CSR combined — real work, just not buying work.
 | Offering | n | TOFU | MOFU | BOFU | non-buying |
 |---|---:|---:|---:|---:|---:|
 | **service** | 269 | **49%** | 13% | 8% | **29%** |
-| **saas** | 1089 | 29% | 8% | 11% | 50% |
-| **product** | 662 | 27% | 14% | 14% | 44% |
+| **saas** | 1082 | 30% | 8% | 11% | 50% |
+| **product** | 650 | 26% | 14% | 15% | 44% |
 
 **Service firms sell with ideas and almost nothing else.** Half of everything a consultancy or
 agency publishes is problem-framing or category education, and they publish the least non-buying
@@ -124,12 +128,12 @@ to justify category-level argument and the case studies to prove it.
 |---|---:|---:|---:|---:|---:|---|
 | service x slg | 123 | **50%** | 9% | **2%** | 37% | Pure argument. Almost no proof published at all |
 | service x enterprise | 146 | **49%** | 16% | 13% | **22%** | The most buying-dense cell in the dataset |
-| saas x slg | 253 | 36% | 9% | 6% | 48% | Category argument plus a heavy event calendar |
+| saas x slg | 250 | 36% | 10% | 6% | 48% | Category argument plus a heavy event calendar |
 | saas x enterprise | 230 | 33% | 13% | **20%** | 33% | The most BOFU-heavy SaaS. Committees demand proof |
-| product x enterprise | 387 | 30% | **17%** | 13% | 38% | Spec and comparison content. Engineers are evaluating |
+| product x enterprise | 375 | 29% | **17%** | 14% | 39% | Spec and comparison content. Engineers are evaluating |
 | product x slg | 140 | 29% | 8% | **29%** | 35% | **Proof is the product.** Highest BOFU anywhere |
 | saas x pls | 226 | 29% | 7% | 14% | 50% | Self-serve front door, enterprise back end |
-| saas x plg | 380 | 23% | 4% | 7% | **61%** | Release notes and community |
+| saas x plg | 376 | 23% | 5% | 7% | **61%** | Release notes and community |
 | product x plg | 135 | **15%** | 13% | **2%** | **69%** | Effectively a consumer brand page |
 
 `service x plg` is structurally empty and is [documented as such](../research/sample-frame.yaml) —
@@ -216,24 +220,25 @@ they have fixed their format mix is working on the wrong variable.
 
 ## The person channel: it is not person versus page, it is founder versus everyone else
 
-**1,785 posts from 43 named people, each paired to a company page already in this study** — same
-company, same window. The pairing is what makes it readable: raw engagement mostly measures
-followers, so the only honest comparison is within a company.
+**1,289 posts from 33 named people, each paired to a company page already in this study** —
+same company, same twelve-month window. The pairing is what makes it readable: raw engagement
+mostly measures followers, so the only honest comparison is within a company.
 
-At the same company, the named person's median post beat the page's in **27 of 39 pairs (69%)**,
-median ratio **1.91x**. But that number hides the finding:
+At the same company, the named person's median post beat the page's in **23 of 31 pairs (74%)**,
+median ratio **1.92x**. But that number hides the finding:
 
 | Who is posting | Pairs | Median vs their own page | Person wins |
 |---|---:|---:|---:|
-| **founder / CEO** | 23 | **3.06x** | 19 of 23 |
+| **founder / CEO** | 19 | **3.17x** | 16 of 19 |
 | C-suite | 3 | 1.91x | 2 of 3 |
-| individual contributor | 9 | 1.03x | 5 of 9 |
-| **VP / Head / Director** | 4 | **0.54x** | 1 of 4 |
+| individual contributor | 6 | 1.03x | 4 of 6 |
+| VP / Head / Director | 3 | 0.77x | 1 of 3 |
 
-**A founder's typical post is worth three of their company page's. A VP's is worth half of one.**
-"Get your executives posting" is not the finding; the effect is concentrated almost entirely in
-the founder and CEO seat, and mid-level leaders in this sample underperformed the page they were
-supposed to be amplifying.
+**A founder's typical post is worth three of their company page's.** "Get your executives
+posting" is not the finding; the effect is concentrated almost entirely in the founder and CEO
+seat. Below it the advantage disappears — individual contributors run level with the page and the
+three VPs measured came in under it, though three people is a signal to check rather than a result
+to plan around.
 
 Veeva Systems is an accidental control: four of its people are in the sample, and they span
 **45.86x to 0.25x** against the same page in the same window. Within-company variance dwarfs
@@ -247,16 +252,13 @@ as a strong person. Ratios like these are a direction, not a multiple.)*
 
 | | Pairs | Median ratio | Person wins |
 |---|---:|---:|---:|
-| **enterprise motion** | 10 | **3.50x** | 7 |
-| slg | 12 | 2.26x | 9 |
-| plg | 8 | 2.07x | 6 |
-| pls | 9 | 1.03x | 5 |
-| **service** | 4 | **2.26x** | 3 |
-| saas | 28 | 2.14x | 20 |
-| product | 7 | 1.50x | 4 |
-| scaled | 20 | 2.42x | 16 |
-| early | 4 | 1.94x | 3 |
-| growth | 15 | 1.03x | 8 |
+| **enterprise motion** | 8 | **3.44x** | 6 |
+| plg | 6 | 2.91x | 5 |
+| slg | 10 | 2.26x | 8 |
+| pls | 7 | 1.01x | 4 |
+| saas | 22 | 2.71x | 18 |
+| service | 3 | 1.91x | 2 |
+| product | 6 | 1.24x | 3 |
 
 **The person channel pays most exactly where committees buy.** Enterprise motion is the highest
 ratio measured, which is the empirical version of a rule this engine already carried on judgement
@@ -267,64 +269,75 @@ organisation page cannot answer the question.
 
 | | Page | Person | Difference |
 |---|---:|---:|---:|
-| **says "I" anywhere** | 3.2% | **43.0%** | **+39.8** |
-| **text-only posts** | 14.9% | **40.3%** | **+25.4** |
-| body 160+ words | 8.2% | 24.6% | +16.4 |
-| first line 26+ words | 21.1% | 31.1% | +10.0 |
-| opens on "I/my" | 0.3% | 8.9% | +8.6 |
-| body 0-29 words | 16.9% | 24.9% | +8.1 |
-| has hashtags | 23.1% | 23.0% | -0.1 |
-| says "we" anywhere | 53.0% | 52.5% | -0.5 |
-| uses emoji | 35.3% | 25.3% | -9.9 |
-| **explicit CTA verb** | 20.6% | **7.4%** | **-13.2** |
-| body 60-99 words | 28.7% | 13.4% | -15.3 |
-| **video** | 33.9% | **13.2%** | **-20.7** |
+| **says "I" anywhere** | 3.2% | **43.2%** | **+40.0** |
+| **text-only posts** | 14.5% | **36.2%** | **+21.7** |
+| body 160+ words | 8.3% | 27.9% | +19.6 |
+| opens on "I/my" | 0.3% | 8.7% | +8.4 |
+| first line 26+ words | 20.9% | 27.3% | +6.4 |
+| body 0-29 words | 16.6% | 21.6% | +5.0 |
+| says "we" anywhere | 52.9% | 54.1% | +1.3 |
+| has hashtags | 23.1% | 20.7% | -2.4 |
+| uses emoji | 35.6% | 26.3% | -9.3 |
+| **explicit CTA verb** | 20.6% | **7.3%** | **-13.3** |
+| body 60-99 words | 29.0% | 14.4% | -14.5 |
+| **video** | 34.1% | **16.2%** | **-17.9** |
 
 **These are two different products, not one voice in two registers.**
 
-**People write; pages produce.** Text-only is 40% of a person's feed and 15% of a page's; video is
-34% of a page's and 13% of a person's. A page has a design and video pipeline behind it and uses
+**People write; pages produce.** Text-only is 36% of a person's feed and 15% of a page's; video
+is 34% of a page's and 16% of a person's. A page has a design and video pipeline behind it and uses
 it. A person types.
 
-**Length goes bimodal on a person's feed.** People post the very short (24.9% under 30 words) and
-the very long (24.6% over 160) and largely skip the middle, where pages cluster. A page's 60-99
-word post — the single most common company shape — is 13% of a person's output.
+*(An earlier version of this page put person text-only at 40% and video at 13%. Those figures
+included person posts going back to 2014, against a page corpus covering twelve months, and
+pre-window person posts are 60.5% text-only. The gap is real; it was overstated by measuring
+LinkedIn's history rather than the channel's nature.)*
+
+**Length goes bimodal on a person's feed.** People post the very short (21.6% under 30 words) and
+the very long (27.9% over 160) and largely skip the middle, where pages cluster. A page's 60-99
+word post — the single most common company shape — is 14% of a person's output.
 
 **"I" is the whole difference in voice.** 43% against 3.2%, the starkest single gap in this study.
 Note what does *not* change: "we" appears in 53% of both. A person says *I and we*; a page can only
 say *we*. **That is the capability the page structurally does not have**, and it is why reposting
 a founder's post onto the page is not the same as the page saying it.
 
-**People barely ask for anything.** An explicit CTA appears in 20.6% of page posts and 7.4% of
+**People barely ask for anything.** An explicit CTA appears in 20.6% of page posts and 7.3% of
 person posts.
 
-**Pages publish three times as often**: 4.1 posts a week against 1.2. Combined with the paired
-ratio, a founder posting weekly is doing roughly the same work as a page posting three times — and
-the founder's cadence is the one companies treat as optional.
+**Pages publish two and a half times as often**: 4.0 posts a week against 1.6. Combined with the
+paired ratio, a founder posting weekly is doing roughly the work of a page posting two or three
+times — and the founder's cadence is the one companies treat as optional.
+
+**And most of these channels are not running.** Counting only the twelve months the pages cover,
+**10 of 43 people (23%) published fewer than 15 posts in a year** and four published fewer than
+five. Several are CEOs: Slalom's published once, Veeva's VP of Safety once. A person channel that
+posts twice a year is not a channel, and a plan that assumes an executive will post is planning
+around the thing that most often does not happen.
 
 ### What a founder publishes about: almost exactly what the page publishes about
 
-645 of the person posts were read and labelled with the same twelve labels as the company corpus,
+447 of the person posts were read and labelled with the same twelve labels as the company corpus,
 sampled evenly per person so a prolific writer could not carry the distribution. The expectation
 going in was that people would publish different *content*. They do not:
 
 | | Page | Person | Difference |
 |---|---:|---:|---:|
-| TOFU | 30.9% | 30.1% | **-0.8** |
-| MOFU | 10.4% | 8.5% | -1.9 |
-| **BOFU** | 11.6% | **6.0%** | **-5.6** |
-| non-buying | 45.4% | 47.3% | +1.9 |
-| unclear | 1.7% | 8.1% | +6.4 |
+| TOFU | 30.8% | 33.6% | +2.8 |
+| MOFU | 10.5% | 8.3% | -2.2 |
+| **BOFU** | 11.7% | **7.6%** | **-4.1** |
+| non-buying | 45.6% | 44.5% | -1.1 |
+| unclear | 1.4% | 6.0% | +4.7 |
 
-And by seat, the founder row is the one that matters:
+And by seat, the founder row is the one that matters — because it is the page's row:
 
 | Who | n | TOFU | MOFU | BOFU | non-buying |
 |---|---:|---:|---:|---:|---:|
-| **company page** | 2045 | 31% | 10% | 12% | 45% |
-| **founder / CEO** | 345 | **28%** | **11%** | 10% | **44%** |
-| C-suite | 60 | 52% | 13% | 2% | 30% |
-| VP / Head / Director | 75 | 33% | 4% | 5% | 53% |
-| individual contributor | 165 | 26% | 4% | **1%** | 58% |
+| **company page** | 2026 | 31% | 10% | **12%** | 46% |
+| **founder / CEO** | 251 | **29%** | **10%** | **12%** | **42%** |
+| C-suite | 49 | 63% | 12% | 2% | 22% |
+| VP / Head / Director | 58 | 40% | 5% | 7% | 45% |
+| individual contributor | 89 | 27% | 3% | **0%** | 63% |
 
 **A founder publishes almost exactly the same mix as their own company page — and outperforms it
 three to one.** Put the two halves of this study together and the conclusion is unusually clean:
@@ -339,27 +352,27 @@ CTA versus 20.6%), and posts a third as often.
 
 Two qualifications, and both matter:
 
-**BOFU halves on a person's channel** — 11.6% to 6.0%, with `validation` dropping from 9.4% to
-4.7%. Named-customer proof stays on the page. That is coherent: a case study is a company asset
-with a company's approvals behind it, and a founder reposting it adds nothing the page did not
-already have. **It also means a founder channel cannot replace the page for a buyer in an
-evaluation.** The two channels are not substitutes.
+**BOFU halves on a person's channel — but not on a founder's.** Overall the drop is 11.7% to
+7.6%. Split by seat it disappears at the top: **founders carry 12% BOFU, exactly what the page
+carries.** The whole of the decline sits below them, at 7% for VPs and **0% for individual
+contributors**. So the common advice to keep proof off personal channels is measuring the wrong
+people; the founders in this sample publish proof at the page's own rate.
 
-**Below the founder seat the funnel collapses.** Individual contributors publish **1% BOFU and 4%
-MOFU** against 58% non-buying — they are running a personal brand, which is a perfectly good thing
-to run and is not a sales channel. The VP row looks similar. Only the founder seat reproduces the
-page's shape.
+**Below the founder seat the funnel collapses.** Individual contributors published **no BOFU at
+all** in the sampled slice and 3% MOFU against 63% non-buying. That is a personal brand, which is
+a perfectly good thing to run and is not a sales channel. The VP row is closer but still thin.
+**Only the founder seat reproduces the page's shape**, on every one of the four measures.
 
-*(The C-suite row at 52% TOFU is the most buying-dense in the table and also the smallest — 60
+*(The C-suite row at 63% TOFU is the most buying-dense in the table and also the smallest — 49
 posts from 3 people. Treat it as a lead worth checking, not a finding.)*
 
 Where the two differ is inside the non-buying half, and it is one substitution:
 
 | | Page | Founder |
 |---|---:|---:|
-| culture | 8.9% | **17.7%** |
-| event | 18.5% | **10.7%** |
-| product news | 13.7% | 10.4% |
+| culture | 8.9% | **16.7%** |
+| event | 18.6% | **10.0%** |
+| product news | 13.8% | 12.4% |
 
 **The page runs the event calendar; the founder tells the stories.** Conference booths, webinars
 and registration drives are page work — a founder doing that is spending the most valuable channel
@@ -380,12 +393,14 @@ declare which. The measurement supports the distinction and sharpens it:
    A founder publishes almost the same mix the page does, so the planning grid in this document
    applies to both. What must not transfer is the execution: strip the CTA, drop the video, let it
    run long or very short, and let the writer say "I". A page post with a face on it is what the
-   0.54x VP row looks like from the inside.
-4. **Keep the proof on the page.** BOFU halves on a person's channel and named-customer validation
-   nearly halves. The two channels are not substitutes, and a buyer in an evaluation is served by
-   the page.
-5. **Measure your own pair before deciding.** 12 of 39 people lost to their own page, including
-   four founders. The spread within one company reached 45.86x to 0.25x.
+   0.77x VP row looks like from the inside.
+4. **Do not strip proof out of a founder's channel.** BOFU halves across person channels overall,
+   but founders carry exactly the page's 12% — the decline is entirely below that seat, reaching
+   0% for individual contributors. Plan proof onto a founder and off an IC.
+5. **Measure your own pair before deciding.** 8 of 31 people lost to their own page, including
+   three founders. The spread within one company reached 45.86x to 0.25x.
+6. **Check the channel is running before planning on it.** Nearly a quarter of the executives in
+   this sample published fewer than fifteen posts in a year.
 
 ---
 
@@ -520,7 +535,171 @@ reason and are excluded from every percentage above.
 
 ---
 
+## What a second pass found
+
+The first pass asked what gets published and what the feed rewards. A second pass asked harder
+questions of the same data, and four of the answers change how the rest of this page should be
+read.
+
+### Engagement is far more concentrated than a median suggests
+
+| | Share of all engagement |
+|---|---:|
+| the top **1%** of posts | **30%** |
+| the top 5% | 50% |
+| the top 10% | 61% |
+| the top 20% | 74% |
+
+Median company Gini on raw engagement is **0.42** (Miro the most even at 0.24, Zoho the most
+lottery-like at 0.67). Person channels are slightly more concentrated than pages, 0.47 against
+0.42.
+
+**Every ratio on this page is a median, and a median is the typical post, not where the reach
+is.** A calendar tuned to raise the median optimises the body of a distribution whose top 1%
+carries a third of everything. Both matter and they are different jobs: the median is what your
+followers experience week to week, the tail is what reaches anybody else.
+
+### The spread inside one company dwarfs the spread between companies
+
+**The median company's best post outscores its own worst by 36x**, with a within-company standard
+deviation of 1.33 on the normalised scale. Since every company's median is 1.00 by construction,
+there is no between-company variance left in relative terms at all.
+
+**So the decision that matters is not which company to imitate. It is which post to publish
+next.** This document is most useful for spotting what you are not doing at all — the empty
+formats, the missing jobs — and least useful as a target to converge on.
+
+### The engagement ranking is only partly universal
+
+The headline table says awards beat buyer's guides. Recomputed *inside* each company and counted
+as a vote — one company, one vote, only where it published at least six posts with that label:
+
+| Label | Corpus median | Companies testable | Share above 1.0 | Verdict |
+|---|---:|---:|---:|---|
+| `selection` | 1.82 | 10 | **90%** | consistent |
+| `product-news` | 1.39 | 16 | 75% | consistent |
+| `culture` | 1.33 | 14 | 71% | consistent |
+| `problem` | 0.69 | 17 | **18%** | consistent (reliably *under*) |
+| `event` | 1.01 | 25 | 56% | **mixed** |
+| `validation` | 1.06 | 11 | 55% | **mixed** |
+| `exploration` | 0.93 | 31 | 32% | **mixed** |
+| `requirements` | — | **1** | — | **cannot be tested** |
+| `consensus` | — | **0** | — | **cannot be tested** |
+
+Four claims survive the stricter test: awards, launches and culture reliably beat a company's own
+median, and problem framing reliably loses to it. **Three do not.** `validation` splits almost
+evenly — a case study is a strong post at some companies and a weak one at others, so "case
+studies perform" is not a safe generalisation and is worth testing on your own feed.
+
+**And the two scarcest labels cannot be validated at all.** Exactly one company published six or
+more `requirements` posts and none published six `consensus` posts, so the 0.68x and 0.80x
+figures quoted earlier rest on posts scattered thinly across many companies rather than on any
+company's own experience. They are the best available estimate and they are not a robust one.
+The scarcity that makes them the industry's biggest gap is the same scarcity that makes them hard
+to measure.
+
+### The carousel advantage is real, not an artefact of what gets published in it
+
+The obvious objection to "multi-image earns 1.58x" is that carousels are mostly culture posts, and
+culture performs well anyway. Tested inside each job, the format wins on its own:
+
+| Job | Multi-image | Same job, other formats | |
+|---|---:|---:|---|
+| culture | **2.38x** (n=41) | 1.12x | format wins |
+| selection | **1.71x** (n=16) | 1.50x | format wins |
+| event | **1.60x** (n=36) | 0.93x | format wins |
+| validation | **1.38x** (n=11) | 0.97x | format wins |
+| exploration | **1.36x** (n=15) | 0.94x | format wins |
+| product-news | 0.88x (n=13) | 1.24x | no gain |
+
+**Within `validation` a carousel earns 1.38x where every other format earns 0.97x.** The case
+study that becomes a carousel is a different post from the case study that becomes a link. Only
+product news shows no benefit, which fits — a launch is an announcement and a carousel asks the
+reader to work through it.
+
+### What breakout posts are made of
+
+174 posts tripled their own company's median. Against the other 1,827:
+
+| | Breakouts | Everything else | |
+|---|---:|---:|---:|
+| `culture` | 23.0% | 7.4% | **+15.5** |
+| `selection` | 20.7% | 6.5% | **+14.2** |
+| `product-news` | 23.0% | 12.3% | +10.7 |
+| `validation` | 5.2% | 10.0% | -4.8 |
+| `event` | 10.9% | 19.6% | -8.7 |
+| `problem` | **0.6%** | 10.8% | **-10.3** |
+| `exploration` | 9.2% | 22.3% | -13.1 |
+| **`requirements`** | **0.0%** | 3.1% | -3.1 |
+| video | 42.5% | 33.0% | +9.5 |
+| multi-image | **15.5%** | 6.3% | **+9.2** |
+| text | 5.7% | 15.3% | -9.5 |
+| link | 5.7% | 14.8% | -9.1 |
+
+**Not one of the 174 breakout posts was a buyer's guide, and one was problem framing.** If
+breakout reach is the goal, the decision-stage content is the wrong instrument — which is another
+way of saying the same thing as the first table on this page, stated in the tail rather than the
+median.
+
+The formats tell the useful half: **breakouts are video and carousels; text and link posts are
+half as likely to appear** as their share of the corpus would predict.
+
+---
+
+## What was removed from the corpus, and what was deliberately kept
+
+An audit after the first analysis removed **487 posts, 12.6% of the corpus**
+(`research/audit_corpus.py`, exclusions listed in `research/excluded.json`, nothing deleted from
+`raw/`).
+
+| Reason | Posts |
+|---|---:|
+| predates the window the page corpus covers | 366 |
+| person not employed by the company they were paired to | 58 |
+| no text at all | 41 |
+| exact duplicate of an earlier post by the same account | 22 |
+
+The page corpus lost **0.9%**. The person corpus lost **22.5%**, and the count of usable people
+fell from 43 to 33. Two of those reasons were defects in how this study was built:
+
+**The two corpora did not cover the same window.** Company pages were pulled as one recent slice
+and span twelve months. Person feeds were pulled to the same post cap and reach back to **2014**.
+LinkedIn in 2014 is not the platform being measured, and it shows: pre-window person posts are
+**60.5% text-only against 35.2% in-window**. Every person-versus-page composition number in the
+first version of this page was inflated by it.
+
+**Selecting people by "whose posts does this page reshare" conflates employees with everybody
+else.** A page reshares its customers, its partners and the community figures it likes. Four
+people in the sample did not work at the company they were paired to — an independent creator
+reshared by Raspberry Pi, a founder of a different company reshared by Airtable, a designer
+reshared by Notion, and a FedEx executive reshared by a FedEx *supplier*. A paired comparison
+asking "does this company's person beat this company's page" is meaningless for them.
+
+**The pruning strengthened the main finding rather than weakening it.** Founders went from 3.06x
+to **3.17x** and the overall win rate from 69% to 74%, because some of what was removed was
+historic posts from people who have since stopped posting.
+
+### What was deliberately kept
+
+**"Carries no information" is not the same as "is bad content."** These all stayed:
+
+- **One-line posts** — "This is awesome!", "Great to see!". Weak content, and a real finding: it
+  is how several executives in this sample actually use the channel. Removing them would flatter
+  the corpus into reporting that people write essays.
+- **Zero-engagement posts.** A real outcome. Dropping them would raise every median in this
+  document by hiding the failures.
+- **Memes, in-jokes and off-topic posts.** Real decisions with real opportunity costs.
+- **Non-English posts.** A finding about who these companies are talking to.
+- **Repeated posts that are not identical.** Zebra Technologies published the *same* newsletter
+  blurb **ten times** — a fifth of its feed. Nine of those are excluded as duplicates, and the
+  repetition itself is one of the more striking content-operation findings here.
+
 ## Using this
+
+**0. Read the median and the tail as two different jobs.** The top 1% of posts carry 30% of all
+engagement, and the spread inside one company's own feed is larger than anything measured between
+companies. Nothing on this page is a target to converge on; it is a map of what your cell does and
+does not do.
 
 **1. Find your row, then look at what it is missing.** The tables describe what companies like
 yours *do*, not what works. `requirements` and `consensus` are 5.1% of the entire corpus, so
@@ -603,13 +782,13 @@ it — but it is not a claim that the same words do better under a face.
 
 **Seniority is read off a self-written headline.** "Founder & CEO at X" is reliable; a headline
 reading "Building the future of work" is not, and lands in individual contributor. The bands are
-also small: 23 founder pairs, but only 3 C-suite and 4 VP. **The VP row at 0.54x is four people**
+also small: 19 founder pairs, but only 3 C-suite and 3 VP. **The VP row at 0.77x is three people**
 and should be treated as a signal to check rather than a finding to act on.
 
-**The person labels are a sample, not a census.** 645 of 1,785 person posts were read, taken as
-an even slice per person so volume could not skew the distribution. The company corpus was read in
-full. A sample that size is comfortable for the headline splits and thin for the small cells:
-`requirements` is 1.2% of it, which is eight posts.
+**The person labels are a sample, not a census, and the pruning made it smaller.** 447 usable
+labelled person posts against a company corpus read in full. That is comfortable for the headline
+splits and thin everywhere else: `requirements` is 1.1% of it, which is five posts, and the
+C-suite row is 49 posts from three people.
 
 **One reader.** Every label is one person's judgement applied consistently. The protocol exists so
 a second reader can label the same batches independently and the two files can be compared post by

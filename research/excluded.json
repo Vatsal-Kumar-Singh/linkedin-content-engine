@@ -1,0 +1,3417 @@
+{
+ "window": {
+  "from": "2025-09-16",
+  "to": "2026-09-11"
+ },
+ "excluded": {
+  "7478191400723890176": {
+   "corpus": "page",
+   "who": "cal-com",
+   "reason": "no text at all",
+   "date": "2026-07-01",
+   "words": 0
+  },
+  "7467915612678356992": {
+   "corpus": "page",
+   "who": "cal-com",
+   "reason": "no text at all",
+   "date": "2026-06-03",
+   "words": 0
+  },
+  "7446396385991700481": {
+   "corpus": "page",
+   "who": "dexterityinc",
+   "reason": "no text at all",
+   "date": "2026-04-05",
+   "words": 0
+  },
+  "7501391605296332801": {
+   "corpus": "page",
+   "who": "figma",
+   "reason": "no text at all",
+   "date": "2026-09-03",
+   "words": 0
+  },
+  "7504314859845738497": {
+   "corpus": "page",
+   "who": "notionhq",
+   "reason": "no text at all",
+   "date": "2026-09-11",
+   "words": 0
+  },
+  "7465029800412459009": {
+   "corpus": "page",
+   "who": "righthand-robotics-inc",
+   "reason": "no text at all",
+   "date": "2026-05-26",
+   "words": 0
+  },
+  "6630929219922862080": {
+   "corpus": "person",
+   "who": "brad-jackson-slalom",
+   "reason": "no text at all",
+   "date": "2020-02-05",
+   "words": 0
+  },
+  "7468320468748546048": {
+   "corpus": "person",
+   "who": "braison-murgai",
+   "reason": "no text at all",
+   "date": "2026-06-04",
+   "words": 0
+  },
+  "7478511565319778304": {
+   "corpus": "person",
+   "who": "braison-murgai",
+   "reason": "no text at all",
+   "date": "2026-07-02",
+   "words": 0
+  },
+  "7498567793534001152": {
+   "corpus": "person",
+   "who": "braison-murgai",
+   "reason": "no text at all",
+   "date": "2026-08-27",
+   "words": 0
+  },
+  "7448764034742448128": {
+   "corpus": "person",
+   "who": "braison-murgai",
+   "reason": "no text at all",
+   "date": "2026-04-11",
+   "words": 0
+  },
+  "7483921209416572928": {
+   "corpus": "person",
+   "who": "braison-murgai",
+   "reason": "no text at all",
+   "date": "2026-07-17",
+   "words": 0
+  },
+  "7465467121314111489": {
+   "corpus": "person",
+   "who": "crisscubero",
+   "reason": "no text at all",
+   "date": "2026-05-27",
+   "words": 0
+  },
+  "7325553689920692224": {
+   "corpus": "person",
+   "who": "crisscubero",
+   "reason": "no text at all",
+   "date": "2025-05-06",
+   "words": 0
+  },
+  "7336200884109946881": {
+   "corpus": "person",
+   "who": "crisscubero",
+   "reason": "no text at all",
+   "date": "2025-06-05",
+   "words": 0
+  },
+  "6912792890934972417": {
+   "corpus": "person",
+   "who": "jolawrie",
+   "reason": "no text at all",
+   "date": "2022-03-24",
+   "words": 0
+  },
+  "6628730605586661377": {
+   "corpus": "person",
+   "who": "jolawrie",
+   "reason": "no text at all",
+   "date": "2020-01-30",
+   "words": 0
+  },
+  "6735312835330527232": {
+   "corpus": "person",
+   "who": "jolawrie",
+   "reason": "no text at all",
+   "date": "2020-11-19",
+   "words": 0
+  },
+  "6790601027692355585": {
+   "corpus": "person",
+   "who": "jolawrie",
+   "reason": "no text at all",
+   "date": "2021-04-21",
+   "words": 0
+  },
+  "6765305722264702976": {
+   "corpus": "person",
+   "who": "jolawrie",
+   "reason": "no text at all",
+   "date": "2021-02-10",
+   "words": 0
+  },
+  "6068877526720143361": {
+   "corpus": "person",
+   "who": "jolawrie",
+   "reason": "no text at all",
+   "date": "2015-11-07",
+   "words": 0
+  },
+  "5846680596671528960": {
+   "corpus": "person",
+   "who": "jolawrie",
+   "reason": "no text at all",
+   "date": "2014-03-04",
+   "words": 0
+  },
+  "5989779892496064512": {
+   "corpus": "person",
+   "who": "jolawrie",
+   "reason": "no text at all",
+   "date": "2015-04-03",
+   "words": 0
+  },
+  "6235574179899404288": {
+   "corpus": "person",
+   "who": "jolawrie",
+   "reason": "no text at all",
+   "date": "2017-02-09",
+   "words": 0
+  },
+  "6742229764053979136": {
+   "corpus": "person",
+   "who": "jolawrie",
+   "reason": "no text at all",
+   "date": "2020-12-09",
+   "words": 0
+  },
+  "7263221147188580352": {
+   "corpus": "person",
+   "who": "josefprusa",
+   "reason": "no text at all",
+   "date": "2024-11-15",
+   "words": 0
+  },
+  "7481356580261699584": {
+   "corpus": "person",
+   "who": "kellyhopping",
+   "reason": "no text at all",
+   "date": "2026-07-10",
+   "words": 0
+  },
+  "7475186025640665088": {
+   "corpus": "person",
+   "who": "kellyhopping",
+   "reason": "no text at all",
+   "date": "2026-06-23",
+   "words": 0
+  },
+  "6377924936035504128": {
+   "corpus": "person",
+   "who": "stephanie-c-30b12031",
+   "reason": "no text at all",
+   "date": "2018-03-09",
+   "words": 0
+  },
+  "7500262793057599488": {
+   "corpus": "person",
+   "who": "wololo",
+   "reason": "no text at all",
+   "date": "2026-08-31",
+   "words": 0
+  },
+  "6701202909159329792": {
+   "corpus": "person",
+   "who": "xavier-uzcategui-4714b358",
+   "reason": "no text at all",
+   "date": "2020-08-17",
+   "words": 0
+  },
+  "6775891352577208320": {
+   "corpus": "person",
+   "who": "xavier-uzcategui-4714b358",
+   "reason": "no text at all",
+   "date": "2021-03-11",
+   "words": 0
+  },
+  "6780248141464702976": {
+   "corpus": "person",
+   "who": "xavier-uzcategui-4714b358",
+   "reason": "no text at all",
+   "date": "2021-03-23",
+   "words": 0
+  },
+  "6729523508143124480": {
+   "corpus": "person",
+   "who": "xavier-uzcategui-4714b358",
+   "reason": "no text at all",
+   "date": "2020-11-03",
+   "words": 0
+  },
+  "6676639971643834368": {
+   "corpus": "person",
+   "who": "xavier-uzcategui-4714b358",
+   "reason": "no text at all",
+   "date": "2020-06-11",
+   "words": 0
+  },
+  "6675955455568740352": {
+   "corpus": "person",
+   "who": "xavier-uzcategui-4714b358",
+   "reason": "no text at all",
+   "date": "2020-06-09",
+   "words": 0
+  },
+  "6671238175257632768": {
+   "corpus": "person",
+   "who": "xavier-uzcategui-4714b358",
+   "reason": "no text at all",
+   "date": "2020-05-27",
+   "words": 0
+  },
+  "6775133159248982016": {
+   "corpus": "person",
+   "who": "xavier-uzcategui-4714b358",
+   "reason": "no text at all",
+   "date": "2021-03-09",
+   "words": 0
+  },
+  "6641789780264919040": {
+   "corpus": "person",
+   "who": "xavier-uzcategui-4714b358",
+   "reason": "no text at all",
+   "date": "2020-03-06",
+   "words": 0
+  },
+  "6671789994409046019": {
+   "corpus": "person",
+   "who": "xavier-uzcategui-4714b358",
+   "reason": "no text at all",
+   "date": "2020-05-28",
+   "words": 0
+  },
+  "6670690654810632194": {
+   "corpus": "person",
+   "who": "xavier-uzcategui-4714b358",
+   "reason": "no text at all",
+   "date": "2020-05-25",
+   "words": 0
+  },
+  "7262106521864400896": {
+   "corpus": "person",
+   "who": "apatel13",
+   "reason": "predates the page corpus window",
+   "date": "2024-11-12",
+   "words": 51
+  },
+  "7229133017447870465": {
+   "corpus": "person",
+   "who": "apatel13",
+   "reason": "predates the page corpus window",
+   "date": "2024-08-13",
+   "words": 15
+  },
+  "7259579655253377027": {
+   "corpus": "person",
+   "who": "apatel13",
+   "reason": "predates the page corpus window",
+   "date": "2024-11-05",
+   "words": 153
+  },
+  "7233837324424343552": {
+   "corpus": "person",
+   "who": "apatel13",
+   "reason": "predates the page corpus window",
+   "date": "2024-08-26",
+   "words": 76
+  },
+  "7329323236532355072": {
+   "corpus": "person",
+   "who": "apatel13",
+   "reason": "predates the page corpus window",
+   "date": "2025-05-17",
+   "words": 35
+  },
+  "7344377977071104002": {
+   "corpus": "person",
+   "who": "apatel13",
+   "reason": "predates the page corpus window",
+   "date": "2025-06-27",
+   "words": 153
+  },
+  "7348512098726948864": {
+   "corpus": "person",
+   "who": "apatel13",
+   "reason": "predates the page corpus window",
+   "date": "2025-07-09",
+   "words": 119
+  },
+  "7361909691905425410": {
+   "corpus": "person",
+   "who": "apatel13",
+   "reason": "predates the page corpus window",
+   "date": "2025-08-15",
+   "words": 12
+  },
+  "7184137519481917440": {
+   "corpus": "person",
+   "who": "apatel13",
+   "reason": "predates the page corpus window",
+   "date": "2024-04-11",
+   "words": 221
+  },
+  "7193326108300230658": {
+   "corpus": "person",
+   "who": "apatel13",
+   "reason": "predates the page corpus window",
+   "date": "2024-05-06",
+   "words": 20
+  },
+  "7100167007697842176": {
+   "corpus": "person",
+   "who": "apatel13",
+   "reason": "predates the page corpus window",
+   "date": "2023-08-23",
+   "words": 25
+  },
+  "7117459356119437312": {
+   "corpus": "person",
+   "who": "apatel13",
+   "reason": "predates the page corpus window",
+   "date": "2023-10-10",
+   "words": 81
+  },
+  "7227072289333219329": {
+   "corpus": "person",
+   "who": "apatel13",
+   "reason": "predates the page corpus window",
+   "date": "2024-08-07",
+   "words": 37
+  },
+  "7324134379050475520": {
+   "corpus": "person",
+   "who": "apatel13",
+   "reason": "predates the page corpus window",
+   "date": "2025-05-02",
+   "words": 171
+  },
+  "7087079186741284864": {
+   "corpus": "person",
+   "who": "apatel13",
+   "reason": "predates the page corpus window",
+   "date": "2023-07-18",
+   "words": 18
+  },
+  "7087079114737668096": {
+   "corpus": "person",
+   "who": "apatel13",
+   "reason": "predates the page corpus window",
+   "date": "2023-07-18",
+   "words": 9
+  },
+  "7092620399699513345": {
+   "corpus": "person",
+   "who": "apatel13",
+   "reason": "predates the page corpus window",
+   "date": "2023-08-02",
+   "words": 28
+  },
+  "7046532337873911808": {
+   "corpus": "person",
+   "who": "apatel13",
+   "reason": "predates the page corpus window",
+   "date": "2023-03-28",
+   "words": 47
+  },
+  "6990693807587557377": {
+   "corpus": "person",
+   "who": "apatel13",
+   "reason": "predates the page corpus window",
+   "date": "2022-10-25",
+   "words": 54
+  },
+  "7028803786676596736": {
+   "corpus": "person",
+   "who": "apatel13",
+   "reason": "predates the page corpus window",
+   "date": "2023-02-07",
+   "words": 18
+  },
+  "6986058806036226048": {
+   "corpus": "person",
+   "who": "apatel13",
+   "reason": "predates the page corpus window",
+   "date": "2022-10-12",
+   "words": 40
+  },
+  "6994054261986725888": {
+   "corpus": "person",
+   "who": "apatel13",
+   "reason": "predates the page corpus window",
+   "date": "2022-11-03",
+   "words": 57
+  },
+  "7023796564338892800": {
+   "corpus": "person",
+   "who": "apatel13",
+   "reason": "predates the page corpus window",
+   "date": "2023-01-24",
+   "words": 141
+  },
+  "7064957653612982272": {
+   "corpus": "person",
+   "who": "apatel13",
+   "reason": "predates the page corpus window",
+   "date": "2023-05-18",
+   "words": 112
+  },
+  "7062898613756055553": {
+   "corpus": "person",
+   "who": "apatel13",
+   "reason": "predates the page corpus window",
+   "date": "2023-05-12",
+   "words": 30
+  },
+  "7357170088573063168": {
+   "corpus": "person",
+   "who": "brad-jackson-slalom",
+   "reason": "predates the page corpus window",
+   "date": "2025-08-01",
+   "words": 115
+  },
+  "7254654871226724353": {
+   "corpus": "person",
+   "who": "brad-jackson-slalom",
+   "reason": "predates the page corpus window",
+   "date": "2024-10-23",
+   "words": 22
+  },
+  "7354557748660899841": {
+   "corpus": "person",
+   "who": "brad-jackson-slalom",
+   "reason": "predates the page corpus window",
+   "date": "2025-07-25",
+   "words": 19
+  },
+  "7267546103196114945": {
+   "corpus": "person",
+   "who": "brad-jackson-slalom",
+   "reason": "predates the page corpus window",
+   "date": "2024-11-27",
+   "words": 3
+  },
+  "7318386100052324353": {
+   "corpus": "person",
+   "who": "brad-jackson-slalom",
+   "reason": "predates the page corpus window",
+   "date": "2025-04-16",
+   "words": 9
+  },
+  "7269444858002456576": {
+   "corpus": "person",
+   "who": "brad-jackson-slalom",
+   "reason": "predates the page corpus window",
+   "date": "2024-12-02",
+   "words": 4
+  },
+  "7105240074484662273": {
+   "corpus": "person",
+   "who": "brad-jackson-slalom",
+   "reason": "predates the page corpus window",
+   "date": "2023-09-06",
+   "words": 363
+  },
+  "7133985118351757312": {
+   "corpus": "person",
+   "who": "brad-jackson-slalom",
+   "reason": "predates the page corpus window",
+   "date": "2023-11-25",
+   "words": 136
+  },
+  "6938193807226150912": {
+   "corpus": "person",
+   "who": "brad-jackson-slalom",
+   "reason": "predates the page corpus window",
+   "date": "2022-06-02",
+   "words": 64
+  },
+  "7262641888006934528": {
+   "corpus": "person",
+   "who": "brad-jackson-slalom",
+   "reason": "predates the page corpus window",
+   "date": "2024-11-14",
+   "words": 7
+  },
+  "6970457545983352832": {
+   "corpus": "person",
+   "who": "brad-jackson-slalom",
+   "reason": "predates the page corpus window",
+   "date": "2022-08-30",
+   "words": 52
+  },
+  "6821453549487177728": {
+   "corpus": "person",
+   "who": "brad-jackson-slalom",
+   "reason": "predates the page corpus window",
+   "date": "2021-07-15",
+   "words": 45
+  },
+  "6857053282507091968": {
+   "corpus": "person",
+   "who": "brad-jackson-slalom",
+   "reason": "predates the page corpus window",
+   "date": "2021-10-21",
+   "words": 6
+  },
+  "6910256955949289473": {
+   "corpus": "person",
+   "who": "brad-jackson-slalom",
+   "reason": "predates the page corpus window",
+   "date": "2022-03-17",
+   "words": 55
+  },
+  "6848648299759710208": {
+   "corpus": "person",
+   "who": "brad-jackson-slalom",
+   "reason": "predates the page corpus window",
+   "date": "2021-09-28",
+   "words": 36
+  },
+  "6712789454274355200": {
+   "corpus": "person",
+   "who": "brad-jackson-slalom",
+   "reason": "predates the page corpus window",
+   "date": "2020-09-18",
+   "words": 48
+  },
+  "6664511524989743104": {
+   "corpus": "person",
+   "who": "brad-jackson-slalom",
+   "reason": "predates the page corpus window",
+   "date": "2020-05-08",
+   "words": 68
+  },
+  "7153070514658267137": {
+   "corpus": "person",
+   "who": "brad-jackson-slalom",
+   "reason": "predates the page corpus window",
+   "date": "2024-01-16",
+   "words": 39
+  },
+  "6764955588746207232": {
+   "corpus": "person",
+   "who": "brad-jackson-slalom",
+   "reason": "predates the page corpus window",
+   "date": "2021-02-09",
+   "words": 33
+  },
+  "6402208435005464576": {
+   "corpus": "person",
+   "who": "brad-jackson-slalom",
+   "reason": "predates the page corpus window",
+   "date": "2018-05-15",
+   "words": 194
+  },
+  "6717402784783753217": {
+   "corpus": "person",
+   "who": "brad-jackson-slalom",
+   "reason": "predates the page corpus window",
+   "date": "2020-10-01",
+   "words": 25
+  },
+  "6676846457552797696": {
+   "corpus": "person",
+   "who": "brad-jackson-slalom",
+   "reason": "predates the page corpus window",
+   "date": "2020-06-11",
+   "words": 51
+  },
+  "6422528719117705216": {
+   "corpus": "person",
+   "who": "brad-jackson-slalom",
+   "reason": "predates the page corpus window",
+   "date": "2018-07-10",
+   "words": 130
+  },
+  "6407283103529865216": {
+   "corpus": "person",
+   "who": "brad-jackson-slalom",
+   "reason": "predates the page corpus window",
+   "date": "2018-05-29",
+   "words": 213
+  },
+  "6400841625999937536": {
+   "corpus": "person",
+   "who": "brad-jackson-slalom",
+   "reason": "predates the page corpus window",
+   "date": "2018-05-11",
+   "words": 21
+  },
+  "6917923869274107905": {
+   "corpus": "person",
+   "who": "brad-jackson-slalom",
+   "reason": "predates the page corpus window",
+   "date": "2022-04-07",
+   "words": 45
+  },
+  "6432986349535588352": {
+   "corpus": "person",
+   "who": "brad-jackson-slalom",
+   "reason": "predates the page corpus window",
+   "date": "2018-08-08",
+   "words": 75
+  },
+  "7367197958083100672": {
+   "corpus": "person",
+   "who": "crisscubero",
+   "reason": "predates the page corpus window",
+   "date": "2025-08-29",
+   "words": 4
+  },
+  "7366827151217594368": {
+   "corpus": "person",
+   "who": "crisscubero",
+   "reason": "predates the page corpus window",
+   "date": "2025-08-28",
+   "words": 14
+  },
+  "7360981820810682373": {
+   "corpus": "person",
+   "who": "crisscubero",
+   "reason": "predates the page corpus window",
+   "date": "2025-08-12",
+   "words": 200
+  },
+  "7349174136297897985": {
+   "corpus": "person",
+   "who": "crisscubero",
+   "reason": "predates the page corpus window",
+   "date": "2025-07-10",
+   "words": 50
+  },
+  "7339308289043689472": {
+   "corpus": "person",
+   "who": "crisscubero",
+   "reason": "predates the page corpus window",
+   "date": "2025-06-13",
+   "words": 20
+  },
+  "7320873741901586436": {
+   "corpus": "person",
+   "who": "crisscubero",
+   "reason": "predates the page corpus window",
+   "date": "2025-04-23",
+   "words": 288
+  },
+  "7315116984889663488": {
+   "corpus": "person",
+   "who": "crisscubero",
+   "reason": "predates the page corpus window",
+   "date": "2025-04-07",
+   "words": 355
+  },
+  "7305676014901252096": {
+   "corpus": "person",
+   "who": "crisscubero",
+   "reason": "predates the page corpus window",
+   "date": "2025-03-12",
+   "words": 360
+  },
+  "7315490170907054081": {
+   "corpus": "person",
+   "who": "crisscubero",
+   "reason": "predates the page corpus window",
+   "date": "2025-04-08",
+   "words": 42
+  },
+  "7333207727629877250": {
+   "corpus": "person",
+   "who": "crisscubero",
+   "reason": "predates the page corpus window",
+   "date": "2025-05-27",
+   "words": 32
+  },
+  "7317287603873931264": {
+   "corpus": "person",
+   "who": "crisscubero",
+   "reason": "predates the page corpus window",
+   "date": "2025-04-13",
+   "words": 48
+  },
+  "7306415102084173824": {
+   "corpus": "person",
+   "who": "crisscubero",
+   "reason": "predates the page corpus window",
+   "date": "2025-03-14",
+   "words": 35
+  },
+  "7316184716930371584": {
+   "corpus": "person",
+   "who": "crisscubero",
+   "reason": "predates the page corpus window",
+   "date": "2025-04-10",
+   "words": 11
+  },
+  "7346053574612729856": {
+   "corpus": "person",
+   "who": "crisscubero",
+   "reason": "predates the page corpus window",
+   "date": "2025-07-02",
+   "words": 42
+  },
+  "7359310895933521920": {
+   "corpus": "person",
+   "who": "crisscubero",
+   "reason": "predates the page corpus window",
+   "date": "2025-08-07",
+   "words": 29
+  },
+  "7293696676790218752": {
+   "corpus": "person",
+   "who": "crisscubero",
+   "reason": "predates the page corpus window",
+   "date": "2025-02-07",
+   "words": 194
+  },
+  "7297635457847181312": {
+   "corpus": "person",
+   "who": "crisscubero",
+   "reason": "predates the page corpus window",
+   "date": "2025-02-18",
+   "words": 42
+  },
+  "7287801188543062017": {
+   "corpus": "person",
+   "who": "crisscubero",
+   "reason": "predates the page corpus window",
+   "date": "2025-01-22",
+   "words": 428
+  },
+  "7289640659680985089": {
+   "corpus": "person",
+   "who": "crisscubero",
+   "reason": "predates the page corpus window",
+   "date": "2025-01-27",
+   "words": 373
+  },
+  "7285719326723063808": {
+   "corpus": "person",
+   "who": "crisscubero",
+   "reason": "predates the page corpus window",
+   "date": "2025-01-16",
+   "words": 191
+  },
+  "7301357256795713536": {
+   "corpus": "person",
+   "who": "crisscubero",
+   "reason": "predates the page corpus window",
+   "date": "2025-02-28",
+   "words": 17
+  },
+  "7303883153339789312": {
+   "corpus": "person",
+   "who": "crisscubero",
+   "reason": "predates the page corpus window",
+   "date": "2025-03-07",
+   "words": 229
+  },
+  "7285996804771307520": {
+   "corpus": "person",
+   "who": "crisscubero",
+   "reason": "predates the page corpus window",
+   "date": "2025-01-17",
+   "words": 319
+  },
+  "7300602977172541442": {
+   "corpus": "person",
+   "who": "crisscubero",
+   "reason": "predates the page corpus window",
+   "date": "2025-02-26",
+   "words": 119
+  },
+  "7305349550062329856": {
+   "corpus": "person",
+   "who": "crisscubero",
+   "reason": "predates the page corpus window",
+   "date": "2025-03-11",
+   "words": 14
+  },
+  "7272972489083801600": {
+   "corpus": "person",
+   "who": "crisscubero",
+   "reason": "predates the page corpus window",
+   "date": "2024-12-12",
+   "words": 13
+  },
+  "7295840190680424450": {
+   "corpus": "person",
+   "who": "crisscubero",
+   "reason": "predates the page corpus window",
+   "date": "2025-02-13",
+   "words": 33
+  },
+  "7344500584982429697": {
+   "corpus": "person",
+   "who": "crisscubero",
+   "reason": "predates the page corpus window",
+   "date": "2025-06-27",
+   "words": 39
+  },
+  "7264632728644456448": {
+   "corpus": "person",
+   "who": "james-isilay",
+   "reason": "predates the page corpus window",
+   "date": "2024-11-19",
+   "words": 223
+  },
+  "7265030169852100608": {
+   "corpus": "person",
+   "who": "james-isilay",
+   "reason": "predates the page corpus window",
+   "date": "2024-11-20",
+   "words": 278
+  },
+  "7313987863195377664": {
+   "corpus": "person",
+   "who": "james-isilay",
+   "reason": "predates the page corpus window",
+   "date": "2025-04-04",
+   "words": 43
+  },
+  "7290357286781284352": {
+   "corpus": "person",
+   "who": "james-isilay",
+   "reason": "predates the page corpus window",
+   "date": "2025-01-29",
+   "words": 276
+  },
+  "7343677407326793729": {
+   "corpus": "person",
+   "who": "james-isilay",
+   "reason": "predates the page corpus window",
+   "date": "2025-06-25",
+   "words": 15
+  },
+  "7267909449405677568": {
+   "corpus": "person",
+   "who": "james-isilay",
+   "reason": "predates the page corpus window",
+   "date": "2024-11-28",
+   "words": 233
+  },
+  "7254832382745190400": {
+   "corpus": "person",
+   "who": "james-isilay",
+   "reason": "predates the page corpus window",
+   "date": "2024-10-23",
+   "words": 358
+  },
+  "7274039832811655169": {
+   "corpus": "person",
+   "who": "james-isilay",
+   "reason": "predates the page corpus window",
+   "date": "2024-12-15",
+   "words": 14
+  },
+  "7295693361552736256": {
+   "corpus": "person",
+   "who": "james-isilay",
+   "reason": "predates the page corpus window",
+   "date": "2025-02-13",
+   "words": 117
+  },
+  "7239981930954256386": {
+   "corpus": "person",
+   "who": "james-isilay",
+   "reason": "predates the page corpus window",
+   "date": "2024-09-12",
+   "words": 210
+  },
+  "7231535133785223169": {
+   "corpus": "person",
+   "who": "james-isilay",
+   "reason": "predates the page corpus window",
+   "date": "2024-08-20",
+   "words": 66
+  },
+  "7190466858662154240": {
+   "corpus": "person",
+   "who": "james-isilay",
+   "reason": "predates the page corpus window",
+   "date": "2024-04-28",
+   "words": 73
+  },
+  "7262420937411551232": {
+   "corpus": "person",
+   "who": "james-isilay",
+   "reason": "predates the page corpus window",
+   "date": "2024-11-13",
+   "words": 411
+  },
+  "7270541671954579456": {
+   "corpus": "person",
+   "who": "james-isilay",
+   "reason": "predates the page corpus window",
+   "date": "2024-12-05",
+   "words": 369
+  },
+  "7193701903833145345": {
+   "corpus": "person",
+   "who": "james-isilay",
+   "reason": "predates the page corpus window",
+   "date": "2024-05-07",
+   "words": 336
+  },
+  "7330113208319361024": {
+   "corpus": "person",
+   "who": "james-isilay",
+   "reason": "predates the page corpus window",
+   "date": "2025-05-19",
+   "words": 25
+  },
+  "7197309782133751810": {
+   "corpus": "person",
+   "who": "james-isilay",
+   "reason": "predates the page corpus window",
+   "date": "2024-05-17",
+   "words": 191
+  },
+  "7242852266045493248": {
+   "corpus": "person",
+   "who": "james-isilay",
+   "reason": "predates the page corpus window",
+   "date": "2024-09-20",
+   "words": 8
+  },
+  "7194638883785981952": {
+   "corpus": "person",
+   "who": "james-isilay",
+   "reason": "predates the page corpus window",
+   "date": "2024-05-10",
+   "words": 191
+  },
+  "7193220806896689152": {
+   "corpus": "person",
+   "who": "james-isilay",
+   "reason": "predates the page corpus window",
+   "date": "2024-05-06",
+   "words": 164
+  },
+  "7184188497900019712": {
+   "corpus": "person",
+   "who": "james-isilay",
+   "reason": "predates the page corpus window",
+   "date": "2024-04-11",
+   "words": 439
+  },
+  "7204825024698986497": {
+   "corpus": "person",
+   "who": "james-isilay",
+   "reason": "predates the page corpus window",
+   "date": "2024-06-07",
+   "words": 34
+  },
+  "7189175067790954498": {
+   "corpus": "person",
+   "who": "james-isilay",
+   "reason": "predates the page corpus window",
+   "date": "2024-04-25",
+   "words": 212
+  },
+  "7181987674314944513": {
+   "corpus": "person",
+   "who": "james-isilay",
+   "reason": "predates the page corpus window",
+   "date": "2024-04-05",
+   "words": 493
+  },
+  "7186731910130290688": {
+   "corpus": "person",
+   "who": "james-isilay",
+   "reason": "predates the page corpus window",
+   "date": "2024-04-18",
+   "words": 369
+  },
+  "7178753228983975937": {
+   "corpus": "person",
+   "who": "james-isilay",
+   "reason": "predates the page corpus window",
+   "date": "2024-03-27",
+   "words": 22
+  },
+  "7179156482439970816": {
+   "corpus": "person",
+   "who": "james-isilay",
+   "reason": "predates the page corpus window",
+   "date": "2024-03-28",
+   "words": 286
+  },
+  "7171216435870949377": {
+   "corpus": "person",
+   "who": "james-isilay",
+   "reason": "predates the page corpus window",
+   "date": "2024-03-06",
+   "words": 47
+  },
+  "7168636716826755074": {
+   "corpus": "person",
+   "who": "james-isilay",
+   "reason": "predates the page corpus window",
+   "date": "2024-02-28",
+   "words": 71
+  },
+  "7246905211099709441": {
+   "corpus": "person",
+   "who": "james-isilay",
+   "reason": "predates the page corpus window",
+   "date": "2024-10-01",
+   "words": 91
+  },
+  "7165814253344514049": {
+   "corpus": "person",
+   "who": "james-isilay",
+   "reason": "predates the page corpus window",
+   "date": "2024-02-20",
+   "words": 44
+  },
+  "7178127064674275328": {
+   "corpus": "person",
+   "who": "james-isilay",
+   "reason": "predates the page corpus window",
+   "date": "2024-03-25",
+   "words": 343
+  },
+  "7166516321357135872": {
+   "corpus": "person",
+   "who": "james-isilay",
+   "reason": "predates the page corpus window",
+   "date": "2024-02-22",
+   "words": 384
+  },
+  "7173008321837285378": {
+   "corpus": "person",
+   "who": "james-isilay",
+   "reason": "predates the page corpus window",
+   "date": "2024-03-11",
+   "words": 432
+  },
+  "7171984130354724864": {
+   "corpus": "person",
+   "who": "james-isilay",
+   "reason": "predates the page corpus window",
+   "date": "2024-03-08",
+   "words": 159
+  },
+  "7183504432972607488": {
+   "corpus": "person",
+   "who": "james-isilay",
+   "reason": "predates the page corpus window",
+   "date": "2024-04-09",
+   "words": 178
+  },
+  "7167594712126717954": {
+   "corpus": "person",
+   "who": "james-isilay",
+   "reason": "predates the page corpus window",
+   "date": "2024-02-25",
+   "words": 111
+  },
+  "7199413043502448641": {
+   "corpus": "person",
+   "who": "james-isilay",
+   "reason": "predates the page corpus window",
+   "date": "2024-05-23",
+   "words": 115
+  },
+  "7165426476400521216": {
+   "corpus": "person",
+   "who": "james-isilay",
+   "reason": "predates the page corpus window",
+   "date": "2024-02-19",
+   "words": 498
+  },
+  "7232840383200722944": {
+   "corpus": "person",
+   "who": "jolawrie",
+   "reason": "predates the page corpus window",
+   "date": "2024-08-23",
+   "words": 15
+  },
+  "7143423293818109952": {
+   "corpus": "person",
+   "who": "jolawrie",
+   "reason": "predates the page corpus window",
+   "date": "2023-12-21",
+   "words": 27
+  },
+  "6110206200450727936": {
+   "corpus": "person",
+   "who": "jolawrie",
+   "reason": "predates the page corpus window",
+   "date": "2016-02-29",
+   "words": 15
+  },
+  "7247665274072567808": {
+   "corpus": "person",
+   "who": "jolawrie",
+   "reason": "predates the page corpus window",
+   "date": "2024-10-03",
+   "words": 29
+  },
+  "7274909043742150658": {
+   "corpus": "person",
+   "who": "jolawrie",
+   "reason": "predates the page corpus window",
+   "date": "2024-12-17",
+   "words": 37
+  },
+  "5840187901899853824": {
+   "corpus": "person",
+   "who": "jolawrie",
+   "reason": "predates the page corpus window",
+   "date": "2014-02-14",
+   "words": 19
+  },
+  "7100271687820079104": {
+   "corpus": "person",
+   "who": "jolawrie",
+   "reason": "predates the page corpus window",
+   "date": "2023-08-24",
+   "words": 36
+  },
+  "7323059703905779712": {
+   "corpus": "person",
+   "who": "jolawrie",
+   "reason": "predates the page corpus window",
+   "date": "2025-04-29",
+   "words": 43
+  },
+  "5882642564758151168": {
+   "corpus": "person",
+   "who": "jolawrie",
+   "reason": "predates the page corpus window",
+   "date": "2014-06-12",
+   "words": 32
+  },
+  "6719349900892545024": {
+   "corpus": "person",
+   "who": "jolawrie",
+   "reason": "predates the page corpus window",
+   "date": "2020-10-06",
+   "words": 17
+  },
+  "5831203456471691264": {
+   "corpus": "person",
+   "who": "jolawrie",
+   "reason": "predates the page corpus window",
+   "date": "2014-01-21",
+   "words": 12
+  },
+  "7337870133123571712": {
+   "corpus": "person",
+   "who": "jolawrie",
+   "reason": "predates the page corpus window",
+   "date": "2025-06-09",
+   "words": 174
+  },
+  "5938290995350224896": {
+   "corpus": "person",
+   "who": "jolawrie",
+   "reason": "predates the page corpus window",
+   "date": "2014-11-12",
+   "words": 36
+  },
+  "6975095871977754624": {
+   "corpus": "person",
+   "who": "jolawrie",
+   "reason": "predates the page corpus window",
+   "date": "2022-09-12",
+   "words": 22
+  },
+  "5880775400841318400": {
+   "corpus": "person",
+   "who": "jolawrie",
+   "reason": "predates the page corpus window",
+   "date": "2014-06-06",
+   "words": 8
+  },
+  "7370941021188268032": {
+   "corpus": "person",
+   "who": "jolawrie",
+   "reason": "predates the page corpus window",
+   "date": "2025-09-08",
+   "words": 36
+  },
+  "7194713812552286208": {
+   "corpus": "person",
+   "who": "jolawrie",
+   "reason": "predates the page corpus window",
+   "date": "2024-05-10",
+   "words": 57
+  },
+  "7237783101832146944": {
+   "corpus": "person",
+   "who": "jolawrie",
+   "reason": "predates the page corpus window",
+   "date": "2024-09-06",
+   "words": 42
+  },
+  "6718903076591325184": {
+   "corpus": "person",
+   "who": "jolawrie",
+   "reason": "predates the page corpus window",
+   "date": "2020-10-05",
+   "words": 29
+  },
+  "6348679793344548864": {
+   "corpus": "person",
+   "who": "jolawrie",
+   "reason": "predates the page corpus window",
+   "date": "2017-12-19",
+   "words": 16
+  },
+  "6767593059086544896": {
+   "corpus": "person",
+   "who": "jolawrie",
+   "reason": "predates the page corpus window",
+   "date": "2021-02-16",
+   "words": 15
+  },
+  "7358502752152403971": {
+   "corpus": "person",
+   "who": "josefprusa",
+   "reason": "predates the page corpus window",
+   "date": "2025-08-05",
+   "words": 1
+  },
+  "7305589613597736960": {
+   "corpus": "person",
+   "who": "josefprusa",
+   "reason": "predates the page corpus window",
+   "date": "2025-03-12",
+   "words": 4
+  },
+  "7360290179355451392": {
+   "corpus": "person",
+   "who": "josefprusa",
+   "reason": "predates the page corpus window",
+   "date": "2025-08-10",
+   "words": 180
+  },
+  "7302355201439543296": {
+   "corpus": "person",
+   "who": "josefprusa",
+   "reason": "predates the page corpus window",
+   "date": "2025-03-03",
+   "words": 22
+  },
+  "7270005825744613378": {
+   "corpus": "person",
+   "who": "josefprusa",
+   "reason": "predates the page corpus window",
+   "date": "2024-12-04",
+   "words": 25
+  },
+  "7267295759585234945": {
+   "corpus": "person",
+   "who": "josefprusa",
+   "reason": "predates the page corpus window",
+   "date": "2024-11-26",
+   "words": 51
+  },
+  "7265342278729097216": {
+   "corpus": "person",
+   "who": "josefprusa",
+   "reason": "predates the page corpus window",
+   "date": "2024-11-21",
+   "words": 44
+  },
+  "7308967662242398208": {
+   "corpus": "person",
+   "who": "josefprusa",
+   "reason": "predates the page corpus window",
+   "date": "2025-03-21",
+   "words": 46
+  },
+  "7286112921540018177": {
+   "corpus": "person",
+   "who": "josefprusa",
+   "reason": "predates the page corpus window",
+   "date": "2025-01-17",
+   "words": 200
+  },
+  "7216864540775321600": {
+   "corpus": "person",
+   "who": "josefprusa",
+   "reason": "predates the page corpus window",
+   "date": "2024-07-10",
+   "words": 10
+  },
+  "7196651401261842434": {
+   "corpus": "person",
+   "who": "josefprusa",
+   "reason": "predates the page corpus window",
+   "date": "2024-05-15",
+   "words": 52
+  },
+  "7192183324088352769": {
+   "corpus": "person",
+   "who": "josefprusa",
+   "reason": "predates the page corpus window",
+   "date": "2024-05-03",
+   "words": 260
+  },
+  "7306329821523947520": {
+   "corpus": "person",
+   "who": "josefprusa",
+   "reason": "predates the page corpus window",
+   "date": "2025-03-14",
+   "words": 42
+  },
+  "7191826865563607040": {
+   "corpus": "person",
+   "who": "josefprusa",
+   "reason": "predates the page corpus window",
+   "date": "2024-05-02",
+   "words": 9
+  },
+  "7214028767202029569": {
+   "corpus": "person",
+   "who": "josefprusa",
+   "reason": "predates the page corpus window",
+   "date": "2024-07-02",
+   "words": 422
+  },
+  "7257879906334748673": {
+   "corpus": "person",
+   "who": "kenzofong",
+   "reason": "predates the page corpus window",
+   "date": "2024-10-31",
+   "words": 29
+  },
+  "7191889621788590080": {
+   "corpus": "person",
+   "who": "kenzofong",
+   "reason": "predates the page corpus window",
+   "date": "2024-05-02",
+   "words": 42
+  },
+  "7259240088558067714": {
+   "corpus": "person",
+   "who": "kenzofong",
+   "reason": "predates the page corpus window",
+   "date": "2024-11-04",
+   "words": 81
+  },
+  "7255246680076251137": {
+   "corpus": "person",
+   "who": "kenzofong",
+   "reason": "predates the page corpus window",
+   "date": "2024-10-24",
+   "words": 68
+  },
+  "7124831843333373952": {
+   "corpus": "person",
+   "who": "kenzofong",
+   "reason": "predates the page corpus window",
+   "date": "2023-10-30",
+   "words": 25
+  },
+  "7125214454232834049": {
+   "corpus": "person",
+   "who": "kenzofong",
+   "reason": "predates the page corpus window",
+   "date": "2023-10-31",
+   "words": 2
+  },
+  "7122639247848706048": {
+   "corpus": "person",
+   "who": "kenzofong",
+   "reason": "predates the page corpus window",
+   "date": "2023-10-24",
+   "words": 67
+  },
+  "7127386454753759232": {
+   "corpus": "person",
+   "who": "kenzofong",
+   "reason": "predates the page corpus window",
+   "date": "2023-11-06",
+   "words": 36
+  },
+  "7123692346784825345": {
+   "corpus": "person",
+   "who": "kenzofong",
+   "reason": "predates the page corpus window",
+   "date": "2023-10-27",
+   "words": 65
+  },
+  "7252728442440298496": {
+   "corpus": "person",
+   "who": "kenzofong",
+   "reason": "predates the page corpus window",
+   "date": "2024-10-17",
+   "words": 49
+  },
+  "7201627454535340032": {
+   "corpus": "person",
+   "who": "kenzofong",
+   "reason": "predates the page corpus window",
+   "date": "2024-05-29",
+   "words": 86
+  },
+  "7130344112033034241": {
+   "corpus": "person",
+   "who": "kenzofong",
+   "reason": "predates the page corpus window",
+   "date": "2023-11-15",
+   "words": 37
+  },
+  "7127678260271837184": {
+   "corpus": "person",
+   "who": "kenzofong",
+   "reason": "predates the page corpus window",
+   "date": "2023-11-07",
+   "words": 53
+  },
+  "6949817975877111808": {
+   "corpus": "person",
+   "who": "kenzofong",
+   "reason": "predates the page corpus window",
+   "date": "2022-07-04",
+   "words": 62
+  },
+  "6906758044123058176": {
+   "corpus": "person",
+   "who": "kenzofong",
+   "reason": "predates the page corpus window",
+   "date": "2022-03-08",
+   "words": 60
+  },
+  "6888558334065160192": {
+   "corpus": "person",
+   "who": "kenzofong",
+   "reason": "predates the page corpus window",
+   "date": "2022-01-16",
+   "words": 75
+  },
+  "6950149432348749824": {
+   "corpus": "person",
+   "who": "kenzofong",
+   "reason": "predates the page corpus window",
+   "date": "2022-07-05",
+   "words": 46
+  },
+  "6902429559304658944": {
+   "corpus": "person",
+   "who": "kenzofong",
+   "reason": "predates the page corpus window",
+   "date": "2022-02-24",
+   "words": 74
+  },
+  "7125506499153469440": {
+   "corpus": "person",
+   "who": "kenzofong",
+   "reason": "predates the page corpus window",
+   "date": "2023-11-01",
+   "words": 83
+  },
+  "6891872146281394176": {
+   "corpus": "person",
+   "who": "kenzofong",
+   "reason": "predates the page corpus window",
+   "date": "2022-01-25",
+   "words": 28
+  },
+  "6861178300195315712": {
+   "corpus": "person",
+   "who": "kenzofong",
+   "reason": "predates the page corpus window",
+   "date": "2021-11-02",
+   "words": 37
+  },
+  "7120585545369403393": {
+   "corpus": "person",
+   "who": "kenzofong",
+   "reason": "predates the page corpus window",
+   "date": "2023-10-19",
+   "words": 85
+  },
+  "6816351023393857536": {
+   "corpus": "person",
+   "who": "kenzofong",
+   "reason": "predates the page corpus window",
+   "date": "2021-07-01",
+   "words": 29
+  },
+  "7120108544808353792": {
+   "corpus": "person",
+   "who": "kenzofong",
+   "reason": "predates the page corpus window",
+   "date": "2023-10-17",
+   "words": 240
+  },
+  "6978009294608756736": {
+   "corpus": "person",
+   "who": "kenzofong",
+   "reason": "predates the page corpus window",
+   "date": "2022-09-20",
+   "words": 42
+  },
+  "6956206149524209664": {
+   "corpus": "person",
+   "who": "kenzofong",
+   "reason": "predates the page corpus window",
+   "date": "2022-07-22",
+   "words": 58
+  },
+  "6812811772588912640": {
+   "corpus": "person",
+   "who": "kenzofong",
+   "reason": "predates the page corpus window",
+   "date": "2021-06-21",
+   "words": 48
+  },
+  "6802823390697791488": {
+   "corpus": "person",
+   "who": "kenzofong",
+   "reason": "predates the page corpus window",
+   "date": "2021-05-25",
+   "words": 52
+  },
+  "6797713684144771072": {
+   "corpus": "person",
+   "who": "kenzofong",
+   "reason": "predates the page corpus window",
+   "date": "2021-05-11",
+   "words": 40
+  },
+  "6778116599569354752": {
+   "corpus": "person",
+   "who": "kenzofong",
+   "reason": "predates the page corpus window",
+   "date": "2021-03-18",
+   "words": 54
+  },
+  "6778822682118123520": {
+   "corpus": "person",
+   "who": "kenzofong",
+   "reason": "predates the page corpus window",
+   "date": "2021-03-19",
+   "words": 119
+  },
+  "6788544539113074688": {
+   "corpus": "person",
+   "who": "kenzofong",
+   "reason": "predates the page corpus window",
+   "date": "2021-04-15",
+   "words": 49
+  },
+  "6770777876313718785": {
+   "corpus": "person",
+   "who": "kenzofong",
+   "reason": "predates the page corpus window",
+   "date": "2021-02-25",
+   "words": 61
+  },
+  "6785032916067065856": {
+   "corpus": "person",
+   "who": "kenzofong",
+   "reason": "predates the page corpus window",
+   "date": "2021-04-06",
+   "words": 85
+  },
+  "6761957930414702593": {
+   "corpus": "person",
+   "who": "kenzofong",
+   "reason": "predates the page corpus window",
+   "date": "2021-02-01",
+   "words": 27
+  },
+  "6775199795117092864": {
+   "corpus": "person",
+   "who": "kenzofong",
+   "reason": "predates the page corpus window",
+   "date": "2021-03-09",
+   "words": 57
+  },
+  "7177241193645240320": {
+   "corpus": "person",
+   "who": "manish-jha-999803183",
+   "reason": "predates the page corpus window",
+   "date": "2024-03-23",
+   "words": 47
+  },
+  "6774892165781975040": {
+   "corpus": "person",
+   "who": "manish-jha-999803183",
+   "reason": "predates the page corpus window",
+   "date": "2021-03-09",
+   "words": 1
+  },
+  "6788469470080860160": {
+   "corpus": "person",
+   "who": "manish-jha-999803183",
+   "reason": "predates the page corpus window",
+   "date": "2021-04-15",
+   "words": 1
+  },
+  "6885241857090170880": {
+   "corpus": "person",
+   "who": "manish-jha-999803183",
+   "reason": "predates the page corpus window",
+   "date": "2022-01-07",
+   "words": 37
+  },
+  "6790658873150853121": {
+   "corpus": "person",
+   "who": "manish-jha-999803183",
+   "reason": "predates the page corpus window",
+   "date": "2021-04-21",
+   "words": 8
+  },
+  "6889558504886149120": {
+   "corpus": "person",
+   "who": "manish-jha-999803183",
+   "reason": "predates the page corpus window",
+   "date": "2022-01-19",
+   "words": 3
+  },
+  "7365474970145107968": {
+   "corpus": "person",
+   "who": "maxim-lobovsky",
+   "reason": "predates the page corpus window",
+   "date": "2025-08-24",
+   "words": 76
+  },
+  "7363665743231569920": {
+   "corpus": "person",
+   "who": "maxim-lobovsky",
+   "reason": "predates the page corpus window",
+   "date": "2025-08-19",
+   "words": 33
+  },
+  "7362185137318518784": {
+   "corpus": "person",
+   "who": "maxim-lobovsky",
+   "reason": "predates the page corpus window",
+   "date": "2025-08-15",
+   "words": 100
+  },
+  "7347707784483803136": {
+   "corpus": "person",
+   "who": "maxim-lobovsky",
+   "reason": "predates the page corpus window",
+   "date": "2025-07-06",
+   "words": 106
+  },
+  "7364435584452325377": {
+   "corpus": "person",
+   "who": "maxim-lobovsky",
+   "reason": "predates the page corpus window",
+   "date": "2025-08-21",
+   "words": 9
+  },
+  "7290392229481746432": {
+   "corpus": "person",
+   "who": "melodyskim",
+   "reason": "predates the page corpus window",
+   "date": "2025-01-29",
+   "words": 70
+  },
+  "7186516281171320832": {
+   "corpus": "person",
+   "who": "melodyskim",
+   "reason": "predates the page corpus window",
+   "date": "2024-04-18",
+   "words": 47
+  },
+  "7160431780401967104": {
+   "corpus": "person",
+   "who": "melodyskim",
+   "reason": "predates the page corpus window",
+   "date": "2024-02-06",
+   "words": 288
+  },
+  "7290813532156137472": {
+   "corpus": "person",
+   "who": "melodyskim",
+   "reason": "predates the page corpus window",
+   "date": "2025-01-30",
+   "words": 94
+  },
+  "6438510435904876544": {
+   "corpus": "person",
+   "who": "melodyskim",
+   "reason": "predates the page corpus window",
+   "date": "2018-08-23",
+   "words": 44
+  },
+  "7289767511422578689": {
+   "corpus": "person",
+   "who": "melodyskim",
+   "reason": "predates the page corpus window",
+   "date": "2025-01-27",
+   "words": 58
+  },
+  "6889358387210006528": {
+   "corpus": "person",
+   "who": "melodyskim",
+   "reason": "predates the page corpus window",
+   "date": "2022-01-19",
+   "words": 132
+  },
+  "7372023589920944128": {
+   "corpus": "person",
+   "who": "michaelqmcginley",
+   "reason": "predates the page corpus window",
+   "date": "2025-09-11",
+   "words": 4
+  },
+  "7217215146824278018": {
+   "corpus": "person",
+   "who": "michaelqmcginley",
+   "reason": "predates the page corpus window",
+   "date": "2024-07-11",
+   "words": 16
+  },
+  "7300287728175222785": {
+   "corpus": "person",
+   "who": "michaelqmcginley",
+   "reason": "predates the page corpus window",
+   "date": "2025-02-25",
+   "words": 6
+  },
+  "7265491376639733763": {
+   "corpus": "person",
+   "who": "michaelqmcginley",
+   "reason": "predates the page corpus window",
+   "date": "2024-11-21",
+   "words": 21
+  },
+  "7051290887858909184": {
+   "corpus": "person",
+   "who": "michaelqmcginley",
+   "reason": "predates the page corpus window",
+   "date": "2023-04-10",
+   "words": 15
+  },
+  "7083131493178376192": {
+   "corpus": "person",
+   "who": "michaelqmcginley",
+   "reason": "predates the page corpus window",
+   "date": "2023-07-07",
+   "words": 4
+  },
+  "6733159638235275265": {
+   "corpus": "person",
+   "who": "michaelqmcginley",
+   "reason": "predates the page corpus window",
+   "date": "2020-11-13",
+   "words": 4
+  },
+  "6932841630366404609": {
+   "corpus": "person",
+   "who": "michaelqmcginley",
+   "reason": "predates the page corpus window",
+   "date": "2022-05-18",
+   "words": 52
+  },
+  "7165878122574176256": {
+   "corpus": "person",
+   "who": "michaelqmcginley",
+   "reason": "predates the page corpus window",
+   "date": "2024-02-21",
+   "words": 15
+  },
+  "7049795024804335616": {
+   "corpus": "person",
+   "who": "michaelqmcginley",
+   "reason": "predates the page corpus window",
+   "date": "2023-04-06",
+   "words": 5
+  },
+  "7224190260539273216": {
+   "corpus": "person",
+   "who": "michaelqmcginley",
+   "reason": "predates the page corpus window",
+   "date": "2024-07-30",
+   "words": 36
+  },
+  "7174477032653791233": {
+   "corpus": "person",
+   "who": "michaelqmcginley",
+   "reason": "predates the page corpus window",
+   "date": "2024-03-15",
+   "words": 8
+  },
+  "7290440229620961280": {
+   "corpus": "person",
+   "who": "michaelqmcginley",
+   "reason": "predates the page corpus window",
+   "date": "2025-01-29",
+   "words": 27
+  },
+  "7006377254465269760": {
+   "corpus": "person",
+   "who": "michaelqmcginley",
+   "reason": "predates the page corpus window",
+   "date": "2022-12-07",
+   "words": 58
+  },
+  "7064709599592906752": {
+   "corpus": "person",
+   "who": "michaelqmcginley",
+   "reason": "predates the page corpus window",
+   "date": "2023-05-17",
+   "words": 54
+  },
+  "6978830004583342080": {
+   "corpus": "person",
+   "who": "michaelqmcginley",
+   "reason": "predates the page corpus window",
+   "date": "2022-09-22",
+   "words": 43
+  },
+  "7226993033550950400": {
+   "corpus": "person",
+   "who": "michaelqmcginley",
+   "reason": "predates the page corpus window",
+   "date": "2024-08-07",
+   "words": 12
+  },
+  "7284685229863116801": {
+   "corpus": "person",
+   "who": "michaelqmcginley",
+   "reason": "predates the page corpus window",
+   "date": "2025-01-13",
+   "words": 27
+  },
+  "6960708768334573568": {
+   "corpus": "person",
+   "who": "michaelqmcginley",
+   "reason": "predates the page corpus window",
+   "date": "2022-08-03",
+   "words": 23
+  },
+  "6947965267129896960": {
+   "corpus": "person",
+   "who": "michaelqmcginley",
+   "reason": "predates the page corpus window",
+   "date": "2022-06-29",
+   "words": 19
+  },
+  "6759544484196954112": {
+   "corpus": "person",
+   "who": "michaelqmcginley",
+   "reason": "predates the page corpus window",
+   "date": "2021-01-25",
+   "words": 17
+  },
+  "7341160270234271744": {
+   "corpus": "person",
+   "who": "michaelqmcginley",
+   "reason": "predates the page corpus window",
+   "date": "2025-06-18",
+   "words": 30
+  },
+  "6562838084025749505": {
+   "corpus": "person",
+   "who": "michaelqmcginley",
+   "reason": "predates the page corpus window",
+   "date": "2019-08-01",
+   "words": 15
+  },
+  "7369077286689525761": {
+   "corpus": "person",
+   "who": "peggyljohnson",
+   "reason": "predates the page corpus window",
+   "date": "2025-09-03",
+   "words": 43
+  },
+  "7350554208510586882": {
+   "corpus": "person",
+   "who": "peggyljohnson",
+   "reason": "predates the page corpus window",
+   "date": "2025-07-14",
+   "words": 17
+  },
+  "7344215297580572672": {
+   "corpus": "person",
+   "who": "peggyljohnson",
+   "reason": "predates the page corpus window",
+   "date": "2025-06-27",
+   "words": 2
+  },
+  "7341791057652682756": {
+   "corpus": "person",
+   "who": "peggyljohnson",
+   "reason": "predates the page corpus window",
+   "date": "2025-06-20",
+   "words": 12
+  },
+  "7367620554666799105": {
+   "corpus": "person",
+   "who": "peggyljohnson",
+   "reason": "predates the page corpus window",
+   "date": "2025-08-30",
+   "words": 6
+  },
+  "7366732564465659904": {
+   "corpus": "person",
+   "who": "peggyljohnson",
+   "reason": "predates the page corpus window",
+   "date": "2025-08-28",
+   "words": 19
+  },
+  "7358611979894206464": {
+   "corpus": "person",
+   "who": "peggyljohnson",
+   "reason": "predates the page corpus window",
+   "date": "2025-08-05",
+   "words": 2
+  },
+  "7336103815537901569": {
+   "corpus": "person",
+   "who": "peggyljohnson",
+   "reason": "predates the page corpus window",
+   "date": "2025-06-04",
+   "words": 13
+  },
+  "7370815847675674624": {
+   "corpus": "person",
+   "who": "pgassner",
+   "reason": "predates the page corpus window",
+   "date": "2025-09-08",
+   "words": 245
+  },
+  "7371547263137091585": {
+   "corpus": "person",
+   "who": "pgassner",
+   "reason": "predates the page corpus window",
+   "date": "2025-09-10",
+   "words": 153
+  },
+  "7355620882259566593": {
+   "corpus": "person",
+   "who": "pgassner",
+   "reason": "predates the page corpus window",
+   "date": "2025-07-28",
+   "words": 318
+  },
+  "7361745465387704321": {
+   "corpus": "person",
+   "who": "pgassner",
+   "reason": "predates the page corpus window",
+   "date": "2025-08-14",
+   "words": 292
+  },
+  "7353066989113823232": {
+   "corpus": "person",
+   "who": "pgassner",
+   "reason": "predates the page corpus window",
+   "date": "2025-07-21",
+   "words": 110
+  },
+  "7363194180291977217": {
+   "corpus": "person",
+   "who": "pgassner",
+   "reason": "predates the page corpus window",
+   "date": "2025-08-18",
+   "words": 85
+  },
+  "7322986265220386816": {
+   "corpus": "person",
+   "who": "pgassner",
+   "reason": "predates the page corpus window",
+   "date": "2025-04-29",
+   "words": 47
+  },
+  "7262845992146804737": {
+   "corpus": "person",
+   "who": "pgassner",
+   "reason": "predates the page corpus window",
+   "date": "2024-11-14",
+   "words": 110
+  },
+  "7274802394952056832": {
+   "corpus": "person",
+   "who": "pgassner",
+   "reason": "predates the page corpus window",
+   "date": "2024-12-17",
+   "words": 131
+  },
+  "7373375892082839553": {
+   "corpus": "person",
+   "who": "pgassner",
+   "reason": "predates the page corpus window",
+   "date": "2025-09-15",
+   "words": 43
+  },
+  "6894297322784718848": {
+   "corpus": "person",
+   "who": "pgassner",
+   "reason": "predates the page corpus window",
+   "date": "2022-02-01",
+   "words": 36
+  },
+  "7191450298958188544": {
+   "corpus": "person",
+   "who": "pgassner",
+   "reason": "predates the page corpus window",
+   "date": "2024-05-01",
+   "words": 61
+  },
+  "7328756497591558145": {
+   "corpus": "person",
+   "who": "pgassner",
+   "reason": "predates the page corpus window",
+   "date": "2025-05-15",
+   "words": 240
+  },
+  "7018601721048285184": {
+   "corpus": "person",
+   "who": "pgassner",
+   "reason": "predates the page corpus window",
+   "date": "2023-01-10",
+   "words": 71
+  },
+  "6947227370885955585": {
+   "corpus": "person",
+   "who": "pgassner",
+   "reason": "predates the page corpus window",
+   "date": "2022-06-27",
+   "words": 19
+  },
+  "7111001850518147074": {
+   "corpus": "person",
+   "who": "pgassner",
+   "reason": "predates the page corpus window",
+   "date": "2023-09-22",
+   "words": 113
+  },
+  "6954792413114617856": {
+   "corpus": "person",
+   "who": "pgassner",
+   "reason": "predates the page corpus window",
+   "date": "2022-07-18",
+   "words": 41
+  },
+  "6922984056888442880": {
+   "corpus": "person",
+   "who": "pgassner",
+   "reason": "predates the page corpus window",
+   "date": "2022-04-21",
+   "words": 51
+  },
+  "6848982400870039552": {
+   "corpus": "person",
+   "who": "pgassner",
+   "reason": "predates the page corpus window",
+   "date": "2021-09-29",
+   "words": 35
+  },
+  "6824403541973708800": {
+   "corpus": "person",
+   "who": "pgassner",
+   "reason": "predates the page corpus window",
+   "date": "2021-07-23",
+   "words": 28
+  },
+  "6835942323889823745": {
+   "corpus": "person",
+   "who": "pgassner",
+   "reason": "predates the page corpus window",
+   "date": "2021-08-24",
+   "words": 39
+  },
+  "6831575050706149376": {
+   "corpus": "person",
+   "who": "pgassner",
+   "reason": "predates the page corpus window",
+   "date": "2021-08-12",
+   "words": 25
+  },
+  "7021495687984930816": {
+   "corpus": "person",
+   "who": "pgassner",
+   "reason": "predates the page corpus window",
+   "date": "2023-01-18",
+   "words": 35
+  },
+  "7071854114577530881": {
+   "corpus": "person",
+   "who": "pgassner",
+   "reason": "predates the page corpus window",
+   "date": "2023-06-06",
+   "words": 44
+  },
+  "7066439998559973376": {
+   "corpus": "person",
+   "who": "pgassner",
+   "reason": "predates the page corpus window",
+   "date": "2023-05-22",
+   "words": 34
+  },
+  "7188905576347713536": {
+   "corpus": "person",
+   "who": "pgassner",
+   "reason": "predates the page corpus window",
+   "date": "2024-04-24",
+   "words": 91
+  },
+  "7290866558954881027": {
+   "corpus": "person",
+   "who": "praveer-melwani",
+   "reason": "predates the page corpus window",
+   "date": "2025-01-30",
+   "words": 156
+  },
+  "7325949197889785856": {
+   "corpus": "person",
+   "who": "praveer-melwani",
+   "reason": "predates the page corpus window",
+   "date": "2025-05-07",
+   "words": 93
+  },
+  "6830901442413498368": {
+   "corpus": "person",
+   "who": "praveer-melwani",
+   "reason": "predates the page corpus window",
+   "date": "2021-08-10",
+   "words": 67
+  },
+  "6563094459129692160": {
+   "corpus": "person",
+   "who": "praveer-melwani",
+   "reason": "predates the page corpus window",
+   "date": "2019-08-02",
+   "words": 43
+  },
+  "6683422789287968768": {
+   "corpus": "person",
+   "who": "praveer-melwani",
+   "reason": "predates the page corpus window",
+   "date": "2020-06-29",
+   "words": 47
+  },
+  "7054950449585557504": {
+   "corpus": "person",
+   "who": "praveer-melwani",
+   "reason": "predates the page corpus window",
+   "date": "2023-04-20",
+   "words": 51
+  },
+  "7148492004191051776": {
+   "corpus": "person",
+   "who": "praveer-melwani",
+   "reason": "predates the page corpus window",
+   "date": "2024-01-04",
+   "words": 40
+  },
+  "6937809601631240192": {
+   "corpus": "person",
+   "who": "praveer-melwani",
+   "reason": "predates the page corpus window",
+   "date": "2022-06-01",
+   "words": 97
+  },
+  "7226703409385553920": {
+   "corpus": "person",
+   "who": "praveer-melwani",
+   "reason": "predates the page corpus window",
+   "date": "2024-08-06",
+   "words": 75
+  },
+  "6976156953605545985": {
+   "corpus": "person",
+   "who": "praveer-melwani",
+   "reason": "predates the page corpus window",
+   "date": "2022-09-15",
+   "words": 223
+  },
+  "6968324080609492992": {
+   "corpus": "person",
+   "who": "praveer-melwani",
+   "reason": "predates the page corpus window",
+   "date": "2022-08-24",
+   "words": 15
+  },
+  "7184211099708239873": {
+   "corpus": "person",
+   "who": "praveer-melwani",
+   "reason": "predates the page corpus window",
+   "date": "2024-04-11",
+   "words": 71
+  },
+  "6855201684851892224": {
+   "corpus": "person",
+   "who": "praveer-melwani",
+   "reason": "predates the page corpus window",
+   "date": "2021-10-16",
+   "words": 18
+  },
+  "6502218524163923968": {
+   "corpus": "person",
+   "who": "praveer-melwani",
+   "reason": "predates the page corpus window",
+   "date": "2019-02-15",
+   "words": 18
+  },
+  "6494690891570257920": {
+   "corpus": "person",
+   "who": "praveer-melwani",
+   "reason": "predates the page corpus window",
+   "date": "2019-01-25",
+   "words": 22
+  },
+  "6481603250515775488": {
+   "corpus": "person",
+   "who": "praveer-melwani",
+   "reason": "predates the page corpus window",
+   "date": "2018-12-20",
+   "words": 28
+  },
+  "6364880269241122816": {
+   "corpus": "person",
+   "who": "praveer-melwani",
+   "reason": "predates the page corpus window",
+   "date": "2018-02-01",
+   "words": 17
+  },
+  "6377204274199293952": {
+   "corpus": "person",
+   "who": "praveer-melwani",
+   "reason": "predates the page corpus window",
+   "date": "2018-03-07",
+   "words": 14
+  },
+  "6374416273950019584": {
+   "corpus": "person",
+   "who": "praveer-melwani",
+   "reason": "predates the page corpus window",
+   "date": "2018-02-28",
+   "words": 11
+  },
+  "6465400442779242496": {
+   "corpus": "person",
+   "who": "praveer-melwani",
+   "reason": "predates the page corpus window",
+   "date": "2018-11-06",
+   "words": 23
+  },
+  "6780590555371069440": {
+   "corpus": "person",
+   "who": "stephanie-c-30b12031",
+   "reason": "predates the page corpus window",
+   "date": "2021-03-24",
+   "words": 44
+  },
+  "6435594702011056128": {
+   "corpus": "person",
+   "who": "stephanie-c-30b12031",
+   "reason": "predates the page corpus window",
+   "date": "2018-08-15",
+   "words": 83
+  },
+  "7112535170028601344": {
+   "corpus": "person",
+   "who": "stephanie-c-30b12031",
+   "reason": "predates the page corpus window",
+   "date": "2023-09-26",
+   "words": 58
+  },
+  "7325778942798286849": {
+   "corpus": "person",
+   "who": "tarunsmehta",
+   "reason": "predates the page corpus window",
+   "date": "2025-05-07",
+   "words": 171
+  },
+  "7249681045925601280": {
+   "corpus": "person",
+   "who": "tarunsmehta",
+   "reason": "predates the page corpus window",
+   "date": "2024-10-09",
+   "words": 499
+  },
+  "7270026069183729665": {
+   "corpus": "person",
+   "who": "tarunsmehta",
+   "reason": "predates the page corpus window",
+   "date": "2024-12-04",
+   "words": 66
+  },
+  "7338539528397197312": {
+   "corpus": "person",
+   "who": "tarunsmehta",
+   "reason": "predates the page corpus window",
+   "date": "2025-06-11",
+   "words": 242
+  },
+  "7232616586296053760": {
+   "corpus": "person",
+   "who": "tarunsmehta",
+   "reason": "predates the page corpus window",
+   "date": "2024-08-23",
+   "words": 44
+  },
+  "7303305666507546625": {
+   "corpus": "person",
+   "who": "tarunsmehta",
+   "reason": "predates the page corpus window",
+   "date": "2025-03-06",
+   "words": 370
+  },
+  "7220043063333724161": {
+   "corpus": "person",
+   "who": "tarunsmehta",
+   "reason": "predates the page corpus window",
+   "date": "2024-07-19",
+   "words": 161
+  },
+  "7249683084617359360": {
+   "corpus": "person",
+   "who": "tarunsmehta",
+   "reason": "predates the page corpus window",
+   "date": "2024-10-09",
+   "words": 404
+  },
+  "7226565218355625984": {
+   "corpus": "person",
+   "who": "tarunsmehta",
+   "reason": "predates the page corpus window",
+   "date": "2024-08-06",
+   "words": 29
+  },
+  "7340003200957038592": {
+   "corpus": "person",
+   "who": "tarunsmehta",
+   "reason": "predates the page corpus window",
+   "date": "2025-06-15",
+   "words": 7
+  },
+  "7328275046014115841": {
+   "corpus": "person",
+   "who": "tarunsmehta",
+   "reason": "predates the page corpus window",
+   "date": "2025-05-14",
+   "words": 74
+  },
+  "7259169584509853696": {
+   "corpus": "person",
+   "who": "tarunsmehta",
+   "reason": "predates the page corpus window",
+   "date": "2024-11-04",
+   "words": 109
+  },
+  "7303684258022178817": {
+   "corpus": "person",
+   "who": "tarunsmehta",
+   "reason": "predates the page corpus window",
+   "date": "2025-03-07",
+   "words": 58
+  },
+  "7308829517639221248": {
+   "corpus": "person",
+   "who": "thijsspeet",
+   "reason": "predates the page corpus window",
+   "date": "2025-03-21",
+   "words": 128
+  },
+  "7216326776300412928": {
+   "corpus": "person",
+   "who": "thijsspeet",
+   "reason": "predates the page corpus window",
+   "date": "2024-07-09",
+   "words": 68
+  },
+  "7303425945497989120": {
+   "corpus": "person",
+   "who": "thijsspeet",
+   "reason": "predates the page corpus window",
+   "date": "2025-03-06",
+   "words": 87
+  },
+  "7298613365524844544": {
+   "corpus": "person",
+   "who": "thijsspeet",
+   "reason": "predates the page corpus window",
+   "date": "2025-02-21",
+   "words": 3
+  },
+  "7297608953239138305": {
+   "corpus": "person",
+   "who": "thijsspeet",
+   "reason": "predates the page corpus window",
+   "date": "2025-02-18",
+   "words": 31
+  },
+  "7112693444862435329": {
+   "corpus": "person",
+   "who": "thijsspeet",
+   "reason": "predates the page corpus window",
+   "date": "2023-09-27",
+   "words": 54
+  },
+  "7097580624311410690": {
+   "corpus": "person",
+   "who": "thijsspeet",
+   "reason": "predates the page corpus window",
+   "date": "2023-08-16",
+   "words": 67
+  },
+  "7330244633899188225": {
+   "corpus": "person",
+   "who": "thijsspeet",
+   "reason": "predates the page corpus window",
+   "date": "2025-05-19",
+   "words": 118
+  },
+  "7189188832192274432": {
+   "corpus": "person",
+   "who": "thijsspeet",
+   "reason": "predates the page corpus window",
+   "date": "2024-04-25",
+   "words": 18
+  },
+  "6964940348900974593": {
+   "corpus": "person",
+   "who": "thijsspeet",
+   "reason": "predates the page corpus window",
+   "date": "2022-08-15",
+   "words": 95
+  },
+  "7063833927194423296": {
+   "corpus": "person",
+   "who": "thijsspeet",
+   "reason": "predates the page corpus window",
+   "date": "2023-05-15",
+   "words": 86
+  },
+  "6978625652090413056": {
+   "corpus": "person",
+   "who": "thijsspeet",
+   "reason": "predates the page corpus window",
+   "date": "2022-09-22",
+   "words": 54
+  },
+  "6959777897758760960": {
+   "corpus": "person",
+   "who": "thijsspeet",
+   "reason": "predates the page corpus window",
+   "date": "2022-08-01",
+   "words": 277
+  },
+  "7018904880979300352": {
+   "corpus": "person",
+   "who": "thijsspeet",
+   "reason": "predates the page corpus window",
+   "date": "2023-01-11",
+   "words": 102
+  },
+  "7001823577201090560": {
+   "corpus": "person",
+   "who": "thijsspeet",
+   "reason": "predates the page corpus window",
+   "date": "2022-11-25",
+   "words": 45
+  },
+  "7057624285426675713": {
+   "corpus": "person",
+   "who": "thijsspeet",
+   "reason": "predates the page corpus window",
+   "date": "2023-04-28",
+   "words": 4
+  },
+  "6962671009812357120": {
+   "corpus": "person",
+   "who": "thijsspeet",
+   "reason": "predates the page corpus window",
+   "date": "2022-08-09",
+   "words": 240
+  },
+  "6969937468284399616": {
+   "corpus": "person",
+   "who": "thijsspeet",
+   "reason": "predates the page corpus window",
+   "date": "2022-08-29",
+   "words": 108
+  },
+  "6952949513460301824": {
+   "corpus": "person",
+   "who": "thijsspeet",
+   "reason": "predates the page corpus window",
+   "date": "2022-07-13",
+   "words": 170
+  },
+  "7000751362745475072": {
+   "corpus": "person",
+   "who": "thijsspeet",
+   "reason": "predates the page corpus window",
+   "date": "2022-11-22",
+   "words": 217
+  },
+  "6851444081634103296": {
+   "corpus": "person",
+   "who": "thijsspeet",
+   "reason": "predates the page corpus window",
+   "date": "2021-10-06",
+   "words": 136
+  },
+  "6915302985736552448": {
+   "corpus": "person",
+   "who": "thijsspeet",
+   "reason": "predates the page corpus window",
+   "date": "2022-03-31",
+   "words": 115
+  },
+  "6853630468802265089": {
+   "corpus": "person",
+   "who": "thijsspeet",
+   "reason": "predates the page corpus window",
+   "date": "2021-10-12",
+   "words": 111
+  },
+  "7065226861437444096": {
+   "corpus": "person",
+   "who": "thijsspeet",
+   "reason": "predates the page corpus window",
+   "date": "2023-05-19",
+   "words": 10
+  },
+  "6986601008072130560": {
+   "corpus": "person",
+   "who": "thijsspeet",
+   "reason": "predates the page corpus window",
+   "date": "2022-10-14",
+   "words": 176
+  },
+  "6987792608953540608": {
+   "corpus": "person",
+   "who": "thijsspeet",
+   "reason": "predates the page corpus window",
+   "date": "2022-10-17",
+   "words": 88
+  },
+  "6968171510515564544": {
+   "corpus": "person",
+   "who": "thijsspeet",
+   "reason": "predates the page corpus window",
+   "date": "2022-08-24",
+   "words": 102
+  },
+  "6866679417461080064": {
+   "corpus": "person",
+   "who": "thijsspeet",
+   "reason": "predates the page corpus window",
+   "date": "2021-11-17",
+   "words": 33
+  },
+  "6918123973931122688": {
+   "corpus": "person",
+   "who": "thijsspeet",
+   "reason": "predates the page corpus window",
+   "date": "2022-04-08",
+   "words": 72
+  },
+  "6852188777738211328": {
+   "corpus": "person",
+   "who": "thijsspeet",
+   "reason": "predates the page corpus window",
+   "date": "2021-10-08",
+   "words": 92
+  },
+  "6847089270092533760": {
+   "corpus": "person",
+   "who": "thijsspeet",
+   "reason": "predates the page corpus window",
+   "date": "2021-09-24",
+   "words": 195
+  },
+  "6825773147808112640": {
+   "corpus": "person",
+   "who": "thijsspeet",
+   "reason": "predates the page corpus window",
+   "date": "2021-07-27",
+   "words": 39
+  },
+  "6815930727599767552": {
+   "corpus": "person",
+   "who": "thijsspeet",
+   "reason": "predates the page corpus window",
+   "date": "2021-06-30",
+   "words": 57
+  },
+  "6839112421961981952": {
+   "corpus": "person",
+   "who": "thijsspeet",
+   "reason": "predates the page corpus window",
+   "date": "2021-09-02",
+   "words": 88
+  },
+  "6813008902330863616": {
+   "corpus": "person",
+   "who": "thijsspeet",
+   "reason": "predates the page corpus window",
+   "date": "2021-06-22",
+   "words": 3
+  },
+  "6810462838008635392": {
+   "corpus": "person",
+   "who": "thijsspeet",
+   "reason": "predates the page corpus window",
+   "date": "2021-06-15",
+   "words": 120
+  },
+  "6846702524485931008": {
+   "corpus": "person",
+   "who": "thijsspeet",
+   "reason": "predates the page corpus window",
+   "date": "2021-09-23",
+   "words": 57
+  },
+  "6846787282020655104": {
+   "corpus": "person",
+   "who": "thijsspeet",
+   "reason": "predates the page corpus window",
+   "date": "2021-09-23",
+   "words": 34
+  },
+  "6828241364220739584": {
+   "corpus": "person",
+   "who": "thijsspeet",
+   "reason": "predates the page corpus window",
+   "date": "2021-08-03",
+   "words": 28
+  },
+  "6815561244104253440": {
+   "corpus": "person",
+   "who": "thijsspeet",
+   "reason": "predates the page corpus window",
+   "date": "2021-06-29",
+   "words": 43
+  },
+  "6843851035006521344": {
+   "corpus": "person",
+   "who": "thijsspeet",
+   "reason": "predates the page corpus window",
+   "date": "2021-09-15",
+   "words": 194
+  },
+  "7370846275199504384": {
+   "corpus": "person",
+   "who": "tom-schwenger-030687",
+   "reason": "predates the page corpus window",
+   "date": "2025-09-08",
+   "words": 47
+  },
+  "7363196179284721665": {
+   "corpus": "person",
+   "who": "tom-schwenger-030687",
+   "reason": "predates the page corpus window",
+   "date": "2025-08-18",
+   "words": 56
+  },
+  "7371555799933984769": {
+   "corpus": "person",
+   "who": "tom-schwenger-030687",
+   "reason": "predates the page corpus window",
+   "date": "2025-09-10",
+   "words": 21
+  },
+  "7353950460501712897": {
+   "corpus": "person",
+   "who": "tom-schwenger-030687",
+   "reason": "predates the page corpus window",
+   "date": "2025-07-24",
+   "words": 57
+  },
+  "7336017449483468802": {
+   "corpus": "person",
+   "who": "tom-schwenger-030687",
+   "reason": "predates the page corpus window",
+   "date": "2025-06-04",
+   "words": 36
+  },
+  "7366868091605110784": {
+   "corpus": "person",
+   "who": "tom-schwenger-030687",
+   "reason": "predates the page corpus window",
+   "date": "2025-08-28",
+   "words": 43
+  },
+  "7303037363406929921": {
+   "corpus": "person",
+   "who": "tom-schwenger-030687",
+   "reason": "predates the page corpus window",
+   "date": "2025-03-05",
+   "words": 38
+  },
+  "7364616075428229123": {
+   "corpus": "person",
+   "who": "tom-schwenger-030687",
+   "reason": "predates the page corpus window",
+   "date": "2025-08-22",
+   "words": 62
+  },
+  "7355643035445075968": {
+   "corpus": "person",
+   "who": "tom-schwenger-030687",
+   "reason": "predates the page corpus window",
+   "date": "2025-07-28",
+   "words": 47
+  },
+  "7366823990809559040": {
+   "corpus": "person",
+   "who": "tom-schwenger-030687",
+   "reason": "predates the page corpus window",
+   "date": "2025-08-28",
+   "words": 34
+  },
+  "7336015850769932289": {
+   "corpus": "person",
+   "who": "tom-schwenger-030687",
+   "reason": "predates the page corpus window",
+   "date": "2025-06-04",
+   "words": 24
+  },
+  "7302343612942495744": {
+   "corpus": "person",
+   "who": "tom-schwenger-030687",
+   "reason": "predates the page corpus window",
+   "date": "2025-03-03",
+   "words": 51
+  },
+  "7303085085858099200": {
+   "corpus": "person",
+   "who": "tom-schwenger-030687",
+   "reason": "predates the page corpus window",
+   "date": "2025-03-05",
+   "words": 51
+  },
+  "7353063691178659844": {
+   "corpus": "person",
+   "who": "tom-schwenger-030687",
+   "reason": "predates the page corpus window",
+   "date": "2025-07-21",
+   "words": 31
+  },
+  "7322965699176337408": {
+   "corpus": "person",
+   "who": "tom-schwenger-030687",
+   "reason": "predates the page corpus window",
+   "date": "2025-04-29",
+   "words": 41
+  },
+  "7272366133129711616": {
+   "corpus": "person",
+   "who": "tom-schwenger-030687",
+   "reason": "predates the page corpus window",
+   "date": "2024-12-10",
+   "words": 60
+  },
+  "7265390125147197440": {
+   "corpus": "person",
+   "who": "tom-schwenger-030687",
+   "reason": "predates the page corpus window",
+   "date": "2024-11-21",
+   "words": 51
+  },
+  "7264940441664380928": {
+   "corpus": "person",
+   "who": "tom-schwenger-030687",
+   "reason": "predates the page corpus window",
+   "date": "2024-11-20",
+   "words": 45
+  },
+  "7264942265456898049": {
+   "corpus": "person",
+   "who": "tom-schwenger-030687",
+   "reason": "predates the page corpus window",
+   "date": "2024-11-20",
+   "words": 44
+  },
+  "7264949806190530561": {
+   "corpus": "person",
+   "who": "tom-schwenger-030687",
+   "reason": "predates the page corpus window",
+   "date": "2024-11-20",
+   "words": 41
+  },
+  "7123679703307030528": {
+   "corpus": "person",
+   "who": "xavier-uzcategui-4714b358",
+   "reason": "predates the page corpus window",
+   "date": "2023-10-27",
+   "words": 22
+  },
+  "7123370689822142464": {
+   "corpus": "person",
+   "who": "xavier-uzcategui-4714b358",
+   "reason": "predates the page corpus window",
+   "date": "2023-10-26",
+   "words": 20
+  },
+  "6714659301723561984": {
+   "corpus": "person",
+   "who": "xavier-uzcategui-4714b358",
+   "reason": "predates the page corpus window",
+   "date": "2020-09-23",
+   "words": 12
+  },
+  "7501607732806860801": {
+   "corpus": "page",
+   "who": "cognism",
+   "reason": "exact duplicate of an earlier post by the same account",
+   "date": "2026-09-04",
+   "words": 20
+  },
+  "7504140334449414145": {
+   "corpus": "page",
+   "who": "cognism",
+   "reason": "exact duplicate of an earlier post by the same account",
+   "date": "2026-09-11",
+   "words": 20
+  },
+  "7501963954978562048": {
+   "corpus": "page",
+   "who": "cognism",
+   "reason": "exact duplicate of an earlier post by the same account",
+   "date": "2026-09-05",
+   "words": 20
+  },
+  "7498375997944418304": {
+   "corpus": "page",
+   "who": "locus-robotics",
+   "reason": "exact duplicate of an earlier post by the same account",
+   "date": "2026-08-26",
+   "words": 108
+  },
+  "7500153444163346432": {
+   "corpus": "page",
+   "who": "rockwell-automation",
+   "reason": "exact duplicate of an earlier post by the same account",
+   "date": "2026-08-31",
+   "words": 51
+  },
+  "7465824249514106880": {
+   "corpus": "page",
+   "who": "zebra-technologies",
+   "reason": "exact duplicate of an earlier post by the same account",
+   "date": "2026-05-28",
+   "words": 41
+  },
+  "7477752907291987968": {
+   "corpus": "page",
+   "who": "zebra-technologies",
+   "reason": "exact duplicate of an earlier post by the same account",
+   "date": "2026-06-30",
+   "words": 41
+  },
+  "7488624455678672896": {
+   "corpus": "page",
+   "who": "zebra-technologies",
+   "reason": "exact duplicate of an earlier post by the same account",
+   "date": "2026-07-30",
+   "words": 41
+  },
+  "7498801545614934016": {
+   "corpus": "page",
+   "who": "zebra-technologies",
+   "reason": "exact duplicate of an earlier post by the same account",
+   "date": "2026-08-27",
+   "words": 41
+  },
+  "7463287533712371712": {
+   "corpus": "page",
+   "who": "zebra-technologies",
+   "reason": "exact duplicate of an earlier post by the same account",
+   "date": "2026-05-21",
+   "words": 131
+  },
+  "7475971118101671937": {
+   "corpus": "page",
+   "who": "zebra-technologies",
+   "reason": "exact duplicate of an earlier post by the same account",
+   "date": "2026-06-25",
+   "words": 131
+  },
+  "7486117977604677632": {
+   "corpus": "page",
+   "who": "zebra-technologies",
+   "reason": "exact duplicate of an earlier post by the same account",
+   "date": "2026-07-23",
+   "words": 131
+  },
+  "7496264814906904576": {
+   "corpus": "page",
+   "who": "zebra-technologies",
+   "reason": "exact duplicate of an earlier post by the same account",
+   "date": "2026-08-20",
+   "words": 131
+  },
+  "7470246381685784576": {
+   "corpus": "person",
+   "who": "alighodsi",
+   "reason": "exact duplicate of an earlier post by the same account",
+   "date": "2026-06-09",
+   "words": 24
+  },
+  "7504227830067757056": {
+   "corpus": "person",
+   "who": "crisscubero",
+   "reason": "exact duplicate of an earlier post by the same account",
+   "date": "2026-09-11",
+   "words": 253
+  },
+  "7495771091802554368": {
+   "corpus": "person",
+   "who": "fraser-hopper-26158056",
+   "reason": "exact duplicate of an earlier post by the same account",
+   "date": "2026-08-19",
+   "words": 94
+  },
+  "7483495747997396992": {
+   "corpus": "person",
+   "who": "fraser-hopper-26158056",
+   "reason": "exact duplicate of an earlier post by the same account",
+   "date": "2026-07-16",
+   "words": 159
+  },
+  "7493334764393852928": {
+   "corpus": "person",
+   "who": "kev-dunn",
+   "reason": "exact duplicate of an earlier post by the same account",
+   "date": "2026-08-12",
+   "words": 135
+  },
+  "7500867346484338689": {
+   "corpus": "person",
+   "who": "markdeubel",
+   "reason": "exact duplicate of an earlier post by the same account",
+   "date": "2026-09-02",
+   "words": 35
+  },
+  "7499146422034817024": {
+   "corpus": "person",
+   "who": "markdeubel",
+   "reason": "exact duplicate of an earlier post by the same account",
+   "date": "2026-08-28",
+   "words": 218
+  },
+  "7491797963988557825": {
+   "corpus": "person",
+   "who": "peppesilletti",
+   "reason": "exact duplicate of an earlier post by the same account",
+   "date": "2026-08-08",
+   "words": 177
+  },
+  "7492055374196482048": {
+   "corpus": "person",
+   "who": "samirmenon",
+   "reason": "exact duplicate of an earlier post by the same account",
+   "date": "2026-08-09",
+   "words": 165
+  },
+  "7503121762365124608": {
+   "corpus": "person",
+   "who": "jeff-geerling-086bb2a",
+   "reason": "not employed by the paired company: independent creator; Raspberry Pi reshares him, does not employ him",
+   "date": "2026-09-08",
+   "words": 39
+  },
+  "7504376042527014912": {
+   "corpus": "person",
+   "who": "jeff-geerling-086bb2a",
+   "reason": "not employed by the paired company: independent creator; Raspberry Pi reshares him, does not employ him",
+   "date": "2026-09-12",
+   "words": 47
+  },
+  "7502518839839166464": {
+   "corpus": "person",
+   "who": "jeff-geerling-086bb2a",
+   "reason": "not employed by the paired company: independent creator; Raspberry Pi reshares him, does not employ him",
+   "date": "2026-09-07",
+   "words": 45
+  },
+  "7503522430024486913": {
+   "corpus": "person",
+   "who": "jeff-geerling-086bb2a",
+   "reason": "not employed by the paired company: independent creator; Raspberry Pi reshares him, does not employ him",
+   "date": "2026-09-09",
+   "words": 29
+  },
+  "7499120183551250432": {
+   "corpus": "person",
+   "who": "jeff-geerling-086bb2a",
+   "reason": "not employed by the paired company: independent creator; Raspberry Pi reshares him, does not employ him",
+   "date": "2026-08-28",
+   "words": 32
+  },
+  "7499953014536003585": {
+   "corpus": "person",
+   "who": "jeff-geerling-086bb2a",
+   "reason": "not employed by the paired company: independent creator; Raspberry Pi reshares him, does not employ him",
+   "date": "2026-08-30",
+   "words": 8
+  },
+  "7498962184580775936": {
+   "corpus": "person",
+   "who": "jeff-geerling-086bb2a",
+   "reason": "not employed by the paired company: independent creator; Raspberry Pi reshares him, does not employ him",
+   "date": "2026-08-28",
+   "words": 31
+  },
+  "7501469445777850368": {
+   "corpus": "person",
+   "who": "jeff-geerling-086bb2a",
+   "reason": "not employed by the paired company: independent creator; Raspberry Pi reshares him, does not employ him",
+   "date": "2026-09-04",
+   "words": 40
+  },
+  "7497768772968222721": {
+   "corpus": "person",
+   "who": "jeff-geerling-086bb2a",
+   "reason": "not employed by the paired company: independent creator; Raspberry Pi reshares him, does not employ him",
+   "date": "2026-08-24",
+   "words": 10
+  },
+  "7498385067325411328": {
+   "corpus": "person",
+   "who": "jeff-geerling-086bb2a",
+   "reason": "not employed by the paired company: independent creator; Raspberry Pi reshares him, does not employ him",
+   "date": "2026-08-26",
+   "words": 21
+  },
+  "7495943404485324800": {
+   "corpus": "person",
+   "who": "jeff-geerling-086bb2a",
+   "reason": "not employed by the paired company: independent creator; Raspberry Pi reshares him, does not employ him",
+   "date": "2026-08-19",
+   "words": 34
+  },
+  "7496205848721915904": {
+   "corpus": "person",
+   "who": "jeff-geerling-086bb2a",
+   "reason": "not employed by the paired company: independent creator; Raspberry Pi reshares him, does not employ him",
+   "date": "2026-08-20",
+   "words": 49
+  },
+  "7491494404419895296": {
+   "corpus": "person",
+   "who": "jeff-geerling-086bb2a",
+   "reason": "not employed by the paired company: independent creator; Raspberry Pi reshares him, does not employ him",
+   "date": "2026-08-07",
+   "words": 49
+  },
+  "7495738712090263552": {
+   "corpus": "person",
+   "who": "jeff-geerling-086bb2a",
+   "reason": "not employed by the paired company: independent creator; Raspberry Pi reshares him, does not employ him",
+   "date": "2026-08-19",
+   "words": 26
+  },
+  "7496680567183167488": {
+   "corpus": "person",
+   "who": "jeff-geerling-086bb2a",
+   "reason": "not employed by the paired company: independent creator; Raspberry Pi reshares him, does not employ him",
+   "date": "2026-08-21",
+   "words": 41
+  },
+  "7490802464682635264": {
+   "corpus": "person",
+   "who": "jeff-geerling-086bb2a",
+   "reason": "not employed by the paired company: independent creator; Raspberry Pi reshares him, does not employ him",
+   "date": "2026-08-05",
+   "words": 36
+  },
+  "7501761396238376960": {
+   "corpus": "person",
+   "who": "jeff-geerling-086bb2a",
+   "reason": "not employed by the paired company: independent creator; Raspberry Pi reshares him, does not employ him",
+   "date": "2026-09-04",
+   "words": 7
+  },
+  "7501641893882187776": {
+   "corpus": "person",
+   "who": "jeff-geerling-086bb2a",
+   "reason": "not employed by the paired company: independent creator; Raspberry Pi reshares him, does not employ him",
+   "date": "2026-09-04",
+   "words": 27
+  },
+  "7488325535069085697": {
+   "corpus": "person",
+   "who": "jeff-geerling-086bb2a",
+   "reason": "not employed by the paired company: independent creator; Raspberry Pi reshares him, does not employ him",
+   "date": "2026-07-29",
+   "words": 44
+  },
+  "7488236370793177088": {
+   "corpus": "person",
+   "who": "jeff-geerling-086bb2a",
+   "reason": "not employed by the paired company: independent creator; Raspberry Pi reshares him, does not employ him",
+   "date": "2026-07-29",
+   "words": 50
+  },
+  "7483914205969031169": {
+   "corpus": "person",
+   "who": "jeff-geerling-086bb2a",
+   "reason": "not employed by the paired company: independent creator; Raspberry Pi reshares him, does not employ him",
+   "date": "2026-07-17",
+   "words": 49
+  },
+  "7488957815537999873": {
+   "corpus": "person",
+   "who": "jeff-geerling-086bb2a",
+   "reason": "not employed by the paired company: independent creator; Raspberry Pi reshares him, does not employ him",
+   "date": "2026-07-31",
+   "words": 20
+  },
+  "7483193327899529217": {
+   "corpus": "person",
+   "who": "jeff-geerling-086bb2a",
+   "reason": "not employed by the paired company: independent creator; Raspberry Pi reshares him, does not employ him",
+   "date": "2026-07-15",
+   "words": 47
+  },
+  "7485697386162384897": {
+   "corpus": "person",
+   "who": "jeff-geerling-086bb2a",
+   "reason": "not employed by the paired company: independent creator; Raspberry Pi reshares him, does not employ him",
+   "date": "2026-07-22",
+   "words": 20
+  },
+  "7487619490046717952": {
+   "corpus": "person",
+   "who": "jeff-geerling-086bb2a",
+   "reason": "not employed by the paired company: independent creator; Raspberry Pi reshares him, does not employ him",
+   "date": "2026-07-27",
+   "words": 48
+  },
+  "7481349306927538176": {
+   "corpus": "person",
+   "who": "jeff-geerling-086bb2a",
+   "reason": "not employed by the paired company: independent creator; Raspberry Pi reshares him, does not employ him",
+   "date": "2026-07-10",
+   "words": 40
+  },
+  "7476274593255665665": {
+   "corpus": "person",
+   "who": "jeff-geerling-086bb2a",
+   "reason": "not employed by the paired company: independent creator; Raspberry Pi reshares him, does not employ him",
+   "date": "2026-06-26",
+   "words": 52
+  },
+  "7483190758590570497": {
+   "corpus": "person",
+   "who": "jeff-geerling-086bb2a",
+   "reason": "not employed by the paired company: independent creator; Raspberry Pi reshares him, does not employ him",
+   "date": "2026-07-15",
+   "words": 21
+  },
+  "7494031210235609088": {
+   "corpus": "person",
+   "who": "jeff-geerling-086bb2a",
+   "reason": "not employed by the paired company: independent creator; Raspberry Pi reshares him, does not employ him",
+   "date": "2026-08-14",
+   "words": 30
+  },
+  "7479936547354517505": {
+   "corpus": "person",
+   "who": "jeff-geerling-086bb2a",
+   "reason": "not employed by the paired company: independent creator; Raspberry Pi reshares him, does not employ him",
+   "date": "2026-07-06",
+   "words": 21
+  },
+  "7471200684433055744": {
+   "corpus": "person",
+   "who": "jeff-geerling-086bb2a",
+   "reason": "not employed by the paired company: independent creator; Raspberry Pi reshares him, does not employ him",
+   "date": "2026-06-12",
+   "words": 45
+  },
+  "7470855788668850176": {
+   "corpus": "person",
+   "who": "jeff-geerling-086bb2a",
+   "reason": "not employed by the paired company: independent creator; Raspberry Pi reshares him, does not employ him",
+   "date": "2026-06-11",
+   "words": 44
+  },
+  "7480623502312493058": {
+   "corpus": "person",
+   "who": "jeff-geerling-086bb2a",
+   "reason": "not employed by the paired company: independent creator; Raspberry Pi reshares him, does not employ him",
+   "date": "2026-07-08",
+   "words": 47
+  },
+  "7478135316206219264": {
+   "corpus": "person",
+   "who": "jeff-geerling-086bb2a",
+   "reason": "not employed by the paired company: independent creator; Raspberry Pi reshares him, does not employ him",
+   "date": "2026-07-01",
+   "words": 30
+  },
+  "7468663758345846784": {
+   "corpus": "person",
+   "who": "jeff-geerling-086bb2a",
+   "reason": "not employed by the paired company: independent creator; Raspberry Pi reshares him, does not employ him",
+   "date": "2026-06-05",
+   "words": 35
+  },
+  "7470132237598945280": {
+   "corpus": "person",
+   "who": "jeff-geerling-086bb2a",
+   "reason": "not employed by the paired company: independent creator; Raspberry Pi reshares him, does not employ him",
+   "date": "2026-06-09",
+   "words": 21
+  },
+  "7467958712947732481": {
+   "corpus": "person",
+   "who": "jeff-geerling-086bb2a",
+   "reason": "not employed by the paired company: independent creator; Raspberry Pi reshares him, does not employ him",
+   "date": "2026-06-03",
+   "words": 4
+  },
+  "7478843970962239488": {
+   "corpus": "person",
+   "who": "jeff-geerling-086bb2a",
+   "reason": "not employed by the paired company: independent creator; Raspberry Pi reshares him, does not employ him",
+   "date": "2026-07-03",
+   "words": 11
+  },
+  "7465765583872163840": {
+   "corpus": "person",
+   "who": "jeff-geerling-086bb2a",
+   "reason": "not employed by the paired company: independent creator; Raspberry Pi reshares him, does not employ him",
+   "date": "2026-05-28",
+   "words": 35
+  },
+  "7463717004999372800": {
+   "corpus": "person",
+   "who": "jeff-geerling-086bb2a",
+   "reason": "not employed by the paired company: independent creator; Raspberry Pi reshares him, does not employ him",
+   "date": "2026-05-22",
+   "words": 19
+  },
+  "7462576932304424960": {
+   "corpus": "person",
+   "who": "jeff-geerling-086bb2a",
+   "reason": "not employed by the paired company: independent creator; Raspberry Pi reshares him, does not employ him",
+   "date": "2026-05-19",
+   "words": 44
+  },
+  "7461098921013022720": {
+   "corpus": "person",
+   "who": "jeff-geerling-086bb2a",
+   "reason": "not employed by the paired company: independent creator; Raspberry Pi reshares him, does not employ him",
+   "date": "2026-05-15",
+   "words": 42
+  },
+  "7478828059626823681": {
+   "corpus": "person",
+   "who": "jeff-geerling-086bb2a",
+   "reason": "not employed by the paired company: independent creator; Raspberry Pi reshares him, does not employ him",
+   "date": "2026-07-03",
+   "words": 32
+  },
+  "7462503735051591680": {
+   "corpus": "person",
+   "who": "jeff-geerling-086bb2a",
+   "reason": "not employed by the paired company: independent creator; Raspberry Pi reshares him, does not employ him",
+   "date": "2026-05-19",
+   "words": 46
+  },
+  "7469570605915492352": {
+   "corpus": "person",
+   "who": "jeff-geerling-086bb2a",
+   "reason": "not employed by the paired company: independent creator; Raspberry Pi reshares him, does not employ him",
+   "date": "2026-06-08",
+   "words": 46
+  },
+  "7482654485253603328": {
+   "corpus": "person",
+   "who": "jeff-geerling-086bb2a",
+   "reason": "not employed by the paired company: independent creator; Raspberry Pi reshares him, does not employ him",
+   "date": "2026-07-14",
+   "words": 42
+  },
+  "7466127504848883712": {
+   "corpus": "person",
+   "who": "jeff-geerling-086bb2a",
+   "reason": "not employed by the paired company: independent creator; Raspberry Pi reshares him, does not employ him",
+   "date": "2026-05-29",
+   "words": 37
+  },
+  "7463244394465427456": {
+   "corpus": "person",
+   "who": "jeff-geerling-086bb2a",
+   "reason": "not employed by the paired company: independent creator; Raspberry Pi reshares him, does not employ him",
+   "date": "2026-05-21",
+   "words": 45
+  },
+  "7459966263688208384": {
+   "corpus": "person",
+   "who": "jeff-geerling-086bb2a",
+   "reason": "not employed by the paired company: independent creator; Raspberry Pi reshares him, does not employ him",
+   "date": "2026-05-12",
+   "words": 26
+  },
+  "7493344315524427776": {
+   "corpus": "person",
+   "who": "kenzofong",
+   "reason": "not employed by the paired company: founded Rock; reshared by Airtable, not an Airtable employee",
+   "date": "2026-08-12",
+   "words": 136
+  },
+  "7503536194232750081": {
+   "corpus": "person",
+   "who": "melodyskim",
+   "reason": "not employed by the paired company: Skim Studio; reshared by Notion, not a Notion employee",
+   "date": "2026-09-09",
+   "words": 53
+  },
+  "7443384328337784832": {
+   "corpus": "person",
+   "who": "melodyskim",
+   "reason": "not employed by the paired company: Skim Studio; reshared by Notion, not a Notion employee",
+   "date": "2026-03-27",
+   "words": 26
+  },
+  "7496628030879068160": {
+   "corpus": "person",
+   "who": "melodyskim",
+   "reason": "not employed by the paired company: Skim Studio; reshared by Notion, not a Notion employee",
+   "date": "2026-08-21",
+   "words": 159
+  },
+  "7434697336020279296": {
+   "corpus": "person",
+   "who": "melodyskim",
+   "reason": "not employed by the paired company: Skim Studio; reshared by Notion, not a Notion employee",
+   "date": "2026-03-03",
+   "words": 139
+  },
+  "7435000725601976320": {
+   "corpus": "person",
+   "who": "melodyskim",
+   "reason": "not employed by the paired company: Skim Studio; reshared by Notion, not a Notion employee",
+   "date": "2026-03-04",
+   "words": 16
+  },
+  "7415126189553491968": {
+   "corpus": "person",
+   "who": "melodyskim",
+   "reason": "not employed by the paired company: Skim Studio; reshared by Notion, not a Notion employee",
+   "date": "2026-01-08",
+   "words": 103
+  },
+  "7490039511679168513": {
+   "corpus": "person",
+   "who": "stephanie-c-30b12031",
+   "reason": "not employed by the paired company: FedEx, which is Dexterity's customer rather than its employer",
+   "date": "2026-08-03",
+   "words": 143
+  },
+  "7425339387275603968": {
+   "corpus": "person",
+   "who": "stephanie-c-30b12031",
+   "reason": "not employed by the paired company: FedEx, which is Dexterity's customer rather than its employer",
+   "date": "2026-02-06",
+   "words": 146
+  }
+ }
+}

@@ -36,6 +36,8 @@ import sys
 from collections import Counter, defaultdict
 
 HERE = os.path.dirname(os.path.abspath(__file__))
+sys.path.insert(0, HERE)
+from exclusions import excluded_ids, banner  # noqa: E402
 
 try:
     sys.stdout.reconfigure(encoding="utf-8", errors="replace")
@@ -113,8 +115,11 @@ def load_people():
 
 
 def rows_from(posts, meta, kind):
+    drop, _ = excluded_ids()
     rows = []
     for p in posts:
+        if str(p.get("id") or "") in drop:
+            continue
         text = p.get("content") or ""
         rows.append({"kind": kind, "who": meta, "id": str(p.get("id") or ""),
                      "fmt": fmt_of(p), "words": len(text.split()),
@@ -181,6 +186,7 @@ def main():
     ap.add_argument("--min-posts", type=int, default=15)
     a = ap.parse_args()
 
+    print(banner())
     pages = load_pages()
     people = load_people()
     if not people:
@@ -189,20 +195,26 @@ def main():
     prows, qrows = [], []
     for slug, v in pages.items():
         prows += rows_from(v["posts"], v["company"], "page")
-    kept_people = [d for d in people if len(d["posts"]) >= a.min_posts]
+
+    # The threshold counts USABLE posts, not pulled ones. Counting the raw pull would let an
+    # account whose every post was excluded still appear in the headcount while contributing
+    # nothing -- which is how a corpus quietly reports more evidence than it holds.
+    for d in people:
+        d["_usable"] = rows_from(d["posts"], d["person"], "person")
+    kept_people = [d for d in people if len(d["_usable"]) >= a.min_posts]
     for d in kept_people:
-        qrows += rows_from(d["posts"], d["person"], "person")
+        qrows += d["_usable"]
 
     print("%d pages (%d posts) against %d people (%d posts)."
           % (len(pages), len(prows), len(kept_people), len(qrows)))
-    thin = [d for d in people if len(d["posts"]) < a.min_posts]
+    thin = [d for d in people if len(d["_usable"]) < a.min_posts]
     if thin:
         print("\n%d people fell below the %d-post threshold and are reported, not counted:"
               % (len(thin), a.min_posts))
         for d in thin:
-            print("   %-26s %2d own, %2d reshared   (%s)"
-                  % ((d["person"].get("name") or d["person"]["slug"])[:26], d["n"],
-                     d.get("n_reshared", 0), d["person"]["company"]))
+            print("   %-26s %2d usable of %2d pulled   (%s)"
+                  % ((d["person"].get("name") or d["person"]["slug"])[:26],
+                     len(d["_usable"]), d["n"], d["person"]["company"]))
 
     fmts = ["text", "link", "image", "multi-image", "video"]
     side_by_side("format mix", dist(prows, lambda r: r["fmt"]),
@@ -273,13 +285,15 @@ def main():
     print("1.00 by construction. It is confounded by follower counts and nothing here removes")
     print("that -- read it as a direction, not a multiple.\n")
     pairs = []
+    drop, _ = excluded_ids()
     for d in kept_people:
         p = d["person"]
         pg = pages.get(p["company_slug"])
         if not pg:
             continue
-        pm = statistics.median(eng_of(x) for x in pg["posts"])
-        qm = statistics.median(eng_of(x) for x in d["posts"])
+        pgp = [x for x in pg["posts"] if str(x.get("id") or "") not in drop]
+        pm = statistics.median(eng_of(x) for x in pgp)
+        qm = statistics.median(r["eng"] for r in d["_usable"])
         pairs.append((p, pm, qm))
     pairs.sort(key=lambda t: -(t[2] / t[1] if t[1] else 0))
     print("%-24s %-20s %8s %8s %8s  %s"

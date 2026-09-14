@@ -168,8 +168,8 @@ offerings. If the profile declares only one axis, declare this one.
 ## Phase 3 — Decide what to publish
 
 **Start from the measured split for your cell, then decide where to deviate.**
-[`docs/BENCHMARKS.md`](BENCHMARKS.md) is 2,020 hand-read posts from 46 companies cut by offering,
-motion, stage and buyer. Find your row. It tells you what is normal, which is useful mainly for
+[`docs/BENCHMARKS.md`](BENCHMARKS.md) is 2,026 hand-read posts from 46 companies cut by offering,
+motion, stage and buyer, plus 1,289 from 33 named people paired to them. Find your row. It tells you what is normal, which is useful mainly for
 seeing where you are an outlier and whether you meant to be.
 
 **Two things from that data change how you build a calendar, and both are counter-intuitive.**

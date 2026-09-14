@@ -65,7 +65,7 @@ covers the profile, the intake and the method for eliciting objectives.
 
 ## The mix: start from what your cell actually does
 
-`docs/BENCHMARKS.md` measured 2,020 hand-read posts from 46 companies. Find the row
+`docs/BENCHMARKS.md` measured 2,026 hand-read posts from 46 companies. Find the row
 that matches what the company sells and how it sells, and start there rather than
 from a remembered ratio:
 
@@ -96,22 +96,27 @@ the TOFU axis; the cell tells you the shape of what is left.
 
 ## Planning a named person's channel
 
-1,785 posts from 43 named people, each paired to a company page in the same study
+1,289 posts from 33 named people, each paired to a company page in the same study
 (`docs/BENCHMARKS.md`). Three things follow for a calendar.
 
 **The topic grid transfers; the execution does not.** A founder's published mix is
 nearly identical to their own page's — 28/11/10/44 against 31/10/12/45 on
 TOFU/MOFU/BOFU/non-buying. So plan the founder's slots from the same cell table
-above. What must not transfer is how it ships: person channels run 40% text-only
-against a page's 15%, drop video from 34% to 13%, go long or very short rather than
+above. What must not transfer is how it ships: person channels run 36% text-only
+against a page's 15%, drop video from 34% to 16%, go long or very short rather than
 medium, and carry an explicit CTA in 7% of posts against a page's 21%.
 
 **Which seat, not which person.** Measured against their own page in the same
-window, a founder's median post ran **3.06x** and won 19 of 23 pairs. A VP's ran
-**0.54x** and won 1 of 4. Individual contributors ran level. The gap between two
-person channels is wider than the gap between a person and a page, so "get the
-executives posting" is not a plan and "get the founder posting" is. Declare the
-seat in the profile: `channels: { founder: { kind: person, seat: founder } }`.
+window, a founder's median post ran **3.17x** and won 16 of 19 pairs. Individual
+contributors ran level with the page and the three VPs measured came in under it.
+The gap between two person channels is wider than the gap between a person and a
+page, so "get the executives posting" is not a plan and "get the founder posting"
+is. Declare the seat: `channels: { founder: { kind: person, seat: founder } }`.
+
+**Then check the channel is actually running.** Counting only the year the pages
+cover, **10 of 43 executives in the sample published fewer than 15 posts** and four
+published fewer than five — two of them CEOs. A slot planned onto a dormant channel
+is a slot that does not exist.
 
 **Keep the proof on the page.** BOFU halves on a person's channel (11.6% to 6.0%)
 and named-customer validation nearly halves (9.4% to 4.7%). That is coherent — a

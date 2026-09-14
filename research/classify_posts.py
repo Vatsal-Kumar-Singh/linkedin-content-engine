@@ -41,6 +41,8 @@ from collections import Counter, defaultdict
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 LABELS = os.path.join(HERE, "labels")
+sys.path.insert(0, HERE)
+from exclusions import excluded_ids, banner  # noqa: E402
 
 JOBS = ["problem", "exploration", "requirements", "selection", "validation", "consensus"]
 OTHER = ["recruitment", "culture", "event", "product-news", "csr"]
@@ -91,6 +93,7 @@ def engagement_of(post):
 
 
 def load(labels):
+    drop, _ = excluded_ids()
     rows, companies = [], {}
     for path in sorted(glob.glob(os.path.join(HERE, "raw", "*.json"))):
         d = json.load(open(path, encoding="utf-8"))
@@ -105,6 +108,8 @@ def load(labels):
         }
         for p in originals:
             pid = str(p.get("id") or "")
+            if pid in drop:
+                continue
             lab = labels.get(pid)
             if not lab:
                 continue
@@ -165,6 +170,7 @@ def main():
     ap.add_argument("--dump")
     a = ap.parse_args()
 
+    print(banner())
     labels, bad = read_labels()
     if bad:
         print("**%d labels are not in the protocol's vocabulary and were dropped:**" % len(bad))
