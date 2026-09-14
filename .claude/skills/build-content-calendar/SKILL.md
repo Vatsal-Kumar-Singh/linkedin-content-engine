@@ -12,6 +12,27 @@ regenerate when the register changes. Hand-maintaining the grid guarantees it
 drifts from the pain points, and then two documents disagree with nothing saying
 which is current.
 
+**For the slot shape, there is already a generator.** It turns the measured mix
+and cadence for a cell or an industry into a concrete week-by-week plan, with the
+format, opening move and aspect ratio on each slot:
+
+```bash
+python research/classify_posts.py --dump research/findings.json
+python research/make_calendar.py --cell "saas x enterprise" --deviate
+python research/make_calendar.py --industry healthcare-lifesci --weeks 8
+```
+
+**Default mode reproduces what the cohort publishes, which is not what works** —
+run it to see what your peers do. `--deviate` keeps the cadence and raises
+`requirements` + `consensus` to a 10% floor, taken proportionally from whatever
+the cell over-publishes. Run legal-compliance through it without `--deviate` and
+it hands you 30% events and 17% recruitment, because that is genuinely what that
+vertical publishes. That output is a mirror, not a plan.
+
+It fixes how many of each kind and in what shape. It does not decide which pain
+each slot argues or whether the claim can be published. That is this skill and
+`engine/decision/`.
+
 ## The tier rule, stated so it can be enforced
 
 > **TOFU = what is · MOFU = how to · BOFU = how WE**
