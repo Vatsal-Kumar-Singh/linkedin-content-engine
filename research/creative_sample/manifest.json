@@ -1,0 +1,362 @@
+[
+ {
+  "file": "problem_weak_Cal.com_0.25x.jpg",
+  "job": "problem",
+  "side": "weak",
+  "company": "Cal.com",
+  "rel": 0.25,
+  "fmt": "image",
+  "cell": "saas x plg",
+  "industry": "work-productivity"
+ },
+ {
+  "file": "problem_weak_Cal.com_0.25x.jpg",
+  "job": "problem",
+  "side": "weak",
+  "company": "Cal.com",
+  "rel": 0.25,
+  "fmt": "image",
+  "cell": "saas x plg",
+  "industry": "work-productivity"
+ },
+ {
+  "file": "problem_strong_Gong_2.13x.jpg",
+  "job": "problem",
+  "side": "strong",
+  "company": "Gong",
+  "rel": 2.13,
+  "fmt": "image",
+  "cell": "saas x slg",
+  "industry": "revops-martech"
+ },
+ {
+  "file": "problem_strong_Mercury_3.08x.jpg",
+  "job": "problem",
+  "side": "strong",
+  "company": "Mercury",
+  "rel": 3.08,
+  "fmt": "image",
+  "cell": "saas x plg",
+  "industry": "fintech-payments"
+ },
+ {
+  "file": "exploration_weak_Airtable_0.00x.jpg",
+  "job": "exploration",
+  "side": "weak",
+  "company": "Airtable",
+  "rel": 0.0,
+  "fmt": "image",
+  "cell": "saas x pls",
+  "industry": "work-productivity"
+ },
+ {
+  "file": "exploration_weak_Cal.com_0.00x.jpg",
+  "job": "exploration",
+  "side": "weak",
+  "company": "Cal.com",
+  "rel": 0.0,
+  "fmt": "image",
+  "cell": "saas x plg",
+  "industry": "work-productivity"
+ },
+ {
+  "file": "exploration_strong_UiPath_7.11x.jpg",
+  "job": "exploration",
+  "side": "strong",
+  "company": "UiPath",
+  "rel": 7.11,
+  "fmt": "image",
+  "cell": "saas x enterprise",
+  "industry": "data-ai"
+ },
+ {
+  "file": "exploration_strong_DirectiveConsu_9.31x.jpg",
+  "job": "exploration",
+  "side": "strong",
+  "company": "Directive Consulting",
+  "rel": 9.31,
+  "fmt": "image",
+  "cell": "service x slg",
+  "industry": "prof-services"
+ },
+ {
+  "file": "requirements_weak_ABBRobotics_0.21x.jpg",
+  "job": "requirements",
+  "side": "weak",
+  "company": "ABB Robotics",
+  "rel": 0.21,
+  "fmt": "image",
+  "cell": "product x enterprise",
+  "industry": "robotics-automation"
+ },
+ {
+  "file": "requirements_weak_Snyk_0.34x.jpg",
+  "job": "requirements",
+  "side": "weak",
+  "company": "Snyk",
+  "rel": 0.34,
+  "fmt": "image",
+  "cell": "saas x plg",
+  "industry": "cybersecurity"
+ },
+ {
+  "file": "requirements_strong_Clari_2.20x.jpg",
+  "job": "requirements",
+  "side": "strong",
+  "company": "Clari",
+  "rel": 2.2,
+  "fmt": "image",
+  "cell": "saas x slg",
+  "industry": "revops-martech"
+ },
+ {
+  "file": "requirements_strong_AgilityRobotic_2.29x.jpg",
+  "job": "requirements",
+  "side": "strong",
+  "company": "Agility Robotics",
+  "rel": 2.29,
+  "fmt": "image",
+  "cell": "product x enterprise",
+  "industry": "robotics-automation"
+ },
+ {
+  "file": "selection_weak_PrusaResearch_0.18x.jpg",
+  "job": "selection",
+  "side": "weak",
+  "company": "Prusa Research",
+  "rel": 0.18,
+  "fmt": "image",
+  "cell": "product x plg",
+  "industry": "industrial-hardware"
+ },
+ {
+  "file": "selection_weak_ChefRobotics_0.32x.jpg",
+  "job": "selection",
+  "side": "weak",
+  "company": "Chef Robotics",
+  "rel": 0.32,
+  "fmt": "image",
+  "cell": "product x slg",
+  "industry": "robotics-automation"
+ },
+ {
+  "file": "selection_strong_Clari_12.50x.jpg",
+  "job": "selection",
+  "side": "strong",
+  "company": "Clari",
+  "rel": 12.5,
+  "fmt": "image",
+  "cell": "saas x slg",
+  "industry": "revops-martech"
+ },
+ {
+  "file": "selection_strong_Procore_16.29x.jpg",
+  "job": "selection",
+  "side": "strong",
+  "company": "Procore",
+  "rel": 16.29,
+  "fmt": "image",
+  "cell": "saas x slg",
+  "industry": "construction-proptech"
+ },
+ {
+  "file": "validation_weak_UiPath_0.08x.jpg",
+  "job": "validation",
+  "side": "weak",
+  "company": "UiPath",
+  "rel": 0.08,
+  "fmt": "image",
+  "cell": "saas x enterprise",
+  "industry": "data-ai"
+ },
+ {
+  "file": "validation_weak_Trigger.dev_0.18x.jpg",
+  "job": "validation",
+  "side": "weak",
+  "company": "Trigger.dev",
+  "rel": 0.18,
+  "fmt": "image",
+  "cell": "saas x plg",
+  "industry": "dev-infra"
+ },
+ {
+  "file": "validation_strong_Zoho_6.39x.jpg",
+  "job": "validation",
+  "side": "strong",
+  "company": "Zoho",
+  "rel": 6.39,
+  "fmt": "multi-image",
+  "cell": "saas x plg",
+  "industry": "business-suite"
+ },
+ {
+  "file": "validation_strong_Wiz_6.54x.jpg",
+  "job": "validation",
+  "side": "strong",
+  "company": "Wiz",
+  "rel": 6.54,
+  "fmt": "image",
+  "cell": "saas x enterprise",
+  "industry": "cybersecurity"
+ },
+ {
+  "file": "consensus_weak_Outreach_0.30x.jpg",
+  "job": "consensus",
+  "side": "weak",
+  "company": "Outreach",
+  "rel": 0.3,
+  "fmt": "image",
+  "cell": "saas x slg",
+  "industry": "revops-martech"
+ },
+ {
+  "file": "consensus_weak_ChefRobotics_0.36x.jpg",
+  "job": "consensus",
+  "side": "weak",
+  "company": "Chef Robotics",
+  "rel": 0.36,
+  "fmt": "multi-image",
+  "cell": "product x slg",
+  "industry": "robotics-automation"
+ },
+ {
+  "file": "consensus_strong_Databricks_2.07x.jpg",
+  "job": "consensus",
+  "side": "strong",
+  "company": "Databricks",
+  "rel": 2.07,
+  "fmt": "image",
+  "cell": "saas x enterprise",
+  "industry": "data-ai"
+ },
+ {
+  "file": "consensus_strong_VeevaSystems_5.06x.jpg",
+  "job": "consensus",
+  "side": "strong",
+  "company": "Veeva Systems",
+  "rel": 5.06,
+  "fmt": "image",
+  "cell": "saas x enterprise",
+  "industry": "healthcare-lifesci"
+ },
+ {
+  "file": "event_weak_Airtable_0.00x.jpg",
+  "job": "event",
+  "side": "weak",
+  "company": "Airtable",
+  "rel": 0.0,
+  "fmt": "image",
+  "cell": "saas x pls",
+  "industry": "work-productivity"
+ },
+ {
+  "file": "event_weak_Airtable_0.00x.jpg",
+  "job": "event",
+  "side": "weak",
+  "company": "Airtable",
+  "rel": 0.0,
+  "fmt": "image",
+  "cell": "saas x pls",
+  "industry": "work-productivity"
+ },
+ {
+  "file": "event_strong_Netguru_8.50x.jpg",
+  "job": "event",
+  "side": "strong",
+  "company": "Netguru",
+  "rel": 8.5,
+  "fmt": "multi-image",
+  "cell": "service x slg",
+  "industry": "prof-services"
+ },
+ {
+  "file": "event_strong_Juro_11.24x.jpg",
+  "job": "event",
+  "side": "strong",
+  "company": "Juro",
+  "rel": 11.24,
+  "fmt": "multi-image",
+  "cell": "saas x plg",
+  "industry": "legal-compliance"
+ },
+ {
+  "file": "culture_weak_Cal.com_0.00x.jpg",
+  "job": "culture",
+  "side": "weak",
+  "company": "Cal.com",
+  "rel": 0.0,
+  "fmt": "image",
+  "cell": "saas x plg",
+  "industry": "work-productivity"
+ },
+ {
+  "file": "culture_weak_Personio_0.17x.jpg",
+  "job": "culture",
+  "side": "weak",
+  "company": "Personio",
+  "rel": 0.17,
+  "fmt": "image",
+  "cell": "saas x slg",
+  "industry": "hr-people"
+ },
+ {
+  "file": "culture_strong_Procore_23.64x.jpg",
+  "job": "culture",
+  "side": "strong",
+  "company": "Procore",
+  "rel": 23.64,
+  "fmt": "multi-image",
+  "cell": "saas x slg",
+  "industry": "construction-proptech"
+ },
+ {
+  "file": "culture_strong_Zoho_38.19x.jpg",
+  "job": "culture",
+  "side": "strong",
+  "company": "Zoho",
+  "rel": 38.19,
+  "fmt": "multi-image",
+  "cell": "saas x plg",
+  "industry": "business-suite"
+ },
+ {
+  "file": "product-news_weak_Samsara_0.10x.jpg",
+  "job": "product-news",
+  "side": "weak",
+  "company": "Samsara",
+  "rel": 0.1,
+  "fmt": "image",
+  "cell": "product x slg",
+  "industry": "supply-chain"
+ },
+ {
+  "file": "product-news_weak_PrusaResearch_0.21x.jpg",
+  "job": "product-news",
+  "side": "weak",
+  "company": "Prusa Research",
+  "rel": 0.21,
+  "fmt": "image",
+  "cell": "product x plg",
+  "industry": "industrial-hardware"
+ },
+ {
+  "file": "product-news_strong_Resend_7.58x.jpg",
+  "job": "product-news",
+  "side": "strong",
+  "company": "Resend",
+  "rel": 7.58,
+  "fmt": "image",
+  "cell": "saas x plg",
+  "industry": "dev-infra"
+ },
+ {
+  "file": "product-news_strong_Flexport_10.25x.jpg",
+  "job": "product-news",
+  "side": "strong",
+  "company": "Flexport",
+  "rel": 10.25,
+  "fmt": "image",
+  "cell": "service x enterprise",
+  "industry": "supply-chain"
+ }
+]

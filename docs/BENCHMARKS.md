@@ -925,38 +925,69 @@ are all 16:9 already. The 39% share is not a design decision; it is the absence 
 
 The rest of design cannot be measured from metadata, so it was sampled and looked at. The sample
 is paired: for each job, the images from that job's best-performing posts against the images from
-its worst-performing posts, at the same company-normalised scale, so content is held roughly
-constant and what differs is the design (`research/sample_creative.py`). **36 images were pulled;
-eight were coded, across four jobs.** That is a small sample and is reported as one — it generates
-hypotheses to test against your own feed, not benchmarks.
+its worst-performing posts, at the same company-normalised scale, so the content is held roughly
+constant and what differs is more likely to be the design
+(`research/sample_creative.py`). **34 images were pulled and 18 were coded across eight jobs**,
+against an attribute list fixed before any of them was opened. The images, the manifest and the
+coding are in [`research/creative_sample/`](../research/creative_sample/).
 
-**Evidence beats assertion, and the gap is enormous.** The strongest `validation` creative in the
-sample (6.54x) is a screenshot of a third-party benchmark leaderboard with the vendor at rank one,
-competitors named and visible, and the number — 90.9% — legible at feed size without zooming. The
-weakest (0.08x) is a quote card: a customer's endorsement set in large display type, correctly
-attributed, with no number on it at all. One shows the thing working. The other shows somebody
-saying it works.
+**Eighteen images is a hypothesis generator, not a benchmark.** The aspect-ratio table above is
+the benchmark; this is a set of things to try on your own feed.
 
-**The asset cover is the weakest recurring creative.** The weak `requirements` example (0.34x) is
-a 16:9 dark cover with a rendered mockup of the PDF floating on it. A picture of a document is a
-picture of homework, and it is exactly what a buyer's guide gets published as.
+#### The pattern that holds in seven jobs out of eight
 
-**The strongest creatives carry the brand system; the weakest carry none.** The two weakest images
-in the sample were a stock meme template with white caption text and visible compression artefacts,
-and a retail-style sale banner with a discount badge and a deadline. Neither used the company's
-own colour system, type or logo in any load-bearing way. Both would have looked identical with
-another company's name on them.
+**The creatives that win show something that happened. The ones that lose assert something.**
 
-**Type on its own is fine, and often better.** The strongest `selection` creative (16.29x) is a
-portrait card carrying the logo and the award line and nothing else: no photograph, no product, no
-mockup. The message *is* the image. This runs against the instinct to add a visual; where the claim
-is short and strong, setting it large and getting out of the way outperformed every decorated
-alternative in the sample.
+| Job | Strong creative | | Weak creative | |
+|---|---|---:|---|---:|
+| culture | an unstaged photograph of a ribbon-cutting, ten real people, no type at all | **38.19x** | a designed composite: brand colour, stock-styled portrait, tagline | 0.17x |
+| event | a handheld phone photo of a named speaker on stage, taken in the room | **11.24x** | a designed webinar promo card with headshot, date and UI screenshot | 0.00x |
+| exploration | a podcast still: a named guest mid-sentence, face at half the frame | **9.31x** | a webinar card with product screenshots floating at an angle | 0.00x |
+| validation | a third-party benchmark leaderboard, vendor at rank one, "90.9%" legible at feed size | **6.54x** | a quote card: a customer endorsement in large type, no number on it | 0.08x |
+| consensus | a podcast still, brand panel and a real face | **5.06x** | a co-branded topic card, two logos and a headline | 0.30x |
+| problem | two third-party institutional logos and almost no type | **3.08x** | a stock meme template, visibly compressed, no brand system | 0.25x |
+| requirements | a full-bleed cut-out of one named employee, treated like a sports card | **2.20x** | a gated-asset cover with a rendered mockup of the PDF floating on it | 0.34x |
 
-**A person at scale works where a document does not.** The strong `requirements` creative (2.20x)
-was a full-bleed cut-out of one named employee, treated like a sports card. Round one's format
-table already showed video and carousels beating static images; this sample suggests part of what
-those formats buy is a human being at a size the feed cannot ignore.
+Four things fall out of that table and each one is actionable.
+
+**A picture of the asset is the weakest recurring creative in the sample.** The webinar promo card,
+the gated-asset cover, the quote card and the co-branded topic card are all pictures of the thing
+being linked to. A picture of a document is a picture of homework, and it is exactly what
+`requirements` — already the worst-performing job in the corpus — gets published as.
+
+**A human face at a size the feed can read beats a product screenshot, twice over.** Both
+`exploration` creatives are 16:9 designed cards from competent teams. The difference is that one
+has a person's face filling half the frame and the other has three overlapping UI panels.
+
+**Type is not the variable, and it is worth being clear about this** because the obvious reading of
+the table is "use less type". The strongest `selection` creative in the whole sample is **type
+only** — a portrait card carrying a logo and an award line and nothing else, at 16.29x. The
+strongest `culture` creative has **no type at all**, at 38.19x. What separates them from the
+losers is not how much type they carry; it is whether the image is evidence of something or
+decoration on a claim.
+
+**Production value is not the variable either.** The weakest two creatives in the sample carried no
+brand system at all — a stock meme template with compression artefacts, and a retail-style sale
+banner with a discount badge. But the strongest `event` creative is a handheld phone photo with
+uneven exposure, and the weakest `culture` creative is a carefully art-directed composite whose
+headline type is **clipped by the frame** — a visible execution defect on the more expensive image.
+
+#### The pair that contradicts all of it
+
+**`product-news` runs the other way, and it is kept here rather than dropped.**
+
+| | | |
+|---|---|---:|
+| strong | a small, low-resolution stock photograph of an automated warehouse, no people, no type | **10.25x** |
+| weak | a commissioned documentary photograph of a real warehouse, a real worker, motion blur on a pallet truck | **0.10x** |
+
+The weaker post carries the better image by any craft standard, by a wide margin. A paired design
+holds the *job* constant; it does not hold the caption, the news, the moment or the audience
+constant. **That pair is the standing reminder that the creative is often not what moved the
+number** — and it is the reason the eighteen coded images are reported as hypotheses while the
+1,277-post aspect-ratio table is reported as a finding.
+
+---
 
 ---
 
@@ -1137,10 +1168,16 @@ labelled person posts against a company corpus read in full. That is comfortable
 splits and thin everywhere else: `requirements` is 1.1% of it, which is five posts, and the
 C-suite row is 49 posts from three people.
 
-**The design section is 8 coded images.** The aspect-ratio table rests on all 1,277 image posts
-and is as solid as anything here. Everything after it in that section rests on eight images across
-four jobs, paired strong against weak within the same job. It is a hypothesis generator. It is
-written as one and should be read as one.
+**The design section is 18 coded images.** The aspect-ratio table rests on all 1,277 image posts
+and is as solid as anything here. Everything after it in that section rests on 18 images across
+eight jobs, out of 34 sampled, paired strong against weak within the same job. It is a hypothesis
+generator, it is written as one, and one of the eight pairs contradicts the other seven. The
+images and the coding are in `research/creative_sample/` so the reading can be disagreed with.
+
+**A paired design holds the job constant, not the caption.** Two posts doing the same buying job
+at the same company still differ in what they announced, when, and to whom. Where a pair splits
+38x apart, attributing that to the picture is a guess — a well-founded one when seven pairs point
+the same way, and no better than a guess for any single pair.
 
 **Two labelling decisions in round two are judgement calls worth disclosing.** Deel ran a
 recruitment campaign for a customer's job — a real, paid, advertised role — as a product

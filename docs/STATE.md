@@ -163,8 +163,12 @@ The rest are fillable. `python research/analyse_cells.py --grid` prints the live
   first section of `BENCHMARKS.md` exists because reach and commercial value diverge sharply.
 - **Follower counts are unknown**, so every paired person-versus-page ratio is confounded. Read
   them as a direction, not a multiple.
-- **The design section rests on 8 coded images.** The aspect-ratio table underneath it rests on
-  all 1,277 image posts and is solid; the coded part is a hypothesis generator and says so.
+- **The design section rests on 18 coded images** out of 34 sampled, and the images themselves
+  are in `research/creative_sample/` with the coding in `coded.tsv`. The aspect-ratio table
+  underneath it rests on all 1,277 image posts and is solid; the coded part is a hypothesis
+  generator and says so. **Sixteen of the 34 are still uncoded** and coding them needs no key and
+  no credit, just reading. One coded pair (`product-news`) contradicts the other seven and is kept
+  for that reason.
 - **The type-column mask defect** in the renderer is diagnosed in `CLAUDE.md` and not fixed: a
   three-line headline overflows the dimmed band and the motif crosses the type.
 
@@ -187,9 +191,11 @@ The rest are fillable. `python research/analyse_cells.py --grid` prints the live
    history, not just out of the working tree.** Deleting the files in a later commit leaves them
    in every clone, every fork and GitHub's caches. The reversal is `git filter-repo` and a force
    push, and it gets less effective the longer the content has been reachable.
-3. **`research/sample_creative.py` still refuses to write inside the repository.** The images it
-   pulls are other companies' copyrighted creatives, and unlike the post text they were never part
-   of the decision above. Only the coded attributes are the deliverable.
+3. **`research/creative_sample/` holds 34 of those companies' creatives**, committed under the
+   same decision and the same condition as the post text. They are attributed by filename and in
+   the manifest, and they regenerate deterministically from the tracked corpus for free, so if the
+   condition ever stops holding they can be removed without losing the ability to check the
+   finding.
 4. **The branch `virya-local-DO-NOT-PUSH` must never be pushed.** It holds client work for a
    named company. It is not merged into `main` and must not be.
 

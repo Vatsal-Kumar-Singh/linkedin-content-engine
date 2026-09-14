@@ -18,10 +18,19 @@ strong `validation` creative against a weak `validation` creative holds the cont
 difference that shows up is about the design. Comparing strong creatives against weak ones
 *across* jobs would just rediscover that awards outperform buyer's guides, which is already known.
 
-**Nothing here is downloaded for reuse.** The files go to a scratch directory outside the
-repository, they are read once to code a small number of attributes, and the attributes are what
-gets written down. These are other companies' copyrighted creatives; the finding is the
-deliverable, not the images.
+**The sample is committed, on the repository owner's decision, and only while this repository
+is private.** It lands in `research/creative_sample/` with a manifest and the coded attributes, so
+the design finding can be checked against the images it came from rather than taken on trust.
+
+These are other companies' copyrighted creatives. They are reproduced as a research sample,
+attributed by filename and in the manifest, and they are not ours to redistribute further. **If
+this repository is ever made public they have to come out of the history, not just the working
+tree.** An earlier version of this script refused to write inside the repository at all; that
+refusal was a judgement about redistribution, and it was overridden deliberately rather than
+worked around. `research/creative_sample/README.md` carries the condition.
+
+The sample is deterministic — same corpus, same pairing rule, same files — so it regenerates for
+free from the tracked corpus and needs no scraping key.
 
 ## What stops this from being a vibe
 
@@ -147,7 +156,8 @@ def measure_aspect(rows, urls):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--findings", default=os.path.join(HERE, "findings.json"))
-    ap.add_argument("--out", help="scratch directory, NOT inside the repository")
+    ap.add_argument("--out", default=os.path.join(HERE, "creative_sample"),
+                    help="where the images go. Defaults to research/creative_sample/")
     ap.add_argument("--measure-only", action="store_true",
                     help="report the corpus-wide aspect-ratio measurement and download nothing")
     ap.add_argument("--per-side", type=int, default=2,
@@ -156,10 +166,6 @@ def main():
 
     if not a.measure_only and not a.out:
         print("--out is required unless --measure-only")
-        return 1
-    if a.out and os.path.abspath(a.out).startswith(os.path.abspath(os.path.dirname(HERE))):
-        print("**Refusing to write inside the repository.** These are other companies' "
-              "creatives; only the coded attributes belong in version control.")
         return 1
 
     d = json.load(open(a.findings, encoding="utf-8"))
@@ -202,7 +208,9 @@ def main():
     json.dump(manifest, open(os.path.join(a.out, "manifest.json"), "w", encoding="utf-8"),
               indent=1)
     print("\n%d images in %s" % (len(manifest), a.out))
-    print("Read them, code the fixed attribute list in the docstring, write down the attributes.")
+    print("Read them, code the fixed attribute list in the docstring, and write the attributes to")
+    print("coded.tsv. Fixing the list before opening the files is what stops the coding becoming")
+    print("a search for a story.")
     return 0
 
 
