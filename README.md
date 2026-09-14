@@ -23,6 +23,15 @@ missing, rather than scoring you against somebody else's audience.
 **Setting it up for a company is `docs/PLAYBOOK.md`** — six phases, what each one decides, and the
 trap in each. The first two produce nothing publishable and are most of the work.
 
+**What the advice is grounded in is `docs/BENCHMARKS.md`** — 3,141 LinkedIn posts from 77 B2B
+companies, every one read and labelled by hand, cut by what you sell, how you sell it, who buys,
+how big you are and which industry you sell into. `docs/CELLS.md` cuts the first three at once and
+names exemplars per cell.
+
+**Where the project actually stands, including what is unfinished and what it would take to
+finish, is `docs/STATE.md`.** Read it before picking any of this up. It also carries the mistakes
+that cost the most time, which is the part most worth not repeating.
+
 It ships with a fictional example product, so a fresh clone renders something
 immediately. Swap the config for yours and it is your engine.
 

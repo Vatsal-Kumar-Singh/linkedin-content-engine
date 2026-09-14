@@ -32,6 +32,22 @@ the list with whatever your own sources are full of.
 
 ---
 
+## Read this first if you are picking the project up
+
+**`docs/STATE.md`** is where the project actually stands: what is measured, what is half-measured,
+what is blocked and on what, and the mistakes that cost the most time. It is written for a reader
+who has never seen this repository. Everything below assumes you have read it.
+
+Two hard rules it repeats, because breaking either is expensive and silent:
+
+- **This repository is public.** No keys, and no third-party post text. `research/raw/` and the
+  batch directories are gitignored and regenerable; the labels and `findings.json` are tracked
+  because they are our own work and carry no prose.
+- **The branch `virya-local-DO-NOT-PUSH` must never be pushed.** It holds client work on a local
+  branch of a public repo and is not merged into `main`.
+
+---
+
 ## Standing this up for a new company
 
 **`docs/PLAYBOOK.md` is the order the pieces go in**, what each decides, and where each usually
