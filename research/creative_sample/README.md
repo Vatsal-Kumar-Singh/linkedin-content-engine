@@ -2,7 +2,7 @@
 
 36 images pulled from the corpus by [`../sample_creative.py`](../sample_creative.py), plus
 [`manifest.json`](manifest.json) (what each file is) and [`coded.tsv`](coded.tsv) (the attributes
-read off 20 of them).
+read off all 36).
 
 ## What these are, and whose they are
 
@@ -43,9 +43,15 @@ outperform buyer's guides, which the rest of the study already establishes.
 become a search for a story. `aspect` is machine-read from the scrape metadata and is not a
 judgement; everything else is one reader's judgement, and no second reader has checked it.
 
-**Twenty images is a hypothesis generator, not a benchmark.** The one number in the design
-section of [`BENCHMARKS.md`](../../docs/BENCHMARKS.md) that *is* a benchmark is the aspect-ratio
-table, which is measured on all 1,277 image posts in the corpus and needs none of these files.
+**All 36 are coded, and the coding is not blind.** Each filename carries the post's engagement
+ratio, so every judgement was made knowing which side of the pair the image was on. That is how a
+coding exercise finds the pattern it went looking for, and it is the main reason the section is
+written as a hypothesis rather than a result. **The fix is cheap and has not been done: a second
+reader, shuffled files, no ratios in the names.**
+
+The one number in the design section of [`BENCHMARKS.md`](../../docs/BENCHMARKS.md) that *is* a
+benchmark is the aspect-ratio table, measured on all 1,277 image posts and needing none of these
+files.
 
 **One pair contradicts the rest and is kept for that reason.** `product-news` is the only job
 where the weaker post carries the better-made image: Samsara's is a commissioned documentary

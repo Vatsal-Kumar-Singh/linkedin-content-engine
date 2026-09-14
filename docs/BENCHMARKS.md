@@ -926,66 +926,93 @@ are all 16:9 already. The 39% share is not a design decision; it is the absence 
 The rest of design cannot be measured from metadata, so it was sampled and looked at. The sample
 is paired: for each job, the images from that job's best-performing posts against the images from
 its worst-performing posts, at the same company-normalised scale, so the content is held roughly
-constant and what differs is more likely to be the design
-(`research/sample_creative.py`). **36 images were pulled and 20 were coded across eight jobs**,
-against an attribute list fixed before any of them was opened. The images, the manifest and the
-coding are in [`research/creative_sample/`](../research/creative_sample/).
+constant and what differs is more likely to be the design (`research/sample_creative.py`). **All
+36 images are coded** against an attribute list fixed before any of them was opened. The images,
+the manifest and the coding are in [`research/creative_sample/`](../research/creative_sample/).
 
-**Twenty images is a hypothesis generator, not a benchmark.** The aspect-ratio table above is
-the benchmark; this is a set of things to try on your own feed.
+**Read the confound first.** The coding is not blind. Each filename carries the post's engagement
+ratio, so every judgement below was made knowing which side of the pair the image was on. That is
+the classic way a coding exercise finds the pattern it is looking for, and the splits below are
+weaker evidence than their size suggests. What would fix it is a second reader coding shuffled,
+unlabelled files. That has not been done.
 
-#### The pattern that holds in seven jobs out of eight
+#### The one split that is hard to explain away
 
-**The creatives that win show something that happened. The ones that lose assert something.**
+Every image was coded as either **showing something that happened** — a photograph of a real
+moment, a third-party benchmark, a product interface in a real state — or **announcing that
+something exists**, which in practice means a card advertising the webinar, PDF, case study or
+offer the post links to.
 
-| Job | Strong creative | | Weak creative | |
-|---|---|---:|---|---:|
-| culture | an unstaged photograph of a ribbon-cutting, ten real people, no type at all | **38.19x** | a designed composite: brand colour, stock-styled portrait, tagline | 0.17x |
-| event | a handheld phone photo of a named speaker on stage, taken in the room | **11.24x** | a designed webinar promo card with headshot, date and UI screenshot | 0.00x |
-| exploration | a podcast still: a named guest mid-sentence, face at half the frame | **9.31x** | a webinar card with product screenshots floating at an angle | 0.00x |
-| validation | a third-party benchmark leaderboard, vendor at rank one, "90.9%" legible at feed size | **6.54x** | a quote card: a customer endorsement in large type, no number on it | 0.08x |
-| consensus | a podcast still, brand panel and a real face | **5.06x** | a co-branded topic card, two logos and a headline | 0.30x |
-| problem | two third-party institutional logos and almost no type | **3.08x** | a stock meme template, visibly compressed, no brand system | 0.25x |
-| requirements | a full-bleed cut-out of one named employee, treated like a sports card | **2.20x** | a gated-asset cover with a rendered mockup of the PDF floating on it | 0.34x |
+| | n | strong | weak | median |
+|---|---:|---:|---:|---:|
+| shows something that happened | 17 | **15** | 2 | **6.54x** |
+| announces that something exists | 19 | 3 | **16** | **0.21x** |
 
-Four things fall out of that table and each one is actionable.
+**Sixteen of the 19 announcement cards are on the weak side, and the median announcement card
+earned 0.21x.** The webinar promo, the gated-asset cover with a rendered PDF floating on it, the
+customer-story card carrying a logo and the words "CUSTOMER STORY", the quote card with no number
+on it, the retail sale banner — these are the most-produced creative in B2B LinkedIn and the
+worst-performing thing in this sample.
 
-**A picture of the asset is the weakest recurring creative in the sample.** The webinar promo card,
-the gated-asset cover, the quote card and the co-branded topic card are all pictures of the thing
-being linked to. A picture of a document is a picture of homework, and it is exactly what
-`requirements` — already the worst-performing job in the corpus — gets published as.
+**A picture of the asset you are linking to is a picture of homework.** It is exactly what
+`requirements`, already the worst-performing job in the corpus, gets published as.
 
-**A human face at a size the feed can read beats a product screenshot, twice over.** Both
-`exploration` creatives are 16:9 designed cards from competent teams. The difference is that one
-has a person's face filling half the frame and the other has three overlapping UI panels.
+#### How many things the eye has to resolve
 
-**Type is not the variable, and it is worth being clear about this** because the obvious reading of
-the table is "use less type". The strongest `selection` creative in the whole sample is **type
-only** — a portrait card carrying a logo and an award line and nothing else, at 16.29x. The
-strongest `culture` creative has **no type at all**, at 38.19x. What separates them from the
-losers is not how much type they carry; it is whether the image is evidence of something or
-decoration on a claim.
+| Elements at feed size | n | strong | weak | median |
+|---|---:|---:|---:|---:|
+| 1–2 | 22 | **17** | 5 | **6.46x** |
+| 3–5 | 9 | 1 | 8 | 0.17x |
+| 6+ | 5 | **0** | 5 | 0.21x |
 
-**Production value is not the variable either.** The weakest two creatives in the sample carried no
-brand system at all — a stock meme template with compression artefacts, and a retail-style sale
-banner with a discount badge. But the strongest `event` creative is a handheld phone photo with
-uneven exposure, and the weakest `culture` creative is a carefully art-directed composite whose
-headline type is **clipped by the frame** — a visible execution defect on the more expensive image.
+**Not one creative carrying six or more elements is on the strong side.** The losers here are a
+retail promo with ten (product shot, two offers, a diagonal "just upgraded" banner, a course
+thumbnail, a tagline, a lockup), a flywheel diagram with five labelled nodes at thumbnail size,
+and a savings table with twelve figures set too small to read.
 
-#### The pair that contradicts all of it
+The effect survives inside the announcement cards — among those, 1–2 elements splits 3 strong to 4
+weak while 3+ splits 0 to 12 — but it is much weaker there. **Simplifying an announcement does not
+turn it into evidence.**
 
-**`product-news` runs the other way, and it is kept here rather than dropped.**
+#### Four things that are not the variable
+
+**Type is not the variable.** The strongest `culture` creative has no type at all (38.19x, a
+photograph of an office opening). The strongest `product-news` creative is one line of serif type
+on black and nothing else (7.58x). Both win; they have nothing in common typographically.
+
+**Production value is not the variable.** The best `event` creative is a handheld phone photo taken
+in a dim restaurant (11.24x) and the second best is another phone photo from a conference floor
+(8.50x). The weakest `culture` creative is a carefully art-directed composite whose headline is
+**clipped by the frame** — a visible defect on the more expensive image.
+
+**Minimalism is not the variable either, and this is the one that surprised me.** The weakest
+`validation` creative in the sample is as clean as anything in it: a customer's logo, their name
+set large, and the words "CUSTOMER STORY". One idea, beautifully set, 0.18x. The strongest is a
+cluttered photograph of seven people around a boardroom table with drinks cartons in shot, 6.39x.
+Restraint applied to an announcement just makes a tidy announcement.
+
+**A face is not reliably the variable.** It helps in `exploration` and `consensus`, where both
+winners are podcast stills with a face at half the frame. But the strongest `exploration` creative
+in the other direction is an essay title set enormous with no face at all (7.11x), and the weakest
+`culture` creative is a stock photograph of a man and a child on a beach — a face, and no
+connection to the company (0.00x).
+
+#### The pair that still contradicts everything
+
+**`product-news` runs the other way and is kept for that reason.**
 
 | | | |
 |---|---|---:|
-| strong | a small, low-resolution stock photograph of an automated warehouse, no people, no type | **10.25x** |
-| weak | a commissioned documentary photograph of a real warehouse, a real worker, motion blur on a pallet truck | **0.10x** |
+| strong | a small, low-resolution stock photograph of an automated warehouse | **10.25x** |
+| weak | a commissioned documentary photograph of a real warehouse, a real worker, motion blur | **0.10x** |
 
-The weaker post carries the better image by any craft standard, by a wide margin. A paired design
-holds the *job* constant; it does not hold the caption, the news, the moment or the audience
-constant. **That pair is the standing reminder that the creative is often not what moved the
-number** — and it is the reason the eighteen coded images are reported as hypotheses while the
-1,277-post aspect-ratio table is reported as a finding.
+By the coding above the weak one should have won: it shows something that happened, it resolves to
+one thing, it has no defects. It earned a hundredth of what the stock image did.
+
+**A paired design holds the job constant. It does not hold the caption, the news, the moment or
+the audience constant.** That pair is why the aspect-ratio table above — 1,277 posts, machine-read
+— is reported as a finding, and everything in this subsection is reported as a hypothesis worth
+testing on your own feed.
 
 ---
 
@@ -1168,11 +1195,14 @@ labelled person posts against a company corpus read in full. That is comfortable
 splits and thin everywhere else: `requirements` is 1.1% of it, which is five posts, and the
 C-suite row is 49 posts from three people.
 
-**The design section is 20 coded images.** The aspect-ratio table rests on all 1,277 image posts
-and is as solid as anything here. Everything after it in that section rests on 20 images across
-eight jobs, out of 36 sampled, paired strong against weak within the same job. It is a hypothesis
-generator, it is written as one, and one of the eight pairs contradicts the other seven. The
-images and the coding are in `research/creative_sample/` so the reading can be disagreed with.
+**The design section is 36 coded images, and the coding is not blind.** The aspect-ratio table
+rests on all 1,277 image posts and is as solid as anything here. Everything after it rests on 36
+images across nine jobs, paired strong against weak within the same job — and coded by a reader
+who could see each image's engagement ratio in its filename. **A 15-to-2 split found that way is
+weaker evidence than its size suggests**, because that is precisely how a coding exercise finds
+the pattern it went looking for. The fix is cheap and has not been done: a second reader, shuffled
+files, no ratios in the names. The images and the coding are in `research/creative_sample/` so
+the reading can be disagreed with, which is the next best thing.
 
 **A paired design holds the job constant, not the caption.** Two posts doing the same buying job
 at the same company still differ in what they announced, when, and to whom. Where a pair splits

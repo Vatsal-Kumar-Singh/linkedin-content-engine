@@ -163,12 +163,12 @@ The rest are fillable. `python research/analyse_cells.py --grid` prints the live
   first section of `BENCHMARKS.md` exists because reach and commercial value diverge sharply.
 - **Follower counts are unknown**, so every paired person-versus-page ratio is confounded. Read
   them as a direction, not a multiple.
-- **The design section rests on 20 coded images** out of 36 sampled, in
-  `research/creative_sample/` with the coding in `coded.tsv`. The aspect-ratio table underneath it
-  rests on all 1,277 image posts and is solid; the coded part is a hypothesis generator and says
-  so. **Sixteen of the 36 are still uncoded** and coding them needs no key and no credit, only
-  reading. One coded pair (`product-news`) contradicts the other seven and is kept for that
-  reason.
+- **The design section rests on all 36 coded images**, in `research/creative_sample/` with the
+  coding in `coded.tsv`. The aspect-ratio table underneath it rests on all 1,277 image posts and
+  is solid. **The coding is not blind** — each filename carries the engagement ratio, so every
+  judgement was made knowing the answer. That is the biggest remaining weakness in the section and
+  the fix is cheap: a second reader coding shuffled, unlabelled files, which needs no key and no
+  credit. One pair (`product-news`) contradicts the rest and is kept for that reason.
 - **The type-column mask defect** in the renderer is diagnosed in `CLAUDE.md` and not fixed: a
   three-line headline overflows the dimmed band and the motif crosses the type.
 
@@ -307,6 +307,13 @@ third-party post text" on the day that stopped being true. Anyone reading them w
 a rule the repository no longer followed. They moved in the same commit as the change, which is
 the only version of this that works: canon lives in exactly one place, and the place has to be
 right at every commit rather than eventually.
+
+**Coding that can see the answer finds the pattern it went looking for.** All 36 creatives were
+coded against a list fixed in advance, which guards against inventing categories to fit — and the
+filenames carried the engagement ratio, which does not guard against anything. The result is a
+15-to-2 split that looks much stronger than it is. Fixing it costs nothing but a shuffle and a
+second reader. **Fixing the attribute list in advance is half the control; hiding the outcome is
+the other half, and only the cheap half was done.**
 
 **A paired design holds the thing you paired on, and nothing else.** The creative sample pairs a
 job's best-performing post against its worst, so the *job* is constant — not the caption, the news,

@@ -1,37 +1,53 @@
-# Creative attributes, coded by eye from the images in this directory.
+# Creative attributes, coded by eye from the images in this directory. All 36 are coded.
 #
 # The attribute list was fixed BEFORE the images were opened (see sample_creative.py) so the
 # coding could not become a search for a story. `aspect` is machine-read from the scrape metadata
 # and is not a judgement. Everything else is one reader's judgement, and no second reader has
 # checked it.
 #
-# 20 of the 36 images are coded. The other 16 need no key and no credit, only reading.
-#
 # kind        what the image mainly is
 # face        is there a human face at a size the feed can read
 # type_role   message = the type carries the point; decor = the type labels a link; none
 # brand       is the company's own colour/type system doing work in the image
-# shows       evidence = something that happened or a measurable; claim = an assertion
+# shows       happened = a thing that occurred or a state that is true; announces = a claim that
+#             something exists, usually the asset the post links to
+# elements    how many things the eye must resolve at feed size
 # defect      anything visibly wrong at feed size
 #
-# file	job	side	rel	aspect	kind	face	type_role	brand	shows	defect
-validation_strong_Wiz_6.54x_035714.jpg	validation	strong	6.54	wide 16:9	third-party benchmark screenshot	no	decor	no	evidence	-
-validation_weak_UiPath_0.08x_377729.jpg	validation	weak	0.08	square 1:1	quote card	no	message	yes	claim	-
-problem_strong_Mercury_3.08x_016128.jpg	problem	strong	3.08	wide 16:9	third-party logos	no	none	yes	evidence	-
-problem_weak_Cal.com_0.25x_291968.jpg	problem	weak	0.25	square 1:1	stock meme template	yes	message	no	claim	low resolution, off-brand
-problem_weak_Cal.com_0.25x_575872.jpg	problem	weak	0.25	wide 16:9	product UI collage, four panels	no	none	partial	claim	low resolution
-requirements_strong_Clari_2.20x_331008.jpg	requirements	strong	2.20	portrait 4:5	single person, full bleed	yes	message	yes	claim	-
-requirements_weak_Snyk_0.34x_827392.jpg	requirements	weak	0.34	wide 16:9	gated-asset cover with PDF mockup	no	message	yes	claim	-
-selection_strong_Procore_16.29x_254976.jpg	selection	strong	16.29	portrait 4:5	type only	no	message	yes	evidence	-
-selection_weak_PrusaResearch_0.18x_445760.jpg	selection	weak	0.18	square 1:1	retail sale banner	no	message	partial	claim	reads as an advertisement
-consensus_strong_VeevaSystems_5.06x_738880.jpg	consensus	strong	5.06	wide 16:9	podcast still, split panel	yes	message	yes	claim	-
-consensus_weak_Outreach_0.30x_568001.jpg	consensus	weak	0.30	square 1:1	co-branded topic card	no	message	yes	claim	-
-culture_strong_Zoho_38.19x_576576.jpg	culture	strong	38.19	landscape 4:3	documentary photograph	yes	none	no	evidence	-
-culture_weak_Personio_0.17x_109056.jpg	culture	weak	0.17	square 1:1	designed composite, portrait inset	yes	message	yes	claim	headline type clipped by the frame
-exploration_strong_DirectiveConsu_9.31x_741824.jpg	exploration	strong	9.31	wide 16:9	podcast still, split panel	yes	message	yes	claim	-
-exploration_weak_Airtable_0.00x_568640.jpg	exploration	weak	0.00	wide 16:9	webinar card with UI screenshots	no	message	yes	claim	-
-event_strong_Juro_11.24x_092672.jpg	event	strong	11.24	portrait 4:5	phone photo taken at the event	yes	none	no	evidence	handheld, uneven exposure
-event_weak_Airtable_0.00x_606208.jpg	event	weak	0.00	wide 16:9	designed webinar promo card	yes	message	yes	claim	-
-event_weak_Airtable_0.00x_477378.jpg	event	weak	0.00	wide 16:9	designed event card with audience photo	no	message	yes	claim	-
-product-news_strong_Flexport_10.25x_284096.jpg	product-news	strong	10.25	landscape 4:3	stock warehouse photograph	no	none	no	claim	low resolution
-product-news_weak_Samsara_0.10x_592000.jpg	product-news	weak	0.10	landscape 4:3	documentary photograph	yes	none	no	evidence	-
+# file	job	side	rel	aspect	kind	face	type_role	brand	shows	elements	defect
+culture_strong_Zoho_38.19x_576576.jpg	culture	strong	38.19	landscape 4:3	documentary photograph, office opening	yes	none	no	happened	1	-
+culture_strong_Procore_23.64x_598976.jpg	culture	strong	23.64	square 1:1	documentary photograph, office opening	yes	none	no	happened	1	-
+selection_strong_Procore_16.29x_254976.jpg	selection	strong	16.29	portrait 4:5	type only, award line	no	message	yes	happened	2	-
+selection_strong_Clari_12.50x_047040.jpg	selection	strong	12.50	portrait 4:5	type only, two lines	no	message	yes	happened	2	-
+event_strong_Juro_11.24x_092672.jpg	event	strong	11.24	portrait 4:5	phone photo taken at the event	yes	none	no	happened	1	handheld, uneven exposure
+product-news_strong_Flexport_10.25x_284096.jpg	product-news	strong	10.25	landscape 4:3	stock warehouse photograph	no	none	no	announces	1	low resolution
+exploration_strong_DirectiveConsu_9.31x_741824.jpg	exploration	strong	9.31	wide 16:9	podcast still, split panel	yes	message	yes	happened	2	-
+event_strong_Netguru_8.50x_664129.jpg	event	strong	8.50	portrait 4:5	phone photo taken at the event	yes	none	no	happened	1	dim, handheld
+product-news_strong_Resend_7.58x_537729.jpg	product-news	strong	7.58	wide 16:9	type only, one line	no	message	yes	happened	1	-
+exploration_strong_UiPath_7.11x_806720.jpg	exploration	strong	7.11	wide 16:9	type only, essay title	no	message	yes	announces	2	-
+validation_strong_Wiz_6.54x_035714.jpg	validation	strong	6.54	wide 16:9	third-party benchmark screenshot	no	decor	no	happened	1	-
+validation_strong_Zoho_6.39x_092864.jpg	validation	strong	6.39	landscape 4:3	documentary photograph, customer meeting	yes	none	no	happened	1	-
+consensus_strong_VeevaSystems_5.06x_738880.jpg	consensus	strong	5.06	wide 16:9	podcast still, split panel	yes	message	yes	happened	2	-
+problem_strong_Mercury_3.08x_016128.jpg	problem	strong	3.08	wide 16:9	third-party institutional logos	no	none	yes	happened	2	-
+requirements_strong_AgilityRobotic_2.29x_855744.jpg	requirements	strong	2.29	portrait 4:5	studio product photograph	no	none	no	happened	1	-
+requirements_strong_Clari_2.20x_331008.jpg	requirements	strong	2.20	portrait 4:5	single person, full bleed	yes	message	yes	announces	2	-
+problem_strong_Gong_2.13x_234944.jpg	problem	strong	2.13	wide 16:9	product UI, one real state	no	message	yes	happened	1	-
+consensus_strong_Databricks_2.07x_984640.jpg	consensus	strong	2.07	wide 16:9	data infographic, four columns	no	message	yes	happened	5	-
+consensus_weak_ChefRobotics_0.36x_302336.jpg	consensus	weak	0.36	square 1:1	data table, twelve figures	no	message	partial	happened	12	type too small to read at feed size
+requirements_weak_Snyk_0.34x_827392.jpg	requirements	weak	0.34	wide 16:9	gated-asset cover with PDF mockup	no	message	yes	announces	4	-
+selection_weak_ChefRobotics_0.32x_536641.jpg	selection	weak	0.32	wide 16:9	flywheel diagram, five nodes	no	message	partial	announces	6	low resolution, type too small
+consensus_weak_Outreach_0.30x_568001.jpg	consensus	weak	0.30	square 1:1	co-branded topic card	no	message	yes	announces	3	-
+problem_weak_Cal.com_0.25x_291968.jpg	problem	weak	0.25	square 1:1	stock meme template	yes	message	no	announces	2	low resolution, off-brand
+problem_weak_Cal.com_0.25x_575872.jpg	problem	weak	0.25	wide 16:9	product UI collage, four panels	no	none	partial	announces	4	low resolution
+product-news_weak_PrusaResearch_0.21x_580864.jpg	product-news	weak	0.21	square 1:1	retail promo, offers and badges	no	message	yes	announces	10	-
+requirements_weak_ABBRobotics_0.21x_031424.jpg	requirements	weak	0.21	wide 16:9	gated-asset card with download button	no	message	yes	announces	6	-
+selection_weak_PrusaResearch_0.18x_445760.jpg	selection	weak	0.18	square 1:1	retail sale banner	no	message	partial	announces	8	reads as an advertisement
+validation_weak_Trigger.dev_0.18x_884480.jpg	validation	weak	0.18	wide 16:9	customer logo and label, nothing else	no	message	yes	announces	2	-
+culture_weak_Personio_0.17x_109056.jpg	culture	weak	0.17	square 1:1	designed composite, portrait inset	yes	message	yes	announces	5	headline type clipped by the frame
+product-news_weak_Samsara_0.10x_592000.jpg	product-news	weak	0.10	landscape 4:3	documentary photograph, warehouse	yes	none	no	happened	1	-
+validation_weak_UiPath_0.08x_377729.jpg	validation	weak	0.08	square 1:1	customer quote card	no	message	yes	announces	3	-
+culture_weak_Cal.com_0.00x_421824.jpg	culture	weak	0.00	landscape 4:3	stock photograph, unrelated	yes	none	no	announces	1	no connection to the company
+event_weak_Airtable_0.00x_606208.jpg	event	weak	0.00	wide 16:9	designed webinar promo card	yes	message	yes	announces	5	-
+event_weak_Airtable_0.00x_477378.jpg	event	weak	0.00	wide 16:9	designed event card with audience photo	no	message	yes	announces	4	-
+exploration_weak_Airtable_0.00x_568640.jpg	exploration	weak	0.00	wide 16:9	webinar card with UI screenshots	no	message	yes	announces	5	-
+exploration_weak_Cal.com_0.00x_792065.jpg	exploration	weak	0.00	wide 16:9	tilted UI mockup, cropped	no	none	partial	announces	2	low contrast, interface unreadable
