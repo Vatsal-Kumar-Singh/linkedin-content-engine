@@ -3,8 +3,9 @@
 A measured reference for setting a content split, choosing formats, and shaping a calendar — cut
 by **what you sell**, **how you sell it**, **who buys**, and **how big you are**.
 
-**2,020 original posts from 46 companies, every one read and labelled by hand.** Method,
-sample and limits are at the bottom; read them before quoting any number.
+**2,020 original posts from 46 company pages, every one read and labelled by hand**, plus
+**1,785 posts from 43 named people** paired to those same companies. Method, sample and
+limits are at the bottom; read them before quoting any number.
 
 ---
 
@@ -213,6 +214,113 @@ carousels most. Product companies are the most video-heavy (37%).
 length is close to noise. Longer is very slightly better, and anyone optimising word count before
 they have fixed their format mix is working on the wrong variable.
 
+## The person channel: it is not person versus page, it is founder versus everyone else
+
+**1,785 posts from 43 named people, each paired to a company page already in this study** — same
+company, same window. The pairing is what makes it readable: raw engagement mostly measures
+followers, so the only honest comparison is within a company.
+
+At the same company, the named person's median post beat the page's in **27 of 39 pairs (69%)**,
+median ratio **1.91x**. But that number hides the finding:
+
+| Who is posting | Pairs | Median vs their own page | Person wins |
+|---|---:|---:|---:|
+| **founder / CEO** | 23 | **3.06x** | 19 of 23 |
+| C-suite | 3 | 1.91x | 2 of 3 |
+| individual contributor | 9 | 1.03x | 5 of 9 |
+| **VP / Head / Director** | 4 | **0.54x** | 1 of 4 |
+
+**A founder's typical post is worth three of their company page's. A VP's is worth half of one.**
+"Get your executives posting" is not the finding; the effect is concentrated almost entirely in
+the founder and CEO seat, and mid-level leaders in this sample underperformed the page they were
+supposed to be amplifying.
+
+Veeva Systems is an accidental control: four of its people are in the sample, and they span
+**45.86x to 0.25x** against the same page in the same window. Within-company variance dwarfs
+every between-company difference measured anywhere in this study.
+
+*(Peter Gassner's 45.86x is the largest ratio here and should be read carefully: Veeva's page
+median is 36, which is very low for a company of that size, so the ratio is as much a weak page
+as a strong person. Ratios like these are a direction, not a multiple.)*
+
+### Where the person channel matters most
+
+| | Pairs | Median ratio | Person wins |
+|---|---:|---:|---:|
+| **enterprise motion** | 10 | **3.50x** | 7 |
+| slg | 12 | 2.26x | 9 |
+| plg | 8 | 2.07x | 6 |
+| pls | 9 | 1.03x | 5 |
+| **service** | 4 | **2.26x** | 3 |
+| saas | 28 | 2.14x | 20 |
+| product | 7 | 1.50x | 4 |
+| scaled | 20 | 2.42x | 16 |
+| early | 4 | 1.94x | 3 |
+| growth | 15 | 1.03x | 8 |
+
+**The person channel pays most exactly where committees buy.** Enterprise motion is the highest
+ratio measured, which is the empirical version of a rule this engine already carried on judgement
+alone: when a buyer is deciding whether they want *these specific people* in their business, an
+organisation page cannot answer the question.
+
+### What a person publishes, and how it differs
+
+| | Page | Person | Difference |
+|---|---:|---:|---:|
+| **says "I" anywhere** | 3.2% | **43.0%** | **+39.8** |
+| **text-only posts** | 14.9% | **40.3%** | **+25.4** |
+| body 160+ words | 8.2% | 24.6% | +16.4 |
+| first line 26+ words | 21.1% | 31.1% | +10.0 |
+| opens on "I/my" | 0.3% | 8.9% | +8.6 |
+| body 0-29 words | 16.9% | 24.9% | +8.1 |
+| has hashtags | 23.1% | 23.0% | -0.1 |
+| says "we" anywhere | 53.0% | 52.5% | -0.5 |
+| uses emoji | 35.3% | 25.3% | -9.9 |
+| **explicit CTA verb** | 20.6% | **7.4%** | **-13.2** |
+| body 60-99 words | 28.7% | 13.4% | -15.3 |
+| **video** | 33.9% | **13.2%** | **-20.7** |
+
+**These are two different products, not one voice in two registers.**
+
+**People write; pages produce.** Text-only is 40% of a person's feed and 15% of a page's; video is
+34% of a page's and 13% of a person's. A page has a design and video pipeline behind it and uses
+it. A person types.
+
+**Length goes bimodal on a person's feed.** People post the very short (24.9% under 30 words) and
+the very long (24.6% over 160) and largely skip the middle, where pages cluster. A page's 60-99
+word post — the single most common company shape — is 13% of a person's output.
+
+**"I" is the whole difference in voice.** 43% against 3.2%, the starkest single gap in this study.
+Note what does *not* change: "we" appears in 53% of both. A person says *I and we*; a page can only
+say *we*. **That is the capability the page structurally does not have**, and it is why reposting
+a founder's post onto the page is not the same as the page saying it.
+
+**People barely ask for anything.** An explicit CTA appears in 20.6% of page posts and 7.4% of
+person posts.
+
+**Pages publish three times as often**: 4.1 posts a week against 1.2. Combined with the paired
+ratio, a founder posting weekly is doing roughly the same work as a page posting three times — and
+the founder's cadence is the one companies treat as optional.
+
+### What this means for the channel decision
+
+This repository already models channels as
+[`kind: person` or `kind: organisation`](decision/RESEARCH-channel-split.md) and makes the company
+declare which. The measurement supports the distinction and sharpens it:
+
+1. **Declare the seat, not just the channel.** A founder channel and a VP channel are not the same
+   instrument. The measured difference between them is larger than the difference between a
+   person and a page.
+2. **Do not pool a person's corpus with a page's** when measuring format lift. Their format mixes
+   differ by 25 points on text alone, so a pooled median describes neither.
+3. **A person is not a distribution channel for page content.** Strip the CTA, drop the video,
+   let it run long or very short, and let the writer say "I" — otherwise it is a page post with a
+   face on it, which is what the 0.54x VP row looks like from the inside.
+4. **Measure your own pair before deciding.** 12 of 39 people lost to their own page, including
+   four founders. The spread within one company reached 45.86x to 0.25x.
+
+---
+
 ## How the text is built
 
 Structural facts counted from the post — no judgement involved, so these are as reliable as the
@@ -374,6 +482,17 @@ of an industry, and an industry is not a target.
 
 ## Method, and what it cannot tell you
 
+**The person sample.** 47 named people, each paired to a company already in the frame, defined in
+[`research/person-frame.yaml`](../research/person-frame.yaml). Two tiers. **Tier A cost nothing
+and was chosen by the companies themselves**: when a page reshares, the scrape records the
+original author, so the corpus already named 155 people these pages choose to amplify. **Tier A
+alone would have answered the wrong question** — the pages that reshare heavily are early PLG and
+founder-led companies, so a sample drawn only from it measures founders at startups and would have
+reported "named people post informally" as a fact about people rather than about that cell. Tier B
+filled the enterprise, service and industrial cells. 43 people cleared a 15-post floor; the four
+below it are named in the output. Seniority is read off the LinkedIn headline the scrape returns
+on every post.
+
 **Sample.** 49 companies chosen to populate an offering x motion x stage grid, defined in
 [`research/sample-frame.yaml`](../research/sample-frame.yaml) with a stated reason for every
 company. 46 cleared the threshold. Pulled September 2026 via Apify, up to 50 posts each,
@@ -406,6 +525,23 @@ carousels is not supported.
 
 **One window, no seasonality.** These are recent posts pulled at one moment. A company mid-launch
 or mid-conference-season is over-represented on those categories.
+
+**The paired ratio is confounded by follower counts, and nothing here removes that.** A founder
+with 80,000 followers beating a page with 12,000 is not evidence about post shape. The pairing
+controls for company, market and window; it does not control for audience size, which is the
+variable most likely to be driving the result. Read every ratio in the person section as a
+direction. It is the right direction for a channel decision — reach is reach, whatever produces
+it — but it is not a claim that the same words do better under a face.
+
+**Seniority is read off a self-written headline.** "Founder & CEO at X" is reliable; a headline
+reading "Building the future of work" is not, and lands in individual contributor. The bands are
+also small: 23 founder pairs, but only 3 C-suite and 4 VP. **The VP row at 0.54x is four people**
+and should be treated as a signal to check rather than a finding to act on.
+
+**Person posts are not labelled.** The person corpus has been measured for format, length,
+structure, cadence and paired engagement — all machine-read. What a founder publishes *about*,
+in buying-job terms, is not in this document, because that needs the same hand-reading the company
+corpus got and it has not been done.
 
 **One reader.** Every label is one person's judgement applied consistently. The protocol exists so
 a second reader can label the same batches independently and the two files can be compared post by
