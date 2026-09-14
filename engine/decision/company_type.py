@@ -24,6 +24,7 @@ from __future__ import annotations
 
 OFFERING = {"saas", "service", "product"}
 MOTION = {"plg", "slg", "pls", "enterprise"}
+BUYER = {"practitioner", "manager", "exec", "procurement"}
 
 # --- Axis 2: how it gets bought ---------------------------------------------------------------
 #
@@ -99,6 +100,54 @@ OFFERING_RULES = {
 }
 
 
+# ==================================================================================================
+# WHO SIGNS. **The sharpest single split in the measured corpus** (`docs/BENCHMARKS.md`): a page
+# aimed at practitioners runs 60% non-buying content and 22% TOFU, a page aimed at procurement runs
+# 32% non-buying and 35% TOFU. That gap is wider than the gap between any two offerings or any two
+# stages, which is why this is worth declaring even though offering and motion are the required
+# axes.
+#
+# These are descriptions of what 46 companies did, not targets. They are carried as cautions and
+# notes for the same reason everything else here is: the engine says what follows from a
+# declaration and lets a person disagree.
+# ==================================================================================================
+BUYER_RULES = {
+    "practitioner": {
+        "non_buying": 60,
+        "note": "the reader evaluates by using, not by reading. Pages aimed at practitioners "
+                "publish the least buying-job content of any buyer type and the most community, "
+                "release and event content",
+        "caution": "**A practitioner-buyer page that reads like an enterprise page will be "
+                   "ignored by both.** The measured risk runs the other way too: at 8% BOFU this "
+                   "is the cohort least able to answer a committee, so the day the company sells "
+                   "upmarket there is no evaluation content to point at",
+    },
+    "manager": {
+        "non_buying": 43,
+        "note": "the reader owns an outcome and a budget line, but rarely signs alone. Sits "
+                "between practitioner and exec on every measured axis",
+        "caution": "manager-buyer pages carry the least MOFU of the three committee-ish buyers "
+                   "(8%), which is the content a manager needs most to build a case upward",
+    },
+    "exec": {
+        "non_buying": 36,
+        "note": "the reader is choosing a direction, not a feature. Exec-buyer pages are the "
+                "second most buying-dense in the corpus",
+        "caution": "an exec reads for consequence, and consequence is the register `problem` and "
+                   "`consensus` are written in — the two lowest-engagement categories measured. "
+                   "Expect this content to underperform on reach and publish it anyway",
+    },
+    "procurement": {
+        "non_buying": 32,
+        "note": "the reader is managing risk and defending a decision. The most buying-dense "
+                "buyer type measured, and the highest BOFU (17%)",
+        "caution": "**procurement reads the claims, not the story.** This is the buyer where an "
+                   "unearned certification or an uncleared customer name becomes an exposure "
+                   "rather than an embarrassment",
+    },
+}
+
+
 def implications(profile: dict) -> dict:
     """What this company's type means for the calendar. Refuses rather than assuming a default.
 
@@ -110,8 +159,10 @@ def implications(profile: dict) -> dict:
     ct = (profile or {}).get("company_type") or {}
     offering = str(ct.get("offering") or "").strip().lower()
     motion = str(ct.get("motion") or "").strip().lower()
+    buyer = str(ct.get("buyer") or "").strip().lower()
 
     out = {"declared": False, "offering": offering or None, "motion": motion or None,
+           "buyer": buyer if buyer in BUYER else None,
            "load_bearing": [], "discounted": [], "cautions": [], "notes": [], "missing": []}
 
     if offering not in OFFERING:
@@ -140,6 +191,28 @@ def implications(profile: dict) -> dict:
             % (", ".join(m["discounted"]), motion.upper(), m["why_discounted"]))
     if o["channel"]:
         out["cautions"].append(o["channel"])
+
+    # Who signs. Optional, because requiring it would invalidate every profile written before it
+    # existed — but its absence is reported, because it is the axis that moves behaviour most.
+    if buyer in BUYER:
+        b = BUYER_RULES[buyer]
+        out["notes"].append(
+            "who signs: %s. Comparable companies run about %d%% non-buying content on this axis"
+            % (b["note"], b["non_buying"]))
+        out["cautions"].append(b["caution"])
+    elif buyer:
+        # Not `missing`: that list means "required and absent, so this result is unusable" and the
+        # function returns early on it. A misspelt optional axis is an author error to fix, not a
+        # reason to refuse the whole reading.
+        out["cautions"].append(
+            "**company_type.buyer is %r, which is not one of %s** — it is being ignored. A typo "
+            "here fails silently, which is worse than leaving it undeclared"
+            % (ct.get("buyer"), sorted(BUYER)))
+    else:
+        out["notes"].append(
+            "**company_type.buyer is undeclared.** It is optional, and it is also the axis that "
+            "splits measured publishing behaviour hardest — wider than offering, motion or stage. "
+            "Declaring it is the cheapest improvement available to this profile")
 
     # The combinations the research flags as behaving differently from the sum of their parts.
     if offering == "service" and motion in ("slg", "enterprise"):

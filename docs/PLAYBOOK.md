@@ -158,7 +158,32 @@ underneath is different. The engine says so rather than guessing.
 
 ---
 
+**Declare who signs before you decide anything else.** Buyer type splits publishing behaviour
+harder than offering, motion or stage do: a page aimed at practitioners is **60%** non-buying
+content, a page aimed at procurement is **32%**. That gap is wider than the gap between any two
+offerings. If the profile declares only one axis, declare this one.
+
+---
+
 ## Phase 3 — Decide what to publish
+
+**Start from the measured split for your cell, then decide where to deviate.**
+[`docs/BENCHMARKS.md`](BENCHMARKS.md) is 2,020 hand-read posts from 46 companies cut by offering,
+motion, stage and buyer. Find your row. It tells you what is normal, which is useful mainly for
+seeing where you are an outlier and whether you meant to be.
+
+**Two things from that data change how you build a calendar, and both are counter-intuitive.**
+
+**The content that earns reach and the content that does commercial work are close to opposites.**
+Awards and milestones run at 1.59x their company's median engagement, culture at 1.32x, launches
+at 1.20x. Buyer's guides run at 0.68x, problem framing at 0.77x, business-case content at 0.80x —
+and those last three are what somebody in an active evaluation actually needs. **This is why Gate,
+Lift and Fit are scored separately and never blended**: Lift ranks that list almost exactly upside
+down from Fit. A calendar built on engagement converges on trophies and team photos.
+
+**The whole industry under-publishes the middle and the end.** Requirements and consensus content
+together are **5.1%** of everything those 46 companies published. Whatever the benchmark row for
+your cell says, it is describing an industry-wide hole. Do not aim at the median here; aim past it.
 
 **Generate the calendar, do not write it.** `.claude/skills/build-content-calendar` has the
 method; `scripts/gen_calendar.py` does it:
@@ -178,7 +203,18 @@ specs `run.py` loads unchanged.
 reviewed.
 
 **The measured format decides the template, and some formats this engine does not render.** A
-photo album is photographs; no renderer takes one. Where the corpus says photographs win, the
+photo album is photographs; no renderer takes one.
+
+**Two format facts worth acting on before anything else, because format is the largest measured
+effect in the corpus.** Multi-image posts earn **1.58x** their company's median and are **7.1%** of
+what gets published; ten of the 46 companies published none at all. Where carousels are used they
+go on team photos (2.38x) rather than on buying work. Meanwhile `requirements` — comparisons and
+buyer's guides, the *worst*-performing category at 0.68x — ships as a **link post 34%** of the time
+and as a carousel **2%** of the time. **The comparison table that belongs in a carousel is being
+posted as a link to a blog.** Link posts are the worst-performing format in the dataset.
+
+Length, by contrast, is close to noise: 0.91x to 1.08x across every word band. Anyone tuning
+word count before they have fixed their format mix is working on the wrong variable. Where the corpus says photographs win, the
 slot ships on the TEXT template with the caption and a note saying what to shoot. Where it says
 designed work wins, the slot carries a CARD or DOC and the pipeline renders it. **One profile can
 answer differently per channel**, which is the whole reason format lift is measured per channel
@@ -231,10 +267,16 @@ copy on it.
 
 Measure what shipped, feed it back into the corpus from phase 1, and let Lift change its mind.
 
-**Expect your own data to contradict the published benchmark.** On one project it happened five
-times: subject-line length, video performance, which account to model, which archetype was
-strongest, and copy length. Every time, the benchmark was real and measured on somebody else's
-audience. **Measure before you believe.**
+**Expect your own data to contradict the published benchmark** — including the one in this
+repository. On one project it happened five times: subject-line length, video performance, which
+account to model, which archetype was strongest, and copy length. Every time, the benchmark was
+real and measured on somebody else's audience. **Measure before you believe.**
+
+That applies to [`docs/BENCHMARKS.md`](BENCHMARKS.md) with force, because it is easy to mistake it
+for a target. It is a description of what 46 companies did in one window, its only outcome signal
+is engagement, and **engagement is not pipeline** — nothing in it observed a deal. Use it to set a
+starting split and to find the formats nobody is using. Replace it with your own corpus the moment
+you have one, which is what `scripts/measure_corpus.py` is for.
 
 ---
 

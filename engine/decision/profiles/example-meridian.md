@@ -117,6 +117,9 @@ review_on: 2026-07-01
 company_type:
   offering: saas
   motion: PLS          # product-led, sales-assisted above a seat count
+  buyer: practitioner  # who signs. Optional, and the axis that moves measured publishing
+                       # behaviour most: practitioner-led pages run about 60% non-buying
+                       # content, procurement-led pages about 32%. See docs/BENCHMARKS.md
   purchase: subscription
 
 objectives:

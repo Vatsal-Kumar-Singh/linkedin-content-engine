@@ -8,6 +8,40 @@ description: Develop a visual system for social creatives and iterate it in numb
 The method that produced the design system in this repo. It generalises; the
 particular shapes do not.
 
+## 0. Know which format you are designing for, and whether it is worth designing
+
+Before any of the craft below, the largest measured effect on a post is its format,
+not its execution. From 2,020 hand-read posts in `docs/BENCHMARKS.md`, scored
+against each company's own median:
+
+| Format | Share of posts | Engagement |
+|---|---:|---:|
+| multi-image / carousel | **7.1%** | **1.58x** |
+| video | 33.6% | 1.13x |
+| single image | 30.5% | 1.00x |
+| text only | 14.9% | 0.78x |
+| link post | 13.9% | **0.75x** |
+
+Three things follow for a designer.
+
+**The best format is the least used, by a factor of four.** Ten of 46 companies
+published no carousel at all. A carousel is more design work than a card, which is
+presumably why — and it is the work with the highest measured return.
+
+**Where carousels exist, they are spent on the wrong content.** Culture posts
+(2.38x) dominate carousel usage at 23%; `requirements` — comparisons and buyer's
+guides — uses carousels **2%** of the time and link posts **34%** of the time. A
+comparison has two states and a trade-off, which is carousel-shaped by nature. It
+is being posted as a link to a blog.
+
+**A single image is the baseline, not a win.** It earns exactly 1.00x. Designing a
+beautiful card buys you nothing over an ordinary one *at the format level* — the
+gain from that work is in comprehension and trust, not reach. Do not let a strong
+single-image system become the reason nothing else gets built.
+
+Different offerings behave differently: product companies are the most video-heavy
+(37%), service firms use the most carousels (13%) and the most links (22%).
+
 ## 1. Measure the reference, do not eyeball it
 
 Given a reference image, extract numbers before forming an opinion: the colour at

@@ -63,16 +63,60 @@ profile it returns `None` and names the missing input — because a number compu
 from somebody else's audience looks exactly like a real one. `docs/decision/`
 covers the profile, the intake and the method for eliciting objectives.
 
-## The mix depends on audience size
+## The mix: start from what your cell actually does
 
-| Tier | Small following | Established |
-|---|---|---|
-| TOFU | ~70% | ~50% |
-| MOFU | ~20% | ~30% |
-| BOFU | ~10%, on demand | ~20% |
+`docs/BENCHMARKS.md` measured 2,020 hand-read posts from 46 companies. Find the row
+that matches what the company sells and how it sells, and start there rather than
+from a remembered ratio:
 
-TOFU is the only tier that reaches people who do not follow you yet, which is why
-it dominates early.
+| Cell | TOFU | MOFU | BOFU | non-buying |
+|---|---:|---:|---:|---:|
+| service x slg | 50% | 9% | 2% | 37% |
+| service x enterprise | 49% | 16% | 13% | 22% |
+| saas x slg | 36% | 9% | 6% | 48% |
+| saas x enterprise | 33% | 13% | 20% | 33% |
+| product x enterprise | 30% | 17% | 13% | 38% |
+| product x slg | 29% | 8% | **29%** | 35% |
+| saas x pls | 29% | 7% | 14% | 50% |
+| saas x plg | 23% | 4% | 7% | 61% |
+| product x plg | 15% | 13% | 2% | 69% |
+
+**Non-buying content is 45% of the whole corpus** — events, launches, culture,
+hiring, CSR. If your calendar is 100% buying jobs you have built something no
+company in the sample publishes, and the slots you have not planned will get
+filled reactively by whoever has a conference next week.
+
+**Who signs splits behaviour harder than what you sell.** Practitioner-buyer pages
+are 60% non-buying; procurement-buyer pages are 32%. That gap is wider than the gap
+between any two offerings. Read the buyer off the profile before the offering.
+
+**TOFU is still the only tier that reaches non-followers**, which is why small
+accounts lean on it harder than the table suggests. Audience size moves you along
+the TOFU axis; the cell tells you the shape of what is left.
+
+## Do not let engagement set the mix
+
+The same corpus, scored against each company's own median:
+
+| | Engagement | |
+|---|---:|---|
+| selection — awards, funding, customer counts | **1.59x** | |
+| culture | 1.32x | |
+| product news | 1.20x | |
+| validation | 1.00x | |
+| exploration | 0.95x | |
+| consensus — ROI, security, procurement | **0.80x** | |
+| problem | **0.77x** | |
+| requirements — comparisons, buyer's guides | **0.68x** | |
+
+**The three worst-performing categories are the three an active evaluation needs.**
+A calendar tuned on engagement converges on trophies and team photos. This is
+exactly why Gate, Lift and Fit are scored separately and never blended — Lift ranks
+that table almost perfectly upside down from Fit.
+
+And note what is scarce: **requirements and consensus together are 5.1% of
+everything those 46 companies published.** The middle and the end of the funnel are
+an industry-wide hole. Do not aim at the median there.
 
 ## Narrowing the message means MORE posts per pain, not fewer
 
@@ -109,6 +153,19 @@ Count how many posts each template family actually serves before investing in it
 On the original project six of seven card layouts served 19% of the calendar while
 the carousel — 74% — ran on two slide layouts. A seventh card layout would have
 changed two or three posts; a second carousel slide type changes sixty.
+
+**And check what you are not using at all.** In the measured corpus, multi-image
+posts earn **1.58x** their company's median — the best of any format — and are
+**7.1%** of what gets published. Ten of the 46 companies published none. Where
+carousels do get used they carry team photos (2.38x), while `requirements`, the
+worst-performing category, ships as a **link post 34%** of the time and a carousel
+**2%** of the time.
+
+**The comparison table that belongs in a carousel is being posted as a link to a
+blog.** Link posts are the worst-performing format in the dataset (0.75x). If a
+calendar puts decision-stage content behind a link, that is the first thing to fix.
+
+Length is close to noise by comparison: 0.91x to 1.08x across every word band.
 
 ## A caveat worth carrying
 

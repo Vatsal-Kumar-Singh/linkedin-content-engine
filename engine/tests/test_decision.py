@@ -550,3 +550,53 @@ class TestCompanyType(unittest.TestCase):
                                                         "motion": "enterprise"}})
         for v in imp.values():
             self.assertNotIsInstance(v, float)
+    # --- the buyer axis ------------------------------------------------------------------------
+    # Added because the measured corpus (docs/BENCHMARKS.md) shows buyer type splits publishing
+    # behaviour harder than offering, motion or stage: 60% non-buying for practitioner pages
+    # against 32% for procurement. It is optional so that profiles written before it keep working.
+
+    def test_buyer_is_optional_and_its_absence_is_reported(self):
+        ct = self._ct()
+        out = ct.implications({"company_type": {"offering": "saas", "motion": "plg"}})
+        self.assertTrue(out["declared"], "a missing buyer must not invalidate the reading")
+        self.assertIsNone(out["buyer"])
+        self.assertTrue(any("buyer is undeclared" in n for n in out["notes"]),
+                        "an undeclared buyer should be called out, not passed over in silence")
+
+    def test_declared_buyer_produces_a_note_and_a_caution(self):
+        ct = self._ct()
+        out = ct.implications(
+            {"company_type": {"offering": "saas", "motion": "plg", "buyer": "practitioner"}})
+        self.assertEqual(out["buyer"], "practitioner")
+        self.assertTrue(any("who signs" in n for n in out["notes"]))
+        self.assertTrue(out["cautions"])
+
+    def test_every_buyer_in_the_vocabulary_has_rules(self):
+        ct = self._ct()
+        self.assertEqual(set(ct.BUYER_RULES), ct.BUYER,
+                         "a buyer the vocabulary accepts but has no rules for would read as "
+                         "'declared and implies nothing', which is worse than refusing it")
+        for name, rule in ct.BUYER_RULES.items():
+            for key in ("non_buying", "note", "caution"):
+                self.assertTrue(rule.get(key), "%s missing %s" % (name, key))
+
+    def test_a_misspelt_buyer_is_flagged_not_silently_ignored(self):
+        ct = self._ct()
+        out = ct.implications(
+            {"company_type": {"offering": "saas", "motion": "plg", "buyer": "praktitioner"}})
+        self.assertTrue(out["declared"], "an optional axis typo must not refuse the whole reading")
+        self.assertEqual(out["missing"], [],
+                         "`missing` means required-and-absent; an optional typo does not belong "
+                         "there or callers cannot tell a refusal from a nit")
+        self.assertTrue(any("not one of" in c for c in out["cautions"]),
+                        "a typo that fails silently is worse than an undeclared axis")
+
+    def test_buyer_rules_carry_no_score_multipliers(self):
+        ct = self._ct()
+        for name, rule in ct.BUYER_RULES.items():
+            self.assertNotIn("weight", rule)
+            self.assertNotIn("multiplier", rule)
+            self.assertIsInstance(rule["non_buying"], int,
+                                  "non_buying is a measured description of an industry, not a "
+                                  "target and not a coefficient")
+
