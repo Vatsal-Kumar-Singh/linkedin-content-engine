@@ -213,11 +213,114 @@ carousels most. Product companies are the most video-heavy (37%).
 length is close to noise. Longer is very slightly better, and anyone optimising word count before
 they have fixed their format mix is working on the wrong variable.
 
-## Volume
+## How the text is built
 
-Every cohort publishes at roughly the same rate — a median of **45 to 48 original posts** in the
-window, with no meaningful difference by offering, motion or stage. **Cadence is not where these
-companies differentiate.** What varies is what goes in the slots, not how many slots there are.
+Structural facts counted from the post — no judgement involved, so these are as reliable as the
+format numbers. "vs rest" compares posts with the trait against posts without it.
+
+| Trait | Share of posts | Engagement | vs rest |
+|---|---:|---:|---:|
+| quotes somebody | 8.6% | **1.18x** | **+18%** |
+| "link in comments" | 4.6% | **1.16x** | **+16%** |
+| opens on "we" or "our" | 10.3% | **1.13x** | **+13%** |
+| has a stat in the body | 24.8% | 1.05x | +5% |
+| explicit CTA verb | 27.4% | 1.03x | +3% |
+| addresses "you" anywhere | 48.8% | 1.00x | 0% |
+| uses emoji | 36.0% | 1.00x | 0% |
+| has hashtags | 23.4% | 1.00x | 0% |
+| bulleted or listed | 11.8% | 0.98x | -2% |
+| **opens on a question** | 7.3% | **0.82x** | **-18%** |
+
+**Four of these contradict advice you will have been given.**
+
+**Opening on a question is the worst-performing trait measured.** It is the single most commonly
+recommended LinkedIn hook and it runs 18% below posts that do not use it. A question asks the
+reader for work before giving them anything.
+
+**Hashtags do nothing. At all.** Zero hashtags, one to three, four to seven — every band sits at
+exactly 1.00x. **76.6% of this corpus uses none**, and the quarter that does gets nothing for it.
+
+**Emoji do nothing either** — 36% of posts use them, at 1.00x.
+
+**Talking about yourself is fine.** Posts opening on "we" or "our" run 13% *above* the rest, and
+posts addressing "you" run exactly level. The advice to write in second person and never lead with
+yourself is not visible in this data.
+
+Two things that do work and are barely used: **quoting somebody** (+18%, in 8.6% of posts) and
+putting the **link in the comments** (+16%, in 4.6%). The second is worth noting alongside the
+format table, where link posts are the worst format at 0.75x — the penalty is on the link *in the
+post*, and moving it to the comments appears to recover it.
+
+### The first line is the lever
+
+| First line | Share | Engagement |
+|---|---:|---:|
+| **1-6 words** | 12.2% | **1.19x** |
+| 7-14 words | 36.9% | 1.00x |
+| 15-25 words | 29.6% | 0.99x |
+| 26+ words | 21.3% | 1.00x |
+
+**A very short opening line is worth more than anything else in this table, and only 12% of posts
+use one.** Note the shape: it is not "shorter is better" — 7-14, 15-25 and 26+ are identical. It is
+a cliff at about six words. Everything past that is the same.
+
+Combined with the body-length finding, the picture is clear: **the first line matters and the rest
+of the length does not.**
+
+### Which patterns each buying job uses
+
+| Job | opens on ? | opens on a number | stat in body | says "you" | bulleted | link in comments |
+|---|---:|---:|---:|---:|---:|---:|
+| problem | 11% | 14% | 33% | 50% | 12% | 5% |
+| exploration | 10% | 4% | 17% | 46% | 11% | 5% |
+| requirements | **16%** | 3% | 14% | **62%** | 21% | 7% |
+| selection | 3% | 8% | **45%** | 27% | 5% | 3% |
+| validation | 8% | 7% | 41% | 21% | 13% | 3% |
+| consensus | 11% | 2% | 24% | 40% | 20% | 2% |
+
+`requirements` — already the worst-performing category at 0.68x — uses the worst-performing hook
+(question openers, 16%) more than any other job. It is being written in the least effective way
+available, on top of shipping as a link post a third of the time.
+
+## Cadence varies thirty-fold
+
+**An earlier version of this page said cadence does not differentiate these companies. That was
+wrong, and the way it was wrong is worth keeping.** The scrape caps at 50 posts per company, so
+*post counts* came out at a median of 45-48 for every cohort — and uniformity produced by a
+ceiling looks exactly like uniformity produced by behaviour. The cap was the finding.
+
+The measurable thing is the **span**: a company posting five times a week fills 50 slots in ten
+weeks, one posting weekly takes a year. On that measure:
+
+**Median 4.5 posts per week, range 0.7 to 20.6.** Rockwell Automation filled the 50-post cap in
+**two weeks**; RightHand Robotics took 41 weeks to publish 27.
+
+| | Median posts/week | Range |
+|---|---:|---|
+| **saas** | 6.0 | 1.2 - 15.9 |
+| product | 3.4 | 0.7 - 20.6 |
+| **service** | 2.5 | 0.7 - 9.2 |
+| **enterprise motion** | 6.0 | 0.7 - 20.6 |
+| plg | 4.9 | 1.0 - 15.6 |
+| pls | 4.5 | 3.6 - 9.0 |
+| **slg** | 3.1 | 0.7 - 9.8 |
+| **scaled** | 6.6 | 1.0 - 20.6 |
+| growth | 3.0 | 0.7 - 9.8 |
+| early | 2.8 | 1.0 - 12.2 |
+
+**Scaled companies publish more than twice as often as growth-stage ones**, and SaaS more than
+twice as often as service firms. Service firms publish least and, from the split tables above,
+publish the most buying-dense content when they do — fewer, heavier posts.
+
+**Publishing more does not appear to dilute.** Splitting the sample at the median cadence, both
+halves break out (double their own median) on exactly **19%** of posts. High-cadence companies are
+not paying for volume with flatter performance. That is a null result on one year of one sample,
+not a licence to post twenty times a week, but the dilution effect people assume is not visible
+here.
+
+**Day of week is close to noise**: Monday to Friday runs 0.98 to 1.02. Weekend volume is tiny and
+Sunday is the only day below 0.90. Day tables are usually content tables wearing a calendar —
+Monday is 21% events here — so a day ranking mostly tells you what people schedule when.
 
 ## When the page is not the channel
 

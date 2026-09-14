@@ -35,3 +35,4 @@ engine/posts/*/
 # and findings.json, which carries metadata and labels but no post text.
 research/raw/
 research/batches/
+research/raw_people/

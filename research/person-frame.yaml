@@ -1,0 +1,479 @@
+status: DRAFT
+purpose: Named people paired to company pages already in sample-frame.yaml, so the
+  person-versus-organisation channel split can be measured within company rather than
+  across two unrelated samples.
+tiers:
+  A: 'chosen by the companies themselves: reshared 2+ times by their own page'
+  B: looked up to fill the enterprise, service and industrial cells tier A misses,
+    because a founder-only sample confounds person with stage
+people:
+- slug: steventey
+  name: Steven Tey
+  company: Dub
+  company_slug: dubinc
+  tier: A
+  reshares: 34
+  offering: saas
+  motion: plg
+  stage: early
+  buyer: practitioner
+- slug: wololo
+  name: Charles C.
+  company: PostHog
+  company_slug: posthog
+  tier: A
+  reshares: 6
+  offering: saas
+  motion: pls
+  stage: growth
+  buyer: practitioner
+- slug: rajatbhageria
+  name: Rajat Bhageria
+  company: Chef Robotics
+  company_slug: chef-robotics
+  tier: A
+  reshares: 5
+  offering: product
+  motion: slg
+  stage: early
+  buyer: manager
+- slug: hanno-renner
+  name: Hanno Renner
+  company: Personio
+  company_slug: personio
+  tier: A
+  reshares: 5
+  offering: saas
+  motion: slg
+  stage: scaled
+  buyer: manager
+- slug: kellyhopping
+  name: Kelly Hopping
+  company: 6sense
+  company_slug: 6sense
+  tier: A
+  reshares: 3
+  offering: saas
+  motion: slg
+  stage: growth
+  buyer: manager
+- slug: samirmenon
+  name: Samir Menon
+  company: Dexterity
+  company_slug: dexterityinc
+  tier: A
+  reshares: 3
+  offering: product
+  motion: enterprise
+  stage: growth
+  buyer: exec
+- slug: welcome-read-231040169
+  name: Welcome Read
+  company: Kalungi
+  company_slug: kalungi
+  tier: A
+  reshares: 3
+  offering: service
+  motion: slg
+  stage: early
+  buyer: exec
+- slug: braison-murgai
+  name: Braison Murgai
+  company: Kalungi
+  company_slug: kalungi
+  tier: A
+  reshares: 3
+  offering: service
+  motion: slg
+  stage: early
+  buyer: exec
+- slug: adriesmith
+  name: Adrie Smith Ahmad
+  company: Personio
+  company_slug: personio
+  tier: A
+  reshares: 3
+  offering: saas
+  motion: slg
+  stage: scaled
+  buyer: manager
+- slug: rauchg
+  name: Guillermo Rauch
+  company: Vercel
+  company_slug: vercel
+  tier: A
+  reshares: 3
+  offering: saas
+  motion: pls
+  stage: growth
+  buyer: practitioner
+- slug: kev-dunn
+  name: Kevin Dunn, PMP®
+  company: Airtable
+  company_slug: airtable
+  tier: A
+  reshares: 2
+  offering: saas
+  motion: pls
+  stage: scaled
+  buyer: manager
+- slug: apatel13
+  name: Akshar (AP) Patel
+  company: Airtable
+  company_slug: airtable
+  tier: A
+  reshares: 2
+  offering: saas
+  motion: pls
+  stage: scaled
+  buyer: manager
+- slug: kenzofong
+  name: Kenzo Fong
+  company: Airtable
+  company_slug: airtable
+  tier: A
+  reshares: 2
+  offering: saas
+  motion: pls
+  stage: scaled
+  buyer: manager
+- slug: tarunsmehta
+  name: Tarun Mehta
+  company: Ather Energy
+  company_slug: ather-energy
+  tier: A
+  reshares: 2
+  offering: product
+  motion: plg
+  stage: growth
+  buyer: practitioner
+- slug: baileypumfleet
+  name: Bailey Pumfleet
+  company: Cal.com
+  company_slug: cal-com
+  tier: A
+  reshares: 2
+  offering: saas
+  motion: plg
+  stage: early
+  buyer: practitioner
+- slug: steve-cox-588a2024
+  name: Steve Cox
+  company: Clari
+  company_slug: clari
+  tier: A
+  reshares: 2
+  offering: saas
+  motion: slg
+  stage: growth
+  buyer: exec
+- slug: stephanie-c-30b12031
+  name: Stephanie C.
+  company: Dexterity
+  company_slug: dexterityinc
+  tier: A
+  reshares: 2
+  offering: product
+  motion: enterprise
+  stage: growth
+  buyer: exec
+- slug: isaiahstudivent
+  name: Isaiah Studivent
+  company: Directive Consulting
+  company_slug: directive-consulting
+  tier: A
+  reshares: 2
+  offering: service
+  motion: slg
+  stage: growth
+  buyer: manager
+- slug: praveer-melwani
+  name: Praveer Melwani
+  company: Figma
+  company_slug: figma
+  tier: A
+  reshares: 2
+  offering: saas
+  motion: plg
+  stage: scaled
+  buyer: practitioner
+- slug: crisscubero
+  name: Cris S. Cubero
+  company: Kalungi
+  company_slug: kalungi
+  tier: A
+  reshares: 2
+  offering: service
+  motion: slg
+  stage: early
+  buyer: exec
+- slug: xavier-uzcategui-4714b358
+  name: Xavier Uzcategui
+  company: Kalungi
+  company_slug: kalungi
+  tier: A
+  reshares: 2
+  offering: service
+  motion: slg
+  stage: early
+  buyer: exec
+- slug: akothari
+  name: Akshay Kothari
+  company: Notion
+  company_slug: notionhq
+  tier: A
+  reshares: 2
+  offering: saas
+  motion: plg
+  stage: scaled
+  buyer: practitioner
+- slug: michaelqmcginley
+  name: Michael McGinley
+  company: Notion
+  company_slug: notionhq
+  tier: A
+  reshares: 2
+  offering: saas
+  motion: plg
+  stage: scaled
+  buyer: practitioner
+- slug: melodyskim
+  name: Melody Kim
+  company: Notion
+  company_slug: notionhq
+  tier: A
+  reshares: 2
+  offering: saas
+  motion: plg
+  stage: scaled
+  buyer: practitioner
+- slug: mitrasaab
+  name: Abhijit Mitra
+  company: Outreach
+  company_slug: outreach-saas
+  tier: A
+  reshares: 2
+  offering: saas
+  motion: slg
+  stage: scaled
+  buyer: exec
+- slug: thijsspeet
+  name: Thijs Speet
+  company: Personio
+  company_slug: personio
+  tier: A
+  reshares: 2
+  offering: saas
+  motion: slg
+  stage: scaled
+  buyer: manager
+- slug: markdeubel
+  name: Mark “Doobles” Deubel
+  company: PostHog
+  company_slug: posthog
+  tier: A
+  reshares: 2
+  offering: saas
+  motion: pls
+  stage: growth
+  buyer: practitioner
+- slug: fraser-hopper-26158056
+  name: Fraser Hopper
+  company: PostHog
+  company_slug: posthog
+  tier: A
+  reshares: 2
+  offering: saas
+  motion: pls
+  stage: growth
+  buyer: practitioner
+- slug: jon-su
+  name: Jon Su
+  company: PostHog
+  company_slug: posthog
+  tier: A
+  reshares: 2
+  offering: saas
+  motion: pls
+  stage: growth
+  buyer: practitioner
+- slug: peppesilletti
+  name: Giuseppe Silletti
+  company: PostHog
+  company_slug: posthog
+  tier: A
+  reshares: 2
+  offering: saas
+  motion: pls
+  stage: growth
+  buyer: practitioner
+- slug: josefprusa
+  name: Josef Průša
+  company: Prusa Research
+  company_slug: prusa3d
+  tier: A
+  reshares: 2
+  offering: product
+  motion: plg
+  stage: growth
+  buyer: practitioner
+- slug: jeff-geerling-086bb2a
+  name: Jeff Geerling
+  company: Raspberry Pi
+  company_slug: raspberrypi
+  tier: A
+  reshares: 2
+  offering: product
+  motion: plg
+  stage: scaled
+  buyer: practitioner
+- slug: matthewsciannella
+  name: 🤘 Matthew Sciannella
+  company: Refine Labs
+  company_slug: refine-labs
+  tier: A
+  reshares: 2
+  offering: service
+  motion: slg
+  stage: growth
+  buyer: exec
+- slug: jolawrie
+  name: John Lawrie
+  company: Veeva Systems
+  company_slug: veeva-systems
+  tier: A
+  reshares: 2
+  offering: saas
+  motion: enterprise
+  stage: scaled
+  buyer: procurement
+- slug: matt-farrell
+  name: Matt Farrell
+  company: Veeva Systems
+  company_slug: veeva-systems
+  tier: A
+  reshares: 2
+  offering: saas
+  motion: enterprise
+  stage: scaled
+  buyer: procurement
+- slug: tom-schwenger-030687
+  name: Tom Schwenger
+  company: Veeva Systems
+  company_slug: veeva-systems
+  tier: A
+  reshares: 2
+  offering: saas
+  motion: enterprise
+  stage: scaled
+  buyer: procurement
+- slug: rachellaycock
+  name: Rachel Laycock
+  company: Thoughtworks
+  company_slug: thoughtworks
+  tier: B
+  reshares: 0
+  offering: service
+  motion: enterprise
+  stage: scaled
+  buyer: exec
+- slug: brad-jackson-slalom
+  name: Brad Jackson
+  company: Slalom
+  company_slug: slalom-consulting
+  tier: B
+  reshares: 0
+  offering: service
+  motion: enterprise
+  stage: scaled
+  buyer: exec
+- slug: sridhar-ramaswamy
+  name: Sridhar Ramaswamy
+  company: Snowflake
+  company_slug: snowflake-computing
+  tier: B
+  reshares: 0
+  offering: saas
+  motion: enterprise
+  stage: scaled
+  buyer: exec
+- slug: alighodsi
+  name: Ali Ghodsi
+  company: Databricks
+  company_slug: databricks
+  tier: B
+  reshares: 0
+  offering: saas
+  motion: enterprise
+  stage: scaled
+  buyer: exec
+- slug: pgassner
+  name: Peter Gassner
+  company: Veeva Systems
+  company_slug: veeva-systems
+  tier: B
+  reshares: 0
+  offering: saas
+  motion: enterprise
+  stage: scaled
+  buyer: procurement
+- slug: rickfaulk
+  name: Rick Faulk
+  company: Locus Robotics
+  company_slug: locus-robotics
+  tier: B
+  reshares: 0
+  offering: product
+  motion: enterprise
+  stage: growth
+  buyer: exec
+- slug: manish-jha-999803183
+  name: Manish Jha
+  company: Addverb Technologies
+  company_slug: addverb
+  tier: B
+  reshares: 0
+  offering: product
+  motion: enterprise
+  stage: growth
+  buyer: exec
+- slug: peggyljohnson
+  name: Peggy Johnson
+  company: Agility Robotics
+  company_slug: agilityrobotics
+  tier: B
+  reshares: 0
+  offering: product
+  motion: enterprise
+  stage: early
+  buyer: exec
+- slug: james-isilay
+  name: 'James Isilay – Founder & CEO | Building '
+  company: Cognism
+  company_slug: cognism
+  tier: B
+  reshares: 0
+  offering: saas
+  motion: slg
+  stage: growth
+  buyer: manager
+- slug: amitbendov
+  name: Amit Bendov
+  company: Gong
+  company_slug: gong-io
+  tier: B
+  reshares: 0
+  offering: saas
+  motion: slg
+  stage: scaled
+  buyer: exec
+- slug: maxim-lobovsky
+  name: Maxim Lobovsky
+  company: Formlabs
+  company_slug: formlabs
+  tier: B
+  reshares: 0
+  offering: product
+  motion: slg
+  stage: growth
+  buyer: practitioner
